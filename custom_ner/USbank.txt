@@ -1,0 +1,452 @@
+Lets pay the bill with my credit card
+Pay using my checking account
+Pay with my savings account
+How much is the Total Energy bill?
+How much is the bill amount for Total Energy?
+Lets pay Barclays bill with my debit card
+Use debit card to pay Excel Energy bill
+Lets pay the bill with my savings account on 8
+Pay using my debit card on 3
+Pay with my checking account on 14
+Lets pay Total Energy bill with my debit card on 2
+Use savings account to pay Barclays bill on 23
+Lets pay the bill with my checking account on 26 Jan
+Pay using my savings account on 24 December
+Pay with my checking account on 3 September
+Lets pay Excel Energy bill with my credit card tomorrow October
+Use debit card to pay Excel Energy bill on 12 February
+Lets pay $490 with my debit card
+Pay $900 using my checking account
+Lets pay $10 for Verizon bill with my credit card
+Use credit card to pay $780 for Excel Energy bill
+Lets pay $170 on the bill with my savings account on 17
+Pay $900 using my savings account tomorrow
+Pay $260 with my credit card on 19
+Lets pay $740 for the Excel Energy bill with my savings account on 2
+Use credit card to pay $190 for the Excel Energy bill on 27
+Lets pay $700 on the bill with my debit card on 25 May
+Pay $410 using my savings account on 13 September
+Pay $810 with my debit card on 27 February
+Lets pay $400 for Barclays bill with my checking account on 9 November
+Use checking account to pay $990 for the Verizon bill on 9 Feb
+Set up recurring payment for Barclays bill with my savings account on 2 of every month
+Set up monthly payment for Barclays bill with my checking account on 4 of every month
+Pay with my debit card
+How much is the Barclays bill?
+How much is the bill amount for Excel Energy?
+Lets pay Excel Energy bill with my credit card
+Use debit card to pay Barclays bill
+Lets pay the bill with my debit card on 28
+Pay using my savings account on 15
+Pay with my debit card on 22
+Lets pay Verizon bill with my debit card on 6
+Use checking account to pay Verizon bill on 9
+Lets pay the bill with my checking account on 14 September
+Pay using my debit card on 17 Feb
+Pay with my credit card on 2 Feb
+Lets pay Barclays bill with my savings account on 21 October
+Use debit card to pay Excel Energy bill on 16 December
+Lets pay $50 with my checking account
+Pay $610 using my debit card
+Lets pay $1000 for Verizon bill with my checking account
+Use savings account to pay $110 for Barclays bill
+Lets pay $130 on the bill with my debit card on 19
+Pay $360 using my savings account on 28
+Pay $70 with my debit card on 9
+Lets pay $760 for the Excel Energy bill with my checking account tomorrow
+Use credit card to pay $960 for the Excel Energy bill on 1
+Lets pay $650 on the bill with my checking account on 27 October
+Pay $880 using my debit card on 6 Feb
+Pay $840 with my debit card on 27 August
+Lets pay $260 for Total Energy bill with my checking account on 20 July
+Use checking account to pay $280 for the Barclays bill on 2 December
+Set up recurring payment for Total Energy bill with my checking account on 25 of every month
+Set up monthly payment for Excel Energy bill with my credit card on 17 of every month
+Lets pay the bill with my debit card
+Pay using my credit card
+Pay with my checking account
+Lets pay Verizon bill with my savings account
+Use checking account to pay Barclays bill
+Lets pay the bill with my debit card on 18
+Pay using my savings account on 2
+Pay with my savings account tomorrow
+Lets pay Total Energy bill with my credit card on 14
+Use debit card to pay Total Energy bill on 20
+Lets pay the bill with my savings account on 26 June
+Pay using my savings account on 11 Feb
+Pay with my savings account on 12 August
+Lets pay Verizon bill with my savings account on 9 August
+Use savings account to pay Total Energy bill on 11 July
+Lets pay $250 with my debit card
+Pay $840 using my credit card
+Lets pay $650 for Excel Energy bill with my checking account
+Use credit card to pay $870 for Verizon bill
+Lets pay $920 on the bill with my savings account on 24
+Pay $230 using my debit card on 2
+Pay $750 with my debit card on 6
+Lets pay $90 for the Verizon bill with my checking account on 17
+Use credit card to pay $820 for the Total Energy bill on 14
+Lets pay $970 on the bill with my checking account tomorrow May
+Pay $930 using my checking account on 26 July
+Pay $700 with my debit card on 10 June
+Lets pay $450 for Barclays bill with my checking account on 21 August
+Use debit card to pay $620 for the Barclays bill on 8 Jan
+Set up recurring payment for Total Energy bill with my savings account today of every month
+Set up monthly payment for Excel Energy bill with my checking account on 2 of every month
+Lets pay the bill with my savings account
+How much is the Verizon bill?
+Lets pay Total Energy bill with my savings account
+Use credit card to pay Excel Energy bill
+Lets pay the bill with my savings account on 7
+Pay using my checking account on 12
+Pay with my credit card on 27
+Lets pay Excel Energy bill with my savings account on 5
+Use credit card to pay Total Energy bill today
+Lets pay the bill with my savings account on 20 September
+Pay using my savings account on 2 March
+Pay with my debit card on 18 February
+Lets pay Barclays bill with my savings account on 4 February
+Use savings account to pay Barclays bill on 4 Feb
+Lets pay $420 with my debit card
+Pay $950 using my checking account
+Lets pay $30 for Barclays bill with my savings account
+Use checking account to pay $620 for Excel Energy bill
+Lets pay $40 on the bill with my debit card on 9
+Pay $980 using my credit card on 27
+Pay $830 with my checking account on 16
+Lets pay $800 for the Total Energy bill with my savings account on 8
+Use debit card to pay $960 for the Verizon bill on 26
+Lets pay $690 on the bill with my credit card on 14 January
+Pay $700 using my debit card on 1 July
+Pay $980 with my checking account on 22 January
+Lets pay $980 for Excel Energy bill with my checking account on 5 December
+Use savings account to pay $930 for the Total Energy bill on 9 July
+Set up recurring payment for Total Energy bill with my savings account on 19 of every month
+Set up monthly payment for Verizon bill with my savings account today of every month
+Pay using my savings account
+How much is the Excel Energy bill?
+Lets pay Barclays bill with my savings account
+Use credit card to pay Barclays bill
+Lets pay the bill with my savings account on 25
+Pay using my debit card on 21
+Pay with my savings account on 3
+Lets pay the bill with my savings account tomorrow January
+Pay using my checking account on 24 Feb
+Pay with my debit card on 7 October
+Lets pay Total Energy bill with my checking account on 5 Jan
+Use savings account to pay Verizon bill on 12 October
+Lets pay $450 with my debit card
+Pay $760 using my checking account
+Lets pay $810 for Excel Energy bill with my debit card
+Use savings account to pay $130 for Excel Energy bill
+Lets pay $160 on the bill with my checking account on 25
+Pay $20 using my checking account tomorrow
+Pay $760 with my savings account on 2
+Lets pay $870 for the Barclays bill with my credit card today
+Use credit card to pay $50 for the Verizon bill on 3
+Lets pay $950 on the bill with my checking account on 10 February
+Pay $720 using my savings account on 21 May
+Pay $150 with my debit card on 20 June
+Lets pay $10 for Barclays bill with my debit card on 17 September
+Use checking account to pay $940 for the Barclays bill on 8 March
+Set up recurring payment for Barclays bill with my credit card on 26 of every month
+Set up monthly payment for Excel Energy bill with my credit card on 9 of every month
+How much is the bill amount for Verizon?
+Lets pay Total Energy bill with my credit card
+Use debit card to pay Total Energy bill
+Lets pay the bill with my debit card on 6
+Pay using my checking account on 16
+Pay with my checking account on 25
+Lets pay Total Energy bill with my debit card on 12
+Use debit card to pay Excel Energy bill on 5
+Lets pay the bill with my credit card on 15 February
+Pay using my checking account on 1 November
+Pay with my checking account on 3 December
+Lets pay Total Energy bill with my debit card on 23 January
+Use credit card to pay Barclays bill on 19 August
+Lets pay $160 with my savings account
+Pay $800 using my debit card
+Lets pay $490 for Total Energy bill with my debit card
+Use debit card to pay $580 for Total Energy bill
+Lets pay $220 on the bill with my checking account on 2
+Pay $940 using my checking account on 10
+Pay $770 with my checking account on 17
+Lets pay $180 for the Excel Energy bill with my savings account on 23
+Use checking account to pay $260 for the Barclays bill on 9
+Lets pay $690 on the bill with my checking account on 3 February
+Pay $740 using my debit card on 1 August
+Pay $470 with my checking account tomorrow November
+Lets pay $850 for Total Energy bill with my savings account on 4 May
+Use checking account to pay $680 for the Verizon bill on 15 January
+Set up recurring payment for Excel Energy bill with my savings account on 8 of every month
+Set up monthly payment for Excel Energy bill with my credit card on 27 of every month
+Use debit card to pay Verizon bill
+Lets pay the bill with my debit card on 20
+Pay using my savings account on 25
+Pay with my debit card on 14
+Lets pay Verizon bill with my credit card on 28
+Use credit card to pay Excel Energy bill on 10
+Lets pay the bill with my checking account on 5 May
+Pay using my savings account on 27 Jan
+Pay with my checking account on 26 May
+Lets pay Barclays bill with my debit card on 21 Jan
+Use savings account to pay Barclays bill on 17 August
+Lets pay $350 with my checking account
+Pay $350 using my credit card
+Lets pay $290 for Excel Energy bill with my debit card
+Use savings account to pay $590 for Barclays bill
+Lets pay $760 on the bill with my debit card on 21
+Pay $170 using my savings account on 10
+Pay $200 with my checking account on 21
+Lets pay $440 for the Total Energy bill with my checking account on 10
+Use credit card to pay $70 for the Barclays bill on 10
+Lets pay $640 on the bill with my savings account on 3 June
+Pay $350 using my credit card on 11 March
+Pay $430 with my debit card on 19 March
+Lets pay $430 for Total Energy bill with my debit card on 26 January
+Use checking account to pay $200 for the Total Energy bill on 14 Jan
+Set up recurring payment for Excel Energy bill with my savings account on 1 of every month
+Set up monthly payment for Verizon bill with my savings account on 25 of every month
+Pay with my credit card
+Lets pay Total Energy bill with my checking account
+Use savings account to pay Verizon bill
+Pay using my credit card tomorrow
+Pay with my savings account on 25
+Lets pay Total Energy bill with my debit card on 16
+Use savings account to pay Verizon bill today
+Lets pay the bill with my credit card on 12 March
+Pay using my checking account on 20 November
+Pay with my checking account on 12 Feb
+Lets pay Total Energy bill with my credit card on 1 September
+Use checking account to pay Total Energy bill on 13 August
+Lets pay $730 with my checking account
+Pay $560 using my debit card
+Lets pay $410 for Excel Energy bill with my debit card
+Use debit card to pay $520 for Barclays bill
+Lets pay $110 on the bill with my savings account on 27
+Pay $130 using my savings account on 23
+Pay $810 with my debit card on 25
+Lets pay $610 for the Verizon bill with my checking account on 12
+Use debit card to pay $340 for the Barclays bill on 1
+Lets pay $80 on the bill with my debit card on 22 April
+Pay $660 using my debit card on 13 September
+Pay $600 with my checking account on 4 July
+Lets pay $220 for Verizon bill with my checking account on 10 June
+Use debit card to pay $1000 for the Excel Energy bill on 20 February
+Set up recurring payment for Verizon bill with my credit card on 25 of every month
+Set up monthly payment for Verizon bill with my savings account on 14 of every month
+Pay using my debit card
+How much is the bill amount for Barclays?
+Lets pay the bill with my savings account on 2
+Pay using my savings account on 11
+Pay with my debit card on 12
+Lets pay Verizon bill with my checking account on 20
+Use checking account to pay Verizon bill tomorrow
+Lets pay the bill with my checking account on 18 August
+Pay using my checking account on 11 January
+Pay with my checking account on 4 Jan
+Lets pay Verizon bill with my checking account on 8 December
+Use savings account to pay Excel Energy bill on 15 March
+Lets pay $70 with my credit card
+Pay $340 using my checking account
+Lets pay $940 for Excel Energy bill with my credit card
+Use credit card to pay $660 for Total Energy bill
+Lets pay $320 on the bill with my checking account on 11
+Pay $200 using my checking account on 26
+Pay $540 with my checking account on 10
+Lets pay $750 for the Total Energy bill with my checking account on 3
+Use credit card to pay $740 for the Barclays bill on 27
+Lets pay $520 on the bill with my checking account on 8 October
+Pay $420 using my credit card on 12 April
+Pay $600 with my debit card on 10 March
+Lets pay $370 for Barclays bill with my credit card on 9 Jan
+Use savings account to pay $770 for the Verizon bill on 12 November
+Set up recurring payment for Barclays bill with my debit card on 10 of every month
+Set up monthly payment for Excel Energy bill with my credit card on 11 of every month
+Lets pay Excel Energy bill with my debit card
+Use savings account to pay Total Energy bill
+Lets pay the bill with my checking account on 23
+Pay using my debit card on 6
+Pay with my checking account on 1
+Lets pay Total Energy bill with my savings account on 5
+Use checking account to pay Total Energy bill on 15
+Lets pay the bill with my checking account on 14 August
+Pay using my debit card tomorrow July
+Pay with my debit card on 10 December
+Lets pay Total Energy bill with my checking account on 16 December
+Use debit card to pay Verizon bill on 19 June
+Pay $20 using my savings account
+Lets pay $220 for Barclays bill with my savings account
+Use debit card to pay $30 for Excel Energy bill
+Lets pay $450 on the bill with my checking account on 7
+Pay $560 using my savings account on 13
+Pay $340 with my credit card on 23
+Lets pay $100 for the Barclays bill with my credit card on 22
+Use savings account to pay $710 for the Total Energy bill on 4
+Lets pay $700 on the bill with my checking account on 10 December
+Pay $330 using my savings account on 22 January
+Pay $290 with my checking account on 11 September
+Lets pay $610 for Total Energy bill with my checking account on 10 December
+Use savings account to pay $420 for the Verizon bill tomorrow December
+Set up recurring payment for Verizon bill with my debit card on 8 of every month
+Set up monthly payment for Total Energy bill with my credit card on 16 of every month
+Lets pay the bill with my checking account
+Lets pay Barclays bill with my checking account
+Lets pay the bill with my debit card on 25
+Pay using my credit card today
+Pay with my debit card on 27
+Lets pay Verizon bill with my credit card on 7
+Use checking account to pay Total Energy bill on 3
+Lets pay the bill with my credit card on 26 April
+Pay using my debit card on 14 August
+Pay with my credit card on 15 December
+Lets pay Total Energy bill with my savings account on 19 July
+Use debit card to pay Total Energy bill today April
+Lets pay $940 with my credit card
+Pay $760 using my debit card
+Lets pay $690 for Excel Energy bill with my credit card
+Use credit card to pay $120 for Verizon bill
+Lets pay $130 on the bill with my credit card on 15
+Pay $260 using my checking account on 7
+Pay $460 with my checking account on 26
+Lets pay $370 for the Verizon bill with my credit card on 25
+Use savings account to pay $850 for the Barclays bill on 7
+Lets pay $690 on the bill with my debit card on 23 August
+Pay $800 using my credit card on 14 July
+Pay $190 with my checking account on 23 Feb
+Lets pay $490 for Verizon bill with my savings account on 14 November
+Use credit card to pay $510 for the Verizon bill on 24 April
+Set up recurring payment for Barclays bill with my credit card on 18 of every month
+Set up monthly payment for Excel Energy bill with my credit card on 18 of every month
+Lets pay the bill with my checking account on 17
+Pay using my credit card on 18
+Pay with my credit card on 3
+Lets pay Total Energy bill with my debit card on 23
+Use checking account to pay Barclays bill today
+Lets pay the bill with my checking account on 9 September
+Pay using my debit card on 22 December
+Pay with my savings account on 5 February
+Lets pay Barclays bill with my debit card on 13 January
+Use debit card to pay Total Energy bill on 27 January
+Lets pay $330 with my savings account
+Pay $550 using my checking account
+Lets pay $360 for Excel Energy bill with my credit card
+Use savings account to pay $340 for Barclays bill
+Lets pay $70 on the bill with my checking account on 25
+Pay $400 using my checking account on 3
+Pay $880 with my credit card on 18
+Lets pay $610 for the Excel Energy bill with my checking account on 15
+Use debit card to pay $340 for the Verizon bill on 26
+Lets pay $60 on the bill with my credit card tomorrow January
+Pay $270 using my debit card on 28 September
+Pay $980 with my credit card on 2 Jan
+Lets pay $320 for Total Energy bill with my checking account on 4 October
+Use checking account to pay $970 for the Verizon bill on 7 April
+Set up recurring payment for Total Energy bill with my savings account on 13 of every month
+Set up monthly payment for Excel Energy bill with my savings account on 18 of every month
+Lets pay Verizon bill with my checking account
+Lets pay the bill with my checking account on 7
+Pay using my checking account today
+Pay with my credit card on 16
+Lets pay Verizon bill with my debit card today
+Use credit card to pay Excel Energy bill on 7
+Lets pay the bill with my debit card on 5 May
+Pay using my checking account on 6 September
+Pay with my checking account on 27 Jan
+Lets pay Verizon bill with my debit card on 15 March
+Use credit card to pay Verizon bill today July
+Lets pay $170 with my debit card
+Pay $30 using my checking account
+Lets pay $700 for Verizon bill with my savings account
+Use debit card to pay $90 for Total Energy bill
+Lets pay $90 on the bill with my debit card on 13
+Pay $930 using my savings account on 20
+Pay $150 with my debit card on 6
+Lets pay $220 for the Barclays bill with my checking account on 2
+Use credit card to pay $550 for the Verizon bill tomorrow
+Lets pay $20 on the bill with my checking account on 28 November
+Pay $130 using my credit card on 20 August
+Pay $900 with my debit card today August
+Lets pay $480 for Barclays bill with my checking account on 27 Feb
+Use savings account to pay $550 for the Total Energy bill on 27 Jan
+Set up recurring payment for Total Energy bill with my credit card on 8 of every month
+Set up monthly payment for Verizon bill with my checking account on 9 of every month
+Lets pay the bill with my savings account on 14
+Pay using my debit card on 23
+Pay with my checking account on 28
+Lets pay Total Energy bill with my savings account on 22
+Use checking account to pay Total Energy bill on 13
+Lets pay the bill with my credit card on 26 Jan
+Pay using my debit card today August
+Pay with my credit card on 8 Feb
+Lets pay Verizon bill with my credit card on 27 February
+Use checking account to pay Verizon bill on 4 January
+Lets pay $540 with my savings account
+Pay $650 using my credit card
+Lets pay $550 for Excel Energy bill with my debit card
+Use savings account to pay $60 for Verizon bill
+Lets pay $700 on the bill with my credit card on 21
+Pay $150 using my credit card on 22
+Pay $10 with my checking account on 23
+Lets pay $40 for the Barclays bill with my checking account on 20
+Use checking account to pay $670 for the Barclays bill on 28
+Lets pay $810 on the bill with my credit card on 18 December
+Pay $120 using my debit card on 19 October
+Pay $780 with my savings account on 21 September
+Lets pay $500 for Excel Energy bill with my credit card on 21 February
+Use credit card to pay $240 for the Total Energy bill on 18 May
+Set up recurring payment for Verizon bill with my debit card on 13 of every month
+Set up monthly payment for Barclays bill with my savings account on 11 of every month
+Lets pay Excel Energy bill with my checking account
+Lets pay the bill with my credit card on 22
+Pay using my credit card on 6
+Pay with my checking account on 23
+Lets pay Barclays bill with my credit card on 25
+Use checking account to pay Barclays bill on 4
+Lets pay the bill with my debit card on 17 February
+Pay using my credit card on 18 June
+Pay with my checking account on 22 March
+Lets pay Excel Energy bill with my savings account on 1 November
+Use debit card to pay Excel Energy bill today February
+Lets pay $610 with my savings account
+Pay $320 using my savings account
+Lets pay $780 for Verizon bill with my checking account
+Use debit card to pay $450 for Excel Energy bill
+Lets pay $730 on the bill with my checking account on 27
+Pay $400 using my debit card on 19
+Pay $450 with my savings account on 22
+Lets pay $140 for the Excel Energy bill with my savings account on 5
+Use savings account to pay $670 for the Barclays bill on 6
+Lets pay $220 on the bill with my credit card on 11 May
+Pay $460 using my savings account on 16 May
+Pay $270 with my savings account on 3 Feb
+Lets pay $670 for Verizon bill with my checking account on 5 April
+Use debit card to pay $840 for the Total Energy bill on 27 April
+Set up recurring payment for Barclays bill with my savings account on 15 of every month
+Set up monthly payment for Total Energy bill with my checking account on 10 of every month
+Lets pay the bill with my credit card on 1
+Pay using my savings account on 9
+Pay with my savings account today
+Lets pay Excel Energy bill with my credit card on 22
+Use savings account to pay Barclays bill on 11
+Lets pay the bill with my savings account today March
+Pay using my savings account on 25 November
+Pay with my savings account on 6 Jan
+Lets pay Verizon bill with my savings account on 15 August
+Use debit card to pay Excel Energy bill on 17 January
+Lets pay $720 with my checking account
+Pay $930 using my debit card
+Lets pay $970 for Verizon bill with my debit card
+Use savings account to pay $160 for Total Energy bill
+Lets pay $320 on the bill with my credit card on 14
+Pay $400 using my debit card on 20
+Pay $760 with my credit card on 19
+Lets pay $790 for the Verizon bill with my checking account on 13
+Use checking account to pay $630 for the Excel Energy bill on 24
+Lets pay $390 on the bill with my debit card on 22 February
+Pay $300 using my credit card today August
+Pay $910 with my checking account on 9 March
+Lets pay $120 for Total Energy bill with my credit card on 24 November
+Use savings account to pay $620 for the Barclays bill on 12 July
+Set up recurring payment for Barclays bill with my credit card tomorrow of every month
+Set up monthly payment for Barclays bill with my savings account on 4 of every month
