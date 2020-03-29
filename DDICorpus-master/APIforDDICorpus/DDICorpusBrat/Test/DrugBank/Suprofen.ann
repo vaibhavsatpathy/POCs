@@ -1,0 +1,11 @@
+T1	DRUG 39 61	acetylcholine chloride
+T2	BRAND 63 70	Miochol
+T3	DRUG 76 85	carbachol
+T4	BRAND 87 96	Carboptic
+T5	BRAND 98 114	Isopto Carbachol
+T6	DRUG 144 152	suprofen
+R1	EFFECT Arg1:T1 Arg2:T6
+R2	EFFECT Arg1:T2 Arg2:T6
+R3	EFFECT Arg1:T3 Arg2:T6
+R4	EFFECT Arg1:T4 Arg2:T6
+R5	EFFECT Arg1:T5 Arg2:T6

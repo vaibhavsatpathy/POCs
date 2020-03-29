@@ -1,0 +1,42 @@
+T1	GROUP 0 16	5HT3 Antagonists
+T2	DRUG 90 101	apomorphine
+T3	DRUG 124 135	ondansetron
+T4	DRUG 160 171	apomorphine
+T5	GROUP 190 211	5HT3 antagonist class
+T6	DRUG 237 248	ondansetron
+T7	DRUG 250 261	granisetron
+T8	DRUG 263 273	dolasetron
+T9	DRUG 275 287	palonosetron
+T10	DRUG 293 302	alosetron
+T11	GROUP 325 352	Antihypertensive Medication
+T12	GROUP 358 370	Vasodilators
+T13	GROUP 466 494	antihypertensive medications
+T14	GROUP 498 510	vasodilators
+T15	GROUP 835 855	Dopamine Antagonists
+T16	DRUG 863 874	apomorphine
+T17	GROUP 880 896	dopamine agonist
+T18	GROUP 918 938	dopamine antagonists
+T19	GROUP 952 964	neuroleptics
+T20	GROUP 966 980	phenothiazines
+T21	GROUP 982 996	butyrophenones
+T22	GROUP 998 1011	thioxanthenes
+T23	DRUG 1016 1030	metoclopramide
+T24	BRAND 1066 1072	APOKYN
+T25	GROUP 1128 1140	neuroleptics
+T26	GROUP 1165 1182	dopamine agonists
+T27	DRUG 1316 1327	apomorphine
+T28	BRAND 1461 1467	APOKYN
+R1	EFFECT Arg1:T2 Arg2:T3
+R2	ADVISE Arg1:T4 Arg2:T5
+R3	ADVISE Arg1:T4 Arg2:T6
+R4	ADVISE Arg1:T4 Arg2:T7
+R5	ADVISE Arg1:T4 Arg2:T8
+R6	ADVISE Arg1:T4 Arg2:T9
+R7	ADVISE Arg1:T4 Arg2:T10
+R8	EFFECT Arg1:T13 Arg2:T14
+R9	EFFECT Arg1:T18 Arg2:T23
+R10	EFFECT Arg1:T20 Arg2:T24
+R11	EFFECT Arg1:T21 Arg2:T24
+R12	EFFECT Arg1:T22 Arg2:T24
+R13	EFFECT Arg1:T23 Arg2:T24
+R14	ADVISE Arg1:T25 Arg2:T26

@@ -1,0 +1,12 @@
+T1	DRUG 0 8	Warfarin
+T2	DRUG 40 50	daptomycin
+T3	DRUG 96 104	warfarin
+T4	GROUP 239 267	HMG-CoA Reductase Inhibitors
+T5	GROUP 269 300	Inhibitors of HMG-CoA reductase
+T6	DRUG 528 539	simvastatin
+T7	DRUG 579 589	daptomycin
+T8	GROUP 670 698	HMG-CoA reductase inhibitors
+T9	DRUG 703 711	Fentanyl
+T10	GROUP 808 836	HMG-CoA reductase inhibitors
+T11	DRUG 859 867	Fentanyl
+R1	ADVISE Arg1:T10 Arg2:T11

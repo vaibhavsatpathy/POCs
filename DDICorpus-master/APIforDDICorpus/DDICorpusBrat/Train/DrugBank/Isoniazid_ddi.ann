@@ -1,0 +1,50 @@
+T1	DRUG 6 15	Isoniazid
+T2	DRUG 101 110	isoniazid
+T3	DRUG 165 178	Acetaminophen
+T4	DRUG 199 212	acetaminophen
+T5	DRUG 258 267	Isoniazid
+T6	DRUG 371 380	isoniazid
+T7	DRUG 385 398	acetaminophen
+T8	DRUG 501 510	isoniazid
+T9	DRUG 666 675	isoniazid
+T10	DRUG 798 811	acetaminophen
+T11	DRUG 903 912	isoniazid
+T12	DRUG 962 975	Carbamazepine
+T13	DRUG 977 986	Isoniazid
+T14	DRUG 1022 1035	carbamazepine
+T15	DRUG 1066 1079	Carbamazepine
+T16	DRUG 1148 1157	isoniazid
+T17	DRUG 1181 1194	carbamazepine
+T18	GROUP 1274 1288	anticonvulsant
+T19	DRUG 1305 1317	Ketoconazole
+T20	DRUG 1344 1356	Ketoconazole
+T21	DRUG 1361 1370	Isoniazid
+T22	DRUG 1382 1391	Phenytoin
+T23	DRUG 1393 1402	Isoniazid
+T24	DRUG 1432 1441	phenytoin
+T25	DRUG 1452 1461	phenytoin
+T26	GROUP 1506 1520	anticonvulsant
+T27	DRUG 1611 1620	isoniazid
+T28	DRUG 1625 1637	theophylline
+T29	DRUG 1674 1686	theophylline
+T30	DRUG 1750 1759	isoniazid
+T31	DRUG 1792 1804	theophylline
+T32	DRUG 1815 1827	theophylline
+T33	DRUG 1908 1920	theophylline
+T34	DRUG 1937 1946	Valproate
+T35	DRUG 2021 2030	valproate
+T36	DRUG 2057 2066	isoniazid
+T37	DRUG 2075 2084	valproate
+T38	DRUG 2124 2133	isoniazid
+T39	DRUG 2138 2147	valproate
+T40	DRUG 2207 2216	valproate
+R1	EFFECT Arg1:T4 Arg2:T5
+R2	EFFECT Arg1:T6 Arg2:T7
+R3	MECHANISM Arg1:T9 Arg2:T10
+R4	MECHANISM Arg1:T13 Arg2:T14
+R5	ADVISE Arg1:T15 Arg2:T16
+R6	INT Arg1:T20 Arg2:T21
+R7	MECHANISM Arg1:T23 Arg2:T24
+R8	MECHANISM Arg1:T27 Arg2:T28
+R9	MECHANISM Arg1:T35 Arg2:T36
+R10	ADVISE Arg1:T38 Arg2:T39

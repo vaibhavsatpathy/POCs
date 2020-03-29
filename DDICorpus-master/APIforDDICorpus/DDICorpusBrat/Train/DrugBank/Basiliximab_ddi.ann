@@ -1,0 +1,22 @@
+T1	BRAND 37 45	Simulect
+T2	DRUG 102 114	cyclosporine
+T3	GROUP 116 131	corticosteroids
+T4	DRUG 144 156	azathioprine
+T5	DRUG 160 181	mycophenolate mofetil
+T6	BRAND 223 231	Simulect
+T7	BRAND 360 368	Simulect
+T8	DRUG 412 424	azathioprine
+T9	DRUG 429 450	mycophenolate mofetil
+T10	DRUG 504 516	cyclosporine
+T11	GROUP 537 552	corticosteroids
+T12	BRAND 591 599	Simulect
+T13	DRUG 636 648	azathioprine
+T14	DRUG 665 686	mycophenolate mofetil
+T15	BRAND 846 854	Simulect
+T16	DRUG 903 915	azathioprine
+T17	GROUP 917 932	corticosteroids
+T18	DRUG 934 946	cyclosporine
+T19	DRUG 948 969	mycophenolate mofetil
+T20	DRUG 975 988	muromonab-CD3
+R1	MECHANISM Arg1:T7 Arg2:T8
+R2	MECHANISM Arg1:T7 Arg2:T9

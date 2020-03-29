@@ -1,0 +1,20 @@
+T1	DRUG 0 8	Nabilone
+T2	GROUP 78 96	psychoactive drugs
+T3	GROUP 100 115	CNS depressants
+T4	DRUG 127 134	alcohol
+T5	GROUP 136 148	barbiturates
+T6	GROUP 153 172	narcotic analgesics
+T7	DRUG 281 289	Nabilone
+T8	DRUG 370 378	diazepam
+T9	BRAND 380 400	secobarbitone sodium
+T10	DRUG 402 409	alcohol
+T11	DRUG 413 420	codeine
+R1	ADVISE Arg1:T1 Arg2:T2
+R2	ADVISE Arg1:T1 Arg2:T3
+R3	ADVISE Arg1:T1 Arg2:T4
+R4	ADVISE Arg1:T1 Arg2:T5
+R5	ADVISE Arg1:T1 Arg2:T6
+R6	EFFECT Arg1:T7 Arg2:T8
+R7	EFFECT Arg1:T7 Arg2:T9
+R8	EFFECT Arg1:T7 Arg2:T10
+R9	EFFECT Arg1:T7 Arg2:T11

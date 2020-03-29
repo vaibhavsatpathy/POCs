@@ -1,0 +1,22 @@
+T1	GROUP 0 29	Catecholamine-depleting drugs
+T2	DRUG 39 48	reserpine
+T3	GROUP 94 114	beta-blocking agents
+T4	DRUG 138 148	acebutolol
+T5	GROUP 154 177	catecholamine depletors
+T6	GROUP 471 498	beta-adrenergic antagonists
+T7	GROUP 503 530	alpha-adrenergic stimulants
+T8	GROUP 640 653	beta-blockers
+T9	GROUP 740 773	beta-adrenoceptor blocking agents
+T10	GROUP 777 813	nonsteroidal anti-inflammatory drugs
+T11	DRUG 866 873	digoxin
+T12	DRUG 875 894	hydrochlorothiazide
+T13	DRUG 896 907	hydralazine
+T14	DRUG 909 923	sulfinpyrazone
+T15	GROUP 930 944	contraceptives
+T16	DRUG 946 957	tolbutamide
+T17	DRUG 962 970	warfarin
+R1	EFFECT Arg1:T1 Arg2:T3
+R2	EFFECT Arg1:T2 Arg2:T3
+R3	ADVISE Arg1:T4 Arg2:T5
+R4	EFFECT Arg1:T6 Arg2:T7
+R5	EFFECT Arg1:T9 Arg2:T10

@@ -1,0 +1,31 @@
+T1	GROUP 0 19	Anticholinesterases
+T2	DRUG 39 61	procaine hydrochloride
+T3	GROUP 66 91	anticholinesterase agents
+T4	GROUP 140 159	anticholinesterases
+T5	DRUG 185 207	procaine hydrochloride
+T6	DRUG 243 265	procaine hydrochloride
+T7	GROUP 544 558	CNS depressant
+T8	DRUG 590 612	procaine hydrochloride
+T9	GROUP 617 643	CNS depressant medications
+T10	DRUG 687 700	Hyaluronidase
+T11	DRUG 702 715	Hyaluronidase
+T12	DRUG 751 773	procaine hydrochloride
+T13	GROUP 853 882	Neuromuscular blocking agents
+T14	DRUG 892 914	suxamethonium chloride
+T15	DRUG 935 957	procaine hydrochloride
+T16	GROUP 962 991	neuromuscular blocking agents
+T17	GROUP 1065 1077	Sulfonamides
+T18	DRUG 1097 1119	procaine hydrochloride
+T19	GROUP 1124 1136	sulfonamides
+T20	GROUP 1198 1209	sulfonamide
+T21	DRUG 1211 1224	Acetazolamide
+T22	DRUG 1244 1257	acetazolamide
+T23	DRUG 1262 1284	procaine hydrochloride
+T24	DRUG 1320 1328	procaine
+R1	EFFECT Arg1:T2 Arg2:T3
+R2	MECHANISM Arg1:T4 Arg2:T5
+R3	EFFECT Arg1:T8 Arg2:T9
+R4	MECHANISM Arg1:T11 Arg2:T12
+R5	EFFECT Arg1:T15 Arg2:T16
+R6	EFFECT Arg1:T18 Arg2:T19
+R7	MECHANISM Arg1:T22 Arg2:T23

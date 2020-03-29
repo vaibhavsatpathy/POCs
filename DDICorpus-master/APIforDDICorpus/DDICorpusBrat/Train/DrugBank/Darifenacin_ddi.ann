@@ -1,0 +1,23 @@
+T1	BRAND 18 25	ENABLEX
+T2	DRUG 108 120	ketoconazole
+T3	DRUG 122 134	itraconazole
+T4	DRUG 136 145	ritonavir
+T5	DRUG 147 157	nelfinavir
+T6	DRUG 159 173	clarithromycin
+T7	BRAND 221 228	ENABLEX
+T8	DRUG 365 375	flecainide
+T9	DRUG 377 389	thioridazine
+T10	GROUP 394 419	tricyclic antidepressants
+T11	BRAND 472 479	ENABLEX
+T12	GROUP 491 513	anticholinergic agents
+T13	GROUP 651 673	Anticholinergic agents
+T14	DRUG 852 863	darifenacin
+R1	ADVISE Arg1:T1 Arg2:T2
+R2	ADVISE Arg1:T1 Arg2:T3
+R3	ADVISE Arg1:T1 Arg2:T4
+R4	ADVISE Arg1:T1 Arg2:T5
+R5	ADVISE Arg1:T1 Arg2:T6
+R6	ADVISE Arg1:T7 Arg2:T8
+R7	ADVISE Arg1:T7 Arg2:T9
+R8	ADVISE Arg1:T7 Arg2:T10
+R9	EFFECT Arg1:T11 Arg2:T12

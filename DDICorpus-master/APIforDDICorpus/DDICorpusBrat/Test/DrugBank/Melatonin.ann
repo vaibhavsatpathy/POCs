@@ -1,0 +1,27 @@
+T1	DRUG 0 9	Melatonin
+T2	BRAND 49 56	aspirin
+T3	GROUP 67 73	NSAIDs
+T4	DRUG 85 94	melatonin
+T5	DRUG 104 115	fluvoxamine
+T6	DRUG 141 150	melatonin
+T7	GROUP 188 201	beta blockers
+T8	DRUG 216 225	melatonin
+T9	DRUG 235 245	fluoxetine
+T10	GROUP 299 308	progestin
+T11	DRUG 330 339	melatonin
+T12	GROUP 345 354	progestin
+T13	GROUP 395 410	benzodiazepenes
+T14	GROUP 521 536	corticosteroids
+T15	DRUG 558 567	melatonin
+T16	GROUP 572 587	corticosteroids
+T17	GROUP 627 642	corticosteroids
+R1	INT Arg1:T1 Arg2:T2
+R2	INT Arg1:T1 Arg2:T3
+R3	INT Arg1:T1 Arg2:T5
+R4	INT Arg1:T1 Arg2:T7
+R5	INT Arg1:T1 Arg2:T9
+R6	INT Arg1:T1 Arg2:T10
+R7	INT Arg1:T1 Arg2:T13
+R8	INT Arg1:T1 Arg2:T14
+R9	EFFECT Arg1:T11 Arg2:T12
+R10	EFFECT Arg1:T15 Arg2:T16

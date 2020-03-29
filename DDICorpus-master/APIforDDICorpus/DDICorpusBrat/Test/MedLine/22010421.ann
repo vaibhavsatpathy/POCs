@@ -1,0 +1,13 @@
+T1	GROUP 1 10	Vitamin D
+T2	GROUP 55 64	vitamin D
+T3	GROUP 492 501	vitamin D
+T4	GROUP 755 774	antiepileptic drugs
+T5	BRAND 776 781	taxol
+T6	DRUG 783 793	rifampicin
+T7	GROUP 799 847	human immunodeficiency virus protease inhibitors
+T8	DRUG 856 865	ritonavir
+T9	DRUG 870 880	saquinavir
+T10	GROUP 938 947	vitamin D
+T11	GROUP 1016 1031	bisphosphonates
+T12	GROUP 1033 1040	statins
+T13	GROUP 1045 1061	cytostatic drugs

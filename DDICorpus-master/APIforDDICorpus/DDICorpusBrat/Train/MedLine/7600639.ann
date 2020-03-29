@@ -1,0 +1,22 @@
+T1	DRUG 10 19	estradiol
+T2	DRUG_N 23 32	endotoxin
+T3	DRUG 139 148	estradiol
+T4	DRUG_N 244 253	endotoxin
+T5	DRUG_N 319 328	endotoxin
+T6	DRUG 343 352	estradiol
+T7	DRUG_N 386 395	endotoxin
+T8	DRUG_N 459 468	endotoxin
+T9	DRUG 507 516	estradiol
+T10	DRUG_N 519 528	endotoxin
+T11	DRUG_N 579 588	endotoxin
+T12	DRUG 665 674	estradiol
+T13	DRUG_N 677 686	endotoxin
+T14	DRUG_N 745 754	endotoxin
+T15	DRUG 803 812	estradiol
+T16	DRUG_N 858 867	endotoxin
+T17	DRUG_N 982 991	endotoxin
+T18	GROUP 1131 1139	estrogen
+T19	GROUP 1178 1187	estrogens
+R1	EFFECT Arg1:T6 Arg2:T7
+R2	MECHANISM Arg1:T9 Arg2:T10
+R3	EFFECT Arg1:T15 Arg2:T16

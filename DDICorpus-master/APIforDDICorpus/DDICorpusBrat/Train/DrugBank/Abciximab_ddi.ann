@@ -1,0 +1,16 @@
+T1	DRUG 37 46	Abciximab
+T2	DRUG 72 81	Abciximab
+T3	DRUG 304 311	heparin
+T4	DRUG 313 321	warfarin
+T5	GROUP 323 356	beta-adrenergic receptor blockers
+T6	GROUP 358 385	calcium channel antagonists
+T7	GROUP 387 427	angiotensin converting enzyme inhibitors
+T8	GROUP 450 458	nitrates
+T9	DRUG 460 471	ticlopidine
+T10	BRAND 477 484	aspirin
+T11	DRUG 486 493	Heparin
+T12	GROUP 501 515	anticoagulants
+T13	GROUP 517 530	thrombolytics
+T14	GROUP 536 556	anti platelet agents
+T15	GROUP 700 710;726 747	diagnostic monoclonal antibodies
+T16	GROUP 714 747	therapeutic monoclonal antibodies

@@ -1,0 +1,5 @@
+T1	DRUG 122 130	loxapine
+T2	DRUG 135 144	lorazepam
+T3	DRUG 164 172	loxapine
+T4	DRUG 316 324	loxapine
+R1	EFFECT Arg1:T1 Arg2:T2

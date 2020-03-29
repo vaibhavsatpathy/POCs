@@ -1,0 +1,13 @@
+T1	GROUP 178 208	erection-supporting medication
+T2	GROUP 315 345	erection-supporting medication
+T3	DRUG 771 781	sildenafil
+T4	DRUG 783 793	Sildenafil
+T5	GROUP 831 851	long-acting nitrates
+T6	GROUP 875 896	short-acting nitrates
+T7	GROUP 1008 1030	beta-receptor blockers
+T8	GROUP 1032 1051	calcium antagonists
+T9	GROUP 1053 1061;1071 1080	thiazide diuretics
+T10	GROUP 1066 1080	loop diuretics
+T11	GROUP 1085 1099	ACE inhibitors
+R1	ADVISE Arg1:T4 Arg2:T5
+R2	ADVISE Arg1:T4 Arg2:T6

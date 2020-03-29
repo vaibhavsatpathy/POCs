@@ -1,0 +1,58 @@
+T1	DRUG 0 13	Nitroglycerin
+T2	BRAND 15 23	DynaCirc
+T3	DRUG 26 36	isradipine
+T4	DRUG 74 87	nitroglycerin
+T5	DRUG 89 108	Hydrochlorothiazide
+T6	BRAND 192 200	DynaCirc
+T7	DRUG 203 213	isradipine
+T8	DRUG 219 238	hydrochlorothiazide
+T9	DRUG 348 358	isradipine
+T10	DRUG 371 390	hydrochlorothiazide
+T11	DRUG 453 463	isradipine
+T12	DRUG 507 518	Propranolol
+T13	DRUG 585 596	propranolol
+T14	DRUG 659 669	isradipine
+T15	DRUG 768 779	propranolol
+T16	DRUG 857 867	isradipine
+T17	DRUG 885 896	propranolol
+T18	DRUG 1050 1060	isradipine
+T19	DRUG 1098 1109	propranolol
+T20	DRUG 1123 1134	propranolol
+T21	DRUG 1172 1182	isradipine
+T22	DRUG 1184 1194	Cimetidine
+T23	DRUG 1251 1261	cimetidine
+T24	DRUG 1306 1316	isradipine
+T25	DRUG 1356 1366	isradipine
+T26	DRUG 1464 1474	isradipine
+T27	DRUG 1529 1539	cimetidine
+T28	DRUG 1638 1648	Rifampicin
+T29	DRUG 1704 1714	rifampicin
+T30	DRUG 1763 1773	isradipine
+T31	DRUG 1801 1811	isradipine
+T32	DRUG 1850 1860	rifampicin
+T33	DRUG 1882 1892	isradipine
+T34	DRUG 2044 2054	isradipine
+T35	DRUG 2056 2064	Warfarin
+T36	DRUG 2178 2188	isradipine
+T37	DRUG 2201 2209	warfarin
+T38	DRUG 2249 2257	warfarin
+T39	DRUG 2358 2368	isradipine
+T40	DRUG 2386 2394	warfarin
+T41	DRUG 2399 2409	isradipine
+T42	DRUG 2493 2500	Digoxin
+T43	BRAND 2536 2544	DynaCirc
+T44	DRUG 2547 2557	isradipine
+T45	DRUG 2563 2570	digoxin
+T46	DRUG 2669 2676	digoxin
+T47	DRUG 2678 2686	Fentanyl
+T48	DRUG 2743 2751	fentanyl
+T49	GROUP 2789 2801	beta blocker
+T50	GROUP 2808 2831	calcium channel blocker
+T51	BRAND 2907 2915	DynaCirc
+T52	DRUG 2918 2928	isradipine
+R1	MECHANISM Arg1:T23 Arg2:T24
+R2	ADVISE Arg1:T26 Arg2:T27
+R3	MECHANISM Arg1:T29 Arg2:T30
+R4	MECHANISM Arg1:T32 Arg2:T33
+R5	EFFECT Arg1:T48 Arg2:T49
+R6	EFFECT Arg1:T48 Arg2:T50

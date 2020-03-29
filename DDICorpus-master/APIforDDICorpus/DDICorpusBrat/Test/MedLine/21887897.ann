@@ -1,0 +1,10 @@
+T1	GROUP 28 45	psychotropic drug
+T2	DRUG 90 98	etizolam
+T3	DRUG 100 113	phenobarbital
+T4	DRUG 115 127	promethazine
+T5	DRUG 132 146	chlorpromazine
+T6	DRUG 231 239	etizolam
+T7	DRUG 241 254	phenobarbital
+T8	DRUG 256 268	promethazine
+T9	DRUG 273 287	chlorpromazine
+T10	GROUP 537 555	psychotropic drugs

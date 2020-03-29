@@ -1,0 +1,7 @@
+T1	DRUG 292 303	idoxuridine
+T2	DRUG 427 437	boric acid
+T3	DRUG 439 449	Boric acid
+T4	DRUG 472 483	idoxuridine
+T5	DRUG 576 587	idoxuridine
+R1	ADVISE Arg1:T1 Arg2:T2
+R2	MECHANISM Arg1:T3 Arg2:T4

@@ -1,0 +1,27 @@
+T1	DRUG 15 25	gentamycin
+T2	DRUG 30 40	atracurium
+T3	DRUG 167 177	atracurium
+T4	DRUG 218 227	halothane
+T5	DRUG 240 250	atracurium
+T6	DRUG 311 321	Atracurium
+T7	DRUG 402 412	gentamycin
+T8	DRUG 436 446	Atracurium
+T9	DRUG 560 570	Gentamycin
+T10	DRUG 706 716	gentamycin
+T11	DRUG 825 835	atracurium
+T12	DRUG 867 877	atracurium
+T13	DRUG 883 893	gentamycin
+T14	DRUG 978 988	atracurium
+T15	DRUG 1020 1030	atracurium
+T16	DRUG 1036 1046	gentamycin
+T17	DRUG 1103 1113	atracurium
+T18	DRUG 1138 1148	atracurium
+T19	DRUG 1154 1164	gentamycin
+T20	DRUG 1193 1204	edrophonium
+T21	DRUG 1309 1319	gentamycin
+T22	DRUG 1362 1372	atracurium
+R1	INT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T12 Arg2:T13
+R3	EFFECT Arg1:T15 Arg2:T16
+R4	EFFECT Arg1:T18 Arg2:T19
+R5	EFFECT Arg1:T21 Arg2:T22

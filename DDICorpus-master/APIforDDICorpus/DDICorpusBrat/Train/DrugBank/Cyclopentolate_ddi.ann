@@ -1,0 +1,6 @@
+T1	DRUG 0 14	Cyclopentolate
+T2	DRUG 62 71	carbachol
+T3	DRUG 75 86	pilocarpine
+T4	GROUP 194 219	cholinesterase inhibitors
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T1 Arg2:T3

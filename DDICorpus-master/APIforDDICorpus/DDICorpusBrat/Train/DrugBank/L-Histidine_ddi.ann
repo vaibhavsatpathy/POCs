@@ -1,0 +1,11 @@
+T1	DRUG 0 27	Medroxyprogesterone Acetate
+T2	DRUG 30 41	L-histidine
+T3	DRUG 100 127	medroxyprogesterone acetate
+T4	GROUP 206 208;216 224	H1 Blockers
+T5	GROUP 213 224	H2 Blockers
+T6	DRUG 250 261	L-histidine
+T7	GROUP 327 329;337 345	H1 blockers
+T8	GROUP 334 345	H2 blockers
+R1	EFFECT Arg1:T2 Arg2:T3
+R2	EFFECT Arg1:T6 Arg2:T7
+R3	EFFECT Arg1:T6 Arg2:T8

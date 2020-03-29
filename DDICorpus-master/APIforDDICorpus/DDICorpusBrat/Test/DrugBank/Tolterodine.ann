@@ -1,0 +1,23 @@
+T1	DRUG 19 31	Ketoconazole
+T2	DRUG 135 146	tolterodine
+T3	DRUG 312 324	ketoconazole
+T4	GROUP 373 390	azole antifungals
+T5	DRUG 396 408	itraconazole
+T6	DRUG 410 420	miconazole
+T7	GROUP 425 446	macrolide antibiotics
+T8	DRUG 452 464	erythromycin
+T9	DRUG 466 480	clarithromycin
+T10	DRUG 485 497	cyclosporine
+T11	DRUG 501 512	vinblastine
+T12	BRAND 538 547	DETROL LA
+T13	DRUG 618 629	tolterodine
+R1	MECHANISM Arg1:T1 Arg2:T2
+R2	ADVISE Arg1:T3 Arg2:T12
+R3	ADVISE Arg1:T4 Arg2:T12
+R4	ADVISE Arg1:T5 Arg2:T12
+R5	ADVISE Arg1:T6 Arg2:T12
+R6	ADVISE Arg1:T7 Arg2:T12
+R7	ADVISE Arg1:T8 Arg2:T12
+R8	ADVISE Arg1:T9 Arg2:T12
+R9	ADVISE Arg1:T10 Arg2:T12
+R10	ADVISE Arg1:T11 Arg2:T12

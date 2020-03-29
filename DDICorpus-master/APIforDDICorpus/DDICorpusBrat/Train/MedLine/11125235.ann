@@ -1,0 +1,20 @@
+T1	DRUG 15 24	verapamil
+T2	DRUG_N 28 36	bombesin
+T3	DRUG_N 109 121	azoxymethane
+T4	DRUG_N 192 200	bombesin
+T5	DRUG 205 228	verapamil hydrochloride
+T6	DRUG 230 239	verapamil
+T7	GROUP 244 267	calcium channel blocker
+T8	DRUG_N 352 364	azoxymethane
+T9	DRUG_N 366 369	AOM
+T10	DRUG_N 555 558	AOM
+T11	DRUG_N 614 622	bombesin
+T12	DRUG 715 724	verapamil
+T13	DRUG_N 823 831	Bombesin
+T14	DRUG 941 950	verapamil
+T15	DRUG_N 1054 1062	bombesin
+T16	DRUG 1261 1270	Verapamil
+T17	DRUG_N 1378 1386	bombesin
+T18	DRUG 1429 1438	verapamil
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T16 Arg2:T17

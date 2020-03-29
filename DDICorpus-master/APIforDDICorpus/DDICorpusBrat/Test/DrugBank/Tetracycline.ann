@@ -1,0 +1,13 @@
+T1	GROUP 41 49	Antacids
+T2	DRUG 51 58	Calcium
+T3	DRUG 72 86	Cholestyramine
+T4	DRUG 88 95;110 120	Choline salicylate
+T5	DRUG 100 120	magnesium salicylate
+T6	DRUG 123 133	Colestipol
+T7	DRUG 135 139	Iron
+T8	GROUP 158 167	Laxatives
+T9	DRUG 169 189	Magnesium salicylate
+T10	GROUP 231 244	tetracyclines
+T11	GROUP 251 265	contraceptives
+T12	DRUG 277 285	estrogen
+T13	GROUP 287 300	tetracyclines

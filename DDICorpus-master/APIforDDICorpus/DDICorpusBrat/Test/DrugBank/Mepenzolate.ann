@@ -1,0 +1,46 @@
+T1	GROUP 69 90	anticholinergic drugs
+T2	DRUG 92 102	amantadine
+T3	GROUP 104 136	antiarrhythmic agents of class I
+T4	DRUG 144 153	quinidine
+T5	GROUP 156 170	antihistamines
+T6	GROUP 172 192	antipsychotic agents
+T7	GROUP 200 214	phenothiazines
+T8	GROUP 217 232	benzodiazepines
+T9	GROUP 234 248	MAO inhibitors
+T10	GROUP 250 269	narcotic analgesics
+T11	DRUG 277 287	meperidine
+T12	GROUP 290 298	nitrates
+T13	GROUP 303 311	nitrites
+T14	GROUP 313 335	sympathomimetic agents
+T15	GROUP 337 362	tricyclic antidepressants
+T16	GROUP 413 429	Anticholinergics
+T17	GROUP 456 475	antiglaucoma agents
+T18	GROUP 477 498	Anticholinergic drugs
+T19	GROUP 610 625	corticosteroids
+T20	GROUP 627 649	Anticholinergic agents
+T21	DRUG 749 756	digoxin
+T22	DRUG 774 781	digoxin
+T23	GROUP 809 830	Anticholinergic drugs
+T24	DRUG 913 927	metoclopramide
+T25	GROUP 937 945	antacids
+T26	GROUP 983 1005	anticholinergic agents
+T27	GROUP 1084 1105	anticholinergic drugs
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T1 Arg2:T3
+R3	EFFECT Arg1:T1 Arg2:T4
+R4	EFFECT Arg1:T1 Arg2:T5
+R5	EFFECT Arg1:T1 Arg2:T6
+R6	EFFECT Arg1:T1 Arg2:T7
+R7	EFFECT Arg1:T1 Arg2:T8
+R8	EFFECT Arg1:T1 Arg2:T9
+R9	EFFECT Arg1:T1 Arg2:T10
+R10	EFFECT Arg1:T1 Arg2:T11
+R11	EFFECT Arg1:T1 Arg2:T12
+R12	EFFECT Arg1:T1 Arg2:T13
+R13	EFFECT Arg1:T1 Arg2:T14
+R14	EFFECT Arg1:T1 Arg2:T15
+R15	EFFECT Arg1:T16 Arg2:T17
+R16	EFFECT Arg1:T18 Arg2:T19
+R17	MECHANISM Arg1:T20 Arg2:T21
+R18	EFFECT Arg1:T23 Arg2:T24
+R19	MECHANISM Arg1:T25 Arg2:T26

@@ -1,0 +1,14 @@
+T1	DRUG 71 78	digoxin
+T2	GROUP 158 177	Anticholinesterases
+T3	DRUG 191 204	physostigmine
+T4	DRUG 207 217	lignocaine
+T5	DRUG 219 226	quinine
+T6	DRUG 228 240	procainamide
+T7	GROUP 369 380	anesthetics
+T8	GROUP 388 399	anesthetics
+T9	DRUG 405 414	lidocaine
+T10	DRUG 416 424	procaine
+T11	GROUP 426 439	beta-blockers
+T12	DRUG 441 455	metaclopramide
+T13	DRUG 457 474	lithium carbonate
+T14	DRUG 480 491	terbutaline

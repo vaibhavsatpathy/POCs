@@ -1,0 +1,48 @@
+T1	DRUG 36 46	amprenavir
+T2	DRUG 51 60	rifabutin
+T3	DRUG 64 72	rifampin
+T4	DRUG 183 193	amprenavir
+T5	DRUG 208 217	rifabutin
+T6	DRUG 221 229	rifampin
+T7	DRUG 410 420	amprenavir
+T8	DRUG 511 520	rifabutin
+T9	DRUG 560 568	rifampin
+T10	DRUG 628 638	amprenavir
+T11	DRUG 644 653	rifabutin
+T12	DRUG 689 699	amprenavir
+T13	DRUG 705 713	rifampin
+T14	DRUG 777 787	amprenavir
+T15	DRUG 789 798	rifabutin
+T16	DRUG 804 812	rifampin
+T17	DRUG_N 823 849	25-O-desacetyl metabolites
+T18	DRUG 908 917	Rifabutin
+T19	DRUG 947 957	amprenavir
+T20	DRUG 978 988	Amprenavir
+T21	DRUG 1067 1076	rifabutin
+T22	DRUG_N 1109 1132	25-O-desacetylrifabutin
+T23	DRUG 1147 1155	Rifampin
+T24	DRUG 1195 1205	amprenavir
+T25	DRUG 1218 1228	amprenavir
+T26	DRUG 1246 1254	rifampin
+T27	DRUG 1273 1283	Amprenavir
+T28	DRUG 1369 1378	rifabutin
+T29	DRUG 1383 1391	rifampin
+T30	DRUG 1443 1453	Amprenavir
+T31	DRUG 1459 1467	rifampin
+T32	DRUG 1488 1498	Amprenavir
+T33	DRUG 1504 1513	rifabutin
+T34	DRUG 1579 1587	Rifampin
+T35	DRUG 1634 1644	amprenavir
+T36	DRUG 1687 1697	Amprenavir
+T37	DRUG 1735 1744	rifabutin
+T38	DRUG_N 1749 1772	25-O-desacetylrifabutin
+T39	DRUG 1815 1825	Amprenavir
+T40	DRUG 1850 1858	rifampin
+T41	DRUG 1863 1872	rifabutin
+R1	MECHANISM Arg1:T20 Arg2:T21
+R2	MECHANISM Arg1:T20 Arg2:T22
+R3	MECHANISM Arg1:T23 Arg2:T24
+R4	EFFECT Arg1:T32 Arg2:T33
+R5	MECHANISM Arg1:T34 Arg2:T35
+R6	MECHANISM Arg1:T36 Arg2:T37
+R7	MECHANISM Arg1:T36 Arg2:T38

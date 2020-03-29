@@ -1,0 +1,14 @@
+T1	DRUG 81 92	scopolamine
+T2	DRUG 161 172	Scopolamine
+T3	GROUP 277 286	sedatives
+T4	GROUP 288 301	tranquilizers
+T5	DRUG 306 313	alcohol
+T6	GROUP 432 452	belladonna alkaloids
+T7	GROUP 454 468	antihistamines
+T8	DRUG 480 489	meclizine
+T9	GROUP 492 517	tricyclic antidepressants
+T10	GROUP 523 539	muscle relaxants
+T11	DRUG 570 581	Scopolamine
+R1	ADVISE Arg1:T2 Arg2:T3
+R2	ADVISE Arg1:T2 Arg2:T4
+R3	ADVISE Arg1:T2 Arg2:T5

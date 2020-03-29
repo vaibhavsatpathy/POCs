@@ -1,0 +1,119 @@
+T1	DRUG 436 449	levothyroxine
+T2	DRUG 458 478	Levothyroxine Sodium
+T3	DRUG 548 568	levothyroxine sodium
+T4	DRUG 602 619	aluminum hydoxide
+T5	DRUG 621 635	cholestyramine
+T6	DRUG 643 667	colestipol hydrochloride
+T7	DRUG 669 684	ferrous sulfate
+T8	DRUG 686 714	sodium polystyrene sulfonate
+T9	DRUG 754 764	sucralfate
+T10	DRUG 833 853	levothyroxine sodium
+T11	GROUP 935 944	androgens
+T12	GROUP 957 974	anabolic hormones
+T13	DRUG 976 988	asparaginase
+T14	DRUG 990 1000	clofibrate
+T15	GROUP 1002 1011	estrogens
+T16	GROUP 1016 1045	estrogen-containing compounds
+T17	DRUG 1047 1061	5-fluorouracil
+T18	DRUG 1063 1073	furosemide
+T19	GROUP 1075 1090	glucocorticoids
+T20	DRUG 1092 1109	meclofenamic acid
+T21	DRUG 1111 1125	mefenamic acid
+T22	DRUG 1127 1136	methadone
+T23	DRUG 1138 1150	perphenazine
+T24	DRUG 1152 1166	phenylbutazone
+T25	DRUG 1168 1177	phenytoin
+T26	GROUP 1179 1190	salicylates
+T27	DRUG 1192 1201	tamoxifen
+T28	DRUG 1431 1448	aminoglutethimide
+T29	DRUG 1450 1471	p-aminosalicylic acid
+T30	DRUG 1473 1483	amiodarone
+T31	GROUP 1485 1494	androgens
+T32	DRUG 1542 1553	thiocyanate
+T33	DRUG 1555 1566	perchlorate
+T34	DRUG 1568 1581	pertechnetate
+T35	GROUP 1584 1601	antithyroid drugs
+T36	GROUP 1603 1631	b-adrenergic blocking agents
+T37	DRUG 1633 1646	carbamazepine
+T38	DRUG 1648 1663	chloral hydrate
+T39	DRUG 1665 1673	diazepam
+T40	DRUG 1675 1683	dopamine
+T41	GROUP 1688 1705	dopamine agonists
+T42	DRUG 1707 1718	ethionamide
+T43	GROUP 1720 1735	glucocorticoids
+T44	DRUG 1737 1744	heparin
+T45	DRUG 1771 1778	insulin
+T46	GROUP 1814 1841	iodine-containing compounds
+T47	DRUG 1843 1851	levodopa
+T48	DRUG 1853 1863	lovastatin
+T49	DRUG 1865 1872	lithium
+T50	DRUG 1874 1890	6-mercaptopurine
+T51	DRUG 1892 1906	metoclopramide
+T52	DRUG 1908 1916	mitotane
+T53	DRUG 1918 1931	nitroprusside
+T54	DRUG 1933 1946	phenobarbital
+T55	DRUG 1948 1957	phenytoin
+T56	DRUG 1959 1969	resorcinol
+T57	DRUG 1971 1979	rifampin
+T58	GROUP 1981 2001	somatostatin analogs
+T59	GROUP 2003 2015	sulfonamides
+T60	GROUP 2017 2030	sulfonylureas
+T61	GROUP 2032 2050	thiazide diuretics
+T62	DRUG 2242 2252	Amiodarone
+T63	DRUG 2254 2264	Amiodarone
+T64	GROUP 2324 2338	Anticoagulants
+T65	GROUP 2381 2395	anticoagulants
+T66	GROUP 2492 2511	Antidiabetic Agents
+T67	DRUG 2513 2520	Insulin
+T68	GROUP 2522 2535	Sulfonylureas
+T69	DRUG 2555 2562	insulin
+T70	GROUP 2571 2590	antidiabetic agents
+T71	GROUP 2743 2771	b-Adrenergic Blocking Agents
+T72	GROUP 2792 2812	beta-blocking agents
+T73	GROUP 2873 2882	Cytokines
+T74	GROUP 2884 2894	interferon
+T75	GROUP 2896 2907	interleukin
+T76	GROUP 2910 2919	Cytokines
+T77	GROUP 2990 3010	Digitalis Glycosides
+T78	GROUP 3035 3055	digitalis glycosides
+T79	GROUP 3078 3087	digitalis
+T80	DRUG 3180 3188	Ketamine
+T81	DRUG 3295 3315	levothyroxine sodium
+T82	DRUG 3320 3328	ketamine
+T83	DRUG 3330 3341	Maprotiline
+T84	DRUG 3385 3398	Sodium Iodide
+T85	DRUG 3416 3442	Sodium Pertechnetate Tc99m
+T86	DRUG 3490 3498	Somatrem
+T87	DRUG 3499 3509	Somatropin
+T88	GROUP 3539 3554	thyroid hormone
+T89	DRUG 3657 3665	somatrem
+T90	DRUG 3669 3679	somatropin
+T91	DRUG 3681 3693	Theophylline
+T92	DRUG 3695 3707	Theophylline
+T93	GROUP 3816 3841	Tricyclic Antidepressants
+T94	GROUP 3992 4002	tricyclics
+T95	GROUP 4023 4045	Sympathomimetic Agents
+R1	MECHANISM Arg1:T3 Arg2:T4
+R2	MECHANISM Arg1:T3 Arg2:T5
+R3	MECHANISM Arg1:T3 Arg2:T6
+R4	MECHANISM Arg1:T3 Arg2:T7
+R5	MECHANISM Arg1:T3 Arg2:T8
+R6	MECHANISM Arg1:T3 Arg2:T9
+R7	MECHANISM Arg1:T10 Arg2:T11
+R8	MECHANISM Arg1:T10 Arg2:T12
+R9	MECHANISM Arg1:T10 Arg2:T13
+R10	MECHANISM Arg1:T10 Arg2:T14
+R11	MECHANISM Arg1:T10 Arg2:T15
+R12	MECHANISM Arg1:T10 Arg2:T16
+R13	MECHANISM Arg1:T10 Arg2:T17
+R14	MECHANISM Arg1:T10 Arg2:T18
+R15	MECHANISM Arg1:T10 Arg2:T19
+R16	MECHANISM Arg1:T10 Arg2:T20
+R17	MECHANISM Arg1:T10 Arg2:T21
+R18	MECHANISM Arg1:T10 Arg2:T22
+R19	MECHANISM Arg1:T10 Arg2:T23
+R20	MECHANISM Arg1:T10 Arg2:T24
+R21	MECHANISM Arg1:T10 Arg2:T25
+R22	MECHANISM Arg1:T10 Arg2:T26
+R23	MECHANISM Arg1:T10 Arg2:T27
+R24	EFFECT Arg1:T81 Arg2:T82

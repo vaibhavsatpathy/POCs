@@ -1,0 +1,14 @@
+T1	GROUP 77 101	avian influenza vaccines
+T2	DRUG_N 128 158	ginseng stem-and-leaf saponins
+T3	DRUG_N 337 367	ginseng stem-and-leaf saponins
+T4	DRUG_N 369 373	GSLS
+T5	DRUG 422 436;444 452	inactivated ND vaccines
+T6	DRUG 422 433;441 443;444 452	inactivated AI vaccines
+T7	DRUG_N 494 498	GSLS
+T8	DRUG 599 621	inactivated ND vaccine
+T9	DRUG_N 657 661	GSLS
+T10	DRUG_N 779 783	GSLS
+T11	DRUG 829 852	inactivated AI vaccines
+T12	DRUG_N 957 961	GSLS
+T13	DRUG_N 1027 1031	GSLS
+R1	EFFECT Arg1:T10 Arg2:T11

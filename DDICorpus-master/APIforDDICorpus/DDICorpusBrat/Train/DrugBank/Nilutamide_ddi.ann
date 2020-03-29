@@ -1,0 +1,9 @@
+T1	DRUG 10 20	nilutamide
+T2	GROUP 235 256	vitamin K antagonists
+T3	DRUG 258 267	phenytoin
+T4	DRUG 273 285	theophylline
+T5	DRUG 515 525	nilutamide
+T6	GROUP 545 566	vitamin K antagonists
+T7	DRUG 603 613	nilutamide
+T8	GROUP 694 715	vitamin K antagonists
+R1	ADVISE Arg1:T6 Arg2:T7

@@ -1,0 +1,19 @@
+T1	GROUP 90 99	digitalis
+T2	GROUP 194 202	steroids
+T3	DRUG 206 210	ACTH
+T4	DRUG 212 219	Insulin
+T5	GROUP 297 306	Thiazides
+T6	DRUG 347 361	norepinephrine
+T7	GROUP 465 479	Thiazide drugs
+T8	DRUG 515 527	tubocurarine
+T9	DRUG 529 536	Lithium
+T10	GROUP 567 576	thiazides
+T11	DRUG 601 608	lithium
+T12	GROUP 619 628	Thiazides
+T13	GROUP 674 696	antihypertensive drugs
+T14	GROUP 723 733;748 773	ganglionic adrenergic blocking drugs
+T15	GROUP 737 773	peripheral adrenergic blocking drugs
+R1	EFFECT Arg1:T5 Arg2:T6
+R2	EFFECT Arg1:T7 Arg2:T8
+R3	MECHANISM Arg1:T9 Arg2:T10
+R4	EFFECT Arg1:T12 Arg2:T13

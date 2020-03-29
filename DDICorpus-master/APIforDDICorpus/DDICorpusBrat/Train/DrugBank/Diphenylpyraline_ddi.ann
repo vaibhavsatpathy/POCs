@@ -1,0 +1,8 @@
+T1	DRUG 28 35	alcohol
+T2	GROUP 45 60	CNS depressants
+T3	GROUP 135 149	antihistamines
+T4	GROUP 152 168	anticholinergics
+T5	GROUP 314 328	antihistamines
+T6	GROUP 335 369	monoamine oxidase (MAO) inhibitors
+T7	DRUG 391 405	antihistamines
+T8	DRUG 482 496	antihistamines

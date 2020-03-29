@@ -1,0 +1,11 @@
+T1	BRAND 0 9	ERGAMISOL
+T2	DRUG 12 36	levamisole hydrochloride
+T3	DRUG 124 131	alcohol
+T4	DRUG 186 195	phenytoin
+T5	DRUG 353 363	levamisole
+T6	DRUG 368 383	warfarin sodium
+T7	DRUG 467 482	warfarin sodium
+T8	GROUP 492 500	coumarin
+R1	EFFECT Arg1:T1 Arg2:T3
+R2	EFFECT Arg1:T2 Arg2:T3
+R3	ADVISE Arg1:T5 Arg2:T6

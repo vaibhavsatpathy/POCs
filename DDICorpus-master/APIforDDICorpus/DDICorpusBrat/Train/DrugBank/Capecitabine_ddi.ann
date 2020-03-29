@@ -1,0 +1,28 @@
+T1	GROUP 0 7	Antacid
+T2	DRUG 26 44	aluminum hydroxide
+T3	DRUG 50 69	magnesium hydroxide
+T4	GROUP 81 88	antacid
+T5	BRAND 90 96	Maalox
+T6	DRUG 126 138	capecitabine
+T7	DRUG 234 246	capecitabine
+T8	DRUG_N 267 273	5-DFCR
+T9	DRUG_N 324 330	5-DFUR
+T10	DRUG_N 332 336	5-FU
+T11	DRUG_N 341 345	FBAL
+T12	GROUP 348 371	Coumarin Anticoagulants
+T13	DRUG 457 469	capecitabine
+T14	GROUP 489 523	coumarin-derivative anticoagulants
+T15	DRUG 532 540	warfarin
+T16	DRUG 545 558	phenprocoumon
+T17	GROUP 576 610	coumarin-derivative anticoagulants
+T18	DRUG 630 642	capecitabine
+T19	DRUG 734 744	Leucovorin
+T20	DRUG 767 781	5-fluorouracil
+T21	DRUG 831 841	leucovorin
+T22	DRUG 959 969	leucovorin
+T23	DRUG 974 986	fluorouracil
+R1	EFFECT Arg1:T13 Arg2:T14
+R2	EFFECT Arg1:T13 Arg2:T16
+R3	ADVISE Arg1:T17 Arg2:T18
+R4	MECHANISM Arg1:T20 Arg2:T21
+R5	EFFECT Arg1:T22 Arg2:T23

@@ -1,0 +1,55 @@
+T1	GROUP 0 14	Anticoagulants
+T2	GROUP 75 93	thiazide diuretics
+T3	GROUP 133 153	Antigout medications
+T4	GROUP 155 173	Thiazide diuretics
+T5	GROUP 235 255	antigout medications
+T6	GROUP 309 337	Antihypertensive medications
+T7	DRUG 357 366	diazoxide
+T8	GROUP 374 384	anesthetic
+T9	GROUP 426 451	skeletal-muscle relaxants
+T10	GROUP 542 560	thiazide diuretics
+T11	DRUG 600 614	Amphotericin B
+T12	GROUP 618 633	Corticosteroids
+T13	DRUG 637 650	Corticotropin
+T14	DRUG 652 656	ACTH
+T15	GROUP 679 697	thiazide diuretics
+T16	GROUP 762 780	Cardiac glycosides
+T17	GROUP 802 820	thiazide diuretics
+T18	GROUP 852 861	digitalis
+T19	DRUG 901 911	Colestipol
+T20	GROUP 960 978	thiazide diuretics
+T21	DRUG 1026 1036	colestipol
+T22	GROUP 1054 1067	Hypoglycemics
+T23	GROUP 1069 1087	Thiazide diuretics
+T24	GROUP 1168 1192	hypoglycemic medications
+T25	GROUP 1227 1244	thiazide diuretic
+T26	DRUG 1254 1261	insulin
+T27	DRUG 1319 1326	Lithium
+T28	GROUP 1354 1372	thiazide diuretics
+T29	DRUG 1413 1420	lithium
+T30	DRUG 1467 1478	Methenamine
+T31	GROUP 1539 1557	thiazide diuretics
+T32	GROUP 1599 1636	Nonsteroidal anti-inflammatory agents
+T33	GROUP 1660 1693	steroidal anti-inflammatory agent
+T34	GROUP 1764 1768;1802 1811	loop diuretics
+T35	GROUP 1770 1787;1802 1811	potassium sparing diuretics
+T36	GROUP 1793 1811	thiazide diuretics
+T37	DRUG 1829 1847	hydroflumethiazide
+T38	GROUP 1852 1889	nonsteroidal anti-inflammatory agents
+T39	GROUP 1995 2003	diuretic
+T40	DRUG 2018 2032	Norepinephrine
+T41	GROUP 2034 2043	Thiazides
+T42	DRUG 2084 2098	norepinephrine
+T43	DRUG 2203 2215	Tubocurarine
+T44	GROUP 2217 2231	Thiazide drugs
+T45	DRUG 2267 2279	tubocurarine
+T46	GROUP 2537 2555	thiazide diuretics
+T47	GROUP 2856 2865	Thiazides
+R1	EFFECT Arg1:T17 Arg2:T18
+R2	ADVISE Arg1:T24 Arg2:T25
+R3	EFFECT Arg1:T33 Arg2:T34
+R4	EFFECT Arg1:T33 Arg2:T35
+R5	EFFECT Arg1:T33 Arg2:T36
+R6	ADVISE Arg1:T37 Arg2:T38
+R7	EFFECT Arg1:T41 Arg2:T42
+R8	EFFECT Arg1:T44 Arg2:T45

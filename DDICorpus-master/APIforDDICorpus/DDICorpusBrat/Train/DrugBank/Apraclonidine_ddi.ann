@@ -1,0 +1,35 @@
+T1	DRUG 0 13	Apraclonidine
+T2	GROUP 55 69	MAO inhibitors
+T3	BRAND 202 210	IOPIDINE
+T4	GROUP 296 311	CNS depressants
+T5	DRUG 313 320	alcohol
+T6	GROUP 322 334	barbiturates
+T7	GROUP 336 343	opiates
+T8	GROUP 345 354	sedatives
+T9	GROUP 356 367	anesthetics
+T10	GROUP 391 416	Tricyclic antidepressants
+T11	DRUG 480 489	clonidine
+T12	DRUG 555 568	apraclonidine
+T13	DRUG 674 687	apraclonidine
+T14	GROUP 762 787	tricyclic antidepressants
+T15	DRUG 936 945	clonidine
+T16	GROUP 950 961	neuroleptic
+T17	DRUG 980 989	clonidine
+T18	DRUG 1134 1147	apraclonidine
+T19	GROUP 1216 1229	beta-blockers
+T20	GROUP 1257 1274	antihypertensives
+T21	GROUP 1280 1298	cardiac glycosides
+T22	BRAND 1365 1373	IOPIDINE
+T23	DRUG 1512 1521	clonidine
+R1	ADVISE Arg1:T1 Arg2:T2
+R2	ADVISE Arg1:T3 Arg2:T4
+R3	ADVISE Arg1:T3 Arg2:T5
+R4	ADVISE Arg1:T3 Arg2:T6
+R5	ADVISE Arg1:T3 Arg2:T7
+R6	ADVISE Arg1:T3 Arg2:T8
+R7	ADVISE Arg1:T3 Arg2:T9
+R8	EFFECT Arg1:T10 Arg2:T11
+R9	EFFECT Arg1:T15 Arg2:T16
+R10	ADVISE Arg1:T18 Arg2:T19
+R11	ADVISE Arg1:T18 Arg2:T20
+R12	ADVISE Arg1:T18 Arg2:T21

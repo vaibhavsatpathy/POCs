@@ -1,0 +1,24 @@
+T1	DRUG 17 27	S-ketamine
+T2	DRUG 45 57	itraconazole
+T3	DRUG 83 94	ticlopidine
+T4	DRUG 147 157	S-ketamine
+T5	DRUG 203 214	ticlopidine
+T6	DRUG 239 251	itraconazole
+T7	DRUG 340 350	S-ketamine
+T8	DRUG 381 392	ticlopidine
+T9	DRUG 415 427	itraconazole
+T10	DRUG 512 523	Ticlopidine
+T11	DRUG 646 654	ketamine
+T12	DRUG 676 688	itraconazole
+T13	DRUG 732 742	S-ketamine
+T14	DRUG_N 757 768	norketamine
+T15	DRUG 783 791	ketamine
+T16	DRUG 838 849	ticlopidine
+T17	DRUG 869 881	itraconazole
+T18	DRUG 932 943	ticlopidine
+T19	DRUG 948 960	itraconazole
+T20	DRUG 1161 1171	S-ketamine
+T21	DRUG 1212 1223	ticlopidine
+R1	EFFECT Arg1:T1 Arg2:T3
+R2	MECHANISM Arg1:T10 Arg2:T11
+R3	ADVISE Arg1:T20 Arg2:T21

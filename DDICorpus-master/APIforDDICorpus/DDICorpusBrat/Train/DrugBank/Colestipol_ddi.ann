@@ -1,0 +1,57 @@
+T1	DRUG 6 30	colestipol hydrochloride
+T2	GROUP 37 57	anion exchange resin
+T3	DRUG 164 188	colestipol hydrochloride
+T4	BRAND 225 233	COLESTlD
+T5	BRAND 352 360	COLESTID
+T6	BRAND 503 511	COLESTID
+T7	DRUG 574 598	colestipol hydrochloride
+T8	DRUG 631 642	propranolol
+T9	DRUG 690 701	propranolol
+T10	DRUG 794 818	colestipol hydrochloride
+T11	DRUG 823 834	propranolol
+T12	DRUG 921 932	propranolol
+T13	GROUP 1138 1151	beta-blockers
+T14	DRUG 1201 1212	propranolol
+T15	BRAND 1237 1245	COLESTID
+T16	DRUG 1356 1370	chlorothiazide
+T17	DRUG 1466 1490	colestipol hydrochloride
+T18	DRUG 1510 1522	tetracycline
+T19	DRUG 1524 1534	furosemide
+T20	DRUG 1536 1548	penicillin G
+T21	DRUG 1550 1569	hydrochlorothiazide
+T22	DRUG 1575 1586	gemfibrozil
+T23	DRUG 1646 1670	colestipol hydrochloride
+T24	DRUG 1758 1782	colestipol hydrochloride
+T25	DRUG 1846 1870	colestipol hydrochloride
+T26	BRAND 1921 1928	aspirin
+T27	BRAND 1930 1941	clindamycin
+T28	DRUG 1943 1953	clofibrate
+T29	DRUG 1955 1965	methyldopa
+T30	DRUG 1967 1981	nicotinic acid
+T31	DRUG 1983 1989	niacin
+T32	DRUG 1992 2003	tolbutamide
+T33	DRUG 2005 2014	phenytoin
+T34	DRUG 2018 2026	warfarin
+T35	GROUP 2071 2093	digitalis preparations
+T36	DRUG 2148 2172	colestipol hydrochloride
+T37	DRUG 2196 2203	digoxin
+T38	DRUG 2208 2217	digitoxin
+T39	DRUG 2309 2333	colestipol hydrochloride
+T40	GROUP 2427 2432	resin
+T41	DRUG 2503 2527	colestipol hydrochloride
+T42	GROUP 2529 2553	Bile acid binding resins
+T43	DRUG 2601 2610	phosphate
+T44	DRUG 2627 2641	hydrocortisone
+R1	MECHANISM Arg1:T7 Arg2:T8
+R2	ADVISE Arg1:T14 Arg2:T15
+R3	MECHANISM Arg1:T16 Arg2:T17
+R4	MECHANISM Arg1:T18 Arg2:T23
+R5	MECHANISM Arg1:T19 Arg2:T23
+R6	MECHANISM Arg1:T20 Arg2:T23
+R7	MECHANISM Arg1:T21 Arg2:T23
+R8	MECHANISM Arg1:T22 Arg2:T23
+R9	EFFECT Arg1:T35 Arg2:T36
+R10	MECHANISM Arg1:T36 Arg2:T37
+R11	MECHANISM Arg1:T36 Arg2:T38
+R12	MECHANISM Arg1:T42 Arg2:T43
+R13	MECHANISM Arg1:T42 Arg2:T44

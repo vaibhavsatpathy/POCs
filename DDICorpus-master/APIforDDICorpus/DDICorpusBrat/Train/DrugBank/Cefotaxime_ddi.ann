@@ -1,0 +1,5 @@
+T1	GROUP 83 97	cephalosporins
+T2	GROUP 102 128	aminoglycoside antibiotics
+T3	GROUP 164 178	Cephalosporins
+T4	DRUG 190 207	cefotaxime sodium
+R1	EFFECT Arg1:T1 Arg2:T2

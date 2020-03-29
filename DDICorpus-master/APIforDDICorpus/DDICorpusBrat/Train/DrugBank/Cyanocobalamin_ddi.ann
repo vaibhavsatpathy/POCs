@@ -1,0 +1,12 @@
+T1	GROUP 20 31	antibiotics
+T2	DRUG 33 45	methotrexate
+T3	DRUG 50 63	pyrimethamine
+T4	DRUG 75 85	folic acid
+T5	DRUG 90 101	vitamin B12
+T6	DRUG 127 137	Colchicine
+T7	DRUG 138 162	para-aminosalicylic acid
+T8	DRUG 173 180	alcohol
+T9	DRUG 241 252	vitamin B12
+R1	MECHANISM Arg1:T6 Arg2:T9
+R2	MECHANISM Arg1:T7 Arg2:T9
+R3	MECHANISM Arg1:T8 Arg2:T9

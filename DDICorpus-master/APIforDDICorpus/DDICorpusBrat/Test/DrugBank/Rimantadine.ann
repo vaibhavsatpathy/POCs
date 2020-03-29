@@ -1,0 +1,23 @@
+T1	DRUG 0 10	Cimetidine
+T2	DRUG 35 45	cimetidine
+T3	DRUG 71 82	rimantadine
+T4	DRUG 127 142	rimantadine HCl
+T5	DRUG 193 203	Cimetidine
+T6	DRUG 250 261	rimantadine
+T7	DRUG 368 379	rimantadine
+T8	DRUG 429 439	cimetidine
+T9	DRUG 442 455	Acetaminophen
+T10	DRUG 457 472	Rimantadine HCl
+T11	DRUG 553 566	acetaminophen
+T12	DRUG 655 666	rimantadine
+T13	DRUG 722 735	acetaminophen
+T14	DRUG 786 797	rimantadine
+T15	BRAND 820 827	Aspirin
+T16	DRUG 829 844	Rimantadine HCl
+T17	BRAND 925 932	aspirin
+T18	DRUG 1022 1033	rimantadine
+T19	DRUG 1105 1116	rimantadine
+T20	BRAND 1167 1174	aspirin
+R1	MECHANISM Arg1:T4 Arg2:T5
+R2	MECHANISM Arg1:T13 Arg2:T14
+R3	MECHANISM Arg1:T19 Arg2:T20

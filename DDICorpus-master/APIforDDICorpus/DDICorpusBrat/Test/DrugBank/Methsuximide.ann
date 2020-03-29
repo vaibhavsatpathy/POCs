@@ -1,0 +1,10 @@
+T1	BRAND 6 14	Celontin
+T2	DRUG 16 28	methsuximide
+T3	GROUP 74 93	antiepileptic drugs
+T4	DRUG 167 179	methsuximide
+T5	DRUG 222 231	phenytoin
+T6	DRUG 236 249	phenobarbital
+R1	ADVISE Arg1:T1 Arg2:T3
+R2	ADVISE Arg1:T2 Arg2:T3
+R3	MECHANISM Arg1:T4 Arg2:T5
+R4	MECHANISM Arg1:T4 Arg2:T6

@@ -1,0 +1,20 @@
+T1	DRUG 15 24	celecoxib
+T2	GROUP 40 57	anti-cancer drugs
+T3	DRUG 115 124	Celecoxib
+T4	GROUP 289 316	cyclooxygenase-2 inhibitors
+T5	GROUP 370 393	chemotherapeutic agents
+T6	DRUG 624 628	5-FU
+T7	DRUG 630 639	cisplatin
+T8	DRUG 641 652	doxorubicin
+T9	DRUG 657 666	etoposide
+T10	DRUG 669 678	celecoxib
+T11	DRUG 763 772	celecoxib
+T12	DRUG 871 880	celecoxib
+T13	DRUG 885 896	doxorubicin
+T14	DRUG 960 969	Celecoxib
+T15	DRUG 1106 1115	celecoxib
+T16	DRUG 1714 1723	celecoxib
+T17	DRUG 1784 1795	doxorubicin
+T18	DRUG 1840 1849	celecoxib
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T12 Arg2:T13

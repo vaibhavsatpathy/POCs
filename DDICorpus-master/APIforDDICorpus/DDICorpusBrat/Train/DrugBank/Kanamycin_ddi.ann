@@ -1,0 +1,12 @@
+T1	GROUP 22 36	aminoglycoside
+T2	GROUP 58 69	antibiotics
+T3	GROUP 71 82	penicillins
+T4	GROUP 86 100	cephalosporins
+T5	GROUP 164 178	aminoglycoside
+T6	GROUP 185 195	penicillin
+T7	GROUP 270 284	aminoglycoside
+T8	GROUP 459 473	aminoglycoside
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T1 Arg2:T3
+R3	EFFECT Arg1:T1 Arg2:T4
+R4	MECHANISM Arg1:T5 Arg2:T6

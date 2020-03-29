@@ -1,0 +1,23 @@
+T1	DRUG 12 28	cyclophosphamide
+T2	DRUG 30 41	doxorubicin
+T3	DRUG 43 54	vincristine
+T4	DRUG 60 70	prednisone
+T5	GROUP 89 117	highly active antiretroviral
+T6	GROUP 276 304	highly active antiretroviral
+T7	DRUG 656 672	cyclophosphamide
+T8	DRUG 674 685	doxorubicin
+T9	DRUG 687 698	vincristine
+T10	DRUG 704 714	prednisone
+T11	DRUG 852 868	cyclophosphamide
+T12	DRUG 870 881	doxorubicin
+T13	DRUG 883 893	teniposide
+T14	DRUG 899 909	prednisone
+T15	DRUG 915 926	vincristine
+T16	DRUG 932 941	bleomycin
+T17	GROUP 961 975	antiretroviral
+T18	GROUP 1189 1203	Antiretroviral
+T19	GROUP 1230 1262	reverse transcriptase inhibitors
+T20	GROUP 1271 1289	protease inhibitor
+T21	GROUP 2721 2735;2755 2760	antiretroviral drugs
+T22	GROUP 2740 2760	antineoplastic drugs
+R1	ADVISE Arg1:T21 Arg2:T22

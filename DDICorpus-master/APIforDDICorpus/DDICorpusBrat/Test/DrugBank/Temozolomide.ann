@@ -1,0 +1,4 @@
+T1	DRUG 18 31	valproic acid
+T2	DRUG 60 72	temozolomide
+T3	BRAND 222 229	TEMODAR
+R1	MECHANISM Arg1:T1 Arg2:T2

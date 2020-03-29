@@ -1,0 +1,57 @@
+T1	GROUP 0 16	Vasoconstrictors
+T2	BRAND 18 27	D.H.E. 45
+T3	DRUG 30 56	dihydroergotamine mesylate
+T4	GROUP 97 124	peripheral vasoconstrictors
+T5	DRUG 200 211	Sumatriptan
+T6	DRUG 213 224	Sumatriptan
+T7	BRAND 317 326	D.H.E. 45
+T8	DRUG 329 355	dihydroergotamine mesylate
+T9	DRUG 373 384	Sumatriptan
+T10	BRAND 389 398	D.H.E. 45
+T11	DRUG 401 427	dihydroergotamine mesylate
+T12	GROUP 496 509	Beta Blockers
+T13	BRAND 622 631	D.H.E. 45
+T14	DRUG 634 660	dihydroergotamine mesylate
+T15	DRUG 707 718	propranolol
+T16	DRUG 749 760	propranolol
+T17	DRUG 807 817	ergotamine
+T18	DRUG 872 880	Nicotine
+T19	DRUG 882 890	Nicotine
+T20	DRUG 985 990	ergot
+T21	GROUP 1000 1021	Macrolide Antibiotics
+T22	DRUG 1029 1041	erythromycin
+T23	DRUG 1046 1060	troleandomycin
+T24	GROUP 1077 1097	ergot alkaloid class
+T25	BRAND 1108 1117	D.H.E. 45
+T26	DRUG 1120 1146	dihydroergotamine mesylate
+T27	GROUP 1209 1220	antibiotics
+T28	GROUP 1228 1243	macrolide class
+T29	DRUG 1405 1415	ergotamine
+T30	GROUP 1465 1476	antibiotics
+T31	GROUP 1478 1483	SSRIs
+T32	GROUP 1559 1573	5-HT1 agonists
+T33	GROUP 1605 1610	SSRIs
+T34	DRUG 1618 1628	fluoxetine
+T35	DRUG 1630 1641	fluvoxamine
+T36	DRUG 1643 1653	paroxetine
+T37	DRUG 1655 1665	sertraline
+T38	GROUP 1755 1760	SSRIs
+T39	BRAND 1765 1774	D.H.E. 45
+T40	DRUG 1777 1803	dihydroergotamine mesylate
+T41	GROUP 1826 1840	Contraceptives
+T42	GROUP 1861 1875	contraceptives
+T43	BRAND 1903 1912	D.H.E. 45
+T44	DRUG 1915 1941	dihydroergotamine mesylate
+R1	EFFECT Arg1:T2 Arg2:T4
+R2	EFFECT Arg1:T3 Arg2:T4
+R3	EFFECT Arg1:T6 Arg2:T7
+R4	EFFECT Arg1:T6 Arg2:T8
+R5	ADVISE Arg1:T9 Arg2:T10
+R6	ADVISE Arg1:T9 Arg2:T11
+R7	EFFECT Arg1:T16 Arg2:T17
+R8	EFFECT Arg1:T19 Arg2:T20
+R9	MECHANISM Arg1:T24 Arg2:T28
+R10	MECHANISM Arg1:T25 Arg2:T28
+R11	MECHANISM Arg1:T26 Arg2:T28
+R12	EFFECT Arg1:T29 Arg2:T30
+R13	EFFECT Arg1:T32 Arg2:T33

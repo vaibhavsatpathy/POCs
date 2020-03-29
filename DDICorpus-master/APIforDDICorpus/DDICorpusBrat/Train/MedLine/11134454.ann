@@ -1,0 +1,8 @@
+T1	DRUG 0 13	Carbamazepine
+T2	GROUP 39 63	tricyclic antidepressant
+T3	DRUG 324 337	carbamazepine
+T4	GROUP 363 387	tricyclic antidepressant
+T5	DRUG 441 454	carbamazepine
+T6	GROUP 484 509	tricyclic antidepressants
+R1	EFFECT Arg1:T3 Arg2:T4
+R2	ADVISE Arg1:T5 Arg2:T6

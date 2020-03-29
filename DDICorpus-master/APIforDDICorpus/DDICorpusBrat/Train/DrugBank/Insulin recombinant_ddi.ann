@@ -1,0 +1,58 @@
+T1	DRUG 65 72	insulin
+T2	GROUP 258 279	antidiabetic products
+T3	GROUP 281 295	ACE inhibitors
+T4	DRUG 297 309	disopyramide
+T5	GROUP 311 319	fibrates
+T6	DRUG 321 331	fluoxetine
+T7	GROUP 333 367	monoamine oxidase (MAO) inhibitors
+T8	DRUG 369 381	propoxyphene
+T9	GROUP 383 394	salicylates
+T10	GROUP 396 415	somatostatin analog
+T11	DRUG 423 433	octreotide
+T12	GROUP 436 459	sulfonamide antibiotics
+T13	GROUP 553 568	corticosteroids
+T14	DRUG 570 576	niacin
+T15	DRUG 578 585	danazol
+T16	GROUP 587 596	diuretics
+T17	GROUP 598 620	sympathomimetic agents
+T18	DRUG 628 639	epinephrine
+T19	DRUG 641 651	salbutamol
+T20	DRUG 653 664	terbutaline
+T21	DRUG 667 676	isoniazid
+T22	GROUP 678 703	phenothiazine derivatives
+T23	DRUG 705 715	somatropin
+T24	GROUP 717 733	thyroid hormones
+T25	GROUP 735 744	estrogens
+T26	GROUP 746 758	progestogens
+T27	GROUP 774 788	contraceptives
+T28	GROUP 791 804	Beta-blockers
+T29	DRUG 806 815	clonidine
+T30	DRUG 817 824	lithium
+T31	DRUG 836 843	alcohol
+T32	DRUG 913 920	insulin
+T33	DRUG 922 933	Pentamidine
+T34	GROUP 1085 1098	beta-blockers
+T35	DRUG 1100 1109	clonidine
+T36	DRUG 1111 1123	guanethidine
+T37	DRUG 1129 1138	reserpine
+T38	GROUP 1202 1210	Insulins
+T39	BRAND 1287 1294	NovoLog
+T40	DRUG 1300 1317	NPH human insulin
+T41	BRAND 1402 1409	NovoLog
+T42	BRAND 1470 1477	NovoLog
+T43	BRAND 1514 1521	NovoLog
+T44	DRUG 1536 1553	NPH human insulin
+T45	BRAND 1555 1562	NovoLog
+T46	BRAND 1708 1715	NovoLog
+T47	DRUG 1732 1744	zinc insulin
+T48	BRAND 1759 1766	NovoLog
+T49	BRAND 1834 1841	NovoLog
+T50	GROUP 1847 1855	insulins
+T51	DRUG 1876 1883	insulin
+T52	DRUG 2058 2065	insulin
+T53	BRAND 2067 2074	NovoLog
+T54	GROUP 2110 2118	insulins
+R1	EFFECT Arg1:T28 Arg2:T32
+R2	EFFECT Arg1:T29 Arg2:T32
+R3	EFFECT Arg1:T30 Arg2:T32
+R4	EFFECT Arg1:T31 Arg2:T32

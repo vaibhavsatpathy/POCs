@@ -1,0 +1,23 @@
+T1	DRUG 0 12	Triprolidine
+T2	GROUP 49 83	central nervous system depressants
+T3	DRUG 94 101	alcohol
+T4	GROUP 103 115	barbiturates
+T5	GROUP 117 126	hypnotics
+T6	GROUP 128 147	narcotic analgesics
+T7	GROUP 149 158	sedatives
+T8	GROUP 164 178	tranquillisers
+T9	GROUP 195 216	anticholinergic drugs
+T10	DRUG 226 234	atropine
+T11	GROUP 239 264	tricyclic antidepressants
+T12	DRUG 318 330	triprolidine
+T13	DRUG 332 344	Triprolidine
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T1 Arg2:T3
+R3	EFFECT Arg1:T1 Arg2:T4
+R4	EFFECT Arg1:T1 Arg2:T5
+R5	EFFECT Arg1:T1 Arg2:T6
+R6	EFFECT Arg1:T1 Arg2:T7
+R7	EFFECT Arg1:T1 Arg2:T8
+R8	EFFECT Arg1:T9 Arg2:T12
+R9	EFFECT Arg1:T10 Arg2:T12
+R10	EFFECT Arg1:T11 Arg2:T12

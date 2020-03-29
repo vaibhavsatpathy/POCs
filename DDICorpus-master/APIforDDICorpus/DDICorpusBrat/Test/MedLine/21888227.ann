@@ -1,0 +1,9 @@
+T1	GROUP 92 103	antibiotics
+T2	GROUP 649 660	antibiotics
+T3	GROUP 1456 1466	antibiotic
+T4	DRUG 1475 1485	Gentamicin
+T5	DRUG 1499 1510	Cephalothin
+T6	DRUG 1524 1535	Ceftriaxone
+T7	DRUG 1549 1557	Nystatin
+T8	GROUP 1807 1818	antibiotics
+T9	GROUP 1922 1933	antibiotics

@@ -1,0 +1,8 @@
+T1	GROUP 73 99	aminoglycoside antibiotics
+T2	GROUP 104 129	cephalosporin antibiotics
+T3	DRUG 161 171	probenecid
+T4	DRUG 192 201	cefprozil
+T5	DRUG 253 262	cefprozil
+T6	GROUP 321 328	antacid
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	MECHANISM Arg1:T3 Arg2:T4

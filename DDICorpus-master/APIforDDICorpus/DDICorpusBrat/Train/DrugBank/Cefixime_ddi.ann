@@ -1,0 +1,14 @@
+T1	DRUG 0 13	Carbamazepine
+T2	DRUG 24 37	carbamazepine
+T3	BRAND 97 103	SUPRAX
+T4	DRUG 200 213	carbamazepine
+T5	DRUG 237 245	Warfarin
+T6	GROUP 250 264	Anticoagulants
+T7	DRUG 352 360	cefixime
+T8	DRUG 504 517	nitroprusside
+T9	DRUG 543 560	nitroferricyanide
+T10	BRAND 584 590	SUPRAX
+T11	GROUP 931 956	cephalosporin antibiotics
+R1	MECHANISM Arg1:T2 Arg2:T3
+R2	EFFECT Arg1:T5 Arg2:T7
+R3	EFFECT Arg1:T6 Arg2:T7

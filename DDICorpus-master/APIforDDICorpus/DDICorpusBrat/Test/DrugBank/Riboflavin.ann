@@ -1,0 +1,11 @@
+T1	DRUG 17 27	Vitamin B2
+T2	DRUG 29 39	Riboflavin
+T3	DRUG 43 50	Alcohol
+T4	DRUG 90 100	riboflavin
+T5	DRUG 101 111	Probenecid
+T6	DRUG 170 180	riboflavin
+T7	DRUG 199 209	riboflavin
+T8	DRUG 249 259	probenecid
+R1	MECHANISM Arg1:T3 Arg2:T4
+R2	MECHANISM Arg1:T5 Arg2:T6
+R3	EFFECT Arg1:T7 Arg2:T8

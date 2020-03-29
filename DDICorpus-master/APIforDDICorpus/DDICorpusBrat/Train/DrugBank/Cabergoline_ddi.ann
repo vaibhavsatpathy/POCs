@@ -1,0 +1,9 @@
+T1	BRAND 0 8	DOSTINEX
+T2	GROUP 78 92	phenothiazines
+T3	GROUP 94 108	butyrophenones
+T4	GROUP 110 123	thioxanthines
+T5	DRUG 128 142	metoclopramide
+R1	ADVISE Arg1:T1 Arg2:T2
+R2	ADVISE Arg1:T1 Arg2:T3
+R3	ADVISE Arg1:T1 Arg2:T4
+R4	ADVISE Arg1:T1 Arg2:T5

@@ -1,0 +1,24 @@
+T1	DRUG 15 23	ketamine
+T2	BRAND 31 38	Innovar
+T3	GROUP 53 62	digitalis
+T4	GROUP 101 110	digitalis
+T5	DRUG 147 155	ketamine
+T6	BRAND 157 168	Innovar Vet
+T7	DRUG 173 186	pentobarbital
+T8	DRUG 202 209	ouabain
+T9	DRUG 295 302	ouabain
+T10	DRUG 309 317	ketamine
+T11	BRAND 321 328	Innovar
+T12	DRUG 339 352	pentobarbital
+T13	DRUG 389 396	ouabain
+T14	BRAND 465 472	Innovar
+T15	DRUG 474 482	ketamine
+T16	DRUG 487 497	droperidol
+T17	DRUG 530 537	fentayl
+T18	DRUG 553 566	pentobarbital
+R1	EFFECT Arg1:T5 Arg2:T8
+R2	EFFECT Arg1:T6 Arg2:T8
+R3	EFFECT Arg1:T7 Arg2:T8
+R4	EFFECT Arg1:T13 Arg2:T14
+R5	EFFECT Arg1:T13 Arg2:T15
+R6	EFFECT Arg1:T13 Arg2:T16

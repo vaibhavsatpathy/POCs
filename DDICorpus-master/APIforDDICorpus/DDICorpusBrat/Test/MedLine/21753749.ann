@@ -1,0 +1,15 @@
+T1	DRUG 49 61	cyclosporine
+T2	DRUG 87 97	tacrolimus
+T3	DRUG 167 179	cyclosporine
+T4	DRUG 184 194	tacrolimus
+T5	DRUG 314 323	midazolam
+T6	DRUG 533 542	midazolam
+T7	DRUG 687 699	cyclosporine
+T8	DRUG 742 752	tacrolimus
+T9	DRUG 801 810	midazolam
+T10	DRUG 875 885	tacrolimus
+T11	GROUP 948 969	calcineurin inhibitor
+T12	DRUG 1104 1116	cyclosporine
+T13	DRUG 1141 1151	tacrolimus
+T14	DRUG 1220 1232	cyclosporine
+R1	MECHANISM Arg1:T6 Arg2:T7

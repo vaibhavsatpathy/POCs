@@ -1,0 +1,22 @@
+T1	BRAND 19 27	Activase
+T2	DRUG 137 144	heparin
+T3	GROUP 149 170	vitamin K antagonists
+T4	DRUG 216 236	acetylsalicylic acid
+T5	DRUG 238 250	dipyridamole
+T6	DRUG 255 264	Abciximab
+T7	BRAND 343 351	Activase
+T8	GROUP 368 383	Antithrombotics
+T9	BRAND 384 391	Aspirin
+T10	DRUG 396 403	heparin
+T11	BRAND 473 481	Activase
+T12	DRUG 562 569	heparin
+T13	BRAND 571 578	aspirin
+T14	BRAND 583 591	Activase
+T15	DRUG 732 739	heparin
+T16	BRAND 743 750	aspirin
+T17	BRAND 889 897	Activase
+R1	EFFECT Arg1:T2 Arg2:T7
+R2	EFFECT Arg1:T3 Arg2:T7
+R3	INT Arg1:T4 Arg2:T7
+R4	EFFECT Arg1:T5 Arg2:T7
+R5	EFFECT Arg1:T6 Arg2:T7

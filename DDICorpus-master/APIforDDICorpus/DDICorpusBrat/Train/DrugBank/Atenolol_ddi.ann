@@ -1,0 +1,27 @@
+T1	DRUG 35 44	reserpine
+T2	GROUP 90 109	beta-blocking agent
+T3	BRAND 134 142	TENORMIN
+T4	GROUP 325 349	Calcium channel blockers
+T5	BRAND 399 407	TENORMIN
+T6	GROUP 410 423	Beta blockers
+T7	DRUG 499 508	clonidine
+T8	GROUP 551 563	beta blocker
+T9	DRUG 630 639	clonidine
+T10	DRUG 654 663	clonidine
+T11	GROUP 667 679	beta-blocker
+T12	GROUP 709 722	beta blockers
+T13	DRUG 764 773	clonidine
+T14	DRUG 866 878	indomethacin
+T15	GROUP 920 933	beta blockers
+T16	DRUG 970 978	atenolol
+T17	BRAND 983 990	aspirin
+T18	BRAND 1109 1116	aspirin
+T19	GROUP 1121 1134	beta blockers
+T20	GROUP 1192 1205	beta blockers
+T21	DRUG 1439 1450	epinephrine
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T4 Arg2:T5
+R3	EFFECT Arg1:T6 Arg2:T7
+R4	ADVISE Arg1:T8 Arg2:T9
+R5	ADVISE Arg1:T12 Arg2:T13
+R6	EFFECT Arg1:T14 Arg2:T15

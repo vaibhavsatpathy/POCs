@@ -1,0 +1,6 @@
+T1	GROUP 30 36	opioid
+T2	GROUP 352 377	selective opioid agonists
+T3	GROUP 485 491	opioid
+T4	GROUP 635 638;661 678	mu-selective opioids
+T5	GROUP 640 649;661 678	delta(1)-selective opioids
+T6	GROUP 655 678	kappa-selective opioids

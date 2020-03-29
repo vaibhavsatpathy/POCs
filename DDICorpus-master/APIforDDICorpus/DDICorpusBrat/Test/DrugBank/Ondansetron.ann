@@ -1,0 +1,31 @@
+T1	DRUG 0 11	Ondansetron
+T2	DRUG 131 142	ondansetron
+T3	DRUG 332 343	ondansetron
+T4	DRUG 450 459	Phenytoin
+T5	DRUG 461 474	Carbamazepine
+T6	DRUG 480 490	Rifampicin
+T7	DRUG 550 559	phenytoin
+T8	DRUG 561 574	carbamazepine
+T9	DRUG 580 590	rifampicin
+T10	DRUG 610 621	ondansetron
+T11	DRUG 654 665	ondansetron
+T12	DRUG 769 780	ondansetron
+T13	DRUG 829 837	Tramadol
+T14	DRUG 892 903	ondansetron
+T15	DRUG 908 916	tramadol
+T16	DRUG 976 987	ondansetron
+T17	DRUG 1063 1071	tramadol
+T18	DRUG 1175 1186	ondansetron
+T19	DRUG 1199 1209	carmustine
+T20	DRUG 1211 1220	etoposide
+T21	DRUG 1226 1235	cisplatin
+T22	DRUG 1274 1285	ondansetron
+T23	DRUG 1339 1350	ondansetron
+T24	DRUG 1394 1406	methotrexate
+R1	MECHANISM Arg1:T7 Arg2:T10
+R2	MECHANISM Arg1:T7 Arg2:T11
+R3	MECHANISM Arg1:T8 Arg2:T10
+R4	MECHANISM Arg1:T8 Arg2:T11
+R5	MECHANISM Arg1:T9 Arg2:T10
+R6	MECHANISM Arg1:T9 Arg2:T11
+R7	EFFECT Arg1:T16 Arg2:T17

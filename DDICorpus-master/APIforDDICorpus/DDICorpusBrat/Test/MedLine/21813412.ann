@@ -1,0 +1,32 @@
+T1	DRUG 25 34	dasatinib
+T2	DRUG 44 54	paclitaxel
+T3	DRUG 143 153	paclitaxel
+T4	DRUG 198 208	paclitaxel
+T5	DRUG 302 312	paclitaxel
+T6	DRUG 376 385	dasatinib
+T7	DRUG 427 437	paclitaxel
+T8	DRUG 571 580	dasatinib
+T9	DRUG 585 595	paclitaxel
+T10	DRUG 910 920	paclitaxel
+T11	DRUG 999 1009	paclitaxel
+T12	DRUG 1115 1124	dasatinib
+T13	DRUG 1130 1140	paclitaxel
+T14	DRUG 1256 1265	dasatinib
+T15	DRUG 1271 1281	paclitaxel
+T16	DRUG 1382 1391	dasatinib
+T17	DRUG 1394 1404	paclitaxel
+T18	DRUG 1408 1418	paclitaxel
+T19	DRUG 1522 1531	dasatinib
+T20	DRUG 1534 1544	paclitaxel
+T21	DRUG 1549 1558	dasatinib
+T22	DRUG 1775 1784	dasatinib
+T23	DRUG 1790 1800	paclitaxel
+T24	DRUG 2066 2075	dasatinib
+T25	DRUG 2117 2127	paclitaxel
+T26	DRUG 2261 2270	dasatinib
+T27	DRUG 2280 2290	paclitaxel
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T12 Arg2:T13
+R3	EFFECT Arg1:T14 Arg2:T15
+R4	EFFECT Arg1:T24 Arg2:T25
+R5	EFFECT Arg1:T26 Arg2:T27

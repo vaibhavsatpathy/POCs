@@ -1,0 +1,6 @@
+T1	GROUP 42 70	synthetic steroidal estrogen
+T2	GROUP 42 61;75 86	synthetic steroidal progestogen
+T3	DRUG 164 181	ethynyl estradiol
+T4	DRUG 186 200	levonorgestrel
+T5	DRUG 440 454	levonorgestrel
+T6	DRUG 510 527	ethynyl estradiol

@@ -1,0 +1,42 @@
+T1	DRUG 42 52	guanfacine
+T2	GROUP 73 92	CNS-depressant drug
+T3	DRUG 138 148	guanfacine
+T4	DRUG 201 214	phenobarbital
+T5	DRUG 218 227	phenytoin
+T6	DRUG 496 506	guanfacine
+T7	GROUP 632 636	TCAs
+T8	DRUG 672 682	guanfacine
+T9	GROUP 684 716	Noncardioselective beta-blockers
+T10	DRUG 718 725	nadolol
+T11	DRUG 738 745	timolol
+T12	DRUG 788 798	guanfacine
+T13	GROUP 817 829	beta-blocker
+T14	DRUG 883 892	guafacine
+T15	GROUP 898 926	cardioselective beta-blocker
+T16	GROUP 949 963	Anticoagulants
+T17	GROUP 1006 1020	anticoagulants
+T18	DRUG 1032 1042	guanfacine
+T19	DRUG 1164 1174	guanfacine
+T20	GROUP 1206 1215	diuretics
+T21	DRUG 1285 1295	guanfacine
+T22	GROUP 1442 1460	cardiac glycosides
+T23	GROUP 1468 1477	sedatives
+T24	GROUP 1482 1491	hypnotics
+T25	GROUP 1499 1520	coronary vasodilators
+T26	GROUP 1532 1545	hypoglycemics
+T27	GROUP 1586 1592	NSAIDs
+T28	GROUP 1599 1618	antihyperlipidemics
+T29	GROUP 1625 1639	antigout drugs
+T30	GROUP 1651 1665	contraceptives
+T31	GROUP 1672 1687	bronchodilators
+T32	DRUG 1694 1701	insulin
+T33	GROUP 1712 1725	beta blockers
+T34	DRUG 1898 1908	guanfacine
+T35	DRUG 1999 2009	guanfacine
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	MECHANISM Arg1:T3 Arg2:T4
+R3	MECHANISM Arg1:T3 Arg2:T5
+R4	EFFECT Arg1:T7 Arg2:T8
+R5	EFFECT Arg1:T9 Arg2:T12
+R6	EFFECT Arg1:T10 Arg2:T12
+R7	EFFECT Arg1:T11 Arg2:T12

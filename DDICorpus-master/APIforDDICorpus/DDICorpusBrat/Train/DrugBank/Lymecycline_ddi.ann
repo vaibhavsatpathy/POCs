@@ -1,0 +1,8 @@
+T1	DRUG 18 29	lymecycline
+T2	DRUG 106 110	iron
+T3	DRUG 114 118	zinc
+T4	GROUP 137 151	contraceptives
+T5	DRUG 195 206	lymecycline
+R1	MECHANISM Arg1:T1 Arg2:T2
+R2	MECHANISM Arg1:T1 Arg2:T3
+R3	EFFECT Arg1:T4 Arg2:T5

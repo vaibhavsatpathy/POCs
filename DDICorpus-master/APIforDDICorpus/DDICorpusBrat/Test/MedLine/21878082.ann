@@ -1,0 +1,17 @@
+T1	DRUG 31 41	amlodipine
+T2	DRUG 42 51	valsartan
+T3	DRUG 139 149	amlodipine
+T4	DRUG 150 159	valsartan
+T5	DRUG 403 413	amlodipine
+T6	DRUG 414 423	valsartan
+T7	GROUP 512 528	antihypertensive
+T8	DRUG 874 884	amlodipine
+T9	DRUG 885 894	valsartan
+T10	DRUG 989 999	amlodipine
+T11	DRUG 1000 1009	valsartan
+T12	GROUP 1203 1225	antihypertensive drugs
+T13	DRUG 1442 1452	amlodipine
+T14	DRUG 1453 1462	valsartan
+T15	GROUP 1559 1581	antihypertensive drugs
+R1	EFFECT Arg1:T10 Arg2:T11
+R2	EFFECT Arg1:T13 Arg2:T14

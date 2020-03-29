@@ -1,0 +1,11 @@
+T1	BRAND 69 79	PERSANTINE
+T2	DRUG 82 94	dipyridamole
+T3	DRUG 169 178	Adenosine
+T4	DRUG 180 192	Dipyridamole
+T5	DRUG 271 280	adenosine
+T6	DRUG 296 305	adenosine
+T7	GROUP 331 356	Cholinesterase Inhibitors
+T8	DRUG 358 370	Dipyridamole
+T9	GROUP 419 444	cholinesterase inhibitors
+R1	MECHANISM Arg1:T4 Arg2:T5
+R2	EFFECT Arg1:T8 Arg2:T9

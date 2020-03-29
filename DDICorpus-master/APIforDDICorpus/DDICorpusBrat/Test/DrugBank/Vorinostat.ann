@@ -1,0 +1,13 @@
+T1	GROUP 0 34	Coumarin-Derivative Anticoagulants
+T2	BRAND 151 158	ZOLINZA
+T3	GROUP 178 212	coumarin-derivative anticoagulants
+T4	BRAND 299 306	ZOLINZA
+T5	GROUP 311 331	coumarin derivatives
+T6	GROUP 339 354	HDAC Inhibitors
+T7	BRAND 452 459	ZOLINZA
+T8	GROUP 470 485	HDAC inhibitors
+T9	DRUG 493 506	valproic acid
+R1	EFFECT Arg1:T2 Arg2:T3
+R2	ADVISE Arg1:T4 Arg2:T5
+R3	EFFECT Arg1:T7 Arg2:T8
+R4	EFFECT Arg1:T7 Arg2:T9

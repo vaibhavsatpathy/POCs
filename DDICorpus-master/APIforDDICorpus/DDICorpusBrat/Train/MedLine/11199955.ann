@@ -1,0 +1,10 @@
+T1	DRUG 27 36	phenytoin
+T2	DRUG 92 102	quetiapine
+T3	DRUG 104 123	Quetiapine fumarate
+T4	BRAND 126 134	Seroquel
+T5	GROUP 159 181	atypical antipsychotic
+T6	DRUG 439 449	quetiapine
+T7	DRUG 539 548	phenytoin
+T8	DRUG 602 612	quetiapine
+T9	DRUG 835 845	quetiapine
+R1	MECHANISM Arg1:T7 Arg2:T8

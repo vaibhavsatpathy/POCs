@@ -1,0 +1,7 @@
+T1	DRUG 0 13	Methazolamide
+T2	BRAND 178 185	aspirin
+T3	DRUG 190 203	methazolamide
+T4	BRAND 321 328	aspirin
+T5	GROUP 333 362	carbonic anhydrase inhibitors
+R1	ADVISE Arg1:T2 Arg2:T3
+R2	EFFECT Arg1:T4 Arg2:T5

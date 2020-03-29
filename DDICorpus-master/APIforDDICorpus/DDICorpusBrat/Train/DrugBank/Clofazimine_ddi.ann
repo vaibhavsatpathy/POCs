@@ -1,0 +1,6 @@
+T1	DRUG 36 43	dapsone
+T2	BRAND 90 98	Lamprene
+T3	DRUG 208 215	dapsone
+T4	DRUG 220 231	clofazimine
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	ADVISE Arg1:T3 Arg2:T4

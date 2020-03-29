@@ -1,0 +1,11 @@
+T1	DRUG 0 13	Pyrimethamine
+T2	GROUP 31 43	sulfonamides
+T3	DRUG 45 52	quinine
+T4	GROUP 63 76	antimalarials
+T5	GROUP 93 104	antibiotics
+T6	DRUG 145 158	pyrimethamine
+T7	DRUG 183 195	Folinic acid
+T8	DRUG 197 207	leucovorin
+T9	DRUG 332 341	lorazepam
+T10	DRUG 346 359	pyrimethamine
+R1	EFFECT Arg1:T9 Arg2:T10

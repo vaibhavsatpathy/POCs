@@ -1,0 +1,6 @@
+T1	DRUG 0 13	Thiabendazole
+T2	DRUG 52 64	theophylline
+T3	DRUG 218 231	thiabendazole
+T4	GROUP 236 256	xanthine derivatives
+R1	MECHANISM Arg1:T1 Arg2:T2
+R2	ADVISE Arg1:T3 Arg2:T4

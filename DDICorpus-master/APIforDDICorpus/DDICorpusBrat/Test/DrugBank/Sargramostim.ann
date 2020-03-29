@@ -1,0 +1,6 @@
+T1	BRAND 21 28	Leukine
+T2	BRAND 137 144	Leukine
+T3	DRUG 154 161	lithium
+T4	GROUP 166 181	corticosteroids
+R1	EFFECT Arg1:T2 Arg2:T3
+R2	EFFECT Arg1:T2 Arg2:T4

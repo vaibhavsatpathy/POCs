@@ -1,0 +1,18 @@
+T1	DRUG 10 20	probenecid
+T2	DRUG 79 90	cloxacillin
+T3	GROUP 169 180	penicillins
+T4	DRUG 185 198	cephaloridine
+T5	DRUG 231 241	probenecid
+T6	DRUG 357 367	probenecid
+T7	DRUG 411 422	cloxacillin
+T8	DRUG 460 471	cloxacillin
+T9	DRUG 610 620	probenecid
+T10	DRUG 715 726	cloxacillin
+T11	DRUG 744 754	probenecid
+T12	DRUG 859 870	cloxacillin
+T13	DRUG 1042 1052	probenecid
+T14	DRUG 1119 1129	probenecid
+T15	DRUG 1152 1163	cloxacillin
+R1	MECHANISM Arg1:T3 Arg2:T5
+R2	MECHANISM Arg1:T4 Arg2:T5
+R3	MECHANISM Arg1:T14 Arg2:T15

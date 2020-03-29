@@ -1,0 +1,32 @@
+T1	GROUP 0 5	Ergot
+T2	DRUG 164 174	ergotamine
+T3	GROUP 189 211	ergot-type medications
+T4	DRUG 218 235	dihydroergotamine
+T5	DRUG 239 251	methysergide
+T6	DRUG 257 268	sumatriptan
+T7	GROUP 318 334	MAO-A inhibitors
+T8	DRUG 342 353	sumatriptan
+T9	DRUG 431 452	sumatriptan succinate
+T10	GROUP 483 499	MAO-A inhibitors
+T11	GROUP 521 560	Selective serotonin reuptake inhibitors
+T12	GROUP 562 567	SSRIs
+T13	DRUG 576 586	fluoxetine
+T14	DRUG 588 599	fluvoxamine
+T15	DRUG 601 611	paroxetine
+T16	DRUG 613 623	sertraline
+T17	DRUG 731 742	sumatriptan
+T18	DRUG 774 785	sumatriptan
+T19	GROUP 793 797	SSRI
+R1	ADVISE Arg1:T2 Arg2:T6
+R2	ADVISE Arg1:T3 Arg2:T6
+R3	ADVISE Arg1:T4 Arg2:T6
+R4	ADVISE Arg1:T5 Arg2:T6
+R5	MECHANISM Arg1:T7 Arg2:T8
+R6	ADVISE Arg1:T9 Arg2:T10
+R7	EFFECT Arg1:T11 Arg2:T17
+R8	EFFECT Arg1:T12 Arg2:T17
+R9	EFFECT Arg1:T13 Arg2:T17
+R10	EFFECT Arg1:T14 Arg2:T17
+R11	EFFECT Arg1:T15 Arg2:T17
+R12	EFFECT Arg1:T16 Arg2:T17
+R13	ADVISE Arg1:T18 Arg2:T19

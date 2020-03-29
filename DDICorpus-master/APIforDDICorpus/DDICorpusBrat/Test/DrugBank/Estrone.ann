@@ -1,0 +1,14 @@
+T1	DRUG 142 156	cholestyramine
+T2	DRUG 324 332	Rifampin
+T3	GROUP 333 345	barbiturates
+T4	DRUG 346 355	phenytoin
+T5	BRAND 357 365	Dilantin
+T6	DRUG 367 380	carbamazepine
+T7	BRAND 382 390	Tegretol
+T8	GROUP 392 401	Estrogens
+T9	GROUP 430 445	benzodiazepines
+T10	DRUG 447 456	lorezepam
+T11	DRUG 457 465	oxezepam
+T12	DRUG 466 475	temezepam
+T13	GROUP 704 715	antibiotics
+T14	DRUG 716 724	warfarin

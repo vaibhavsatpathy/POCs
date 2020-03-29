@@ -1,0 +1,3 @@
+T1	DRUG 0 13	Sulfacetamide
+T2	DRUG 49 55	silver
+R1	INT Arg1:T1 Arg2:T2

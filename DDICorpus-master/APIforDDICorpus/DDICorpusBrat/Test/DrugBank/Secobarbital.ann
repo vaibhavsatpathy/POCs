@@ -1,0 +1,15 @@
+T1	GROUP 0 12	Barbiturates
+T2	GROUP 52 66	contraceptives
+T3	GROUP 76 87	antibiotics
+T4	GROUP 89 98	quinidine
+T5	DRUG 100 112	theophylline
+T6	GROUP 114 129	corticosteroids
+T7	GROUP 131 145	anticoagulants
+T8	GROUP 151 164	beta blockers
+R1	INT Arg1:T1 Arg2:T2
+R2	INT Arg1:T1 Arg2:T3
+R3	INT Arg1:T1 Arg2:T4
+R4	INT Arg1:T1 Arg2:T5
+R5	INT Arg1:T1 Arg2:T6
+R6	INT Arg1:T1 Arg2:T7
+R7	INT Arg1:T1 Arg2:T8

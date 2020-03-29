@@ -1,0 +1,8 @@
+T1	BRAND 71 78	ALKERAN
+T2	GROUP 98 120	live organism vaccines
+T3	DRUG 175 189	Nalidixic acid
+T4	DRUG 226 235	melphalan
+T5	DRUG 427 436	melphalan
+T6	DRUG 467 478	cyclosporin
+R1	EFFECT Arg1:T3 Arg2:T4
+R2	EFFECT Arg1:T5 Arg2:T6

@@ -1,0 +1,11 @@
+T1	DRUG 28 41	acetaminophen
+T2	DRUG 75 83	caffeine
+T3	DRUG 102 110	caffeine
+T4	DRUG 146 159	acetaminophen
+T5	DRUG 211 219	caffeine
+T6	DRUG 245 258	acetaminophen
+T7	DRUG 335 343	caffeine
+T8	DRUG 511 524	acetaminophen
+T9	DRUG 544 552	caffeine
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T8 Arg2:T9

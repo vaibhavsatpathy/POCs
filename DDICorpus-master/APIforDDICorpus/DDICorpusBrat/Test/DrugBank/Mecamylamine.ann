@@ -1,0 +1,10 @@
+T1	GROUP 19 30	antibiotics
+T2	GROUP 35 47	sulfonamides
+T3	GROUP 85 102	ganglion blockers
+T4	DRUG 118 130	Mecamylamine
+T5	GROUP 171 193	antihypertensive drugs
+T6	DRUG 198 205	alcohol
+R1	ADVISE Arg1:T1 Arg2:T3
+R2	ADVISE Arg1:T2 Arg2:T3
+R3	EFFECT Arg1:T4 Arg2:T5
+R4	EFFECT Arg1:T4 Arg2:T6

@@ -1,0 +1,13 @@
+T1	GROUP 0 9	Digitalis
+T2	DRUG 88 106	Bretylium Tosylate
+T3	GROUP 141 155	catecholamines
+T4	DRUG 164 172	dopamine
+T5	DRUG 176 190	norepinephrine
+T6	DRUG 207 225	Bretylium Tosylate
+T7	GROUP 232 246	catecholamines
+T8	DRUG 425 434	lidocaine
+T9	DRUG 439 457	Bretylium Tosylate
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T3 Arg2:T6
+R3	EFFECT Arg1:T4 Arg2:T6
+R4	EFFECT Arg1:T5 Arg2:T6

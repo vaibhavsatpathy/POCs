@@ -1,0 +1,29 @@
+T1	DRUG 10 18	diazepam
+T2	DRUG 23 32	midazolam
+T3	DRUG 66 74	morphine
+T4	DRUG 76 85	metamizol
+T5	DRUG 90 102	indomethacin
+T6	DRUG 129 138	midazolam
+T7	DRUG 143 151	diazepam
+T8	DRUG 181 189	morphine
+T9	DRUG 202 211	metamizol
+T10	DRUG 228 240	indomethacin
+T11	GROUP 371 386	Benzodiazepines
+T12	GROUP 440 455	analgesic drugs
+T13	GROUP 515 529	benzodiazepine
+T14	DRUG 546 554	Diazepam
+T15	DRUG 606 614	morphine
+T16	DRUG 667 675	morphine
+T17	DRUG 688 696	diazepam
+T18	DRUG 737 746	metamizol
+T19	DRUG 781 793	indomethacin
+T20	DRUG 795 804	Midazolam
+T21	DRUG 887 895	morphine
+T22	DRUG 897 906	metamizol
+T23	DRUG 941 953	indomethacin
+R1	EFFECT Arg1:T14 Arg2:T15
+R2	EFFECT Arg1:T17 Arg2:T18
+R3	EFFECT Arg1:T17 Arg2:T19
+R4	EFFECT Arg1:T20 Arg2:T21
+R5	EFFECT Arg1:T20 Arg2:T22
+R6	EFFECT Arg1:T20 Arg2:T23

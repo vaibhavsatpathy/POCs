@@ -1,0 +1,5 @@
+T1	BRAND 58 79	depo-subQ provera 104
+T2	DRUG 81 98	Aminoglutethimide
+T3	BRAND 131 152	depo-subQ provera 104
+T4	DRUG 208 211	MPA
+R1	MECHANISM Arg1:T2 Arg2:T3

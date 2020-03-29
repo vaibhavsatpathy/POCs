@@ -1,0 +1,9 @@
+T1	BRAND 0 7	SPIRIVA
+T2	GROUP 134 165	sympathomimetic bronchodilators
+T3	GROUP 167 182	methylxanthines
+T4	GROUP 205 213	steroids
+T5	BRAND 251 258	SPIRIVA
+T6	GROUP 270 285	anticholinergic
+T7	DRUG 312 323	ipratropium
+R1	ADVISE Arg1:T5 Arg2:T6
+R2	ADVISE Arg1:T5 Arg2:T7

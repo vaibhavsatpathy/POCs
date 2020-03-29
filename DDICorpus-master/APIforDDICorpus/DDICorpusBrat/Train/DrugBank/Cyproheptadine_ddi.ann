@@ -1,0 +1,16 @@
+T1	GROUP 0 14	MAO inhibitors
+T2	GROUP 68 82	antihistamines
+T3	GROUP 84 98	Antihistamines
+T4	DRUG 130 137	alcohol
+T5	GROUP 148 163	CNS depressants
+T6	GROUP 171 180	hypnotics
+T7	GROUP 182 191	sedatives
+T8	GROUP 193 206	tranquilizers
+T9	GROUP 208 226	antianxiety agents
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T3 Arg2:T4
+R3	EFFECT Arg1:T3 Arg2:T5
+R4	EFFECT Arg1:T3 Arg2:T6
+R5	EFFECT Arg1:T3 Arg2:T7
+R6	EFFECT Arg1:T3 Arg2:T8
+R7	EFFECT Arg1:T3 Arg2:T9

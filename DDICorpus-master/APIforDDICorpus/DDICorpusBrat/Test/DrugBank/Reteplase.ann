@@ -1,0 +1,12 @@
+T1	BRAND 19 27	Retavase
+T2	DRUG 123 130	heparin
+T3	GROUP 135 156	vitamin K antagonists
+T4	BRAND 202 209	aspirin
+T5	DRUG 211 223	dipyridamole
+T6	DRUG 229 238	abciximab
+T7	BRAND 308 316	Retavase
+R1	EFFECT Arg1:T2 Arg2:T7
+R2	EFFECT Arg1:T3 Arg2:T7
+R3	EFFECT Arg1:T4 Arg2:T7
+R4	EFFECT Arg1:T5 Arg2:T7
+R5	EFFECT Arg1:T6 Arg2:T7

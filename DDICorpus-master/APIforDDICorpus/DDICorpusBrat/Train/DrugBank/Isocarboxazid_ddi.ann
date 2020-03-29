@@ -1,0 +1,14 @@
+T1	DRUG 0 13	Isocarboxazid
+T2	BRAND 72 80	Antabuse
+T3	DRUG 82 92	disulfiram
+T4	GROUP 185 198	MAO inhibitor
+T5	DRUG 204 214	disulfiram
+T6	DRUG 296 309	Isocarboxazid
+T7	GROUP 320 339	psychotropic agents
+T8	DRUG 663 676	Isocarboxazid
+T9	DRUG 824 837	Isocarboxazid
+T10	DRUG 912 925	Isocarboxazid
+R1	ADVISE Arg1:T1 Arg2:T2
+R2	ADVISE Arg1:T1 Arg2:T3
+R3	EFFECT Arg1:T4 Arg2:T5
+R4	ADVISE Arg1:T6 Arg2:T7

@@ -1,0 +1,19 @@
+T1	DRUG_N 10 22	ginsenosides
+T2	DRUG_N 135 147	ginsenosides
+T3	DRUG_N 268 280	ginsenosides
+T4	DRUG_N 523 535	ginsenosides
+T5	GROUP 608 641	selective Ca(2+) channel blockers
+T6	DRUG 642 652	nimodipine
+T7	DRUG_N 663 683	omega-conotoxin GVIA
+T8	DRUG_N 697 715	omega-agatoxin IVA
+T9	DRUG_N 775 787	ginsenosides
+T10	DRUG 914 924	Nimodipine
+T11	DRUG_N 942 954	ginsenosides
+T12	DRUG_N 989 1001	ginsenosides
+T13	DRUG_N 1100 1120	omega-conotoxin GVIA
+T14	DRUG_N 1152 1170	omega-agatoxin IVA
+T15	DRUG 1202 1212	nimodipine
+T16	DRUG_N 1213 1233	omega-conotoxin GVIA
+T17	DRUG_N 1234 1252	omega-agatoxin VIA
+T18	DRUG_N 1364 1376	ginsenosides
+T19	DRUG 1464 1471	ginseng

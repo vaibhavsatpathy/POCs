@@ -1,0 +1,14 @@
+T1	DRUG_N 12 22	buforin II
+T2	DRUG 53 65	azithromycin
+T3	DRUG 70 81	minocycline
+T4	DRUG_N 176 186	buforin II
+T5	DRUG 217 229	azithromycin
+T6	DRUG 234 245	minocycline
+T7	DRUG_N 264 274	Buforin II
+T8	DRUG 461 473	azithromycin
+T9	DRUG 477 488	minocycline
+T10	DRUG_N 554 564	Buforin II
+T11	DRUG 661 673	azithromycin
+T12	DRUG 677 688	minocycline
+R1	EFFECT Arg1:T10 Arg2:T11
+R2	EFFECT Arg1:T10 Arg2:T12

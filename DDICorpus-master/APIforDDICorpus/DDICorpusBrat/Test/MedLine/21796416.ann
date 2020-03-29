@@ -1,0 +1,26 @@
+T1	DRUG 32 41	sunitinib
+T2	DRUG 46 55	docetaxel
+T3	DRUG 184 193	sunitinib
+T4	DRUG 333 342	sunitinib
+T5	DRUG 398 407	sunitinib
+T6	DRUG 412 421	docetaxel
+T7	DRUG 559 568	sunitinib
+T8	DRUG 572 581	docetaxel
+T9	DRUG 825 834	Sunitinib
+T10	DRUG 943 952	docetaxel
+T11	DRUG 1011 1020	sunitinib
+T12	DRUG 1025 1034	docetaxel
+T13	DRUG 1185 1194	docetaxel
+T14	DRUG 1207 1216	sunitinib
+T15	DRUG 1344 1353	docetaxel
+T16	DRUG 1421 1430	sunitinib
+T17	DRUG 1578 1587	Sunitinib
+T18	DRUG 1744 1753	docetaxel
+T19	DRUG 1766 1775	sunitinib
+T20	DRUG 1791 1800	sunitinib
+T21	DRUG 1813 1822	docetaxel
+R1	INT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T11 Arg2:T12
+R3	EFFECT Arg1:T13 Arg2:T14
+R4	EFFECT Arg1:T15 Arg2:T16
+R5	EFFECT Arg1:T18 Arg2:T19

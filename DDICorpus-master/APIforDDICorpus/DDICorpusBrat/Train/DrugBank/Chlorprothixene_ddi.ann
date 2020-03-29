@@ -1,0 +1,29 @@
+T1	DRUG 0 15	Chlorprothixene
+T2	DRUG 69 76	lithium
+T3	DRUG 96 103	lithium
+T4	DRUG 118 125	lithium
+T5	DRUG 172 187	chlorprothixene
+T6	GROUP 216 223	opioids
+T7	GROUP 229 235	opioid
+T8	DRUG 285 300	chlorprothixene
+T9	GROUP 355 362	opioids
+T10	DRUG 403 418	chlorprothixene
+T11	DRUG 423 431	tramadol
+T12	BRAND 433 439	Ultram
+T13	DRUG 573 588	chlorprothixene
+T14	GROUP 603 618	benzodiazepines
+T15	GROUP 622 633	barbituates
+T16	DRUG 717 732	chlorprothixene
+T17	GROUP 744 765	anticholinergic drugs
+T18	GROUP 767 792	tricyclic antidepressants
+T19	GROUP 797 820	antiparkinsonian agents
+R1	MECHANISM Arg1:T1 Arg2:T2
+R2	ADVISE Arg1:T5 Arg2:T6
+R3	EFFECT Arg1:T8 Arg2:T9
+R4	ADVISE Arg1:T10 Arg2:T11
+R5	ADVISE Arg1:T10 Arg2:T12
+R6	EFFECT Arg1:T13 Arg2:T14
+R7	EFFECT Arg1:T13 Arg2:T15
+R8	ADVISE Arg1:T16 Arg2:T17
+R9	ADVISE Arg1:T16 Arg2:T18
+R10	ADVISE Arg1:T16 Arg2:T19

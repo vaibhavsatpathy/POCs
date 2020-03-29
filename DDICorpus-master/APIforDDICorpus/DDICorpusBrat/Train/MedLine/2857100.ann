@@ -1,0 +1,16 @@
+T1	DRUG_N 16 24	cerulein
+T2	DRUG_N 75 90	3H-spiroperidol
+T3	GROUP 137 149	neuroleptics
+T4	DRUG 268 279	haloperidol
+T5	DRUG_N 297 309	pyreneperone
+T6	DRUG_N 367 382	3H-spiroperidol
+T7	DRUG 418 429	apomorphine
+T8	DRUG_N 465 480	3H-spiroperidol
+T9	DRUG 526 537	apomorphine
+T10	GROUP 654 666	neuroleptics
+T11	DRUG_N 692 700	cerulein
+T12	DRUG_N 784 799	3H-spiroperidol
+T13	DRUG_N 858 873	3H-spiroperidol
+T14	DRUG 910 921	apomorphine
+T15	GROUP 999 1011	neuroleptics
+T16	GROUP 1134 1146	neuroleptics

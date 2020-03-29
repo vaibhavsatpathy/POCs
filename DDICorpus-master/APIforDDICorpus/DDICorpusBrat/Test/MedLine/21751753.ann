@@ -1,0 +1,25 @@
+T1	DRUG 0 9	Tamoxifen
+T2	DRUG 43 52	Tamoxifen
+T3	GROUP 57 76	estrogen antagonist
+T4	DRUG_N 243 252	endoxifen
+T5	DRUG 296 305	tamoxifen
+T6	GROUP 365 426	Selective serotonin reuptake inhibitor (SSRI) antidepressants
+T7	DRUG 454 464	Paroxetine
+T8	DRUG 469 479	fluoxetine
+T9	DRUG_N 515 524	endoxifen
+T10	GROUP 631 651	SSRI antidepressants
+T11	DRUG 1003 1012	tamoxifen
+T12	GROUP 1043 1063	SSRI antidepressants
+T13	DRUG 1072 1082	paroxetine
+T14	DRUG 1087 1097	fluoxetine
+T15	GROUP 1134 1153	antidepressant drug
+T16	GROUP 1167 1182	antidepressants
+T17	GROUP 1280 1294	antidepressant
+T18	DRUG 1351 1360	tamoxifen
+T19	DRUG 1366 1377	anastrozole
+R1	MECHANISM Arg1:T7 Arg2:T9
+R2	MECHANISM Arg1:T8 Arg2:T9
+R3	ADVISE Arg1:T11 Arg2:T12
+R4	ADVISE Arg1:T11 Arg2:T13
+R5	ADVISE Arg1:T11 Arg2:T14
+R6	ADVISE Arg1:T17 Arg2:T18

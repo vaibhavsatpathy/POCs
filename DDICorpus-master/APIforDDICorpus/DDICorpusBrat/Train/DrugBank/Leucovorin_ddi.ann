@@ -1,0 +1,15 @@
+T1	DRUG 0 10	Folic acid
+T2	DRUG 71 84	phenobarbital
+T3	DRUG 86 95	phenytoin
+T4	DRUG 100 109	primidone
+T5	DRUG 284 294	leucovorin
+T6	DRUG 419 431	methotrexate
+T7	DRUG 508 518	leucovorin
+T8	DRUG 573 585	methotrexate
+T9	DRUG 587 597	Leucovorin
+T10	DRUG 626 640	5-fluorouracil
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T1 Arg2:T3
+R3	EFFECT Arg1:T1 Arg2:T4
+R4	EFFECT Arg1:T7 Arg2:T8
+R5	EFFECT Arg1:T9 Arg2:T10

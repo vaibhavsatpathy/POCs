@@ -1,0 +1,33 @@
+T1	DRUG 126 139	phenobarbital
+T2	DRUG 141 150	phenytoin
+T3	DRUG 155 163	rifampin
+T4	GROUP 194 209	corticosteroids
+T5	GROUP 239 253	corticosteroid
+T6	DRUG 306 320	troleandomycin
+T7	DRUG 325 337	ketoconazole
+T8	GROUP 368 383	corticosteroids
+T9	GROUP 442 456	corticosteroid
+T10	GROUP 503 518	Corticosteroids
+T11	BRAND 567 574	aspirin
+T12	GROUP 605 615	salicylate
+T13	GROUP 653 663	salicylate
+T14	DRUG 678 692	corticosteroid
+T15	BRAND 707 714	Aspirin
+T16	GROUP 761 777	cortico-steroids
+T17	GROUP 841 856	corticosteroids
+T18	GROUP 865 879	anticoagulants
+T19	GROUP 956 970	anticoagulants
+T20	GROUP 1000 1015	corticosteroids
+R1	MECHANISM Arg1:T1 Arg2:T4
+R2	ADVISE Arg1:T1 Arg2:T5
+R3	MECHANISM Arg1:T2 Arg2:T4
+R4	ADVISE Arg1:T2 Arg2:T5
+R5	MECHANISM Arg1:T3 Arg2:T4
+R6	ADVISE Arg1:T3 Arg2:T5
+R7	MECHANISM Arg1:T6 Arg2:T8
+R8	MECHANISM Arg1:T7 Arg2:T8
+R9	EFFECT Arg1:T10 Arg2:T11
+R10	EFFECT Arg1:T13 Arg2:T14
+R11	ADVISE Arg1:T15 Arg2:T16
+R12	EFFECT Arg1:T17 Arg2:T18
+R13	EFFECT Arg1:T19 Arg2:T20

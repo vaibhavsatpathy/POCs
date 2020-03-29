@@ -1,0 +1,54 @@
+T1	DRUG 10 20	Clonazepam
+T2	DRUG 61 71	Clonazepam
+T3	DRUG 121 130	phenytoin
+T4	DRUG 132 145	carbamazepine
+T5	DRUG 150 163	phenobarbital
+T6	DRUG 179 189	clonazepam
+T7	DRUG 299 309	Clonazepam
+T8	DRUG 343 353	ranitidine
+T9	DRUG 419 429	clonazepam
+T10	DRUG 477 487	clonazepam
+T11	DRUG 551 564	propantheline
+T12	GROUP 569 590	anticholinergic agent
+T13	DRUG 664 674	clonazepam
+T14	DRUG 705 715	clonazepam
+T15	DRUG 783 796	propantheline
+T16	DRUG 834 844	Fluoxetine
+T17	DRUG 885 895	clonazepam
+T18	DRUG 932 941	phenytoin
+T19	DRUG 943 956	carbamazepine
+T20	DRUG 961 974	phenobarbital
+T21	DRUG 983 993	clonazepam
+T22	DRUG 1054 1064	clonazepam
+T23	DRUG 1186 1196	clonazepam
+T24	GROUP 1256 1273	antifungal agents
+T25	DRUG 1323 1333	clonazepam
+T26	GROUP 1398 1418	benzodiazepine class
+T27	DRUG 1450 1457	alcohol
+T28	GROUP 1459 1468	narcotics
+T29	GROUP 1470 1482	barbiturates
+T30	GROUP 1484 1508	nonbarbiturate hypnotics
+T31	GROUP 1510 1528	antianxiety agents
+T32	GROUP 1534 1548;1581 1612	phenothiazines classes of antipsychotic agents
+T33	GROUP 1550 1562;1581 1612	thioxanthene classes of antipsychotic agents
+T34	GROUP 1567 1612	butyrophenone classes of antipsychotic agents
+T35	GROUP 1614 1642	monoamine oxidase inhibitors
+T36	GROUP 1651 1676	tricyclic antidepressants
+T37	GROUP 1691 1711	anticonvulsant drugs
+R1	MECHANISM Arg1:T10 Arg2:T11
+R2	MECHANISM Arg1:T14 Arg2:T15
+R3	MECHANISM Arg1:T18 Arg2:T21
+R4	MECHANISM Arg1:T19 Arg2:T21
+R5	MECHANISM Arg1:T20 Arg2:T21
+R6	ADVISE Arg1:T24 Arg2:T25
+R7	EFFECT Arg1:T26 Arg2:T27
+R8	EFFECT Arg1:T26 Arg2:T28
+R9	EFFECT Arg1:T26 Arg2:T29
+R10	EFFECT Arg1:T26 Arg2:T30
+R11	EFFECT Arg1:T26 Arg2:T31
+R12	EFFECT Arg1:T26 Arg2:T32
+R13	EFFECT Arg1:T26 Arg2:T33
+R14	EFFECT Arg1:T26 Arg2:T34
+R15	EFFECT Arg1:T26 Arg2:T35
+R16	EFFECT Arg1:T26 Arg2:T36
+R17	EFFECT Arg1:T26 Arg2:T37

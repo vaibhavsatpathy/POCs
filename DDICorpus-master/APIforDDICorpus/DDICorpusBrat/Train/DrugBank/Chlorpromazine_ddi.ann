@@ -1,0 +1,33 @@
+T1	GROUP 82 100	antipsychotic drug
+T2	DRUG 106 120	chlorpromazine
+T3	GROUP 126 147	antiparkinsonian drug
+T4	DRUG 153 168	trihexyphenidyl
+T5	GROUP 180 204	tricyclic antidepressant
+T6	DRUG 210 223	amitriptyline
+T7	GROUP 475 491	anti-depressants
+T8	GROUP 492 510	anti-anxiety drugs
+T9	GROUP 555 568	beta-blockers
+T10	DRUG 576 587	propranolol
+T11	DRUG 590 602	sparfloxacin
+T12	DRUG 604 617	grepafloxacin
+T13	DRUG 619 631	guanethidine
+T14	DRUG 633 642	guanadrel
+T15	DRUG 644 655	metrizamide
+T16	DRUG 657 668	cabergoline
+T17	DRUG 670 677	lithium
+T18	GROUP 679 687	narcotic
+T19	DRUG 711 718	codeine
+T20	GROUP 765 779	antihistamines
+T21	DRUG 787 802	diphenhydramine
+R1	EFFECT Arg1:T1 Arg2:T3
+R2	EFFECT Arg1:T1 Arg2:T4
+R3	EFFECT Arg1:T1 Arg2:T5
+R4	EFFECT Arg1:T1 Arg2:T6
+R5	EFFECT Arg1:T2 Arg2:T3
+R6	EFFECT Arg1:T2 Arg2:T4
+R7	EFFECT Arg1:T2 Arg2:T5
+R8	EFFECT Arg1:T2 Arg2:T6
+R9	EFFECT Arg1:T3 Arg2:T5
+R10	EFFECT Arg1:T3 Arg2:T6
+R11	EFFECT Arg1:T4 Arg2:T5
+R12	EFFECT Arg1:T4 Arg2:T6

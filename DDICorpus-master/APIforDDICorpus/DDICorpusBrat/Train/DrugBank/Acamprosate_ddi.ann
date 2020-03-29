@@ -1,0 +1,23 @@
+T1	DRUG 26 33	alcohol
+T2	DRUG 38 49	Acamprosate
+T3	DRUG 97 104	alcohol
+T4	DRUG 108 119	acamprosate
+T5	DRUG 177 187	disulfiram
+T6	DRUG 191 199	diazepam
+T7	DRUG 240 251	acamprosate
+T8	DRUG 274 284	naltrexone
+T9	DRUG 290 301	Acamprosate
+T10	DRUG 367 378	acamprosate
+T11	DRUG 461 471	naltrexone
+T12	DRUG_N 497 513	6-beta-naltrexol
+T13	DRUG 563 574	Acamprosate
+T14	DRUG 669 680	Acamprosate
+T15	GROUP 700 711	anxiolytics
+T16	GROUP 713 722	hypnotics
+T17	GROUP 727 736	sedatives
+T18	GROUP 748 763	benzodiazepines
+T19	GROUP 769 790	non-opioid analgesics
+T20	DRUG 890 901	Acamprosate
+T21	GROUP 921 936	antidepressants
+R1	MECHANISM Arg1:T8 Arg2:T9
+R2	EFFECT Arg1:T20 Arg2:T21

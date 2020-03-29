@@ -1,0 +1,54 @@
+T1	GROUP 57 78	anticholinergic drugs
+T2	GROUP 319 340	anticholinergic drugs
+T3	GROUP 380 393	decongestants
+T4	GROUP 404 415	anesthetics
+T5	GROUP 434 455	sympathomimetic amine
+T6	DRUG 463 474	epinephrine
+T7	DRUG 476 490	norepinephrine
+T8	GROUP 525 550	tricyclic antidepressants
+T9	DRUG 630 654	imipramine hydrochloride
+T10	DRUG 702 726	Imipramine hydrochloride
+T11	GROUP 757 777	CNS depressant drugs
+T12	DRUG 807 817	imipramine
+T13	DRUG 906 916	cimetidine
+T14	DRUG 918 928	fluoxetine
+T15	GROUP 1007 1019	barbiturates
+T16	DRUG 1021 1030	phenytoin
+T17	DRUG 1065 1075	imipramine
+T18	GROUP 1562 1587	tricyclic antidepressants
+T19	GROUP 1589 1593	TCAs
+T20	GROUP 1782 1785	TCA
+T21	GROUP 1956 1959	TCA
+T22	DRUG 2147 2156	quinidine
+T23	DRUG 2158 2168	cimetidine
+T24	GROUP 2224 2239	antidepressants
+T25	GROUP 2241 2255	phenothiazines
+T26	GROUP 2265 2288	Type 1C antiarrhythmics
+T27	DRUG 2289 2300	propafenone
+T28	DRUG 2305 2315	flecainide
+T29	GROUP 2332 2371	selective serotonin reuptake inhibitors
+T30	GROUP 2373 2378	SSRIs
+T31	DRUG 2388 2398	fluoxetine
+T32	DRUG 2400 2410	sertraline
+T33	DRUG 2416 2426	paroxetine
+T34	GROUP 2509 2513	SSRI
+T35	GROUP 2514 2517	TCA
+T36	GROUP 2631 2635	SSRI
+T37	GROUP 2730 2735	SSRIs
+T38	DRUG 2907 2917	fluoxetine
+T39	GROUP 3036 3061	tricyclic antidepressants
+T40	GROUP 3173 3197	tricyclic antidepressant
+T41	GROUP 3314 3338	tricyclic antidepressant
+T42	GROUP 3383 3386	TCA
+T43	GROUP 3412 3415	TCA
+R1	ADVISE Arg1:T3 Arg2:T8
+R2	ADVISE Arg1:T4 Arg2:T8
+R3	ADVISE Arg1:T5 Arg2:T8
+R4	ADVISE Arg1:T6 Arg2:T8
+R5	ADVISE Arg1:T7 Arg2:T8
+R6	EFFECT Arg1:T10 Arg2:T11
+R7	MECHANISM Arg1:T12 Arg2:T13
+R8	MECHANISM Arg1:T12 Arg2:T14
+R9	MECHANISM Arg1:T12 Arg2:T15
+R10	MECHANISM Arg1:T12 Arg2:T16
+R11	INT Arg1:T34 Arg2:T35

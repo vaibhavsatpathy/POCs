@@ -1,0 +1,46 @@
+T1	GROUP 0 31	Beta-adrenergic Blocking Agents
+T2	DRUG 147 157	nifedipine
+T3	GROUP 162 182	beta-blocking agents
+T4	GROUP 407 415	Nitrates
+T5	DRUG 417 427	Nifedipine
+T6	GROUP 463 471	nitrates
+T7	GROUP 578 587	Digitalis
+T8	DRUG 682 689	digoxin
+T9	DRUG 742 749	digoxin
+T10	DRUG 754 764	nifedipine
+T11	DRUG 789 796	digoxin
+T12	DRUG 863 873	nifedipine
+T13	DRUG 967 977	nifedipine
+T14	DRUG 983 990	digoxin
+T15	DRUG 1001 1008	digoxin
+T16	DRUG 1118 1125	digoxin
+T17	DRUG 1267 1274	digoxin
+T18	DRUG 1409 1416	digoxin
+T19	DRUG 1448 1455	digoxin
+T20	DRUG 1522 1532	nifedipine
+T21	DRUG 1582 1591	Quinidine
+T22	DRUG 1676 1685	quinidine
+T23	DRUG 1690 1700	nifedipine
+T24	DRUG 1735 1744	quinidine
+T25	GROUP 1747 1770	Coumarin Anticoagulants
+T26	GROUP 1850 1873	coumarin anticoagulants
+T27	DRUG 1882 1892	nifedipine
+T28	DRUG 1940 1950	nifedipine
+T29	DRUG 1973 1983	Cimetidine
+T30	DRUG 2058 2068	nifedipine
+T31	DRUG 2145 2155	cimetidine
+T32	DRUG 2179 2189	nifedipine
+T33	DRUG 2208 2218	Ranitidine
+T34	DRUG 2318 2328	cimetidine
+T35	DRUG 2430 2440	nifedipine
+T36	DRUG 2445 2455	nifedipine
+T37	DRUG 2510 2520	cimetidine
+R1	EFFECT Arg1:T2 Arg2:T3
+R2	INT Arg1:T9 Arg2:T10
+R3	ADVISE Arg1:T11 Arg2:T12
+R4	MECHANISM Arg1:T14 Arg2:T15
+R5	ADVISE Arg1:T19 Arg2:T20
+R6	MECHANISM Arg1:T22 Arg2:T23
+R7	EFFECT Arg1:T26 Arg2:T27
+R8	MECHANISM Arg1:T31 Arg2:T32
+R9	ADVISE Arg1:T36 Arg2:T37

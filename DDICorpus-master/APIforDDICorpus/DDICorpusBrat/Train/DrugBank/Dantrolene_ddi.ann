@@ -1,0 +1,21 @@
+T1	BRAND 0 8	Dantrium
+T2	DRUG 177 190	phenobarbital
+T3	DRUG 195 203	diazepam
+T4	BRAND 222 230	Dantrium
+T5	DRUG 301 309	diazepam
+T6	DRUG 311 328	diphenylhydantoin
+T7	DRUG 333 347	phenylbutazone
+T8	DRUG 390 398	warfarin
+T9	DRUG 431 442	tolbutamide
+T10	DRUG 522 539	dantrolene sodium
+T11	DRUG 601 618	dantrolene sodium
+T12	DRUG 623 632	verapamil
+T13	DRUG 636 645	halothane
+T14	DRUG 842 859	dantrolene sodium
+T15	GROUP 864 888	calcium channel blockers
+T16	DRUG 898 907	verapamil
+T17	DRUG 1067 1077	dantrolene
+T18	DRUG 1093 1103	vecuronium
+R1	ADVISE Arg1:T14 Arg2:T15
+R2	ADVISE Arg1:T14 Arg2:T16
+R3	EFFECT Arg1:T17 Arg2:T18

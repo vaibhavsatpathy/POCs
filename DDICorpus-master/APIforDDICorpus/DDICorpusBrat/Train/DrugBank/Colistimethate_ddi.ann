@@ -1,0 +1,23 @@
+T1	GROUP 14 25	antibiotics
+T2	GROUP 27 42	aminoglycosides
+T3	GROUP 47 56	polymyxin
+T4	BRAND 231 243	Coly-Mycin M
+T5	BRAND 289 316	Curariform muscle relaxants
+T6	DRUG 322 334	tubocurarine
+T7	DRUG 370 385	succinylcholine
+T8	DRUG 387 396	gallamine
+T9	DRUG 398 411	decamethonium
+T10	DRUG 416 430	sodium citrate
+T11	BRAND 548 560	Coly-Mycin M
+T12	DRUG 573 591	Sodium cephalothin
+T13	BRAND 626 638	Coly-Mycin M
+T14	DRUG 674 692	sodium cephalothin
+T15	BRAND 697 709	Coly-Mycin M
+R1	EFFECT Arg1:T5 Arg2:T11
+R2	EFFECT Arg1:T6 Arg2:T11
+R3	EFFECT Arg1:T7 Arg2:T11
+R4	EFFECT Arg1:T8 Arg2:T11
+R5	EFFECT Arg1:T9 Arg2:T11
+R6	EFFECT Arg1:T10 Arg2:T11
+R7	EFFECT Arg1:T12 Arg2:T13
+R8	ADVISE Arg1:T14 Arg2:T15

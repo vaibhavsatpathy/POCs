@@ -1,0 +1,48 @@
+T1	DRUG 35 42	ethanol
+T2	DRUG 144 151	ethanol
+T3	DRUG 230 243	Acetaminophen
+T4	DRUG 245 254	lidocaine
+T5	DRUG 256 269	phenobarbital
+T6	DRUG 271 280	quinidine
+T7	DRUG 282 294	theophylline
+T8	DRUG 300 313	valproic acid
+T9	DRUG 557 570	acetaminophen
+T10	DRUG 571 584	phenobarbital
+T11	DRUG 586 599	acetaminophen
+T12	DRUG 600 612	theophylline
+T13	DRUG 614 623	lidocaine
+T14	DRUG 624 633	quinidine
+T15	DRUG 635 648	phenobarbital
+T16	DRUG 649 662	acetaminophen
+T17	DRUG 664 677	phenobarbital
+T18	DRUG 678 691	valproic acid
+T19	DRUG 693 702	quinidine
+T20	DRUG 703 712	lidocaine
+T21	DRUG 714 726	theophylline
+T22	DRUG 727 740	acetaminophen
+T23	DRUG 746 759	valproic acid
+T24	DRUG 760 773	phenobarbital
+T25	DRUG 960 973	phenobarbital
+T26	DRUG 975 984	quinidine
+T27	DRUG 990 1002	theophylline
+T28	DRUG 1063 1070	ethanol
+T29	DRUG 1182 1195	Acetaminophen
+T30	DRUG 1222 1234	theophylline
+T31	DRUG 1433 1445	Theophylline
+T32	DRUG 1471 1484	acetaminophen
+T33	DRUG 1565 1578	phenobarbital
+T34	DRUG 1668 1681	Valproic acid
+T35	DRUG 1704 1717	phenobarbital
+T36	DRUG 1885 1892	ethanol
+T37	DRUG 1909 1922	acetaminophen
+T38	DRUG 1928 1940	theophylline
+T39	DRUG 1942 1955	phenobarbital
+T40	DRUG 1961 1974	acetaminophen
+T41	DRUG 1980 1993	valproic acid
+T42	DRUG 1999 2012	phenobarbital
+R1	MECHANISM Arg1:T29 Arg2:T30
+R2	MECHANISM Arg1:T31 Arg2:T32
+R3	MECHANISM Arg1:T34 Arg2:T35
+R4	EFFECT Arg1:T37 Arg2:T38
+R5	EFFECT Arg1:T39 Arg2:T40
+R6	EFFECT Arg1:T41 Arg2:T42

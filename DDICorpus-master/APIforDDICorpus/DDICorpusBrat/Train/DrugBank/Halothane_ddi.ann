@@ -1,0 +1,17 @@
+T1	BRAND 0 9	FLUOTHANE
+T2	GROUP 33 65	non-depolarising muscle relaxant
+T3	GROUP 102 117	aminoglycosides
+T4	BRAND 119 128	FLUOTHANE
+T5	DRUG 201 213	tubocurarine
+T6	DRUG 272 282	adrenaline
+T7	BRAND 314 323	FLUOTHANE
+T8	DRUG 388 398	adrenaline
+T9	GROUP 427 447	antiarrhythmic agent
+T10	GROUP 518 534	sympathomimetics
+T11	DRUG 544 557	aminophylline
+T12	DRUG 562 574	theophylline
+T13	GROUP 579 604	tricyclic antidepressants
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T1 Arg2:T3
+R3	EFFECT Arg1:T4 Arg2:T5
+R4	ADVISE Arg1:T6 Arg2:T7

@@ -1,0 +1,8 @@
+T1	BRAND 21 30	Betaseron
+T2	GROUP 171 185	corticosteroid
+T3	DRUG 189 193	ACTH
+T4	BRAND 297 306	Betaseron
+T5	BRAND 308 317	Betaseron
+T6	DRUG 436 446	antipyrine
+T7	BRAND 519 528	Betaseron
+R1	MECHANISM Arg1:T5 Arg2:T6

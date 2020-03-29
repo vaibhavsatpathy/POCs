@@ -1,0 +1,9 @@
+T1	DRUG 0 9	Dicumarol
+T2	DRUG 14 22	warfarin
+T3	DRUG 91 98	alcohol
+T4	GROUP 100 112	barbiturates
+T5	GROUP 118 123	MAOIs
+T6	DRUG 174 187	ethchlorvynol
+R1	EFFECT Arg1:T3 Arg2:T6
+R2	EFFECT Arg1:T4 Arg2:T6
+R3	EFFECT Arg1:T5 Arg2:T6

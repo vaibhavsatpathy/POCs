@@ -1,0 +1,8 @@
+T1	BRAND 21 28	MYOBLOC
+T2	GROUP 33 48	aminoglycosides
+T3	GROUP 116 137	curare-like compounds
+T4	DRUG 198 203	toxin
+T5	GROUP 262 282	botulinum neurotoxin
+T6	GROUP 481 496	botulinum toxin
+R1	ADVISE Arg1:T1 Arg2:T2
+R2	ADVISE Arg1:T1 Arg2:T3

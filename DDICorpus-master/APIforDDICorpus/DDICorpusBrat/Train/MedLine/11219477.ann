@@ -1,0 +1,18 @@
+T1	DRUG 0 18	Sildenafil citrate
+T2	DRUG 127 145	sildenafil citrate
+T3	DRUG 422 432	sildenafil
+T4	DRUG 759 769	sildenafil
+T5	DRUG 966 976	sildenafil
+T6	BRAND 978 984	Viagra
+T7	DRUG 1021 1031	Sildenafil
+T8	GROUP 1217 1256	selective serotonin reuptake inhibitors
+T9	GROUP 1258 1263	SSRIs
+T10	GROUP 1352 1356	SSRI
+T11	DRUG 1493 1503	sildenafil
+T12	DRUG 1532 1542	sildenafil
+T13	GROUP 1682 1689	nitrate
+T14	DRUG 1780 1790	sildenafil
+T15	DRUG 1899 1909	sildenafil
+T16	DRUG 1999 2009	sildenafil
+T17	DRUG 2024 2034	Sildenafil
+R1	EFFECT Arg1:T13 Arg2:T14

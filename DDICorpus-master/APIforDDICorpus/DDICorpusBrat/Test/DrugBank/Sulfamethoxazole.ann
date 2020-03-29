@@ -1,0 +1,19 @@
+T1	GROUP 51 60	diuretics
+T2	GROUP 72 81	thiazides
+T3	DRUG 180 196	sulfamethoxazole
+T4	GROUP 264 277	anticoagulant
+T5	DRUG 278 286	warfarin
+T6	BRAND 333 341	Gantanol
+T7	DRUG 444 460	Sulfamethoxazole
+T8	DRUG 499 508	phenytoin
+T9	DRUG 527 543	sulfamethoxazole
+T10	DRUG 607 616	phenytoin
+T11	DRUG 783 792	phenytoin
+T12	GROUP 801 813	Sulfonamides
+T13	DRUG 832 844	methotrexate
+T14	DRUG 901 913	methotrexate
+T15	DRUG 946 962	sulfamethoxazole
+R1	EFFECT Arg1:T3 Arg2:T5
+R2	MECHANISM Arg1:T7 Arg2:T8
+R3	MECHANISM Arg1:T9 Arg2:T10
+R4	MECHANISM Arg1:T12 Arg2:T13

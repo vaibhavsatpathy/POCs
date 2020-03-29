@@ -1,0 +1,22 @@
+T1	DRUG 10 19	cisplatin
+T2	DRUG 25 43	sodium thiosulfate
+T3	DRUG 101 110	cisplatin
+T4	DRUG 149 167	Sodium thiosulfate
+T5	DRUG 196 205	cisplatin
+T6	DRUG 276 287	thiosulfate
+T7	DRUG 317 326	cisplatin
+T8	DRUG 372 383	thiosulfate
+T9	DRUG 463 472	cisplatin
+T10	DRUG 474 483	Cisplatin
+T11	DRUG 532 543	thiosulfate
+T12	DRUG 608 617	cisplatin
+T13	DRUG 700 709	cisplatin
+T14	DRUG 769 780	thiosulfate
+T15	DRUG 833 844	thiosulfate
+T16	DRUG 967 976	cisplatin
+T17	DRUG 1057 1066	cisplatin
+T18	DRUG 1131 1142	thiosulfate
+T19	DRUG 1209 1218	cisplatin
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T4 Arg2:T5
+R3	MECHANISM Arg1:T18 Arg2:T19

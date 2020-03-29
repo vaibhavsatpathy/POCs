@@ -1,0 +1,16 @@
+T1	DRUG 95 106	tolbutamide
+T2	DRUG 108 125	sodium salicylate
+T3	DRUG 130 144	sulfamethizole
+T4	DRUG 169 179	teniposide
+T5	DRUG 277 287	teniposide
+T6	BRAND 509 514	VUMON
+T7	DRUG 516 526	teniposide
+T8	DRUG 626 636	teniposide
+T9	DRUG 662 674	methotrexate
+T10	DRUG 709 721	methotrexate
+T11	DRUG 785 797	methotrexate
+T12	DRUG 839 849	teniposide
+R1	MECHANISM Arg1:T1 Arg2:T4
+R2	MECHANISM Arg1:T2 Arg2:T4
+R3	MECHANISM Arg1:T3 Arg2:T4
+R4	MECHANISM Arg1:T11 Arg2:T12

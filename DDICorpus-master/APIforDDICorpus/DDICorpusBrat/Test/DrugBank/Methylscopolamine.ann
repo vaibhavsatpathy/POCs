@@ -1,0 +1,44 @@
+T1	DRUG 0 15	Methscopolamine
+T2	GROUP 34 49	antidepressants
+T3	GROUP 51 60	tricyclic
+T4	GROUP 68 82	MAO inhibitors
+T5	DRUG 90 100	phenelzine
+T6	DRUG 102 111	linezolid
+T7	DRUG 113 128	tranylcypromine
+T8	DRUG 130 143	isocarboxazid
+T9	DRUG 145 155	selegiline
+T10	DRUG 157 169	furazolidone
+T11	DRUG 172 181	quinidine
+T12	DRUG 183 193	amantadine
+T13	GROUP 195 209	antihistamines
+T14	DRUG 217 232	diphenhydramine
+T15	GROUP 241 257	anticholinergics
+T16	DRUG 259 277	potassium chloride
+T17	GROUP 291 299	antacids
+T18	GROUP 301 339	absorbent-type anti-diarrhea medicines
+T19	DRUG 347 353	kaolin
+T20	DRUG 354 360	pectin
+T21	GROUP 363 377	phenothiazines
+T22	DRUG 385 399	chlorpromazine
+T23	DRUG 401 413	promethazine
+R1	INT Arg1:T1 Arg2:T3
+R2	INT Arg1:T1 Arg2:T4
+R3	INT Arg1:T1 Arg2:T5
+R4	INT Arg1:T1 Arg2:T6
+R5	INT Arg1:T1 Arg2:T7
+R6	INT Arg1:T1 Arg2:T8
+R7	INT Arg1:T1 Arg2:T9
+R8	INT Arg1:T1 Arg2:T10
+R9	INT Arg1:T1 Arg2:T11
+R10	INT Arg1:T1 Arg2:T12
+R11	INT Arg1:T1 Arg2:T13
+R12	INT Arg1:T1 Arg2:T14
+R13	INT Arg1:T1 Arg2:T15
+R14	INT Arg1:T1 Arg2:T16
+R15	INT Arg1:T1 Arg2:T17
+R16	INT Arg1:T1 Arg2:T18
+R17	INT Arg1:T1 Arg2:T19
+R18	INT Arg1:T1 Arg2:T20
+R19	INT Arg1:T1 Arg2:T21
+R20	INT Arg1:T1 Arg2:T22
+R21	INT Arg1:T1 Arg2:T23

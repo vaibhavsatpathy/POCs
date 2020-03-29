@@ -1,0 +1,26 @@
+T1	DRUG 94 102	iloprost
+T2	DRUG 114 124	nifedipine
+T3	DRUG 126 135	diltiazem
+T4	DRUG 140 149	captopril
+T5	DRUG 160 168	iloprost
+T6	GROUP 225 237	vasodilators
+T7	GROUP 242 265	antihypertensive agents
+T8	DRUG 273 281	iloprost
+T9	GROUP 402 416	anticoagulants
+T10	DRUG 442 450	iloprost
+T11	GROUP 478 492	anticoagulants
+T12	GROUP 494 503	diuretics
+T13	GROUP 505 523	cardiac glycosides
+T14	GROUP 525 549	calcium channel blockers
+T15	GROUP 551 561	analgesics
+T16	GROUP 563 575	antipyretics
+T17	GROUP 577 608	nonsteroidal antiinflammatories
+T18	GROUP 610 625	corticosteroids
+T19	DRUG 674 682	iloprost
+T20	DRUG 724 731	digoxin
+T21	DRUG 733 753	Acetylsalicylic acid
+T22	DRUG 804 812	iloprost
+T23	DRUG 885 893	iloprost
+R1	EFFECT Arg1:T5 Arg2:T6
+R2	EFFECT Arg1:T5 Arg2:T7
+R3	EFFECT Arg1:T8 Arg2:T9

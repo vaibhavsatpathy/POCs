@@ -1,0 +1,19 @@
+T1	DRUG 70 80	ampicillin
+T2	DRUG 82 93	Allopurinol
+T3	GROUP 181 207	Bacteriostatic Antibiotics
+T4	DRUG 209 224	Chloramphenicol
+T5	DRUG 226 239	erythromycins
+T6	GROUP 241 253	sulfonamides
+T7	GROUP 258 271	tetracyclines
+T8	GROUP 318 329	penicillins
+T9	GROUP 451 465	Contraceptives
+T10	DRUG 536 546	Probenecid
+T11	DRUG 588 598	ampicillin
+T12	DRUG 642 652	ampicillin
+T13	DRUG 717 727	ampicillin
+T14	DRUG_N 795 809	copper sulfate
+R1	EFFECT Arg1:T4 Arg2:T8
+R2	EFFECT Arg1:T5 Arg2:T8
+R3	EFFECT Arg1:T6 Arg2:T8
+R4	EFFECT Arg1:T7 Arg2:T8
+R5	MECHANISM Arg1:T10 Arg2:T11

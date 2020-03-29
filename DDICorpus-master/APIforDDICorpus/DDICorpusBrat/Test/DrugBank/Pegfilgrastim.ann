@@ -1,0 +1,5 @@
+T1	BRAND 43 51	Neulasta
+T2	DRUG 103 110	lithium
+T3	DRUG 173 180	lithium
+T4	BRAND 185 193	Neulasta
+R1	ADVISE Arg1:T3 Arg2:T4

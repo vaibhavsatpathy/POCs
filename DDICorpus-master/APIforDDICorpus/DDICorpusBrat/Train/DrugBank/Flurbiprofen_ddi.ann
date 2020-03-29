@@ -1,0 +1,78 @@
+T1	GROUP 0 8	Antacids
+T2	DRUG 28 40	flurbiprofen
+T3	GROUP 89 96	antacid
+T4	DRUG 130 142	flurbiprofen
+T5	DRUG 267 279	flurbiprofen
+T6	GROUP 292 306	Anticoagulants
+T7	DRUG 308 320	Flurbiprofen
+T8	GROUP 332 368	nonsteroidal anti-inflammatory drugs
+T9	GROUP 437 452	anti-coagulants
+T10	DRUG 555 567	flurbiprofen
+T11	GROUP 587 601	anticoagulants
+T12	BRAND 603 610	Aspirin
+T13	BRAND 641 648	aspirin
+T14	DRUG 653 665	flurbiprofen
+T15	DRUG 694 706	flurbiprofen
+T16	BRAND 738 745	aspirin
+T17	GROUP 795 831	nonsteroidal anti-inflammatory drugs
+T18	DRUG 971 983	flurbiprofen
+T19	BRAND 988 995	aspirin
+T20	GROUP 1026 1057	Beta-adrenergic Blocking Agents
+T21	DRUG 1073 1085	flurbiprofen
+T22	DRUG 1116 1127	propranolol
+T23	DRUG 1132 1140	atenolol
+T24	DRUG 1209 1221	Flurbiprofen
+T25	DRUG 1289 1300	propranolol
+T26	DRUG 1309 1317	atenolol
+T27	DRUG 1319 1331	Flurbiprofen
+T28	DRUG 1408 1420	Flurbiprofen
+T29	DRUG 1532 1543	propranolol
+T30	DRUG 1597 1609	flurbiprofen
+T31	GROUP 1616 1628	beta-blocker
+T32	DRUG 1711 1721	Cimetidine
+T33	DRUG 1723 1733	Ranitidine
+T34	DRUG 1781 1791	cimetidine
+T35	DRUG 1795 1805	ranitidine
+T36	DRUG 1821 1833	flurbiprofen
+T37	DRUG 1968 1980	flurbiprofen
+T38	DRUG 1995 2005	cimetidine
+T39	DRUG 2007 2014	Digoxin
+T40	DRUG 2057 2069	flurbiprofen
+T41	DRUG 2074 2081	digoxin
+T42	GROUP 2176 2185	Diuretics
+T43	DRUG 2232 2244	flurbiprofen
+T44	GROUP 2256 2292	nonsteroidal anti-inflammatory drugs
+T45	DRUG 2328 2338	furosemide
+T46	DRUG 2417 2427	furosemide
+T47	GROUP 2484 2520	nonsteroidal anti-inflammatory drugs
+T48	GROUP 2592 2610	thiazide diuretics
+T49	GROUP 2636 2663	potassium-sparing diuretics
+T50	DRUG 2684 2696	flurbiprofen
+T51	DRUG 2701 2711	furosemide
+T52	GROUP 2721 2730	diuretics
+T53	GROUP 2811 2830	Hypoglycemic Agents
+T54	DRUG 2846 2858	flurbiprofen
+T55	DRUG 2915 2924	glyburide
+T56	DRUG 2932 2941	metformin
+T57	DRUG 2948 2962	chlorpropamide
+T58	DRUG 2968 2978	phenformin
+T59	DRUG 2989 2998	glyburide
+T60	DRUG 3004 3014	phenformin
+T61	DRUG 3127 3139	flurbiprofen
+T62	GROUP 3144 3163	hypoglycemic agents
+R1	EFFECT Arg1:T7 Arg2:T9
+R2	EFFECT Arg1:T8 Arg2:T9
+R3	ADVISE Arg1:T10 Arg2:T11
+R4	MECHANISM Arg1:T13 Arg2:T14
+R5	ADVISE Arg1:T18 Arg2:T19
+R6	EFFECT Arg1:T24 Arg2:T25
+R7	INT Arg1:T28 Arg2:T29
+R8	ADVISE Arg1:T30 Arg2:T31
+R9	MECHANISM Arg1:T37 Arg2:T38
+R10	EFFECT Arg1:T43 Arg2:T45
+R11	EFFECT Arg1:T44 Arg2:T45
+R12	EFFECT Arg1:T47 Arg2:T48
+R13	EFFECT Arg1:T47 Arg2:T49
+R14	ADVISE Arg1:T50 Arg2:T51
+R15	ADVISE Arg1:T50 Arg2:T52
+R16	EFFECT Arg1:T61 Arg2:T62

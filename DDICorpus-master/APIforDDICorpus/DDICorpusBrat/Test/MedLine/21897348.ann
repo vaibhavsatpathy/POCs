@@ -1,0 +1,15 @@
+T1	DRUG 0 10	Ticagrelor
+T2	BRAND 12 20	Brilinta
+T3	DRUG 35 46	clopidogrel
+T4	BRAND 48 54	Plavix
+T5	DRUG 77 87	ticagrelor
+T6	BRAND 89 97	Brilinta
+T7	GROUP 120 137	antiplatelet drug
+T8	BRAND 161 168	aspirin
+T9	DRUG 293 304	clopidogrel
+T10	BRAND 306 312	Plavix
+T11	DRUG 318 327	prasugrel
+T12	BRAND 329 336	Effient
+T13	DRUG 352 363	Clopidogrel
+R1	EFFECT Arg1:T5 Arg2:T8
+R2	EFFECT Arg1:T6 Arg2:T8

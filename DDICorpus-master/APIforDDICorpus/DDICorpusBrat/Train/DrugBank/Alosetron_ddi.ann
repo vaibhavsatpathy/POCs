@@ -1,0 +1,60 @@
+T1	DRUG 8 17	alosetron
+T2	DRUG 156 165	alosetron
+T3	DRUG 167 178	Fluvoxamine
+T4	DRUG 328 339	fluvoxamine
+T5	DRUG 424 433	alosetron
+T6	DRUG 456 467	Fluvoxamine
+T7	DRUG 483 492	alosetron
+T8	DRUG 625 634	alosetron
+T9	DRUG 639 650	fluvoxamine
+T10	DRUG 701 710	alosetron
+T11	GROUP 753 774	quinolone antibiotics
+T12	DRUG 779 789	cimetidine
+T13	DRUG 913 925	Ketoconazole
+T14	DRUG 1029 1041	ketoconazole
+T15	DRUG 1098 1107	alosetron
+T16	DRUG 1130 1142	Ketoconazole
+T17	DRUG 1158 1167	alosetron
+T18	DRUG 1232 1241	alosetron
+T19	DRUG 1246 1258	ketoconazole
+T20	DRUG 1311 1320	alosetron
+T21	DRUG 1359 1373	clarithromycin
+T22	DRUG 1375 1388	telithromycin
+T23	GROUP 1390 1409	protease inhibitors
+T24	DRUG 1411 1423	voriconazole
+T25	DRUG 1429 1441	itraconazole
+T26	DRUG 1622 1631	alosetron
+T27	DRUG 1760 1769	alosetron
+T28	DRUG 1939 1948	alosetron
+T29	DRUG 2033 2042	alosetron
+T30	DRUG 2163 2172	alosetron
+T31	DRUG 2268 2277	isoniazid
+T32	DRUG 2279 2291	procainamide
+T33	DRUG 2297 2308	hydralazine
+T34	DRUG 2389 2401	theophylline
+T35	DRUG 2470 2479	alosetron
+T36	GROUP 2554 2574	contraceptive agents
+T37	DRUG 2575 2592	ethinyl estradiol
+T38	DRUG 2597 2611	levonorgestrel
+T39	DRUG 2686 2695	alosetron
+T40	DRUG 2721 2730	cisapride
+T41	DRUG 2758 2767	cisapride
+T42	DRUG 2820 2829	alosetron
+T43	DRUG 3030 3039	alosetron
+T44	DRUG 3191 3200	Alosetron
+T45	DRUG 3288 3297	Alosetron
+T46	DRUG 3378 3387	alosetron
+R1	MECHANISM Arg1:T6 Arg2:T7
+R2	ADVISE Arg1:T8 Arg2:T9
+R3	ADVISE Arg1:T10 Arg2:T11
+R4	ADVISE Arg1:T10 Arg2:T12
+R5	MECHANISM Arg1:T16 Arg2:T17
+R6	ADVISE Arg1:T18 Arg2:T19
+R7	ADVISE Arg1:T20 Arg2:T21
+R8	ADVISE Arg1:T20 Arg2:T22
+R9	ADVISE Arg1:T20 Arg2:T23
+R10	ADVISE Arg1:T20 Arg2:T24
+R11	ADVISE Arg1:T20 Arg2:T25
+R12	EFFECT Arg1:T30 Arg2:T31
+R13	EFFECT Arg1:T30 Arg2:T32
+R14	EFFECT Arg1:T30 Arg2:T33

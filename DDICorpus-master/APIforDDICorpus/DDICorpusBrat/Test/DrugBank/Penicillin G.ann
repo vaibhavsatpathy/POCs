@@ -1,0 +1,15 @@
+T1	GROUP 29 55	bacteriostatic antibiotics
+T2	DRUG 63 75	erythromycin
+T3	DRUG 77 89	tetracycline
+T4	GROUP 132 143	penicillins
+T5	GROUP 506 517	antibiotics
+T6	GROUP 630 643	antibacterial
+T7	GROUP 738 748	Penicillin
+T8	DRUG 811 821	probenecid
+T9	GROUP 866 877	penicillins
+T10	GROUP 895 905	penicillin
+T11	GROUP 971 981	penicillin
+R1	EFFECT Arg1:T1 Arg2:T4
+R2	EFFECT Arg1:T2 Arg2:T4
+R3	EFFECT Arg1:T3 Arg2:T4
+R4	MECHANISM Arg1:T7 Arg2:T8

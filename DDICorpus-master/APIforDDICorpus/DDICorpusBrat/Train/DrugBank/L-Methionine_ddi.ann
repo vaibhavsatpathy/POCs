@@ -1,0 +1,11 @@
+T1	DRUG 0 13	Acetaminophen
+T2	DRUG 18 30	methotrexate
+T3	DRUG 33 45	L-methionine
+T4	DRUG 90 103	acetaminophen
+T5	DRUG 134 146	methotrexate
+T6	DRUG 255 265	Gentamicin
+T7	DRUG 268 278	Methionine
+T8	DRUG 323 333	gentamicin
+R1	EFFECT Arg1:T3 Arg2:T4
+R2	EFFECT Arg1:T3 Arg2:T5
+R3	EFFECT Arg1:T7 Arg2:T8

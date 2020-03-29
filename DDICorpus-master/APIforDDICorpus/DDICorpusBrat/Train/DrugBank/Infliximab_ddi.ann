@@ -1,0 +1,31 @@
+T1	DRUG 29 39	etanercept
+T2	DRUG 74 82	anakinra
+T3	GROUP 87 111	interleukin-1 antagonist
+T4	GROUP 289 309	TNFa-blocking agents
+T5	BRAND 321 329	REMICADE
+T6	DRUG 356 364	anakinra
+T7	DRUG 467 470	MTX
+T8	DRUG 685 688	MTX
+T9	GROUP 694 731	nonsteroidal anti-inflammatory agents
+T10	DRUG 733 743	folic acid
+T11	GROUP 745 760	corticosteroids
+T12	GROUP 768 777	narcotics
+T13	GROUP 824 835	antibiotics
+T14	GROUP 837 847	antivirals
+T15	GROUP 849 864	corticosteroids
+T16	DRUG 866 870	6-MP
+T17	DRUG 871 874	AZA
+T18	DRUG 970 973	MTX
+T19	GROUP 1023 1060	nonsteroidal anti-inflammatory agents
+T20	DRUG 1062 1072	folic acid
+T21	GROUP 1077 1092	corticosteroids
+T22	GROUP 1137 1155	immunosuppressants
+T23	GROUP 1229 1247	immunosuppressants
+T24	DRUG 1255 1265	infliximab
+T25	GROUP 1385 1400	corticosteroids
+T26	GROUP 1402 1413	antibiotics
+T27	DRUG 1415 1428	metronidazole
+T28	DRUG 1432 1445	ciprofloxacin
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T4 Arg2:T6
+R3	EFFECT Arg1:T5 Arg2:T6

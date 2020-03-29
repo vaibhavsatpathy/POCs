@@ -1,0 +1,37 @@
+T1	DRUG 57 68	terbinafine
+T2	DRUG 104 115	tolbutamide
+T3	DRUG 117 133	ethinylestradiol
+T4	DRUG_N 135 149	ethoxycoumarin
+T5	DRUG 155 167	cyclosporine
+T6	DRUG 207 218	terbinafine
+T7	GROUP 354 379	tricyclic antidepressants
+T8	GROUP 395 434	selective serotonin reuptake inhibitors
+T9	GROUP 436 441	SSRIs
+T10	GROUP 448 492	monoamine oxidase inhibitors (MAO-Is) Type B
+T11	DRUG 625 636	terbinafine
+T12	DRUG 670 680	antipyrine
+T13	DRUG 684 691	digoxin
+T14	DRUG 693 704	Terbinafine
+T15	DRUG 732 740	caffeine
+T16	DRUG 749 760	Terbinafine
+T17	DRUG 788 800	cyclosporine
+T18	DRUG 928 939	terbinafine
+T19	DRUG 944 952	warfarin
+T20	BRAND 993 1000	LAMISIL
+T21	DRUG 1056 1067	Terbinafine
+T22	DRUG 1099 1107	rifampin
+T23	DRUG 1155 1165	cimetidine
+T24	DRUG 1194 1205	Terbinafine
+T25	DRUG 1233 1245	cyclosporine
+T26	GROUP 1367 1381	contraceptives
+T27	GROUP 1414 1427	hypoglycemics
+T28	DRUG 1429 1442	theophyllines
+T29	DRUG 1444 1454	phenytoins
+T30	GROUP 1456 1474	thiazide diuretics
+T31	GROUP 1476 1489	beta blockers
+T32	GROUP 1495 1519	calcium channel blockers
+R1	MECHANISM Arg1:T14 Arg2:T15
+R2	MECHANISM Arg1:T16 Arg2:T17
+R3	EFFECT Arg1:T18 Arg2:T19
+R4	MECHANISM Arg1:T21 Arg2:T22
+R5	MECHANISM Arg1:T21 Arg2:T23

@@ -1,0 +1,11 @@
+T1	BRAND 0 7	Posicor
+T2	DRUG 78 89	terfenadine
+T3	DRUG 91 101	astemizole
+T4	DRUG 103 112	cisapride
+T5	DRUG 114 126	cyclosporine
+T6	GROUP 132 157	tricyclic antidepressants
+R1	MECHANISM Arg1:T1 Arg2:T2
+R2	MECHANISM Arg1:T1 Arg2:T3
+R3	MECHANISM Arg1:T1 Arg2:T4
+R4	MECHANISM Arg1:T1 Arg2:T5
+R5	MECHANISM Arg1:T1 Arg2:T6

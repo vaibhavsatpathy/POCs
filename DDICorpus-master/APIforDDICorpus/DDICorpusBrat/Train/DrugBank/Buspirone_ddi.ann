@@ -1,0 +1,29 @@
+T1	DRUG 23 46	buspirone hydrochloride
+T2	GROUP 78 92	MAO inhibitors
+T3	DRUG 146 159	buspirone HCl
+T4	GROUP 176 194	psychotropic drugs
+T5	DRUG 241 254	buspirone HCl
+T6	DRUG 377 400	trazodone hydrochloride
+T7	BRAND 402 409	Desyrel
+T8	DRUG 415 428	buspirone HCl
+T9	DRUG 686 699	buspirone HCl
+T10	DRUG 704 715	haloperidol
+T11	DRUG 744 755	haloperidol
+T12	DRUG 838 847	buspirone
+T13	DRUG 891 900	phenytoin
+T14	DRUG 902 913	propranolol
+T15	DRUG 919 927	warfarin
+T16	DRUG 1019 1028	buspirone
+T17	DRUG 1080 1088	warfarin
+T18	DRUG 1133 1142	phenytoin
+T19	DRUG 1144 1157	phenobarbital
+T20	DRUG 1159 1166	digoxin
+T21	DRUG 1172 1192	levothyroxine sodium
+T22	DRUG 1204 1213	buspirone
+T23	DRUG 1256 1263	digoxin
+R1	ADVISE Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T6 Arg2:T8
+R3	EFFECT Arg1:T7 Arg2:T8
+R4	MECHANISM Arg1:T9 Arg2:T10
+R5	EFFECT Arg1:T16 Arg2:T17
+R6	MECHANISM Arg1:T22 Arg2:T23

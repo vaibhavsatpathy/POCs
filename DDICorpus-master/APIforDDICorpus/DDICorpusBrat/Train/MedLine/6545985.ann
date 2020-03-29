@@ -1,0 +1,18 @@
+T1	DRUG_N 50 61	neurotensin
+T2	DRUG_N 66 77	enkephalins
+T3	DRUG_N 81 88	tuftsin
+T4	DRUG_N 149 160	neurotensin
+T5	DRUG_N 170 181	enkephalins
+T6	DRUG_N 208 233	D-Ala2-metenkephalinamide
+T7	DRUG_N 238 245	tuftsin
+T8	DRUG_N 408 419	neurotensin
+T9	DRUG_N 472 483	enkephalins
+T10	DRUG_N 521 532	neurotensin
+T11	DRUG_N 537 544	tuftsin
+T12	DRUG_N 607 618	neurotensin
+T13	DRUG_N 718 725	tuftsin
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T1 Arg2:T3
+R3	EFFECT Arg1:T8 Arg2:T9
+R4	EFFECT Arg1:T10 Arg2:T11
+R5	EFFECT Arg1:T12 Arg2:T13

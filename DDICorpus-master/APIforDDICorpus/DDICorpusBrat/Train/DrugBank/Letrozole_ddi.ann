@@ -1,0 +1,8 @@
+T1	DRUG 34 44	cimetidine
+T2	DRUG 49 57	warfarin
+T3	BRAND 97 103	Femara
+T4	BRAND 231 237	Femara
+T5	DRUG 242 251	tamoxifen
+T6	DRUG 291 300	letrozole
+T7	BRAND 388 394	Femara
+R1	MECHANISM Arg1:T4 Arg2:T5

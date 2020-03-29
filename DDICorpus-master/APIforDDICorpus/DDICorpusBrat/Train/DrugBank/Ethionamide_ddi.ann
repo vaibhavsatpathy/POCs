@@ -1,0 +1,10 @@
+T1	BRAND 0 8	Trecator
+T2	DRUG 69 78	isoniazid
+T3	BRAND 80 88	Trecator
+T4	GROUP 133 154	antituberculous drugs
+T5	DRUG 234 245	ethionamide
+T6	DRUG 267 278	cycloserine
+T7	DRUG 379 386	ethanol
+R1	MECHANISM Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T3 Arg2:T4
+R3	EFFECT Arg1:T5 Arg2:T6

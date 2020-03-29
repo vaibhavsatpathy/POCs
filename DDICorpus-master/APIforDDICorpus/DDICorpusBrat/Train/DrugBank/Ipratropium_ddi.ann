@@ -1,0 +1,13 @@
+T1	BRAND 0 8	ATROVENT
+T2	GROUP 84 115	sympathomimetic bronchodilators
+T3	GROUP 117 132	methylxanthines
+T4	GROUP 138 146	steroids
+T5	DRUG 243 252	albuterol
+T6	BRAND 326 334	ATROVENT
+T7	GROUP 401 423	Anticholinergic agents
+T8	DRUG 434 453	ipratropium bromide
+T9	GROUP 583 610	anticholinergic medications
+T10	BRAND 668 676	ATROVENT
+T11	GROUP 707 722	anticholinergic
+R1	EFFECT Arg1:T8 Arg2:T9
+R2	ADVISE Arg1:T10 Arg2:T11

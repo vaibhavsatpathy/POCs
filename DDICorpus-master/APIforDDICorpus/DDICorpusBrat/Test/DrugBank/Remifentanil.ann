@@ -1,0 +1,15 @@
+T1	DRUG 49 64	succinylcholine
+T2	DRUG 85 97	remifentanil
+T3	DRUG 99 111	Remifentanil
+T4	DRUG 170 180	thiopental
+T5	DRUG 182 192	isoflurane
+T6	DRUG 194 202	propofol
+T7	DRUG 207 216	temazepam
+T8	DRUG 258 268	atracurium
+T9	DRUG 270 280	mivacurium
+T10	DRUG 282 289	esmolol
+T11	DRUG 291 304	echothiophate
+T12	DRUG 306 317	neostigmine
+T13	DRUG 319 332	physostigmine
+T14	DRUG 338 347	midazolam
+T15	DRUG 374 386	remifentanil

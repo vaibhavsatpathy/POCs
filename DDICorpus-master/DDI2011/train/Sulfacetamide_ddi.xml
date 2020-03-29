@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DrugDDI.d232" origId="Sulfacetamide"><sentence id="DrugDDI.d232.s0" origId="s0" text="Sulfacetamide preparations are incompatible with silver preparations."><entity id="DrugDDI.d232.s0.e0" origId="s0.p0" charOffset="0-25" type="drug" text="Sulfacetamide preparation"/><entity id="DrugDDI.d232.s0.e1" origId="s0.p3" charOffset="49-67" type="drug" text="silver preparation"/><pair id="DrugDDI.d232.s0.p0" e1="DrugDDI.d232.s0.e0" e2="DrugDDI.d232.s0.e1" interaction="false"/></sentence></document>

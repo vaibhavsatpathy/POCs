@@ -1,0 +1,13 @@
+T1	DRUG 22 33	pentazocine
+T2	DRUG 38 52	tripelennamine
+T3	DRUG 179 190	pentazocine
+T4	DRUG 195 209	tripelennamine
+T5	DRUG_N 757 763	heroin
+T6	DRUG 776 787	pentazocine
+T7	DRUG 792 806	tripelennamine
+T8	DRUG 973 987	tripelennamine
+T9	DRUG 1068 1079	pentazocine
+T10	DRUG 1186 1197	pentazocine
+T11	DRUG 1202 1216	tripelennamine
+R1	EFFECT Arg1:T6 Arg2:T7
+R2	EFFECT Arg1:T8 Arg2:T9

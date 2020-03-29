@@ -1,0 +1,40 @@
+T1	DRUG 73 83	fluoxetine
+T2	GROUP 131 142	antibiotics
+T3	DRUG 151 163	erythromycin
+T4	DRUG 165 179	clarithromycin
+T5	DRUG 183 195	azithromycin
+T6	GROUP 236 250	MAO inhibitors
+T7	GROUP 314 325	antibiotics
+T8	DRUG 335 347	erythromycin
+T9	DRUG 349 363	clarithromycin
+T10	DRUG 368 380	azithromycin
+T11	GROUP 421 435	MAO inhibitors
+T12	GROUP 468 481	MAO inhibitor
+T13	GROUP 649 663	MAO inhibitors
+T14	GROUP 724 738	MAO inhibitors
+T15	DRUG 768 780	escitalopram
+T16	GROUP 799 826	non-selective MAO inhibitor
+T17	GROUP 859 872	MAO inhibitor
+T18	DRUG 889 901	escitalopram
+T19	BRAND 955 962	Imitrex
+T20	GROUP 1035 1059	tricyclic antidepressant
+T21	GROUP 1277 1290	blood thinner
+T22	BRAND 1293 1301	Coumadin
+T23	GROUP 1309 1324	antidepressants
+T24	DRUG 1325 1335	metoprolol
+T25	GROUP 1336 1350	antihistamines
+T26	DRUG 1351 1364	carbamazepine
+T27	BRAND 1366 1374	Tegretol
+T28	DRUG 1376 1386	cimetidine
+T29	BRAND 1388 1395	Tagamet
+T30	GROUP 1397 1406	estrogens
+T31	DRUG 1407 1417	fluoxetine
+T32	BRAND 1419 1425	Prozac
+T33	BRAND 1442 1450	Sporanox
+T34	DRUG 1452 1464	ketoconazole
+T35	BRAND 1466 1473	Nizoral
+T36	DRUG 1475 1483	levodopa
+T37	DRUG 1484 1491	lithium
+T38	GROUP 1492 1508	muscle relaxants
+R1	ADVISE Arg1:T15 Arg2:T16
+R2	ADVISE Arg1:T17 Arg2:T18

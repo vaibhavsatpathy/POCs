@@ -1,0 +1,25 @@
+T1	GROUP 0 5	Ergot
+T2	DRUG 164 174	ergotamine
+T3	GROUP 189 211	ergot-type medications
+T4	DRUG 218 235	dihydroergotamine
+T5	DRUG 239 251	methysergide
+T6	DRUG 257 268	naratriptan
+T7	DRUG 327 338	naratriptan
+T8	GROUP 350 364	5-HT1 agonists
+T9	DRUG 481 492	naratriptan
+T10	GROUP 503 517	5-HT1 agonists
+T11	GROUP 568 607	Selective serotonin reuptake inhibitors
+T12	GROUP 609 614	SSRIs
+T13	DRUG 623 633	fluoxetine
+T14	DRUG 635 646	fluvoxamine
+T15	DRUG 648 658	paroxetine
+T16	DRUG 660 670	sertraline
+T17	DRUG 824 835	naratriptan
+T18	GROUP 843 847	SSRI
+T19	BRAND 959 965	AMERGE
+R1	ADVISE Arg1:T2 Arg2:T6
+R2	ADVISE Arg1:T3 Arg2:T6
+R3	ADVISE Arg1:T4 Arg2:T6
+R4	ADVISE Arg1:T5 Arg2:T6
+R5	ADVISE Arg1:T9 Arg2:T10
+R6	ADVISE Arg1:T17 Arg2:T18

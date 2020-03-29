@@ -1,0 +1,13 @@
+T1	GROUP 0 14	Phenothiazines
+T2	GROUP 43 58	CNS depressants
+T3	GROUP 66 78	barbiturates
+T4	GROUP 80 91	anesthetics
+T5	GROUP 93 100	opiates
+T6	DRUG 102 109	alcohol
+T7	DRUG 128 136	atropine
+T8	DRUG_N 141 165	phosphorous insecticides
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T1 Arg2:T3
+R3	EFFECT Arg1:T1 Arg2:T4
+R4	EFFECT Arg1:T1 Arg2:T5
+R5	EFFECT Arg1:T1 Arg2:T6

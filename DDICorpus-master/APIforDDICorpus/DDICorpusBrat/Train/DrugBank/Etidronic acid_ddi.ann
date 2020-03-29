@@ -1,0 +1,4 @@
+T1	DRUG 100 110	etidronate
+T2	DRUG 124 132	warfarin
+T3	DRUG 373 381	warfarin
+R1	EFFECT Arg1:T1 Arg2:T2

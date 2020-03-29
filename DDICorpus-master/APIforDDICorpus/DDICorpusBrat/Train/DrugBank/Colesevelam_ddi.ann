@@ -1,0 +1,19 @@
+T1	BRAND 0 7	WelChol
+T2	BRAND 128 135	WelChol
+T3	DRUG 203 210	digoxin
+T4	DRUG 212 222	lovastatin
+T5	DRUG 224 234	metoprolol
+T6	DRUG 236 245	quinidine
+T7	DRUG 247 260	valproic acid
+T8	DRUG 266 274	warfarin
+T9	BRAND 276 283	WelChol
+T10	DRUG 333 342	verapamil
+T11	BRAND 344 352	Calan SR
+T12	DRUG 469 478	verapamil
+T13	BRAND 575 582	WelChol
+T14	DRUG 589 601	atorvastatin
+T15	DRUG 603 613	lovastatin
+T16	DRUG 618 629	simvastatin
+T17	GROUP 688 715	HMG-CoA reductase inhibitor
+R1	MECHANISM Arg1:T9 Arg2:T10
+R2	MECHANISM Arg1:T9 Arg2:T11

@@ -1,0 +1,22 @@
+T1	DRUG 0 12	Theophylline
+T2	DRUG 74 84	ceftibuten
+T3	DRUG 142 152	ceftibuten
+T4	DRUG 220 232	theophylline
+T5	DRUG 268 280	theophylline
+T6	DRUG 313 323	ceftibuten
+T7	DRUG 351 363	theophylline
+T8	GROUP 411 419	Antacids
+T9	GROUP 423 448	H 2 -receptor antagonists
+T10	DRUG 511 521	ceftibuten
+T11	DRUG 611 621	ceftibuten
+T12	GROUP 655 662	antacid
+T13	DRUG 698 708	ceftibuten
+T14	DRUG 729 739	ranitidine
+T15	DRUG 770 780	ceftibuten
+T16	DRUG 798 808	ceftibuten
+T17	DRUG 977 987	ceftibuten
+T18	GROUP 1085 1099	cephalosporins
+T19	DRUG 1271 1281	ceftibuten
+T20	DRUG 1358 1368	ceftibuten
+R1	MECHANISM Arg1:T14 Arg2:T15
+R2	MECHANISM Arg1:T14 Arg2:T16

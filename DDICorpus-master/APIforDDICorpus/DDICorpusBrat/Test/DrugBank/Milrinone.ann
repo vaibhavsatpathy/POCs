@@ -1,0 +1,22 @@
+T1	BRAND 99 107	PRIMACOR
+T2	GROUP 156 176	digitalis glycosides
+T3	DRUG 178 187	lidocaine
+T4	DRUG 189 198	quinidine
+T5	DRUG 200 211	hydralazine
+T6	DRUG 213 221	prazosin
+T7	DRUG 223 243	isosorbide dinitrate
+T8	DRUG 245 258	nitroglycerin
+T9	DRUG 260 274	chlorthalidone
+T10	DRUG 276 286	furosemide
+T11	DRUG 288 307	hydrochlorothiazide
+T12	DRUG 309 323	spironolactone
+T13	DRUG 325 334	captopril
+T14	DRUG 336 343	heparin
+T15	DRUG 345 353	warfarin
+T16	DRUG 355 363	diazepam
+T17	DRUG 365 372	insulin
+T18	DRUG 378 387	potassium
+T19	DRUG 524 534	furosemide
+T20	BRAND 590 598	PRIMACOR
+T21	DRUG 611 621	furosemide
+T22	BRAND 681 689	PRIMACOR

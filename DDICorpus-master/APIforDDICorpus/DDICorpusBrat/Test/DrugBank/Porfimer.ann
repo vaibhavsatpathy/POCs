@@ -1,0 +1,17 @@
+T1	BRAND 49 58	PHOTOFRIN
+T2	GROUP 137 160	photosensitizing agents
+T3	GROUP 168 181	tetracyclines
+T4	GROUP 183 195	sulfonamides
+T5	GROUP 197 211	phenothiazines
+T6	GROUP 213 225	sulfonylurea
+T7	GROUP 247 265	thiazide diuretics
+T8	DRUG 271 283	griseofulvin
+T9	BRAND 331 340	PHOTOFRIN
+T10	DRUG_N 892 910	dimethyl sufloxide
+T11	DRUG 912 922	b-carotene
+T12	DRUG 924 931	ethanol
+T13	DRUG_N 933 940	formate
+T14	DRUG 945 953	mannitol
+T15	DRUG 1050 1061	allopurinol
+T16	GROUP 1063 1087	calcium channel blockers
+T17	GROUP 1312 1326	Glucocorticoid

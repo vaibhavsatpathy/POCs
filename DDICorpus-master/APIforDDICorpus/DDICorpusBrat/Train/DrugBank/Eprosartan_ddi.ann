@@ -1,0 +1,16 @@
+T1	DRUG 0 10	Eprosartan
+T2	DRUG 71 78	digoxin
+T3	DRUG 107 115	warfarin
+T4	DRUG 120 129	glyburide
+T5	DRUG 222 232	eprosartan
+T6	DRUG 363 375	ketoconazole
+T7	DRUG 380 391	fluconazole
+T8	DRUG 480 490	eprosartan
+T9	DRUG 509 519	Ranitidine
+T10	DRUG 542 552	eprosartan
+T11	DRUG 571 581	Eprosartan
+T12	GROUP 668 685	thiazide diuretic
+T13	DRUG 687 706	hydrochlorothiazide
+T14	DRUG 709 719	Eprosartan
+T15	GROUP 808 832	calcium channel blockers
+T16	DRUG 852 862	nifedipine

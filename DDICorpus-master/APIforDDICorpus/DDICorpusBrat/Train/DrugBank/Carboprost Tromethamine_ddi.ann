@@ -1,0 +1,4 @@
+T1	BRAND 0 8	HEMABATE
+T2	GROUP 43 58	oxytocic agents
+T3	GROUP 87 102	oxytocic agents
+R1	EFFECT Arg1:T1 Arg2:T2

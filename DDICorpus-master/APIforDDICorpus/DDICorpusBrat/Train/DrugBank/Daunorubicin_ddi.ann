@@ -1,0 +1,12 @@
+T1	BRAND 7 17	Cerubidine
+T2	DRUG 59 70	doxorubicin
+T3	BRAND 109 119	Cerubidine
+T4	DRUG 224 235	doxorubicin
+T5	BRAND 239 249	Cerubidine
+T6	DRUG 251 267	Cyclophosphamide
+T7	BRAND 291 301	Cerubidine
+T8	BRAND 367 377	Cerubidine
+T9	DRUG 496 508	methotrexate
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	ADVISE Arg1:T3 Arg2:T4
+R3	EFFECT Arg1:T6 Arg2:T7

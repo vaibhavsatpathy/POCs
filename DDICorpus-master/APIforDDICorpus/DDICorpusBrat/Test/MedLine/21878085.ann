@@ -1,0 +1,11 @@
+T1	GROUP 1 26	Cyclooxygenase inhibitors
+T2	DRUG 54 74	acetylsalicylic acid
+T3	GROUP 98 134	nonsteroidal anti-inflammatory drugs
+T4	GROUP 163 199	Nonsteroidal anti-inflammatory drugs
+T5	GROUP 201 207	NSAIDs
+T6	GROUP 368 373	NSAID
+T7	GROUP 431 436	NSAID
+T8	BRAND 535 542	aspirin
+T9	GROUP 635 660	cyclooxygenase inhibitors
+T10	DRUG 665 685	acetylsalicylic acid
+T11	GROUP 727 731	NSAI

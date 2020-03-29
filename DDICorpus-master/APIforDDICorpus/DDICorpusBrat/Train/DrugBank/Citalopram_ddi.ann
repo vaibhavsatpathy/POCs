@@ -1,0 +1,12 @@
+T1	GROUP 0 33	Central nervous system depressant
+T2	DRUG 56 63	alcohol
+T3	GROUP 65 80	antidepressants
+T4	GROUP 82 96	antihistamines
+T5	GROUP 98 112	antipsychotics
+T6	DRUG 142 151	reserpine
+T7	DRUG 153 163	methyldopa
+T8	GROUP 165 178	beta-blockers
+T9	GROUP 210 226	muscle relaxants
+T10	GROUP 228 237	narcotics
+T11	GROUP 239 248	sedatives
+T12	GROUP 269 282	tranquilizers

@@ -1,0 +1,4 @@
+T1	DRUG 11 18	Alcohol
+T2	DRUG 80 87	alcohol
+T3	DRUG 156 167	pentazocine
+R1	ADVISE Arg1:T2 Arg2:T3

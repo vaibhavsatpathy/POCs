@@ -1,0 +1,13 @@
+T1	DRUG 2 12	Lofexidine
+T2	DRUG 55 62	alcohol
+T3	GROUP 64 76	barbiturates
+T4	GROUP 87 96	sedatives
+T5	DRUG 101 111	Lofexidine
+T6	GROUP 139 161	anti-hypertensive drug
+T7	GROUP 193 218	tricyclic antidepressants
+T8	DRUG 246 256	lofexidine
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T1 Arg2:T3
+R3	EFFECT Arg1:T1 Arg2:T4
+R4	EFFECT Arg1:T5 Arg2:T6
+R5	EFFECT Arg1:T7 Arg2:T8

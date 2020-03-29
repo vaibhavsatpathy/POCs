@@ -1,0 +1,30 @@
+T1	DRUG 66 77	Finasteride
+T2	DRUG 211 221	antipyrine
+T3	DRUG 223 230	digoxin
+T4	DRUG 232 243	propranolol
+T5	DRUG 245 257	theophylline
+T6	DRUG 263 271	warfarin
+T7	DRUG 410 421	finasteride
+T8	DRUG 493 506	acetaminophen
+T9	DRUG 508 528	acetylsalicylic acid
+T10	GROUP 542 552	analgesics
+T11	GROUP 554 600	angiotensin-converting enzyme (ACE) inhibitors
+T12	GROUP 602 617	anticonvulsants
+T13	GROUP 619 634	benzodiazepines
+T14	GROUP 636 649	beta blockers
+T15	GROUP 651 675	calcium-channel blockers
+T16	GROUP 685 693	nitrates
+T17	GROUP 695 704	diuretics
+T18	GROUP 706 720	H2 antagonists
+T19	GROUP 722 750	HMG-CoA reductase inhibitors
+T20	GROUP 752 787	prostaglandin synthetase inhibitors
+T21	GROUP 809 815	NSAIDs
+T22	GROUP 822 847	quinolone anti-infectives
+T23	DRUG 947 958	Finasteride
+T24	DRUG 1232 1243	finasteride
+T25	DRUG 1408 1419	finasteride
+T26	BRAND 1597 1605	PROPECIA
+T27	DRUG 1607 1618	finasteride
+T28	BRAND 1806 1813	PROSCAR
+T29	DRUG 1815 1826	finasteride
+T30	DRUG 2065 2076	finasteride

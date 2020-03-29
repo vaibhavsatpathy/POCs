@@ -1,0 +1,12 @@
+T1	GROUP 12 25	tetracyclines
+T2	GROUP 102 115	anticoagulant
+T3	GROUP 165 178	anticoagulant
+T4	GROUP 227 245	tetracycline class
+T5	GROUP 249 260	antibiotics
+T6	GROUP 308 319	penicillins
+T7	GROUP 400 413	tetracyclines
+T8	GROUP 424 438	contraceptives
+T9	GROUP 455 469	contraceptives
+R1	ADVISE Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T4 Arg2:T6
+R3	EFFECT Arg1:T7 Arg2:T8

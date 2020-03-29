@@ -1,0 +1,13 @@
+T1	DRUG 140 148	rifampin
+T2	GROUP 217 229	barbiturates
+T3	DRUG 231 245	phenylbutazone
+T4	DRUG 247 263	phenytoin sodium
+T5	DRUG 265 278	carbamazepine
+T6	DRUG 280 292	griseofulvin
+T7	DRUG 294 304	topiramate
+T8	DRUG 324 334	ampicillin
+T9	GROUP 339 352	tetracyclines
+T10	GROUP 404 427	hormonal contraceptives
+T11	GROUP 499 512	contraceptive
+T12	GROUP 636 668	combined hormonal contraceptives
+T13	GROUP 829 843	contraceptives

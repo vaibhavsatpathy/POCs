@@ -1,0 +1,11 @@
+T1	GROUP 6 45	beta adrenergic aerosol bronchodilators
+T2	BRAND 84 91	Alupent
+T3	DRUG 96 118	metaproterenol sulfate
+T4	GROUP 164 188	Beta adrenergic agonists
+T5	GROUP 256 284	monoamine oxidase inhibitors
+T6	GROUP 288 313	tricyclic antidepressants
+T7	GROUP 335 359	beta adrenergic agonists
+R1	ADVISE Arg1:T1 Arg2:T2
+R2	ADVISE Arg1:T1 Arg2:T3
+R3	ADVISE Arg1:T4 Arg2:T5
+R4	ADVISE Arg1:T4 Arg2:T6

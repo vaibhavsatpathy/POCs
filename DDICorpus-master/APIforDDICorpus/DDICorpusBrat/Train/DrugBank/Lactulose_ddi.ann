@@ -1,0 +1,5 @@
+T1	GROUP 77 85	antacids
+T2	DRUG 110 119	lactulose
+T3	DRUG 144 153	lactulose
+T4	DRUG 322 331	lactulose
+R1	MECHANISM Arg1:T1 Arg2:T2

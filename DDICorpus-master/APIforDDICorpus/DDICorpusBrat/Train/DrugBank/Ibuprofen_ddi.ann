@@ -1,0 +1,56 @@
+T1	GROUP 0 28	Coumarin-Type Anticoagulants
+T2	DRUG 89 98	ibuprofen
+T3	GROUP 215 243	coumarin-type anticoagulants
+T4	DRUG 294 303	ibuprofen
+T5	GROUP 314 351	nonsteroidal anti-inflammatory agents
+T6	GROUP 390 418	coumarin-type anticoagulants
+T7	DRUG 472 481	ibuprofen
+T8	GROUP 497 511	anticoagulants
+T9	BRAND 513 520	Aspirin
+T10	BRAND 548 555	aspirin
+T11	GROUP 567 604	nonsteroidal anti-inflammatory agents
+T12	DRUG 616 625	ibuprofen
+T13	BRAND 821 828	aspirin
+T14	DRUG 832 841	ibuprofen
+T15	DRUG 910 922	Methotrexate
+T16	DRUG 924 933	Ibuprofen
+T17	GROUP 952 988	nonsteroidal anti-inflammatory drugs
+T18	DRUG 1032 1044	methotrexate
+T19	DRUG 1119 1128	ibuprofen
+T20	DRUG 1159 1171	methotrexate
+T21	DRUG 1199 1208	ibuprofen
+T22	DRUG 1244 1256	methotrexate
+T23	DRUG 1330 1340	cimetidine
+T24	DRUG 1344 1354	ranitidine
+T25	DRUG 1360 1369	ibuprofen
+T26	DRUG 1399 1408	ibuprofen
+T27	DRUG 1431 1441	Furosemide
+T28	DRUG 1509 1518	ibuprofen
+T29	DRUG 1556 1566	furosemide
+T30	GROUP 1571 1580	thiazides
+T31	DRUG 1713 1722	ibuprofen
+T32	GROUP 1812 1820	diuretic
+T33	DRUG 1831 1838	Lithium
+T34	DRUG 1840 1849	Ibuprofen
+T35	DRUG 1882 1889	lithium
+T36	DRUG 1922 1929	lithium
+T37	DRUG 1997 2004	lithium
+T38	DRUG 2060 2067	lithium
+T39	DRUG 2226 2235	ibuprofen
+T40	DRUG 2248 2257	ibuprofen
+T41	DRUG 2262 2269	lithium
+T42	DRUG 2352 2359	lithium
+T43	DRUG 2390 2397	lithium
+R1	EFFECT Arg1:T4 Arg2:T6
+R2	EFFECT Arg1:T5 Arg2:T6
+R3	ADVISE Arg1:T7 Arg2:T8
+R4	EFFECT Arg1:T10 Arg2:T11
+R5	EFFECT Arg1:T10 Arg2:T12
+R6	MECHANISM Arg1:T16 Arg2:T18
+R7	MECHANISM Arg1:T17 Arg2:T18
+R8	EFFECT Arg1:T19 Arg2:T20
+R9	ADVISE Arg1:T21 Arg2:T22
+R10	EFFECT Arg1:T28 Arg2:T29
+R11	EFFECT Arg1:T28 Arg2:T30
+R12	MECHANISM Arg1:T34 Arg2:T35
+R13	ADVISE Arg1:T40 Arg2:T41

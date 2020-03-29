@@ -1,0 +1,16 @@
+T1	DRUG 5 13	atropine
+T2	DRUG 18 29	pralidoxime
+T3	DRUG 189 197	atropine
+T4	DRUG 258 266	atropine
+T5	DRUG 308 319	pralidoxime
+T6	DRUG 492 503	pralidoxime
+T7	GROUP 511 523	barbiturates
+T8	GROUP 547 566	anticholinesterases
+T9	DRUG 632 640	morphine
+T10	DRUG 642 654	theophylline
+T11	DRUG 656 669	aminophylline
+T12	DRUG 671 686	succinylcholine
+T13	DRUG 688 697	reserpine
+T14	GROUP 703 735	phenothiazine-type tranquilizers
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T7 Arg2:T8

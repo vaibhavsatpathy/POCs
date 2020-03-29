@@ -1,0 +1,5 @@
+T1	DRUG 0 10	Probenecid
+T2	GROUP 51 65	cephalosporins
+T3	GROUP 132 145	cephalosporin
+T4	GROUP 506 520	cephalosporins
+R1	MECHANISM Arg1:T1 Arg2:T2

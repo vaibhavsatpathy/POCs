@@ -1,0 +1,7 @@
+T1	DRUG 31 45	norepinephrine
+T2	DRUG 50 60	dobutamine
+T3	DRUG 83 101	sodium bicarbonate
+T4	DRUG 128 146	sodium bicarbonate
+T5	DRUG 182 189	calcium
+R1	INT Arg1:T1 Arg2:T3
+R2	INT Arg1:T2 Arg2:T3

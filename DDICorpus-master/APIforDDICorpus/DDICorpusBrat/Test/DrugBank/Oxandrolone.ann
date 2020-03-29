@@ -1,0 +1,30 @@
+T1	GROUP 0 14	Anticoagulants
+T2	GROUP 15 32	Anabolic steroids
+T3	GROUP 66 80	anticoagulants
+T4	GROUP 96 109	anticoagulant
+T5	GROUP 270 287	anabolic steroids
+T6	DRUG 312 320	Warfarin
+T7	DRUG 343 354	oxandrolone
+T8	DRUG 429 437	warfarin
+T9	DRUG 470 480	S-warfarin
+T10	DRUG 569 579	R-warfarin
+T11	DRUG 728 736	warfarin
+T12	DRUG 809 817	warfarin
+T13	DRUG 877 888	oxandrolone
+T14	DRUG 956 964	warfarin
+T15	DRUG 1043 1051	warfarin
+T16	DRUG 1231 1239	warfarin
+T17	DRUG 1285 1296	oxandrolone
+T18	GROUP 1415 1434	hypoglycemic agents
+T19	DRUG 1435 1446	Oxandrolone
+T20	GROUP 1482 1501	hypoglycemic agents
+T21	GROUP 1503 1519	Adrenal steroids
+T22	DRUG 1523 1527	ACTH
+T23	GROUP 1584 1609	adrenal cortical steroids
+T24	DRUG 1613 1617	ACTH
+T25	DRUG 1676 1693	Anabolic steroids
+R1	EFFECT Arg1:T2 Arg2:T3
+R2	MECHANISM Arg1:T7 Arg2:T8
+R3	ADVISE Arg1:T13 Arg2:T14
+R4	ADVISE Arg1:T16 Arg2:T17
+R5	MECHANISM Arg1:T19 Arg2:T20

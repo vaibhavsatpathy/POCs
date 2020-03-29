@@ -1,0 +1,13 @@
+T1	DRUG 9 20	Allopurinol
+T2	DRUG 66 78	azathioprine
+T3	DRUG 95 106	allopurinol
+T4	DRUG 127 139	azathioprine
+T5	DRUG 144 155	allopurinol
+T6	DRUG 202 214	azathioprine
+T7	BRAND 360 374	co-trimoxazole
+T8	GROUP 464 504	Angiotensln Converting Enzyme Inhibitors
+T9	GROUP 517 557	angiotensin converting enzyme inhibitors
+T10	DRUG 597 609	azathioprine
+R1	MECHANISM Arg1:T2 Arg2:T3
+R2	ADVISE Arg1:T4 Arg2:T5
+R3	EFFECT Arg1:T9 Arg2:T10

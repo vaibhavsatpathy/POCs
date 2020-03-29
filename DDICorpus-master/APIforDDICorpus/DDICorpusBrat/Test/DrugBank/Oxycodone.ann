@@ -1,0 +1,3 @@
+T1	DRUG 30 53	oxycodone hydrochloride
+T2	GROUP 89 104	CNS depressants
+R1	EFFECT Arg1:T1 Arg2:T2

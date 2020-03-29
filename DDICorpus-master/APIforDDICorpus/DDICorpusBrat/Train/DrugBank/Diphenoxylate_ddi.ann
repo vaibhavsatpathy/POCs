@@ -1,0 +1,10 @@
+T1	GROUP 32 44	barbiturates
+T2	GROUP 46 59	tranquilizers
+T3	DRUG 65 72	alcohol
+T4	DRUG 74 91	Diphenoxylate HCl
+T5	DRUG 96 112	atropine sulfate
+T6	GROUP 131 145	MAO inhibitors
+T7	DRUG 173 200	diphenoxylate hydrochloride
+T8	DRUG 296 309	diphenoxylate
+R1	INT Arg1:T4 Arg2:T6
+R2	INT Arg1:T5 Arg2:T6

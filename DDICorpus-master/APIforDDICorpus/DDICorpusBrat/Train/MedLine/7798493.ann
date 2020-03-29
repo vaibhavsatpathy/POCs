@@ -1,0 +1,21 @@
+T1	DRUG 26 40	norepinephrine
+T2	DRUG 149 163	norepinephrine
+T3	DRUG 403 417	norepinephrine
+T4	DRUG 476 490	norepinephrine
+T5	DRUG 664 678	norepinephrine
+T6	DRUG 804 818	norepinephrine
+T7	DRUG 998 1011	isoproterenol
+T8	DRUG 1042 1056	norepinephrine
+T9	DRUG 1201 1208	cocaine
+T10	DRUG 1213 1224	desipramine
+T11	DRUG 1287 1301	norepinephrine
+T12	DRUG 1451 1459	mazindol
+T13	DRUG 1516 1530	norepinephrine
+T14	DRUG 1886 1893	cocaine
+T15	DRUG 1898 1909	desipramine
+T16	DRUG 1953 1967	norepinephrine
+T17	DRUG 2031 2038	cocaine
+T18	DRUG 2043 2054	desipramine
+T19	DRUG 2138 2152	norepinephrine
+R1	EFFECT Arg1:T9 Arg2:T11
+R2	EFFECT Arg1:T10 Arg2:T11

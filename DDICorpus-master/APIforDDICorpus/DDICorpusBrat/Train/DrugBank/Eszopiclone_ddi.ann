@@ -1,0 +1,42 @@
+T1	DRUG 17 24	Ethanol
+T2	DRUG 105 116	eszopiclone
+T3	DRUG 121 128	ethanol
+T4	DRUG 163 170	ethanol
+T5	DRUG 187 197	Paroxetine
+T6	DRUG 235 246	eszopiclone
+T7	DRUG 256 266	paroxetine
+T8	DRUG 350 359	Lorazepam
+T9	DRUG 397 408	eszopiclone
+T10	DRUG 418 427	lorazepam
+T11	DRUG 534 544	Olanzapine
+T12	DRUG 566 577	eszopiclone
+T13	DRUG 587 597	olanzapine
+T14	DRUG 768 780	Ketoconazole
+T15	DRUG 837 848	eszopiclone
+T16	DRUG 861 872	eszopiclone
+T17	DRUG 919 931	ketoconazole
+T18	DRUG 1095 1107	itraconazole
+T19	DRUG 1109 1123	clarithromycin
+T20	DRUG 1125 1135	nefazodone
+T21	DRUG 1137 1151	troleandomycin
+T22	DRUG 1153 1162	ritonavir
+T23	DRUG 1164 1174	nelfinavir
+T24	DRUG 1241 1251	Rifampicin
+T25	DRUG 1261 1270	zopiclone
+T26	DRUG 1319 1329	rifampicin
+T27	DRUG 1399 1410	eszopiclone
+T28	DRUG 1449 1460	Eszopiclone
+T29	DRUG 1546 1557	eszopiclone
+T30	DRUG 1643 1654	eszopiclone
+T31	DRUG 1847 1854	Digoxin
+T32	DRUG 1872 1883	eszopiclone
+T33	DRUG 1928 1935	digoxin
+T34	DRUG 2051 2059	Warfarin
+T35	DRUG 2061 2072	Eszopiclone
+T36	DRUG 2146 2151;2159 2167	(R)-warfarin
+T37	DRUG 2155 2167	(S)-warfarin
+T38	DRUG 2284 2292	warfarin
+R1	EFFECT Arg1:T2 Arg2:T3
+R2	EFFECT Arg1:T12 Arg2:T13
+R3	MECHANISM Arg1:T16 Arg2:T17
+R4	MECHANISM Arg1:T25 Arg2:T26

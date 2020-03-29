@@ -1,0 +1,21 @@
+T1	DRUG 66 87	candesartan cilexetil
+T2	DRUG 119 128	glyburide
+T3	DRUG 130 140	nifedipine
+T4	DRUG 142 149	digoxin
+T5	DRUG 151 159	warfarin
+T6	DRUG 161 180	hydrochlorothiazide
+T7	GROUP 191 205	contraceptives
+T8	DRUG 243 252	enalapril
+T9	DRUG 317 328	candesartan
+T10	DRUG 554 561	Lithium
+T11	DRUG 592 599	lithium
+T12	DRUG 684 691	lithium
+T13	GROUP 697 711	ACE inhibitors
+T14	GROUP 727 762	angiotensin II receptor antagonists
+T15	DRUG 785 792	lithium
+T16	DRUG 862 869	lithium
+T17	BRAND 875 882	ATACAND
+T18	DRUG 915 922	lithium
+R1	MECHANISM Arg1:T12 Arg2:T13
+R2	MECHANISM Arg1:T12 Arg2:T14
+R3	MECHANISM Arg1:T16 Arg2:T17

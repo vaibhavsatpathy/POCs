@@ -1,0 +1,19 @@
+T1	DRUG 0 12	Palonosetron
+T2	DRUG 176 188	palonosetron
+T3	DRUG 442 454	palonosetron
+T4	DRUG 529 541	palonosetron
+T5	DRUG 574 588	metoclopramide
+T6	BRAND 702 707	ALOXI
+T7	GROUP 752 767	corticosteroids
+T8	GROUP 769 779	analgesics
+T9	GROUP 781 792	antiemetics
+T10	GROUP 793 806	antinauseants
+T11	GROUP 808 822	antispasmodics
+T12	GROUP 827 849	anticholinergic agents
+T13	DRUG 851 863	Palonosetron
+T14	GROUP 915 938	chemotherapeutic agents
+T15	DRUG 947 956	cisplatin
+T16	DRUG 958 974	cyclophosphamide
+T17	DRUG 976 986	cytarabine
+T18	DRUG 988 999	doxorubicin
+T19	DRUG 1004 1015	mitomycin C

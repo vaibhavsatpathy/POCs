@@ -1,0 +1,4 @@
+T1	DRUG 35 45	cimetidine
+T2	DRUG 55 66	mebendazole
+T3	DRUG 136 147	mebendazole
+R1	MECHANISM Arg1:T1 Arg2:T2

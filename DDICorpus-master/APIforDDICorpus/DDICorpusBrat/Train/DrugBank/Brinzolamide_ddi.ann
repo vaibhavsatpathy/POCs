@@ -1,0 +1,9 @@
+T1	BRAND 0 5	AZOPT
+T2	DRUG 7 19	brinzolamide
+T3	GROUP 57 85	carbonic anhydrase inhibitor
+T4	DRUG 171 183	brinzolamide
+T5	GROUP 224 253	carbonic anhydrase inhibitors
+T6	DRUG 320 330	salicylate
+T7	BRAND 434 439	AZOPT
+T8	DRUG 441 453	brinzolamide
+R1	INT Arg1:T5 Arg2:T6

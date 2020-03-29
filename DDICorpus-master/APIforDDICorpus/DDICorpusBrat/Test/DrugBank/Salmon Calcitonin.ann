@@ -1,0 +1,7 @@
+T1	DRUG 72 91	Calcitonin (salmon)
+T2	DRUG 165 184	Calcitonin (salmon)
+T3	DRUG 247 266	Calcitonin (salmon)
+T4	GROUP 315 329	diphosphonates
+T5	GROUP 442 455	diphosphonate
+T6	DRUG 510 529	Calcitonin (salmon)
+R1	EFFECT Arg1:T5 Arg2:T6

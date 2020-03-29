@@ -1,0 +1,18 @@
+T1	DRUG 33 43	fluoxetine
+T2	DRUG 47 56	cisapride
+T3	DRUG 158 168	fluoxetine
+T4	DRUG 222 231	cisapride
+T5	DRUG 498 507	cisapride
+T6	DRUG 570 580	fluoxetine
+T7	DRUG 618 627	cisapride
+T8	DRUG 664 674	fluoxetine
+T9	DRUG 852 861	cisapride
+T10	DRUG 1097 1107	fluoxetine
+T11	DRUG 1132 1141	cisapride
+T12	DRUG 1261 1270	cisapride
+T13	DRUG 1285 1295	fluoxetine
+T14	DRUG 1297 1306	Cisapride
+T15	DRUG 1358 1368	fluoxetine
+T16	DRUG 1382 1391	Cisapride
+T17	DRUG 1468 1478	fluoxetine
+R1	MECHANISM Arg1:T10 Arg2:T11

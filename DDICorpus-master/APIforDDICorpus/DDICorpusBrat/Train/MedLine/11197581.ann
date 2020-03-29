@@ -1,0 +1,25 @@
+T1	DRUG 55 66	simvastatin
+T2	DRUG 71 85	clarithromycin
+T3	DRUG 167 181	clarithromycin
+T4	DRUG 186 197	simvastatin
+T5	DRUG 453 467	clarithromycin
+T6	DRUG 514 525	simvastatin
+T7	DRUG 612 630	sodium bicarbonate
+T8	DRUG 1005 1019	Clarithromycin
+T9	DRUG 1086 1097	simvastatin
+T10	GROUP 1144 1165	macrolide antibiotics
+T11	GROUP 1176 1239	hydroxymethylglutaryl coenzyme A (HMG-CoA) reductase inhibitors
+T12	GROUP 1508 1536	HMG-CoA reductase inhibitors
+T13	GROUP 1551 1572	Macrolide antibiotics
+T14	GROUP 1599 1627	HMG-CoA reductase inhibitors
+T15	DRUG 1666 1678	atorvastatin
+T16	DRUG 1680 1692	cerivastatin
+T17	DRUG 1694 1704	lovastatin
+T18	DRUG 1706 1717	simvastatin
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	MECHANISM Arg1:T8 Arg2:T9
+R3	EFFECT Arg1:T10 Arg2:T11
+R4	MECHANISM Arg1:T13 Arg2:T15
+R5	MECHANISM Arg1:T13 Arg2:T16
+R6	MECHANISM Arg1:T13 Arg2:T17
+R7	MECHANISM Arg1:T13 Arg2:T18

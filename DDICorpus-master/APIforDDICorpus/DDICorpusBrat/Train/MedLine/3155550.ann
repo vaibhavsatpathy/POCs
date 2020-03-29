@@ -1,0 +1,30 @@
+T1	DRUG 36 44	naloxone
+T2	DRUG_N 111 125	beta-endorphin
+T3	DRUG 130 138	morphine
+T4	GROUP 194 201	opioids
+T5	DRUG 401 409	naloxone
+T6	DRUG_N 481 495	beta-endorphin
+T7	DRUG 500 508	morphine
+T8	DRUG_N 557 571	beta-endorphin
+T9	DRUG 576 584	morphine
+T10	DRUG 690 698	naloxone
+T11	DRUG_N 849 863	beta-endorphin
+T12	DRUG 884 892	naloxone
+T13	DRUG_N 982 996	beta-endorphin
+T14	DRUG 1045 1053	naloxone
+T15	DRUG 1159 1167	morphine
+T16	DRUG 1215 1223	naloxone
+T17	DRUG_N 1358 1372	beta-endorphin
+T18	DRUG 1377 1385	morphine
+T19	DRUG 1422 1430	naloxone
+T20	DRUG_N 1496 1510	beta-endorphin
+T21	DRUG 1519 1527	morphine
+T22	DRUG_N 1593 1607	beta-endorphin
+T23	DRUG 1612 1620	morphine
+T24	DRUG_N 1764 1778	beta-endorphin
+T25	DRUG 1783 1791	morphine
+R1	EFFECT Arg1:T10 Arg2:T11
+R2	EFFECT Arg1:T12 Arg2:T13
+R3	EFFECT Arg1:T14 Arg2:T15
+R4	EFFECT Arg1:T16 Arg2:T17
+R5	EFFECT Arg1:T16 Arg2:T18

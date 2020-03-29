@@ -1,0 +1,12 @@
+T1	DRUG 20 27	glycine
+T2	DRUG 32 41	glutamate
+T3	DRUG 146 153	glycine
+T4	DRUG 335 342	glycine
+T5	DRUG 380 389	glutamate
+T6	DRUG 436 443	glycine
+T7	DRUG 481 490	glutamate
+T8	DRUG 652 661	glutamate
+T9	DRUG 761 768	glycine
+T10	DRUG 865 872	glycine
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T6 Arg2:T7

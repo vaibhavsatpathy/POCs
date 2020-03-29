@@ -1,0 +1,98 @@
+T1	DRUG 0 11	Terfenadine
+T2	DRUG 75 88	dirithromycin
+T3	DRUG 122 133	terfenadine
+T4	DRUG 165 176	terfenadine
+T5	DRUG 227 238	terfenadine
+T6	DRUG 259 272	dirithromycin
+T7	DRUG 376 387	terfenadine
+T8	DRUG 495 506	terfenadine
+T9	DRUG 523 534	terfenadine
+T10	DRUG 540 553	dirithromycin
+T11	DRUG 568 579	terfenadine
+T12	DRUG 663 674	terfenadine
+T13	DRUG 694 705	terfenadine
+T14	DRUG 731 742	terfenadine
+T15	DRUG 748 761	dirithromycin
+T16	DRUG 822 833	terfenadine
+T17	DRUG 909 920	terfenadine
+T18	DRUG 940 951	terfenadine
+T19	DRUG 957 970	dirithromycin
+T20	DRUG 1042 1055	dirithromycin
+T21	DRUG 1060 1071	terfenadine
+T22	DRUG 1112 1124	erythromycin
+T23	DRUG 1129 1140	terfenadine
+T24	DRUG 1161 1174	dirithromycin
+T25	DRUG 1267 1278	terfenadine
+T26	GROUP 1304 1325	macrolide antibiotics
+T27	GROUP 1345 1355	macrolides
+T28	DRUG 1398 1409	terfenadine
+T29	DRUG 1601 1613	Theophylline
+T30	DRUG 1657 1670	dirithromycin
+T31	DRUG 1715 1727	theophylline
+T32	DRUG 1838 1850	theophylline
+T33	DRUG 1921 1934	dirithromycin
+T34	DRUG 1965 1977	theophylline
+T35	DRUG 2024 2036	theophylline
+T36	DRUG 2061 2073	theophylline
+T37	DRUG 2106 2118	theophylline
+T38	DRUG 2266 2278	theophylline
+T39	DRUG 2351 2363	theophylline
+T40	GROUP 2423 2431	Antacids
+T41	GROUP 2435 2459	H 2 receptor antagonists
+T42	DRUG 2466 2479	dirithromycin
+T43	GROUP 2518 2526	antacids
+T44	GROUP 2530 2555	H 2 -receptor antagonists
+T45	DRUG 2575 2588	dirithromycin
+T46	DRUG 2667 2679	erythromycin
+T47	DRUG 2764 2777	dirithromycin
+T48	DRUG 2851 2864	dirithromycin
+T49	DRUG 2935 2944	Triazolam
+T50	DRUG 2946 2958	Erythromycin
+T51	DRUG 3006 3015	triazolam
+T52	DRUG 3068 3077	triazolam
+T53	DRUG 3079 3086	Digoxin
+T54	DRUG 3118 3130	erythromycin
+T55	DRUG 3135 3142	digoxin
+T56	DRUG 3183 3190	digoxin
+T57	GROUP 3205 3219	Anticoagulants
+T58	DRUG 3285 3297	erythromycin
+T59	GROUP 3307 3321	anticoagulants
+T60	DRUG 3412 3424	erythromycin
+T61	DRUG 3464 3474	Ergotamine
+T62	DRUG 3494 3506	erythromycin
+T63	DRUG 3511 3521	ergotamine
+T64	DRUG 3525 3542	dihydroergotamine
+T65	DRUG 3752 3764	erythromycin
+T66	DRUG 3798 3810	cyclosporine
+T67	DRUG 3812 3824	hexobarbital
+T68	DRUG 3826 3839	carbamazepine
+T69	DRUG 3841 3851	alfentanil
+T70	DRUG 3853 3865	disopyramide
+T71	DRUG 3867 3876	phenytoin
+T72	DRUG 3878 3891	bromocriptine
+T73	DRUG 3893 3902	valproate
+T74	DRUG 3904 3914	astemizole
+T75	DRUG 3920 3930	lovastatin
+R1	MECHANISM Arg1:T14 Arg2:T15
+R2	EFFECT Arg1:T18 Arg2:T19
+R3	INT Arg1:T22 Arg2:T23
+R4	EFFECT Arg1:T25 Arg2:T26
+R5	ADVISE Arg1:T27 Arg2:T28
+R6	MECHANISM Arg1:T42 Arg2:T43
+R7	MECHANISM Arg1:T42 Arg2:T44
+R8	MECHANISM Arg1:T50 Arg2:T51
+R9	EFFECT Arg1:T50 Arg2:T52
+R10	MECHANISM Arg1:T54 Arg2:T55
+R11	EFFECT Arg1:T58 Arg2:T59
+R12	EFFECT Arg1:T62 Arg2:T63
+R13	EFFECT Arg1:T62 Arg2:T64
+R14	INT Arg1:T65 Arg2:T66
+R15	INT Arg1:T65 Arg2:T67
+R16	INT Arg1:T65 Arg2:T68
+R17	INT Arg1:T65 Arg2:T69
+R18	INT Arg1:T65 Arg2:T70
+R19	INT Arg1:T65 Arg2:T71
+R20	INT Arg1:T65 Arg2:T72
+R21	INT Arg1:T65 Arg2:T73
+R22	INT Arg1:T65 Arg2:T74
+R23	INT Arg1:T65 Arg2:T75

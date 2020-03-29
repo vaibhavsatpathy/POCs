@@ -1,0 +1,11 @@
+T1	DRUG 29 41	propoxyphene
+T2	GROUP 73 88	CNS depressants
+T3	DRUG 100 107	alcohol
+T4	DRUG 152 164	propoxyphene
+T5	DRUG 403 415	propoxyphene
+T6	GROUP 448 463	antidepressants
+T7	GROUP 465 480	anticonvulsants
+T8	DRUG 485 493	warfarin
+T9	DRUG 583 596	carbamazepine
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T1 Arg2:T3

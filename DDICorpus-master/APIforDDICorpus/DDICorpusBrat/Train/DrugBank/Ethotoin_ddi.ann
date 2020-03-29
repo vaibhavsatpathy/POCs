@@ -1,0 +1,24 @@
+T1	BRAND 0 8	PEGANONE
+T2	BRAND 172 180	PEGANONE
+T3	BRAND 215 224	Phenurone
+T4	DRUG 226 237	phenacemide
+T5	GROUP 354 377	hydantoin antiepileptic
+T6	DRUG 379 388	phenytoin
+T7	GROUP 398 420	coumarin anticoagulant
+T8	DRUG 454 463	phenytoin
+T9	GROUP 488 496	coumarin
+T10	GROUP 569 592	coumarin anticoagulants
+T11	GROUP 664 687	coumarin anticoagulants
+T12	DRUG 771 780	phenytoin
+T13	DRUG 885 893	ethotoin
+T14	GROUP 902 925	coumarin anticoagulants
+T15	BRAND 985 993	PEGANONE
+T16	GROUP 1016 1039	coumarin anticoagulants
+R1	ADVISE Arg1:T2 Arg2:T3
+R2	ADVISE Arg1:T2 Arg2:T4
+R3	INT Arg1:T5 Arg2:T6
+R4	INT Arg1:T5 Arg2:T7
+R5	MECHANISM Arg1:T8 Arg2:T9
+R6	MECHANISM Arg1:T8 Arg2:T10
+R7	MECHANISM Arg1:T11 Arg2:T12
+R8	ADVISE Arg1:T15 Arg2:T16

@@ -1,0 +1,15 @@
+T1	DRUG 15 25	cimetidine
+T2	DRUG 52 62	verografin
+T3	DRUG 67 75	iodamide
+T4	DRUG 114 124	cimetidine
+T5	DRUG 156 167	verografine
+T6	DRUG 172 180	iodamide
+T7	DRUG 233 244	verografine
+T8	DRUG 249 257	iodamide
+T9	DRUG 329 339	cimetidine
+T10	DRUG 367 378	cardiotrast
+T11	DRUG 460 470	cimetidine
+T12	DRUG 474 485	verografine
+T13	DRUG 490 498	iodamide
+R1	MECHANISM Arg1:T4 Arg2:T5
+R2	MECHANISM Arg1:T4 Arg2:T6

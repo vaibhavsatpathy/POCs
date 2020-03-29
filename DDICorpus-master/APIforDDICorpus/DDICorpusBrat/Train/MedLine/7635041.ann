@@ -1,0 +1,8 @@
+T1	GROUP 0 23	Immunosuppressive drugs
+T2	GROUP 382 405	immunosuppressive drugs
+T3	GROUP 677 700	immunosuppressive drugs
+T4	GROUP 710 725	corticosteroids
+T5	DRUG 727 738	cyclosporin
+T6	DRUG 740 752	azathioprine
+T7	DRUG 754 766	methotrexate
+T8	DRUG 768 784	cyclophosphamide

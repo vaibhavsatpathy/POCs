@@ -1,0 +1,25 @@
+LICENSE
+
+1. Annotations
+
+The DDI corpus licenced under the Creative Commons BY-NC-SA
+3.0 license. See http://creativecommons.org/licenses/by-nc-sa/4.0/ for the license terms.
+
+Please attribute the corpus by citing the paper referenced below in publications 
+and linking to http://labda.inf.uc3m.es/ddicorpus in online resources.
+
+2. Texts
+
+The texts contained in the corpus are from MedLine, a database of the 
+U.S. National Library of Medicine (NLM). Please see the NLM page on copyright information regarding 
+the copyright of the abstracts: http://www.nlm.nih.gov/databases/download.html. 
+
+Moreover, the corpus also contains texts from previous versions of the pharmacological database www.drugbank.ca, 
+which were gathered from the textual field about drug interactions. It should be noted that this field is not available in the current version of drugbank.
+
+
+References
+
+Please attribute the corpus by citing the following paper:
+
+María Herrero Zazo, Isabel Segura-Bedmar, Paloma Martínez, Thierry Declerck, (2013). The DDI corpus: An annotated corpus with pharmacological substances and drug-drug interactions, Journal of Biomedical Informatics 46(5): 914-920

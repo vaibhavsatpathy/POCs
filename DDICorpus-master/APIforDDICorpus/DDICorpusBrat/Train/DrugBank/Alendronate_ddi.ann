@@ -1,0 +1,9 @@
+T1	DRUG 12 22	ranitidine
+T2	DRUG 71 82	alendronate
+T3	GROUP 208 222	H2-antagonists
+T4	DRUG 314 321	calcium
+T5	DRUG 332 351	multivalent cations
+T6	DRUG 393 404	alendronate
+R1	MECHANISM Arg1:T1 Arg2:T2
+R2	MECHANISM Arg1:T4 Arg2:T6
+R3	MECHANISM Arg1:T5 Arg2:T6

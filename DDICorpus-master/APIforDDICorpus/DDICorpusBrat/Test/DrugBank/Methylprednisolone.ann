@@ -1,0 +1,38 @@
+T1	DRUG 146 157	cyclosporin
+T2	DRUG 162 180	methylprednisolone
+T3	DRUG 358 376	methylprednisolone
+T4	DRUG 381 392	cyclosporin
+T5	DRUG 436 449	phenobarbital
+T6	DRUG 451 460	phenytoin
+T7	DRUG 466 474	rifampin
+T8	DRUG 505 523	methylprednisolone
+T9	DRUG 553 571	methylprednisolone
+T10	DRUG 624 638	troleandomycin
+T11	DRUG 643 655	ketoconazole
+T12	DRUG 686 704	methylprednisolone
+T13	DRUG 761 779	methylprednisolone
+T14	DRUG 826 844	Methylprednisolone
+T15	BRAND 893 900	aspirin
+T16	GROUP 931 941	salicylate
+T17	GROUP 979 989	salicylate
+T18	DRUG 1004 1022	methylprednisolone
+T19	BRAND 1037 1044	Aspirin
+T20	GROUP 1091 1106	corticosteroids
+T21	DRUG 1169 1187	methylprednisolone
+T22	GROUP 1196 1210	anticoagulants
+T23	GROUP 1287 1300	anticoagulant
+T24	GROUP 1330 1345	corticosteroids
+R1	MECHANISM Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T3 Arg2:T4
+R3	MECHANISM Arg1:T5 Arg2:T8
+R4	ADVISE Arg1:T5 Arg2:T9
+R5	MECHANISM Arg1:T6 Arg2:T8
+R6	ADVISE Arg1:T6 Arg2:T9
+R7	MECHANISM Arg1:T7 Arg2:T8
+R8	ADVISE Arg1:T7 Arg2:T9
+R9	MECHANISM Arg1:T10 Arg2:T12
+R10	MECHANISM Arg1:T11 Arg2:T12
+R11	MECHANISM Arg1:T14 Arg2:T15
+R12	EFFECT Arg1:T17 Arg2:T18
+R13	ADVISE Arg1:T19 Arg2:T20
+R14	EFFECT Arg1:T23 Arg2:T24

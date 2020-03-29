@@ -1,0 +1,46 @@
+T1	DRUG 0 10	Olanzapine
+T2	DRUG 77 87	Olanzapine
+T3	GROUP 91 122	thienobenzodiazepine derivative
+T4	GROUP 129 177	second generation (atypical) antipsychotic agent
+T5	GROUP 279 306	conventional antipsychotics
+T6	DRUG 471 481	olanzapine
+T7	DRUG 527 538	haloperidol
+T8	DRUG 807 817	olanzapine
+T9	DRUG 828 839	haloperidol
+T10	DRUG 908 918	olanzapine
+T11	DRUG 923 934	risperidone
+T12	DRUG 936 946	olanzapine
+T13	DRUG 1010 1021	risperidone
+T14	DRUG 1210 1221	risperidone
+T15	DRUG 1252 1262	olanzapine
+T16	DRUG 1516 1526	olanzapine
+T17	DRUG 1667 1678	risperidone
+T18	DRUG 1682 1693	haloperidol
+T19	DRUG 1794 1804	olanzapine
+T20	DRUG 1809 1820	risperidone
+T21	DRUG 1921 1931	olanzapine
+T22	DRUG 2049 2059	olanzapine
+T23	DRUG 2107 2117	Olanzapine
+T24	DRUG 2186 2197	haloperidol
+T25	DRUG 2202 2213	risperidone
+T26	DRUG 2228 2238	olanzapine
+T27	DRUG 2301 2310	clozapine
+T28	DRUG 2370 2381	risperidone
+T29	DRUG 2464 2474	olanzapine
+T30	DRUG 2643 2654	haloperidol
+T31	DRUG 2719 2729	olanzapine
+T32	DRUG 2830 2841	risperidone
+T33	DRUG 2908 2918	olanzapine
+T34	DRUG 2949 2959	olanzapine
+T35	DRUG 3106 3116	olanzapine
+T36	DRUG 3240 3251	haloperidol
+T37	DRUG 3267 3278	risperidone
+T38	DRUG 3280 3290	olanzapine
+T39	DRUG 3419 3429	Olanzapine
+T40	DRUG 3543 3554	haloperidol
+T41	DRUG 3590 3601	risperidone
+T42	DRUG 3616 3626	Olanzapine
+T43	DRUG 3686 3697	haloperidol
+T44	DRUG 3917 3928	haloperidol
+T45	DRUG 3933 3944	risperidone
+T46	DRUG 4020 4030	olanzapine

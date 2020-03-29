@@ -1,0 +1,8 @@
+T1	BRAND 35 43	VESIcare
+T2	DRUG 88 100	ketoconazole
+T3	DRUG 217 228	solifenacin
+T4	DRUG 313 324	solifenacin
+T5	DRUG 409 420	solifenacin
+T6	DRUG 483 495	moxifloxacin
+T7	BRAND 594 602	VESIcare
+R1	ADVISE Arg1:T1 Arg2:T2

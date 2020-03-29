@@ -1,0 +1,23 @@
+T1	DRUG 0 11	Fluvoxamine
+T2	DRUG 63 74	tolbutamide
+T3	DRUG 140 151	fluvoxamine
+T4	DRUG 156 167	tolbutamide
+T5	DRUG 184 195	fluvoxamine
+T6	DRUG 362 373	tolbutamide
+T7	DRUG 497 508	fluvoxamine
+T8	DRUG 576 587	tolbutamide
+T9	DRUG 706 717	tolbutamide
+T10	DRUG 746 757	tolbutamide
+T11	DRUG_N 783 803	4-hydroxytolbutamide
+T12	DRUG_N 808 826	carboxytolbutamide
+T13	DRUG 876 887	fluvoxamine
+T14	DRUG 976 987	tolbutamide
+T15	DRUG 1169 1180	tolbutamide
+T16	DRUG_N 1208 1228	4-hydroxytolbutamide
+T17	DRUG_N 1233 1251	carboxytolbutamide
+T18	DRUG 1361 1372	tolbutamide
+T19	DRUG 1447 1458	tolbutamide
+T20	DRUG 1588 1599	fluvoxamine
+T21	DRUG 1689 1700	Fluvoxamine
+R1	MECHANISM Arg1:T1 Arg2:T2
+R2	MECHANISM Arg1:T13 Arg2:T14

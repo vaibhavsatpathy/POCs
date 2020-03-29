@@ -1,0 +1,16 @@
+T1	GROUP 0 31	Beta-adrenergic blocking agents
+T2	DRUG 74 84	arbutamine
+T3	GROUP 86 117	Beta-adrenergic blocking agents
+T4	DRUG 177 187	arbutamine
+T5	DRUG 210 240	Antiarrhythmic agents, class I
+T6	DRUG 250 260	flecainide
+T7	DRUG 262 271	lidocaine
+T8	DRUG 276 285	quinidine
+T9	DRUG 308 318	arbutamine
+T10	GROUP 352 367	Antidepressants
+T11	GROUP 369 378	tricyclic
+T12	DRUG 381 389	atropine
+T13	GROUP 399 421	anticholinergic agents
+T14	GROUP 426 446	digitalis glycosides
+T15	DRUG 468 478	arbutamine
+R1	ADVISE Arg1:T3 Arg2:T4

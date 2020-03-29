@@ -1,0 +1,12 @@
+T1	DRUG 0 10	Exemestane
+T2	DRUG 74 86	ketoconazole
+T3	DRUG 148 158	exemestane
+T4	DRUG 328 338	rifampicin
+T5	DRUG 340 349	phenytoin
+T6	DRUG 351 364	carbamazepine
+T7	DRUG 366 379	phenobarbital
+T8	DRUG 440 450	exemestane
+R1	MECHANISM Arg1:T4 Arg2:T8
+R2	MECHANISM Arg1:T5 Arg2:T8
+R3	MECHANISM Arg1:T6 Arg2:T8
+R4	MECHANISM Arg1:T7 Arg2:T8

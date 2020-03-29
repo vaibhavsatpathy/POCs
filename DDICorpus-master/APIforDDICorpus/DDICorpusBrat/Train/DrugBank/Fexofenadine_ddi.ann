@@ -1,0 +1,55 @@
+T1	DRUG 22 34	Erythromycin
+T2	DRUG 39 51	Ketoconazole
+T3	DRUG 52 64	Fexofenadine
+T4	DRUG 151 177	fexofenadine hydrochloride
+T5	DRUG 190 202	ketoconazole
+T6	DRUG 206 218	erythromycin
+T7	DRUG 261 273	fexofenadine
+T8	DRUG 275 287	Fexofenadine
+T9	DRUG 336 348	erythromycin
+T10	DRUG 352 364	ketoconazole
+T11	DRUG 389 415	fexofenadine hydrochloride
+T12	DRUG 493 505	erythromycin
+T13	DRUG 530 542	ketoconazole
+T14	DRUG 728 754	fexofenadine hydrochloride
+T15	DRUG 791 803	erythromycin
+T16	DRUG 807 819	ketoconazole
+T17	DRUG 914 926	fexofenadine
+T18	DRUG 983 1009	fexofenadine hydrochloride
+T19	DRUG 1201 1213	Erythromycin
+T20	DRUG 1246 1258	Ketoconazole
+T21	DRUG 1549 1561	ketoconazole
+T22	DRUG 1565 1577	erythromycin
+T23	DRUG 1605 1617	fexofenadine
+T24	DRUG 1696 1708	fexofenadine
+T25	DRUG 1852 1864	ketoconazole
+T26	DRUG 1875 1887	fexofenadine
+T27	DRUG 1922 1934	erythromycin
+T28	GROUP 1995 2003	Antacids
+T29	DRUG 2032 2058	fexofenadine hydrochloride
+T30	DRUG 2103 2111	aluminum
+T31	DRUG 2116 2125	magnesium
+T32	GROUP 2137 2144	antacid
+T33	BRAND 2146 2152	Maalox
+T34	DRUG 2165 2177	fexofenadine
+T35	BRAND 2206 2213	ALLEGRA
+T36	DRUG 2255 2263	aluminum
+T37	DRUG 2268 2277	magnesium
+T38	GROUP 2289 2297	antacids
+T39	DRUG 2427 2439	fexofenadine
+T40	DRUG 2500 2509	histamine
+T41	DRUG 2650 2676	fexofenadine hydrochloride
+T42	DRUG 3118 3130	fexofenadine
+T43	DRUG 3189 3201	fexofenadine
+T44	BRAND 3226 3233	ALLEGRA
+R1	MECHANISM Arg1:T4 Arg2:T5
+R2	MECHANISM Arg1:T4 Arg2:T6
+R3	MECHANISM Arg1:T21 Arg2:T23
+R4	MECHANISM Arg1:T22 Arg2:T23
+R5	MECHANISM Arg1:T25 Arg2:T26
+R6	MECHANISM Arg1:T29 Arg2:T30
+R7	MECHANISM Arg1:T29 Arg2:T31
+R8	MECHANISM Arg1:T29 Arg2:T32
+R9	MECHANISM Arg1:T29 Arg2:T33
+R10	ADVISE Arg1:T35 Arg2:T36
+R11	ADVISE Arg1:T35 Arg2:T37

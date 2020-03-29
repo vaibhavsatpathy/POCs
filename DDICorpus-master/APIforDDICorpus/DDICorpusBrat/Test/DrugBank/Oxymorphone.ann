@@ -1,0 +1,19 @@
+T1	GROUP 29 44	CNS depressants
+T2	GROUP 55 64	sedatives
+T3	GROUP 66 75	hypnotics
+T4	GROUP 77 90	tranquilizers
+T5	GROUP 100 111	anesthetics
+T6	GROUP 113 127	phenothiazines
+T7	GROUP 135 142	opioids
+T8	GROUP 144 169	tricyclic antidepressants
+T9	GROUP 171 205	monoamine oxidase (MAO) inhibitors
+T10	DRUG 211 218	alcohol
+T11	GROUP 358 374	Anticholinergics
+T12	GROUP 454 471	opioid analgesics
+T13	DRUG 659 670	oxymorphone
+T14	DRUG 689 697	propofol
+T15	DRUG 870 880	cimetidine
+T16	GROUP 886 903	opioid analgesics
+R1	EFFECT Arg1:T11 Arg2:T12
+R2	EFFECT Arg1:T13 Arg2:T14
+R3	EFFECT Arg1:T15 Arg2:T16

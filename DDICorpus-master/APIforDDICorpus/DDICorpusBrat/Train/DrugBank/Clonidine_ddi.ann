@@ -1,0 +1,47 @@
+T1	DRUG 30 53	clonidine hydrochloride
+T2	GROUP 69 94	tricyclic antidepressants
+T3	DRUG 110 119	clonidine
+T4	DRUG 178 201	Clonidine hydrochloride
+T5	DRUG 244 251	alcohol
+T6	GROUP 253 265	barbiturates
+T7	GROUP 275 284	sedatives
+T8	DRUG 286 299	Amitriptyline
+T9	DRUG 320 329	clonidine
+T10	DRUG 403 412	Clonidine
+T11	DRUG 457 464	alcohol
+T12	GROUP 466 478	barbiturates
+T13	GROUP 488 502	sedating drugs
+T14	GROUP 504 523	Narcotic analgesics
+T15	DRUG 566 575	clonidine
+T16	GROUP 577 602	Tricyclic antidepressants
+T17	DRUG 645 654	clonidine
+T18	GROUP 671 696	tricyclic antidepressants
+T19	DRUG 700 709	clonidine
+T20	GROUP 744 757	Beta blockers
+T21	DRUG 809 818	clonidine
+T22	DRUG 955 964	clonidine
+T23	GROUP 1043 1052	digitalis
+T24	GROUP 1054 1078	calcium channel blockers
+T25	GROUP 1084 1097	beta-blockers
+T26	DRUG 1200 1212	fluphenazine
+T27	DRUG 1222 1231	clonidine
+T28	DRUG 1256 1265	clonidine
+T29	DRUG 1332 1341	clonidine
+T30	DRUG 1352 1361	clonidine
+T31	GROUP 1430 1441	anesthetics
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T4 Arg2:T5
+R3	EFFECT Arg1:T4 Arg2:T6
+R4	EFFECT Arg1:T4 Arg2:T7
+R5	EFFECT Arg1:T8 Arg2:T9
+R6	EFFECT Arg1:T10 Arg2:T11
+R7	EFFECT Arg1:T10 Arg2:T12
+R8	EFFECT Arg1:T10 Arg2:T13
+R9	EFFECT Arg1:T14 Arg2:T15
+R10	EFFECT Arg1:T16 Arg2:T17
+R11	EFFECT Arg1:T20 Arg2:T21
+R12	ADVISE Arg1:T22 Arg2:T23
+R13	ADVISE Arg1:T22 Arg2:T24
+R14	ADVISE Arg1:T22 Arg2:T25
+R15	EFFECT Arg1:T26 Arg2:T27
+R16	EFFECT Arg1:T30 Arg2:T31

@@ -1,0 +1,29 @@
+T1	DRUG 25 33	warfarin
+T2	GROUP 57 66	sedatives
+T3	GROUP 113 126	anticoagulant
+T4	DRUG 143 156	phenobarbital
+T5	DRUG 158 170	secobarbital
+T6	DRUG 172 184	glutethimide
+T7	DRUG 186 201	chloral hydrate
+T8	DRUG 206 218	methaqualone
+T9	GROUP 277 285	coumarin
+T10	DRUG 355 363	warfarin
+T11	DRUG 579 592	phenobarbital
+T12	DRUG 594 606	secobarbital
+T13	DRUG 611 623	glutethimide
+T14	DRUG 706 721	chloral hydrate
+T15	DRUG 726 738	methaqualone
+T16	GROUP 740 752	Barbiturates
+T17	DRUG 757 769	glutethimide
+T18	GROUP 819 833	coumarin drugs
+T19	DRUG 950 965	Chloral hydrate
+T20	DRUG 970 982	methaqualone
+T21	GROUP 1035 1055	anticoagulant agents
+T22	DRUG 1124 1139	chloral hydrate
+T23	DRUG 1144 1156	methaqualone
+T24	GROUP 1254 1267	anticoagulant
+R1	INT Arg1:T1 Arg2:T2
+R2	ADVISE Arg1:T16 Arg2:T18
+R3	ADVISE Arg1:T17 Arg2:T18
+R4	INT Arg1:T19 Arg2:T21
+R5	INT Arg1:T20 Arg2:T21

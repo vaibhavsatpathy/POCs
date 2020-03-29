@@ -1,0 +1,6 @@
+T1	DRUG 33 47	cholestyramine
+T2	DRUG 49 59	colestipol
+T3	GROUP 70 88	thiazide diuretics
+T4	GROUP 105 113	diuretic
+R1	EFFECT Arg1:T1 Arg2:T3
+R2	EFFECT Arg1:T2 Arg2:T3

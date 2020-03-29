@@ -1,0 +1,12 @@
+T1	DRUG 191 200	anthralin
+T2	DRUG_N 202 210	coal tar
+T3	DRUG_N 214 234	coal tar derivatives
+T4	DRUG 236 248	griseofulvin
+T5	GROUP 250 264	phenothiazines
+T6	DRUG 266 280	nalidixic acid
+T7	GROUP 282 309	halogenated salicylanilides
+T8	DRUG 334 346	sulfonamides
+T9	GROUP 348 361	tetracyclines
+T10	GROUP 363 372	thiazides
+T11	DRUG_N 416 430	methylene blue
+T12	DRUG_N 432 446	toluidine blue

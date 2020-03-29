@@ -1,0 +1,10 @@
+T1	DRUG 26 38	ketoconazole
+T2	DRUG 68 79	retapamulin
+T3	DRUG 150 161	retapamulin
+T4	DRUG 251 262	retapamulin
+T5	DRUG 329 340	retapamulin
+T6	DRUG 410 422	ketoconazole
+T7	BRAND 538 545	ALTABAX
+T8	DRUG 547 558	retapamulin
+T9	BRAND 662 669	ALTABAX
+R1	MECHANISM Arg1:T1 Arg2:T3

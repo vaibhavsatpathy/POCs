@@ -1,0 +1,8 @@
+T1	BRAND 0 8	Implanon
+T2	GROUP 47 61	antiretroviral
+T3	BRAND 140 148	Implanon
+T4	GROUP 340 363	hormonal contraceptives
+T5	GROUP 487 501	antiretroviral
+T6	BRAND 566 574	Implanon
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T5 Arg2:T6

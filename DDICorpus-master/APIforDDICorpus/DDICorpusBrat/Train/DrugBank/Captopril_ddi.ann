@@ -1,0 +1,63 @@
+T1	GROUP 26 34	Diuretic
+T2	GROUP 56 65	diuretics
+T3	GROUP 95 103	diuretic
+T4	DRUG 338 347	captopril
+T5	DRUG 393 402	captopril
+T6	GROUP 448 456	diuretic
+T7	DRUG 548 557	captopril
+T8	DRUG 559 568	captopril
+T9	GROUP 1134 1146	vasodilators
+T10	DRUG 1169 1178	captopril
+T11	DRUG 1227 1240	nitroglycerin
+T12	GROUP 1250 1258	nitrates
+T13	DRUG 1390 1399	captopril
+T14	DRUG 1419 1428	captopril
+T15	DRUG 1543 1552	Captopril
+T16	GROUP 1583 1606	antihypertensive agents
+T17	GROUP 1646 1655	diuretics
+T18	GROUP 1663 1672	thiazides
+T19	DRUG 1877 1886	captopril
+T20	GROUP 1901 1910	diuretics
+T21	GROUP 1968 1994	ganglionic blocking agents
+T22	GROUP 1998 2031	adrenergic neuron blocking agents
+T23	GROUP 2062 2092	Beta-adrenergic blocking drugs
+T24	DRUG 2137 2146	captopril
+T25	DRUG 2236 2245	captopril
+T26	GROUP 2320 2347	Potassium-sparing diuretics
+T27	DRUG 2356 2370	spironolactone
+T28	DRUG 2372 2383	triamterene
+T29	DRUG 2388 2397	amiloride
+T30	DRUG 2402 2411	potassium
+T31	DRUG 2590 2599	potassium
+T32	DRUG 2709 2721	indomethacin
+T33	DRUG 2764 2773	captopril
+T34	GROUP 2828 2865	nonsteroidal anti-inflammatory agents
+T35	BRAND 2873 2880	aspirin
+T36	DRUG 2909 2916	Lithium
+T37	DRUG 2934 2941	lithium
+T38	DRUG 2965 2972	lithium
+T39	DRUG 3035 3042	lithium
+T40	GROUP 3047 3060	ACE inhibitor
+T41	DRUG 3154 3161	lithium
+T42	GROUP 3190 3198	diuretic
+T43	DRUG 3241 3248	lithium
+T44	GROUP 3259 3277	Cardiac Glycosides
+T45	DRUG 3361 3370	captopril
+T46	DRUG 3371 3378	digoxin
+T47	GROUP 3407 3421	Loop Diuretics
+T48	DRUG 3423 3433	Furosemide
+T49	DRUG 3465 3474	captopril
+T50	DRUG 3514 3523	captopril
+T51	DRUG 3567 3578	Allopurinol
+T52	DRUG 3675 3684	captopril
+T53	DRUG 3689 3700	allopurinol
+T54	DRUG 3778 3787	Captopril
+R1	EFFECT Arg1:T2 Arg2:T4
+R2	EFFECT Arg1:T5 Arg2:T6
+R3	ADVISE Arg1:T11 Arg2:T13
+R4	ADVISE Arg1:T12 Arg2:T13
+R5	EFFECT Arg1:T15 Arg2:T16
+R6	EFFECT Arg1:T23 Arg2:T24
+R7	EFFECT Arg1:T32 Arg2:T33
+R8	EFFECT Arg1:T39 Arg2:T40
+R9	EFFECT Arg1:T42 Arg2:T43

@@ -1,0 +1,58 @@
+T1	GROUP 37 62	tricyclic antidepressants
+T2	DRUG 108 118	cimetidine
+T3	GROUP 316 341	tricyclic antidepressants
+T4	DRUG 347 357	cimetidine
+T5	GROUP 459 484	tricyclic antidepressants
+T6	DRUG 557 567	cimetidine
+T7	DRUG 632 642	cimetidine
+T8	GROUP 699 724	tricyclic antidepressants
+T9	GROUP 805 830	tricyclic antidepressants
+T10	DRUG 873 883	cimetidine
+T11	GROUP 916 941	tricyclic antidepressants
+T12	GROUP 1066 1081	antidepressants
+T13	DRUG 1093 1106	nortriptyline
+T14	DRUG 1113 1137	fluoxetine hydrochloride
+T15	DRUG 1194 1204	Fluoxetine
+T16	DRUG_N 1287 1300	norfluoxetine
+T17	DRUG 1394 1403	reserpine
+T18	GROUP 1426 1450	tricyclic antidepressant
+T19	DRUG 1601 1628	nortriptyline hydrochloride
+T20	GROUP 1648 1669	anticholinergic drugs
+T21	GROUP 1673 1694	sympathomimetic drugs
+T22	DRUG 1748 1755	alcohol
+T23	DRUG 2025 2036	debrisoquin
+T24	DRUG 2038 2054	dextromethorphan
+T25	GROUP 2064 2089	tricyclic antidepressants
+T26	GROUP 2164 2189	tricyclic antidepressants
+T27	GROUP 2296 2311	antidepressants
+T28	GROUP 2313 2338	tricyclic antidepressants
+T29	GROUP 2340 2379	selective serotonin reuptake inhibitors
+T30	GROUP 2640 2665	tricyclic antidepressants
+T31	GROUP 2781 2805	tricyclic antidepressant
+T32	GROUP 2857 2882	tricyclic antidepressants
+T33	GROUP 2956 2971	antidepressants
+T34	GROUP 2973 2987	phenothiazines
+T35	DRUG 2989 3002	carbamazepine
+T36	GROUP 3008 3031	Type 1C antiarrhythmics
+T37	DRUG 3037 3048	propafenone
+T38	DRUG 3050 3060	flecainide
+T39	DRUG 3066 3075	encainide
+T40	DRUG 3111 3120	quinidine
+R1	MECHANISM Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T3 Arg2:T4
+R3	MECHANISM Arg1:T5 Arg2:T6
+R4	MECHANISM Arg1:T7 Arg2:T8
+R5	EFFECT Arg1:T9 Arg2:T10
+R6	MECHANISM Arg1:T12 Arg2:T14
+R7	MECHANISM Arg1:T13 Arg2:T14
+R8	EFFECT Arg1:T17 Arg2:T18
+R9	ADVISE Arg1:T19 Arg2:T20
+R10	ADVISE Arg1:T19 Arg2:T21
+R11	ADVISE Arg1:T32 Arg2:T33
+R12	ADVISE Arg1:T32 Arg2:T34
+R13	ADVISE Arg1:T32 Arg2:T35
+R14	ADVISE Arg1:T32 Arg2:T36
+R15	ADVISE Arg1:T32 Arg2:T37
+R16	ADVISE Arg1:T32 Arg2:T38
+R17	ADVISE Arg1:T32 Arg2:T39
+R18	ADVISE Arg1:T32 Arg2:T40

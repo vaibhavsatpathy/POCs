@@ -1,0 +1,24 @@
+T1	DRUG 0 8	Warfarin
+T2	DRUG 10 30	Meclofenamate sodium
+T3	DRUG 54 62	warfarin
+T4	DRUG 80 100	meclofenamate sodium
+T5	DRUG 133 141	warfarin
+T6	DRUG 157 165	warfarin
+T7	BRAND 243 250	Aspirin
+T8	BRAND 281 288	aspirin
+T9	DRUG 299 319	meclofenamate sodium
+T10	DRUG 409 429	meclofenamate sodium
+T11	BRAND 447 454	aspirin
+T12	DRUG 480 500	meclofenamate sodium
+T13	DRUG 513 533	Meclofenamate sodium
+T14	GROUP 556 566	salicylate
+T15	DRUG 683 695	Propoxyphene
+T16	DRUG 730 756	propoxyphene hydrochloride
+T17	DRUG 796 816	meclofenamate sodium
+T18	GROUP 818 826	Antacids
+T19	DRUG 858 866;881 890	aluminum hydroxide
+T20	DRUG 871 890	magnesium hydroxide
+T21	DRUG 930 950	meclofenamate sodium
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	ADVISE Arg1:T4 Arg2:T5
+R3	MECHANISM Arg1:T8 Arg2:T9

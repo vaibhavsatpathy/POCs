@@ -1,0 +1,51 @@
+T1	DRUG 0 10	Furosemide
+T2	GROUP 50 76	aminoglycoside antibiotics
+T3	DRUG 196 206	Furosemide
+T4	DRUG 245 260	ethacrynic acid
+T5	GROUP 337 348	salicylates
+T6	DRUG 368 378	furosemide
+T7	GROUP 420 430	salicylate
+T8	DRUG 501 511	Furosemide
+T9	DRUG 580 592	tubocurarine
+T10	DRUG 626 641	succinylcholine
+T11	DRUG 643 650	Lithium
+T12	GROUP 686 695	diuretics
+T13	DRUG 716 723	lithium
+T14	DRUG 764 771	lithium
+T15	DRUG 782 792	Furosemide
+T16	GROUP 850 872	antihypertensive drugs
+T17	GROUP 899 909;924 949	ganglionic adrenergic blocking drugs
+T18	GROUP 913 949	peripheral adrenergic blocking drugs
+T19	DRUG 951 961	Furosemide
+T20	DRUG 1002 1016	norepinephrine
+T21	DRUG 1027 1041	norepinephrine
+T22	DRUG 1112 1122	sucralfate
+T23	DRUG 1127 1137	furosemide
+T24	DRUG 1205 1215	furosemide
+T25	DRUG 1345 1355	furosemide
+T26	DRUG 1383 1393	furosemide
+T27	DRUG 1398 1408	sucralfate
+T28	DRUG 1553 1563	furosemide
+T29	DRUG 1568 1588	acetylsalicylic acid
+T30	DRUG 1806 1816	furosemide
+T31	GROUP 1846 1852	NSAIDs
+T32	DRUG 1907 1919	indomethacin
+T33	DRUG 1979 1989	furosemide
+T34	DRUG 2046 2058	Indomethacin
+T35	DRUG 2173 2185	indomethacin
+T36	DRUG 2190 2200	furosemide
+T37	DRUG 2299 2309	furosemide
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	ADVISE Arg1:T3 Arg2:T4
+R3	EFFECT Arg1:T5 Arg2:T6
+R4	EFFECT Arg1:T8 Arg2:T9
+R5	EFFECT Arg1:T8 Arg2:T10
+R6	ADVISE Arg1:T11 Arg2:T12
+R7	EFFECT Arg1:T15 Arg2:T16
+R8	EFFECT Arg1:T19 Arg2:T20
+R9	EFFECT Arg1:T22 Arg2:T23
+R10	ADVISE Arg1:T26 Arg2:T27
+R11	EFFECT Arg1:T28 Arg2:T29
+R12	EFFECT Arg1:T30 Arg2:T31
+R13	EFFECT Arg1:T32 Arg2:T33
+R14	ADVISE Arg1:T35 Arg2:T36

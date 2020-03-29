@@ -1,0 +1,21 @@
+T1	DRUG 18 40	bromocriptine mesylate
+T2	DRUG 116 123	alcohol
+T3	DRUG 159 181	bromocriptine mesylate
+T4	DRUG 183 205	Bromocriptine mesylate
+T5	GROUP 224 244	dopamine antagonists
+T6	GROUP 246 260	butyrophenones
+T7	DRUG 352 374	bromocriptine mesylate
+T8	GROUP 376 390	phenothiazines
+T9	DRUG 392 403	haloperidol
+T10	DRUG 405 419	metoclopramide
+T11	DRUG 421 429	pimozide
+T12	DRUG 450 472	bromocriptine mesylate
+T13	GROUP 484 499	ergot alkaloids
+R1	EFFECT Arg1:T2 Arg2:T3
+R2	INT Arg1:T4 Arg2:T5
+R3	INT Arg1:T4 Arg2:T6
+R4	EFFECT Arg1:T7 Arg2:T8
+R5	EFFECT Arg1:T7 Arg2:T9
+R6	EFFECT Arg1:T7 Arg2:T10
+R7	EFFECT Arg1:T7 Arg2:T11
+R8	ADVISE Arg1:T12 Arg2:T13

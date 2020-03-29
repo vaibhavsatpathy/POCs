@@ -1,0 +1,21 @@
+T1	DRUG 41 51	cetirizine
+T2	DRUG 82 97	pseudoephedrine
+T3	DRUG 99 109	antipyrine
+T4	DRUG 111 123	ketoconazole
+T5	DRUG 125 137	erythromycin
+T6	DRUG 142 154	azithromycin
+T7	DRUG 215 227	theophylline
+T8	DRUG 263 273	cetirizine
+T9	DRUG 340 350	cetirizine
+T10	DRUG 384 396	theophylline
+T11	DRUG 428 438	cetirizine
+T12	DRUG 544 556	theophylline
+T13	DRUG 572 584	azithromycin
+T14	DRUG 586 601	pseudoephedrine
+T15	DRUG 603 615	ketoconazole
+T16	DRUG 620 632	erythromycin
+T17	DRUG 681 691	cetirizine
+T18	DRUG 719 731	theophylline
+T19	DRUG 760 772	theophylline
+R1	MECHANISM Arg1:T7 Arg2:T8
+R2	MECHANISM Arg1:T17 Arg2:T18

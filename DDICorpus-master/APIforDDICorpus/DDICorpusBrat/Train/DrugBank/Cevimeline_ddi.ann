@@ -1,0 +1,8 @@
+T1	DRUG 0 10	Cevimeline
+T2	GROUP 66 93	beta adrenergic antagonists
+T3	DRUG 220 230	cevimeline
+T4	DRUG 273 283	Cevimeline
+T5	DRUG 438 448	cevimeline
+T6	DRUG 450 460	Cevimeline
+T7	DRUG 760 770	cevimeline
+R1	ADVISE Arg1:T1 Arg2:T2

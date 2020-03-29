@@ -1,0 +1,16 @@
+T1	DRUG 40 50	cinacalcet
+T2	DRUG 83 94	darbepoetin
+T3	DRUG 224 238	erythropoietin
+T4	DRUG 240 243	EPO
+T5	DRUG 280 290	cinacalcet
+T6	DRUG 375 386	darbepoetin
+T7	DRUG 579 589	cinacalcet
+T8	DRUG 888 899	darbepoetin
+T9	DRUG 945 955	cinacalcet
+T10	DRUG 1065 1076	darbepoetin
+T11	DRUG 1222 1232	Cinacalcet
+T12	DRUG 1355 1366	darbepoetin
+T13	DRUG 1723 1734	darbepoetin
+T14	DRUG 1804 1814	cinacalcet
+T15	DRUG 1848 1859	darbepoetin
+R1	EFFECT Arg1:T14 Arg2:T15

@@ -1,0 +1,10 @@
+T1	GROUP 70 110	beta-adrenergic receptor blocking agents
+T2	GROUP 112 123	Anesthetics
+T3	GROUP 185 196	anesthetics
+T4	GROUP 198 216	Antidiabetic drugs
+T5	DRUG 234 241	insulin
+T6	GROUP 292 309	antidiabetic drug
+T7	DRUG 360 369	reserpine
+T8	GROUP 572 585	beta-blockers
+T9	DRUG 816 827	epinephrine
+R1	INT Arg1:T1 Arg2:T2

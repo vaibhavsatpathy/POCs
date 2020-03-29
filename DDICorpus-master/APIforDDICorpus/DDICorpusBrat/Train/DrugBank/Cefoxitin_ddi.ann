@@ -1,0 +1,7 @@
+T1	GROUP 83 97	cephalosporins
+T2	GROUP 102 128	aminoglycoside antibiotics
+T3	DRUG 172 183	cephalothin
+T4	DRUG 208 217	cefoxitin
+T5	DRUG 454 463	cefoxitin
+T6	DRUG 577 586	cefoxitin
+R1	EFFECT Arg1:T1 Arg2:T2

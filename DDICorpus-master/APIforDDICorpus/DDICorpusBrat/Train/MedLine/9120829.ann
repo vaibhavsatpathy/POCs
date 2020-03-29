@@ -1,0 +1,15 @@
+T1	DRUG 30 39	temazepam
+T2	DRUG 65 72	ethanol
+T3	GROUP 88 103	benzodiazepines
+T4	GROUP 120 130	anxiolytic
+T5	GROUP 135 149	hypnotic drugs
+T6	DRUG 180 187	ethanol
+T7	DRUG 411 420	temazepam
+T8	GROUP 424 438	benzodiazepine
+T9	DRUG 444 451	ethanol
+T10	DRUG 767 774	alcohol
+T11	GROUP 779 807	3-hydroxy-1,4-benzodiazepine
+T12	DRUG 847 854	ethanol
+R1	MECHANISM Arg1:T1 Arg2:T2
+R2	MECHANISM Arg1:T7 Arg2:T9
+R3	MECHANISM Arg1:T10 Arg2:T11

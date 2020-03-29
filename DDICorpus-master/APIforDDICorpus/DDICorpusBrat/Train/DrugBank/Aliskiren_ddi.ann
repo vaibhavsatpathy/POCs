@@ -1,0 +1,47 @@
+T1	DRUG 26 35	Aliskiren
+T2	DRUG 63 72	aliskiren
+T3	DRUG 121 131	lovastatin
+T4	DRUG 133 141	atenolol
+T5	DRUG 143 151	warfarin
+T6	DRUG 153 163	furosemide
+T7	DRUG 165 172	digoxin
+T8	DRUG 174 183	celecoxib
+T9	DRUG 185 204	hydrochlorothiazide
+T10	DRUG 206 214	ramipril
+T11	DRUG 216 225	valsartan
+T12	DRUG 227 236	metformin
+T13	DRUG 241 251	amlodipine
+T14	DRUG 306 315	aliskiren
+T15	DRUG 347 357	irbesartan
+T16	DRUG 366 375	aliskiren
+T17	DRUG 435 447	atorvastatin
+T18	DRUG 484 493	aliskiren
+T19	DRUG 530 542	Ketoconazole
+T20	DRUG 584 596	ketoconazole
+T21	DRUG 602 611	aliskiren
+T22	DRUG 672 681	aliskiren
+T23	DRUG 758 767	aliskiren
+T24	DRUG 801 810	Aliskiren
+T25	DRUG 826 835	Aliskiren
+T26	DRUG 962 971	aliskiren
+T27	DRUG 1025 1035	lovastatin
+T28	DRUG 1037 1044	digoxin
+T29	DRUG 1046 1055	valsartan
+T30	DRUG 1057 1067	amlodipine
+T31	DRUG 1069 1078	metformin
+T32	DRUG 1080 1089	celecoxib
+T33	DRUG 1091 1099	atenolol
+T34	DRUG 1101 1113	atorvastatin
+T35	DRUG 1115 1123	ramipril
+T36	DRUG 1127 1146	hydrochlorothiazide
+T37	DRUG 1148 1156	Warfarin
+T38	DRUG 1173 1182	aliskiren
+T39	DRUG 1186 1194	warfarin
+T40	DRUG 1273 1283	Furosemide
+T41	DRUG 1290 1299	aliskiren
+T42	DRUG 1325 1335	furosemide
+T43	DRUG 1357 1367	furosemide
+R1	MECHANISM Arg1:T15 Arg2:T16
+R2	MECHANISM Arg1:T17 Arg2:T18
+R3	MECHANISM Arg1:T20 Arg2:T21
+R4	MECHANISM Arg1:T41 Arg2:T42

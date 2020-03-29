@@ -1,0 +1,14 @@
+T1	BRAND 4 11	Factrel
+T2	GROUP 195 204	androgens
+T3	GROUP 206 215	estrogens
+T4	GROUP 217 227	progestins
+T5	GROUP 232 247	glucocorticoids
+T6	DRUG 304 318	spironolactone
+T7	DRUG 342 350	levodopa
+T8	GROUP 375 389	contraceptives
+T9	DRUG 394 401	digoxin
+T10	BRAND 419 426	Factrel
+T11	GROUP 445 459	phenothiazines
+T12	GROUP 464 484	dopamine antagonists
+R1	EFFECT Arg1:T10 Arg2:T11
+R2	EFFECT Arg1:T10 Arg2:T12

@@ -1,0 +1,19 @@
+T1	DRUG 20 31	Pirenzepine
+T2	DRUG 102 113	Pirenzepine
+T3	GROUP 150 158	Antacids
+T4	DRUG 190 196	kaolin
+T5	DRUG 200 211	attapulgite
+T6	DRUG 214 226	Ketoconazole
+T7	GROUP 229 269	Central nervous system (CNS) depressants
+T8	GROUP 278 294	anticholinergics
+T9	GROUP 297 322	Tricyclic antidepressants
+T10	BRAND 330 336	Elavil
+T11	BRAND 338 345	Asendin
+T12	BRAND 347 356	Anafranil
+T13	BRAND 358 368	Pertofrane
+T14	BRAND 370 378	Sinequan
+T15	BRAND 380 388	Tofranil
+T16	BRAND 390 397	Aventyl
+T17	BRAND 399 408	Surmontil
+T18	DRUG 412 430	Potassium chloride
+T19	BRAND 438 446	Kay Ciel

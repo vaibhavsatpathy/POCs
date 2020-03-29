@@ -1,0 +1,46 @@
+T1	GROUP 0 9	Vitamin A
+T2	BRAND 42 50	Accutane
+T3	GROUP 54 63	vitamin A
+T4	GROUP 107 126	vitamin supplements
+T5	GROUP 138 147	vitamin A
+T6	GROUP 182 195	Tetracyclines
+T7	BRAND 224 232	Accutane
+T8	GROUP 237 250	tetracyclines
+T9	BRAND 277 285	Accutane
+T10	GROUP 434 447	tetracyclines
+T11	DRUG 462 474	Progesterone
+T12	DRUG 501 513	progesterone
+T13	GROUP 561 569	estrogen
+T14	BRAND 623 631	Accutane
+T15	GROUP 656 679	hormonal contraceptives
+T16	GROUP 764 792	combined oral contraceptives
+T17	GROUP 988 1011	hormonal contraceptives
+T18	BRAND 1057 1065	Accutane
+T19	DRUG 1359 1368	Phenytoin
+T20	BRAND 1370 1378	Accutane
+T21	DRUG 1431 1440	phenytoin
+T22	DRUG 1549 1561	isotretinoin
+T23	DRUG 1655 1664	Phenytoin
+T24	DRUG 1809 1818	phenytoin
+T25	BRAND 1823 1831	Accutane
+T26	GROUP 1906 1930	Systemic Corticosteroids
+T27	GROUP 1932 1956	Systemic corticosteroids
+T28	GROUP 2102 2126	systemic corticosteroids
+T29	BRAND 2131 2139	Accutane
+T30	GROUP 2313 2336	hormonal contraceptives
+T31	BRAND 2425 2433	Accutane
+T32	GROUP 2529 2561	combined hormonal contraceptives
+T33	BRAND 2814 2822	Accutane
+T34	BRAND 2951 2959	Accutane
+T35	BRAND 3130 3138	Accutane
+T36	DRUG 3649 3656	alcohol
+T37	BRAND 3836 3844	Accutane
+T38	BRAND 3920 3928	Accutane
+T39	BRAND 4193 4201	Accutane
+T40	BRAND 4258 4266	Accutane
+T41	BRAND 4392 4400	Accutane
+T42	BRAND 4531 4539	Accutane
+R1	EFFECT Arg1:T2 Arg2:T3
+R2	ADVISE Arg1:T7 Arg2:T8
+R3	EFFECT Arg1:T9 Arg2:T10
+R4	EFFECT Arg1:T12 Arg2:T14

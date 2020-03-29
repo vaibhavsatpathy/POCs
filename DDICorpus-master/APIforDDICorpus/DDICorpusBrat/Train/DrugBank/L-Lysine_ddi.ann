@@ -1,0 +1,4 @@
+T1	DRUG 19 26	calcium
+T2	DRUG 43 51	L-lysine
+T3	DRUG 65 72	calcium
+R1	MECHANISM Arg1:T1 Arg2:T2

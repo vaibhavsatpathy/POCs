@@ -1,0 +1,23 @@
+T1	GROUP 0 14	MAO inhibitors
+T2	DRUG 65 76	hydralazine
+T3	GROUP 105 127	antihypertensive drugs
+T4	DRUG 137 146	diazoxide
+T5	DRUG 177 188	hydralazine
+T6	DRUG 336 345	diazoxide
+T7	DRUG 360 371	hydralazine
+T8	GROUP 396 409	Beta-blockers
+T9	DRUG 411 421	metoprolol
+T10	DRUG 423 434	propranolol
+T11	DRUG 532 543	Propranolol
+T12	DRUG 554 565	hydralazine
+T13	DRUG 589 599	Acebutolol
+T14	DRUG 601 609	atenolol
+T15	DRUG 615 622	nadolol
+T16	GROUP 704 710	NSAIDs
+T17	DRUG 751 762	hydralazine
+R1	ADVISE Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T3 Arg2:T4
+R3	EFFECT Arg1:T3 Arg2:T5
+R4	EFFECT Arg1:T6 Arg2:T7
+R5	MECHANISM Arg1:T11 Arg2:T12
+R6	EFFECT Arg1:T16 Arg2:T17

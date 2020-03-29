@@ -1,0 +1,115 @@
+T1	DRUG 0 17	Aminoglutethimide
+T2	DRUG 19 36	Aminoglutethimide
+T3	GROUP 73 88	corticosteroids
+T4	DRUG 90 104	Amphotericin B
+T5	GROUP 152 167	corticosteroids
+T6	DRUG 238 252	amphotericin B
+T7	GROUP 254 263	diuretics
+T8	DRUG 406 420	amphotericin B
+T9	DRUG 425 439	hydrocortisone
+T10	GROUP 506 517	Antibiotics
+T11	GROUP 519 540	Macrolide antibiotics
+T12	GROUP 595 609	corticosteroid
+T13	GROUP 621 640	Anticholinesterases
+T14	GROUP 661 686	anticholinesterase agents
+T15	GROUP 691 706	corticosteroids
+T16	GROUP 784 809	anticholinesterase agents
+T17	GROUP 866 880	corticosteroid
+T18	GROUP 890 904	Anticoagulants
+T19	GROUP 933 948	corticosteroids
+T20	DRUG 953 961	warfarin
+T21	DRUG 1007 1015	warfarin
+T22	GROUP 1176 1189	Antidiabetics
+T23	GROUP 1199 1214	corticosteroids
+T24	GROUP 1280 1299	antidiabetic agents
+T25	DRUG 1363 1372	isoniazid
+T26	DRUG 1391 1405	Cholestyramine
+T27	DRUG 1407 1421	Cholestyramine
+T28	GROUP 1452 1467	corticosteroids
+T29	DRUG 1469 1481	Cyclosporine
+T30	DRUG 1510 1522	cyclosporine
+T31	GROUP 1527 1542	corticosteroids
+T32	DRUG 1782 1794	indomethacin
+T33	GROUP 1894 1914	Digitalis glycosides
+T34	GROUP 1928 1948	digitalis glycosides
+T35	DRUG 2009 2018	Ephedrine
+T36	DRUG 2020 2029	Ephedrine
+T37	GROUP 2069 2084	corticosteroids
+T38	GROUP 2187 2201	corticosteroid
+T39	GROUP 2210 2219	Estrogens
+T40	GROUP 2236 2250	contraceptives
+T41	GROUP 2252 2261	Estrogens
+T42	GROUP 2309 2324	corticosteroids
+T43	GROUP 2483 2495	barbiturates
+T44	DRUG 2497 2506	phenytoin
+T45	DRUG 2508 2521	carbamazepine
+T46	DRUG 2523 2531	rifampin
+T47	GROUP 2563 2578	corticosteroids
+T48	GROUP 2614 2628	corticosteroid
+T49	DRUG 2678 2690	ketoconazole
+T50	GROUP 2692 2713	macrolide antibiotics
+T51	DRUG 2722 2734	erythromycin
+T52	GROUP 2803 2818	corticosteroids
+T53	DRUG 2820 2833	Dexamethasone
+T54	DRUG 2942 2951	indinavir
+T55	DRUG 2953 2965	erythromycin
+T56	DRUG 3042 3054	Ketoconazole
+T57	DRUG 3056 3068	Ketoconazole
+T58	GROUP 3125 3140	corticosteroids
+T59	GROUP 3184 3198	corticosteroid
+T60	DRUG 3226 3238	ketoconazole
+T61	DRUG 3265 3279	corticosteroid
+T62	GROUP 3360 3397	Nonsteroidal anti-inflammatory agents
+T63	GROUP 3399 3405	NSAIDS
+T64	BRAND 3427 3434	aspirin
+T65	GROUP 3445 3481	nonsteroidal antiinflammatory agents
+T66	GROUP 3487 3502	corticosteroids
+T67	BRAND 3556 3563	Aspirin
+T68	GROUP 3610 3625	corticosteroids
+T69	GROUP 3667 3678	salicylates
+T70	GROUP 3719 3734	corticosteroids
+T71	DRUG 3736 3745	Phenytoin
+T72	DRUG 3836 3845	phenytoin
+T73	DRUG 3858 3871	dexamethasone
+T74	GROUP 3946 3961	Corticosteroids
+T75	DRUG 4000 4011	Thalidomide
+T76	DRUG 4036 4047	thalidomide
+T77	GROUP 4149 4157	Vaccines
+T78	GROUP 4171 4185	corticosteroid
+T79	GROUP 4243 4247;4263 4271	live vaccines
+T80	GROUP 4251 4271	inactivated vaccines
+T81	GROUP 4312 4327	Corticosteroids
+T82	GROUP 4395 4419	live attenuated vaccines
+T83	GROUP 4447 4455	vaccines
+T84	GROUP 4492 4506	corticosteroid
+R1	EFFECT Arg1:T2 Arg2:T3
+R2	ADVISE Arg1:T5 Arg2:T6
+R3	ADVISE Arg1:T5 Arg2:T7
+R4	EFFECT Arg1:T8 Arg2:T9
+R5	MECHANISM Arg1:T11 Arg2:T12
+R6	EFFECT Arg1:T14 Arg2:T15
+R7	ADVISE Arg1:T16 Arg2:T17
+R8	EFFECT Arg1:T19 Arg2:T20
+R9	EFFECT Arg1:T23 Arg2:T24
+R10	MECHANISM Arg1:T27 Arg2:T28
+R11	EFFECT Arg1:T30 Arg2:T31
+R12	MECHANISM Arg1:T36 Arg2:T37
+R13	MECHANISM Arg1:T41 Arg2:T42
+R14	MECHANISM Arg1:T43 Arg2:T47
+R15	MECHANISM Arg1:T44 Arg2:T47
+R16	MECHANISM Arg1:T45 Arg2:T47
+R17	MECHANISM Arg1:T46 Arg2:T47
+R18	MECHANISM Arg1:T49 Arg2:T52
+R19	MECHANISM Arg1:T50 Arg2:T52
+R20	MECHANISM Arg1:T51 Arg2:T52
+R21	MECHANISM Arg1:T57 Arg2:T58
+R22	EFFECT Arg1:T60 Arg2:T61
+R23	EFFECT Arg1:T64 Arg2:T66
+R24	EFFECT Arg1:T65 Arg2:T66
+R25	ADVISE Arg1:T67 Arg2:T68
+R26	MECHANISM Arg1:T69 Arg2:T70
+R27	MECHANISM Arg1:T72 Arg2:T73
+R28	EFFECT Arg1:T78 Arg2:T79
+R29	EFFECT Arg1:T78 Arg2:T80
+R30	EFFECT Arg1:T81 Arg2:T82
+R31	ADVISE Arg1:T83 Arg2:T84

@@ -1,0 +1,60 @@
+T1	GROUP 0 9	Diuretics
+T2	GROUP 23 32	diuretics
+T3	DRUG 190 207	fosinopril sodium
+T4	GROUP 293 301	diuretic
+T5	DRUG 366 383	fosinopril sodium
+T6	DRUG 606 615	Potassium
+T7	GROUP 632 659	Potassium-Sparing Diuretics
+T8	DRUG 661 678	Fosinopril sodium
+T9	GROUP 718 736	thiazide diuretics
+T10	GROUP 738 765	Potassium-sparing diuretics
+T11	DRUG 767 781	spironolactone
+T12	DRUG 783 792	amiloride
+T13	DRUG 793 804	triamterene
+T14	DRUG 821 830	potassium
+T15	DRUG 1041 1048	Lithium
+T16	DRUG 1066 1073	lithium
+T17	DRUG 1097 1104	lithium
+T18	GROUP 1155 1169	ACE inhibitors
+T19	DRUG 1190 1197	lithium
+T20	DRUG 1283 1290	lithium
+T21	GROUP 1319 1327	diuretic
+T22	GROUP 1389 1397	Antacids
+T23	GROUP 1456 1463	antacid
+T24	DRUG 1465 1483	aluminum hydroxide
+T25	DRUG 1485 1504	magnesium hydroxide
+T26	DRUG 1510 1521	simethicone
+T27	DRUG 1528 1538	fosinopril
+T28	DRUG_N 1585 1597	fosinoprilat
+T29	DRUG 1615 1625	fosinopril
+T30	GROUP 1662 1670	antacids
+T31	DRUG 1696 1706	fosinopril
+T32	DRUG 1833 1850	fosinopril sodium
+T33	DRUG 1987 2001	chlorthalidone
+T34	DRUG 2003 2013	nifedipine
+T35	DRUG 2015 2025	propanolol
+T36	DRUG 2027 2046	hydrochlorothiazide
+T37	DRUG 2048 2058	cimetidine
+T38	DRUG 2060 2074	metoclopramide
+T39	DRUG 2076 2089	propantheline
+T40	DRUG 2091 2098	digoxin
+T41	DRUG 2104 2112	warfarin
+T42	DRUG_N 2137 2149	fosinoprilat
+T43	DRUG 2189 2199	fosinopril
+T44	BRAND 2275 2282	aspirin
+T45	DRUG 2287 2304	fosinopril sodium
+T46	DRUG_N 2337 2349	fosinoprilat
+T47	DRUG 2411 2419	warfarin
+T48	DRUG 2543 2551	warfarin
+T49	DRUG 2617 2627	Fosinopril
+T50	DRUG 2671 2678	digoxin
+T51	DRUG 2718 2725	Digoxin
+R1	EFFECT Arg1:T2 Arg2:T3
+R2	EFFECT Arg1:T4 Arg2:T5
+R3	EFFECT Arg1:T8 Arg2:T9
+R4	EFFECT Arg1:T18 Arg2:T19
+R5	MECHANISM Arg1:T23 Arg2:T27
+R6	MECHANISM Arg1:T24 Arg2:T27
+R7	MECHANISM Arg1:T25 Arg2:T27
+R8	MECHANISM Arg1:T26 Arg2:T27
+R9	MECHANISM Arg1:T30 Arg2:T31

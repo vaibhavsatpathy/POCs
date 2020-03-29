@@ -1,0 +1,51 @@
+T1	DRUG 0 11	Montelukast
+T2	DRUG 176 188	theophylline
+T3	DRUG 286 294	warfarin
+T4	DRUG 396 404	warfarin
+T5	DRUG 554 561	digoxin
+T6	DRUG 616 627	terfenadine
+T7	DRUG 668 680	fexofenadine
+T8	DRUG 781 792	terfenadine
+T9	DRUG 812 823	Montelukast
+T10	GROUP 979 992	contraceptive
+T11	DRUG 1004 1017	norethindrone
+T12	DRUG 1031 1040	estradiol
+T13	DRUG 1121 1131	prednisone
+T14	DRUG 1135 1147	prednisolone
+T15	DRUG 1188 1198	prednisone
+T16	DRUG 1214 1226	prednisolone
+T17	DRUG 1228 1241	Phenobarbital
+T18	DRUG 1298 1309	montelukast
+T19	DRUG 1361 1372	montelukast
+T20	DRUG 1399 1410	montelukast
+T21	DRUG 1539 1552	phenobarbital
+T22	DRUG 1556 1564	rifampin
+T23	DRUG 1591 1602	montelukast
+T24	DRUG 1604 1615	Montelukast
+T25	DRUG 1835 1846	montelukast
+T26	DRUG 1937 1949	theophylline
+T27	DRUG 1951 1961	prednisone
+T28	DRUG 1963 1975	prednisolone
+T29	GROUP 1982 1996	contraceptives
+T30	DRUG 1998 2011	norethindrone
+T31	DRUG 2017 2034	ethinyl estradiol
+T32	DRUG 2044 2055	terfenadine
+T33	DRUG 2057 2064	digoxin
+T34	DRUG 2070 2078	warfarin
+T35	DRUG 2149 2160	montelukast
+T36	GROUP 2329 2345	thyroid hormones
+T37	GROUP 2347 2365	sedative hypnotics
+T38	GROUP 2367 2405	non-steroidal anti-inflammatory agents
+T39	GROUP 2407 2422	benzodiazepines
+T40	GROUP 2428 2441	decongestants
+T41	DRUG 2443 2456	Phenobarbital
+T42	DRUG 2513 2524	montelukast
+T43	DRUG 2576 2587	montelukast
+T44	DRUG 2614 2625	montelukast
+T45	DRUG 2754 2767	phenobarbital
+T46	DRUG 2771 2779	rifampin
+T47	DRUG 2806 2817	montelukast
+R1	ADVISE Arg1:T21 Arg2:T23
+R2	ADVISE Arg1:T22 Arg2:T23
+R3	ADVISE Arg1:T45 Arg2:T47
+R4	ADVISE Arg1:T46 Arg2:T47

@@ -1,0 +1,15 @@
+T1	DRUG 71 100	99mTc-methylene diphosphonate
+T2	DRUG 107 117	gentamicin
+T3	DRUG 131 141	Gentamicin
+T4	GROUP 148 173	aminoglycoside antibiotic
+T5	DRUG 323 333	gentamicin
+T6	DRUG 380 389	99mTc-MDP
+T7	GROUP 429 448	radiopharmaceutical
+T8	DRUG 847 857	gentamicin
+T9	DRUG 1089 1099	gentamicin
+T10	DRUG 1141 1150	99mTc-MDP
+T11	GROUP 1158 1177	radiopharmaceutical
+T12	DRUG 1289 1299	gentamicin
+T13	DRUG 1337 1347	gentamicin
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	MECHANISM Arg1:T5 Arg2:T6

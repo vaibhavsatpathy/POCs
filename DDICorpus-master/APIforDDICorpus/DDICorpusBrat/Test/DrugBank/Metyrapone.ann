@@ -1,0 +1,10 @@
+T1	BRAND 146 156	Metopirone
+T2	BRAND 176 186	Metopirone
+T3	DRUG 205 214	phenytoin
+T4	DRUG 284 293	phenytoin
+T5	BRAND 382 392	Metopirone
+T6	DRUG 425 438	acetaminophen
+T7	DRUG 469 482	acetaminophen
+R1	MECHANISM Arg1:T2 Arg2:T3
+R2	MECHANISM Arg1:T5 Arg2:T6
+R3	EFFECT Arg1:T5 Arg2:T7

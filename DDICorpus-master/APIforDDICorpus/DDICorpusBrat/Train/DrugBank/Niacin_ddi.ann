@@ -1,0 +1,11 @@
+T1	DRUG 17 27	Vitamin B3
+T2	DRUG 29 35	Niacin
+T3	GROUP 38 54	Antihypertensive
+T4	DRUG 64 78	Nicotinic acid
+T5	GROUP 109 135	ganglionic blocking agents
+T6	BRAND 192 199	Aspirin
+T7	BRAND 213 220	aspirin
+T8	DRUG 261 275	nicotinic acid
+T9	DRUG 347 354	alcohol
+R1	EFFECT Arg1:T4 Arg2:T5
+R2	MECHANISM Arg1:T7 Arg2:T8

@@ -1,0 +1,12 @@
+T1	DRUG 0 10	Lamivudine
+T2	DRUG 312 324	trimethoprim
+T3	DRUG 424 434	lamivudine
+T4	DRUG 471 474	TMP
+T5	DRUG 475 478	SMX
+T6	DRUG 657 667	lamivudine
+T7	DRUG 669 679	Lamivudine
+T8	DRUG 684 695	zalcitabine
+T9	DRUG 776 786	lamivudine
+T10	DRUG 807 818	zalcitabine
+R1	EFFECT Arg1:T7 Arg2:T8
+R2	ADVISE Arg1:T9 Arg2:T10

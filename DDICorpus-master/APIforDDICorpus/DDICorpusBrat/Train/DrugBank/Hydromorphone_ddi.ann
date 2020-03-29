@@ -1,0 +1,17 @@
+T1	GROUP 25 43	narcotic analgesic
+T2	GROUP 54 65	anesthetics
+T3	GROUP 67 81	phenothiazines
+T4	GROUP 83 96	tranquilizers
+T5	GROUP 98 116	sedative-hypnotics
+T6	GROUP 118 143	tricyclic antidepressants
+T7	GROUP 153 168	CNS depressants
+T8	DRUG 180 187	alcohol
+T9	BRAND 208 216	DILAUDID
+R1	EFFECT Arg1:T1 Arg2:T9
+R2	EFFECT Arg1:T2 Arg2:T9
+R3	EFFECT Arg1:T3 Arg2:T9
+R4	EFFECT Arg1:T4 Arg2:T9
+R5	EFFECT Arg1:T5 Arg2:T9
+R6	EFFECT Arg1:T6 Arg2:T9
+R7	EFFECT Arg1:T7 Arg2:T9
+R8	EFFECT Arg1:T8 Arg2:T9

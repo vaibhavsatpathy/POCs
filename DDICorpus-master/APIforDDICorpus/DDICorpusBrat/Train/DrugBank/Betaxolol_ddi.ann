@@ -1,0 +1,36 @@
+T1	BRAND 50 57	Kerlone
+T2	DRUG 101 111	cimetidine
+T3	DRUG 113 123	nifedipine
+T4	DRUG 125 139	chlorthalidone
+T5	DRUG 145 164	hydrochlorothiazide
+T6	BRAND 196 203	Kerlone
+T7	GROUP 218 231	anticoagulant
+T8	DRUG 232 240	warfarin
+T9	DRUG 302 310	warfarin
+T10	DRUG 349 358	reserpine
+T11	DRUG 404 417	beta-blocking
+T12	GROUP 450 489	beta-adrenergic receptor blocking agent
+T13	GROUP 735 748	beta-blockers
+T14	DRUG 753 762	clonidine
+T15	GROUP 781 793	beta-blocker
+T16	DRUG 875 884	clonidine
+T17	GROUP 923 942	calcium antagonists
+T18	GROUP 975 1006	beta-adrenergic blocking agents
+T19	GROUP 1220 1251	beta-adrenergic blocking agents
+T20	GROUP 1265 1283	calcium antagonist
+T21	GROUP 1364 1382	calcium antagonist
+T22	GROUP 1390 1416	dihydropyridine derivative
+T23	DRUG 1424 1434	nifedipine
+T24	DRUG 1569 1578	verapamil
+T25	DRUG 1582 1591	diltiazem
+T26	GROUP 1662 1675	beta-blockers
+T27	DRUG 1697 1708	epinephrine
+T28	GROUP 1749 1762	beta-blockers
+T29	GROUP 2119 2132	beta-blockers
+T30	DRUG 2190 2201	epinephrine
+R1	EFFECT Arg1:T10 Arg2:T11
+R2	ADVISE Arg1:T13 Arg2:T14
+R3	ADVISE Arg1:T15 Arg2:T16
+R4	ADVISE Arg1:T17 Arg2:T18
+R5	EFFECT Arg1:T19 Arg2:T20
+R6	EFFECT Arg1:T26 Arg2:T27

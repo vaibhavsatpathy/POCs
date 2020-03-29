@@ -1,0 +1,17 @@
+T1	DRUG 5 14	ertapenem
+T2	DRUG 39 49	probenecid
+T3	DRUG 79 89	probenecid
+T4	DRUG 163 172	ertapenem
+T5	DRUG 189 198	ertapenem
+T6	DRUG 215 225	probenecid
+T7	DRUG 440 450	probenecid
+T8	DRUG 478 487	ertapenem
+T9	DRUG 539 548	ertapenem
+T10	DRUG 603 610	digoxin
+T11	DRUG 614 625	vinblastine
+T12	DRUG 635 644	ertapenem
+T13	DRUG 760 769	ertapenem
+T14	DRUG 1068 1078	probenecid
+R1	MECHANISM Arg1:T3 Arg2:T4
+R2	MECHANISM Arg1:T5 Arg2:T6
+R3	ADVISE Arg1:T7 Arg2:T8

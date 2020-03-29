@@ -1,0 +1,45 @@
+T1	GROUP 70 93	adrenal corticosteroids
+T2	DRUG 95 109	Amphotericin B
+T3	GROUP 113 142	potassium-depleting diuretics
+T4	GROUP 144 161	benzothiadiazines
+T5	DRUG 181 196	ethacrynic acid
+T6	DRUG 201 211	furosemide
+T7	DRUG 291 300	potassium
+T8	GROUP 328 348	Digitalis glycosides
+T9	GROUP 388 397	digitalis
+T10	DRUG 472 481	potassium
+T11	GROUP 513 527	anticoagulants
+T12	GROUP 603 616	anticoagulant
+T13	GROUP 637 655	Antidiabetic drugs
+T14	DRUG 673 680	insulin
+T15	GROUP 770 787	antidiabetic drug
+T16	BRAND 809 816	Aspirin
+T17	BRAND 881 888	aspirin
+T18	GROUP 897 907	salicylate
+T19	GROUP 955 963	steroids
+T20	BRAND 991 998	aspirin
+T21	GROUP 1016 1026	salicylate
+T22	BRAND 1070 1077	aspirin
+T23	GROUP 1095 1105	salicylate
+T24	GROUP 1147 1159	Barbiturates
+T25	DRUG 1161 1170	phenytoin
+T26	DRUG 1175 1183	rifampin
+T27	DRUG 1217 1240	fludrocortisone acetate
+T28	GROUP 1340 1347	steroid
+T29	GROUP 1365 1372	steroid
+T30	GROUP 1393 1410	Anabolic steroids
+T31	GROUP 1440 1449	androgens
+T32	DRUG 1458 1470	oxymetholone
+T33	DRUG 1472 1490	methandrostenolone
+T34	DRUG 1492 1507	norethandrolone
+T35	GROUP 1666 1674	Vaccines
+T36	GROUP 1734 1742	Estrogen
+T37	GROUP 1906 1921	corticosteroids
+T38	GROUP 1928 1936	estrogen
+T39	GROUP 1974 1988	corticosteroid
+T40	GROUP 2056 2064	estrogen
+T41	GROUP 2114 2129	Corticosteroids
+R1	EFFECT Arg1:T19 Arg2:T20
+R2	MECHANISM Arg1:T24 Arg2:T27
+R3	MECHANISM Arg1:T25 Arg2:T27
+R4	MECHANISM Arg1:T26 Arg2:T27

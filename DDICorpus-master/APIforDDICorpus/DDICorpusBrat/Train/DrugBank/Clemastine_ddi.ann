@@ -1,0 +1,15 @@
+T1	GROUP 39 53	antihistamines
+T2	GROUP 96 111	CNS depressants
+T3	GROUP 122 134	barbiturates
+T4	GROUP 136 149	tranquilizers
+T5	DRUG 155 162	alcohol
+T6	GROUP 183 197	antihistamines
+T7	GROUP 252 272	CNS depressant drugs
+T8	GROUP 274 308	Monoamine oxidase (MAO) inhibitors
+T9	GROUP 362 376	antihistamines
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T1 Arg2:T3
+R3	EFFECT Arg1:T1 Arg2:T4
+R4	EFFECT Arg1:T1 Arg2:T5
+R5	ADVISE Arg1:T6 Arg2:T7
+R6	EFFECT Arg1:T8 Arg2:T9

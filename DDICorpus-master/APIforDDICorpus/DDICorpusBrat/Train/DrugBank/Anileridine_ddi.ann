@@ -1,0 +1,9 @@
+T1	DRUG 32 43	anileridine
+T2	GROUP 73 80	opioids
+T3	GROUP 82 91	sedatives
+T4	GROUP 93 107	phenothiazines
+T5	GROUP 112 123	anesthetics
+R1	ADVISE Arg1:T1 Arg2:T2
+R2	ADVISE Arg1:T1 Arg2:T3
+R3	ADVISE Arg1:T1 Arg2:T4
+R4	ADVISE Arg1:T1 Arg2:T5

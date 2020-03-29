@@ -1,0 +1,7 @@
+T1	GROUP 77 85	Steroids
+T2	DRUG 116 140	edetate calcium disodium
+T3	DRUG 155 179	Edetate calcium disodium
+T4	DRUG 210 222	zinc insulin
+T5	DRUG 253 257	zinc
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	MECHANISM Arg1:T3 Arg2:T4

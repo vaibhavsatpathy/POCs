@@ -1,0 +1,77 @@
+T1	GROUP 5 19	Anticoagulants
+T2	GROUP 21 37	Thyroid hormones
+T3	GROUP 117 131	anticoagulants
+T4	GROUP 248 262	anticoagulants
+T5	GROUP 288 295	thyroid
+T6	GROUP 440 453	anticoagulant
+T7	DRUG 642 649	Insulin
+T8	GROUP 658 671	Hypoglycemics
+T9	DRUG 735 742	insulin
+T10	GROUP 751 763	hypoglycemic
+T11	GROUP 879 899	thyroid preparations
+T12	DRUG 956 963	insulin
+T13	GROUP 972 985	hypoglycemics
+T14	DRUG 1062 1076	Cholestyramine
+T15	DRUG 1078 1092	Cholestyramine
+T16	DRUG 1104 1106	T4
+T17	DRUG 1111 1113	T3
+T18	GROUP 1167 1183	thyroid hormones
+T19	DRUG 1315 1329	cholestyramine
+T20	GROUP 1334 1350	thyroid hormones
+T21	GROUP 1352 1360	Estrogen
+T22	GROUP 1367 1381	Contraceptives
+T23	GROUP 1383 1392	Estrogens
+T24	DRUG 1550 1563	levothyroxine
+T25	GROUP 1586 1595	estrogens
+T26	GROUP 1624 1631	thyroid
+T27	DRUG 1729 1737	thyroxin
+T28	GROUP 1856 1863	thyroid
+T29	GROUP 1952 1961	estrogens
+T30	GROUP 1965 1973	estrogen
+T31	GROUP 1990 2004	contraceptives
+T32	GROUP 2016 2041	Tricyclic Antidepressants
+T33	GROUP 2050 2066	thyroid products
+T34	DRUG 2072 2082	imipramine
+T35	GROUP 2093 2118	tricyclic antidepressants
+T36	GROUP 2239 2254	Thyroid hormone
+T37	GROUP 2286 2295	Digitalis
+T38	GROUP 2297 2317	Thyroid preparations
+T39	GROUP 2354 2363	digitalis
+T40	GROUP 2450 2459	digitalis
+T41	DRUG 2468 2476	Ketamine
+T42	GROUP 2513 2532	thyroid preparation
+T43	GROUP 2550 2560	anesthetic
+T44	GROUP 2671 2682	Vasopressor
+T45	DRUG 2685 2694	Thyroxine
+T46	DRUG 2753 2764	epinephrine
+T47	DRUG 2769 2783	norepinephrine
+T48	GROUP 2846 2866	thyroid preparations
+T49	GROUP 3148 3163	thyroid hormone
+T50	GROUP 3173 3182	androgens
+T51	GROUP 3184 3199	corticosteroids
+T52	GROUP 3201 3210	estrogens
+T53	GROUP 3217 3231	contraceptives
+T54	GROUP 3243 3252	estrogens
+T55	GROUP 3254 3260	iodine
+T56	GROUP 3326 3337	salicylates
+T57	GROUP 3520 3529	estrogens
+T58	GROUP 3534 3542	estrogen
+T59	GROUP 3559 3573	contraceptives
+T60	GROUP 3738 3746	androgen
+T61	GROUP 3750 3764	corticosteroid
+T62	GROUP 3987 3998	salicylates
+T63	GROUP 4024 4030	iodine
+T64	GROUP 4435 4450	thyroid hormone
+R1	ADVISE Arg1:T4 Arg2:T5
+R2	MECHANISM Arg1:T15 Arg2:T16
+R3	MECHANISM Arg1:T15 Arg2:T17
+R4	ADVISE Arg1:T19 Arg2:T20
+R5	MECHANISM Arg1:T24 Arg2:T25
+R6	ADVISE Arg1:T28 Arg2:T29
+R7	ADVISE Arg1:T28 Arg2:T31
+R8	EFFECT Arg1:T33 Arg2:T34
+R9	EFFECT Arg1:T33 Arg2:T35
+R10	EFFECT Arg1:T38 Arg2:T39
+R11	EFFECT Arg1:T42 Arg2:T43
+R12	EFFECT Arg1:T45 Arg2:T46
+R13	EFFECT Arg1:T45 Arg2:T47

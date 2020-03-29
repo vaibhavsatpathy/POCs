@@ -1,0 +1,53 @@
+T1	DRUG 28 38	Mefloquine
+T2	GROUP 170 182	beta blocker
+T3	DRUG 184 195	propranolol
+T4	DRUG 310 320	Mefloquine
+T5	DRUG 503 515	halofantrine
+T6	DRUG 571 581	Mefloquine
+T7	DRUG 613 623	Mefloquine
+T8	DRUG 657 664	quinine
+T9	DRUG 666 675	quinidine
+T10	DRUG 680 691	chloroquine
+T11	DRUG 852 862	Mefloquine
+T12	DRUG 969 981	halofantrine
+T13	DRUG 1221 1231	Mefloquine
+T14	DRUG 1328 1343	anti-arrhythmic
+T15	GROUP 1347 1378	beta-adrenergic blocking agents
+T16	GROUP 1380 1404	calcium channel blockers
+T17	GROUP 1406 1420	antihistamines
+T18	GROUP 1424 1442	H1-blocking agents
+T19	GROUP 1444 1469	tricyclic antidepressants
+T20	GROUP 1474 1488	phenothiazines
+T21	GROUP 1739 1753	anticonvulsant
+T22	DRUG 1759 1772	valproic acid
+T23	DRUG 1774 1787	carbamazepine
+T24	DRUG 1789 1802	phenobarbital
+T25	DRUG 1806 1815	phenytoin
+T26	DRUG 1841 1851	Mefloquine
+T27	GROUP 1916 1930	anticonvulsant
+T28	DRUG 1999 2009	Mefloquine
+T29	DRUG 2124 2134	Mefloquine
+T30	GROUP 2167 2188	live typhoid vaccines
+T31	DRUG 2352 2362	Mefloquine
+T32	DRUG 2431 2441	Mefloquine
+T33	GROUP 2520 2534	anticoagulants
+T34	DRUG 2626 2637	sulfadoxine
+T35	DRUG 2642 2655	pyrimethamine
+R1	ADVISE Arg1:T5 Arg2:T6
+R2	EFFECT Arg1:T7 Arg2:T8
+R3	EFFECT Arg1:T7 Arg2:T9
+R4	EFFECT Arg1:T7 Arg2:T10
+R5	EFFECT Arg1:T13 Arg2:T14
+R6	EFFECT Arg1:T13 Arg2:T15
+R7	EFFECT Arg1:T13 Arg2:T16
+R8	EFFECT Arg1:T13 Arg2:T17
+R9	EFFECT Arg1:T13 Arg2:T18
+R10	EFFECT Arg1:T13 Arg2:T19
+R11	EFFECT Arg1:T13 Arg2:T20
+R12	EFFECT Arg1:T21 Arg2:T26
+R13	EFFECT Arg1:T22 Arg2:T26
+R14	EFFECT Arg1:T23 Arg2:T26
+R15	EFFECT Arg1:T24 Arg2:T26
+R16	EFFECT Arg1:T25 Arg2:T26
+R17	EFFECT Arg1:T29 Arg2:T30
+R18	ADVISE Arg1:T32 Arg2:T33

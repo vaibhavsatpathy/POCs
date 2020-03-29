@@ -1,0 +1,12 @@
+T1	GROUP 55 79	calcium channel blockers
+T2	BRAND 117 124	Nimotop
+T3	BRAND 138 145	Nimotop
+T4	GROUP 200 226	antihypertensive compounds
+T5	DRUG 430 440	nimodipine
+T6	DRUG 539 549	cimetidine
+T7	DRUG 570 580	nimodipine
+T8	DRUG 679 689	cimetidine
+T9	DRUG 737 747	nimodipine
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T3 Arg2:T4
+R3	MECHANISM Arg1:T6 Arg2:T7

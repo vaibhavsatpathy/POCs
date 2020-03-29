@@ -1,0 +1,15 @@
+T1	DRUG 0 14	Sulfamethizole
+T2	GROUP 43 55	barbiturates
+T3	DRUG 57 68	tolbutamide
+T4	GROUP 74 85	uricosurics
+T5	GROUP 113 122	thiazides
+T6	DRUG 153 165	cyclosporine
+T7	GROUP 194 213	sulfonylurea agents
+T8	DRUG 249 257	warfarin
+T9	DRUG 292 304	methotrexate
+T10	DRUG 335 347	methotrexate
+T11	DRUG 350 359	phenytoin
+T12	DRUG 392 401	phenytoin
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T1 Arg2:T3
+R3	EFFECT Arg1:T1 Arg2:T4

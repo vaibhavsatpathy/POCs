@@ -1,0 +1,27 @@
+T1	BRAND 0 10	Chirocaine
+T2	GROUP 75 86	anesthetics
+T3	DRUG 294 309	levobupivacaine
+T4	DRUG_N 313 337	desbutyl levobupivacaine
+T5	DRUG_N 342 367	3-hydroxy levobupivacaine
+T6	BRAND 440 450	Chirocaine
+T7	BRAND 527 537	Chirocaine
+T8	DRUG 625 640	levobupivacaine
+T9	DRUG 695 704	phenytoin
+T10	DRUG 706 719	phenobarbital
+T11	DRUG 721 729	rifampin
+T12	DRUG 776 788	ketoconazole
+T13	GROUP 798 817	protease inhibitors
+T14	GROUP 835 856	macrolide antibiotics
+T15	DRUG 863 875	erythromycin
+T16	GROUP 881 908	calcium channel antagonists
+T17	DRUG 915 924	verapamil
+T18	DRUG 944 954	omeprazole
+T19	DRUG 979 990	furafylline
+T20	DRUG 995 1009	clarithromycin
+T21	DRUG 1052 1067	levobupivacaine
+T22	DRUG 1154 1169	levobupivacaine
+R1	ADVISE Arg1:T1 Arg2:T2
+R2	MECHANISM Arg1:T8 Arg2:T9
+R3	MECHANISM Arg1:T8 Arg2:T10
+R4	MECHANISM Arg1:T8 Arg2:T11
+R5	MECHANISM Arg1:T8 Arg2:T12

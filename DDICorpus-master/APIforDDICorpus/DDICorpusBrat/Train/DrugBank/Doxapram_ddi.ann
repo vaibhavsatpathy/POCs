@@ -1,0 +1,10 @@
+T1	DRUG 18 26	doxapram
+T2	GROUP 57 72	sympathomimetic
+T3	GROUP 76 110	monoamine oxidase inhibiting drugs
+T4	GROUP 184 200	muscle relaxants
+T5	DRUG 202 210	doxapram
+T6	GROUP 256 277	muscle relaxant drugs
+T7	DRUG 426 434	doxapram
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T1 Arg2:T3
+R3	EFFECT Arg1:T5 Arg2:T6

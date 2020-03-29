@@ -1,0 +1,19 @@
+T1	DRUG_N 13 21	piperine
+T2	DRUG 25 34	ibuprofen
+T3	DRUG_N 85 93	Piperine
+T4	DRUG_N 301 309	piperine
+T5	DRUG_N 370 378	piperine
+T6	DRUG 461 470	ibuprofen
+T7	DRUG 489 500	acetic acid
+T8	DRUG 559 568	ibuprofen
+T9	DRUG 570 579	Ibuprofen
+T10	DRUG_N 650 658	piperine
+T11	DRUG 704 713	ibuprofen
+T12	DRUG_N 737 745	piperine
+T13	DRUG 801 810	ibuprofen
+T14	DRUG_N 853 861	piperine
+T15	DRUG 902 911	ibuprofen
+R1	EFFECT Arg1:T5 Arg2:T6
+R2	MECHANISM Arg1:T9 Arg2:T10
+R3	MECHANISM Arg1:T11 Arg2:T12
+R4	EFFECT Arg1:T14 Arg2:T15

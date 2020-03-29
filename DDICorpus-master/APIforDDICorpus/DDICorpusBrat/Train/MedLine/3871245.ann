@@ -1,0 +1,18 @@
+T1	DRUG_N 52 96	1-methyl-4-phenyl-1,2,5,6-tetrahydropyridine
+T2	DRUG_N 98 102	MPTP
+T3	DRUG 108 123	methamphetamine
+T4	DRUG_N 181 185	MPTP
+T5	DRUG 269 284	methamphetamine
+T6	DRUG_N 322 326	MPTP
+T7	DRUG 444 453	pargyline
+T8	DRUG 472 476	MPTP
+T9	DRUG 551 562	amphetamine
+T10	DRUG 615 626	apomorphine
+T11	DRUG 681 696	Methamphetamine
+T12	DRUG_N 703 707	MPTP
+T13	DRUG 788 797	pargyline
+T14	DRUG 922 931	pargyline
+R1	EFFECT Arg1:T6 Arg2:T7
+R2	EFFECT Arg1:T8 Arg2:T9
+R3	EFFECT Arg1:T8 Arg2:T10
+R4	EFFECT Arg1:T11 Arg2:T13

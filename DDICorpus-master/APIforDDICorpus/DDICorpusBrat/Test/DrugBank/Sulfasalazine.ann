@@ -1,0 +1,11 @@
+T1	DRUG 22 32	folic acid
+T2	DRUG 37 44	digoxin
+T3	DRUG 119 132	sulfasalazine
+T4	DRUG 154 167	sulfasalazine
+T5	DRUG 192 204	methotrexate
+T6	DRUG 379 392	sulfasalazine
+T7	DRUG 431 443	methotrexate
+T8	DRUG 855 868	sulfasalazine
+T9	DRUG 1034 1048	sulphasalazine
+R1	MECHANISM Arg1:T1 Arg2:T3
+R2	MECHANISM Arg1:T2 Arg2:T3

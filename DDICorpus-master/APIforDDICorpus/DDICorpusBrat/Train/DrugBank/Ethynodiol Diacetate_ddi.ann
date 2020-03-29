@@ -1,0 +1,167 @@
+T1	DRUG 0 17	Ethinyl estradiol
+T2	DRUG 124 137	Acetaminophen
+T3	GROUP 176 195	synthetic estrogens
+T4	GROUP 245 268	hormonal contraceptives
+T5	DRUG 315 328	acetaminophen
+T6	DRUG 330 339	Acitretin
+T7	GROUP 396 405	progestin
+T8	GROUP 460 489	progestational contraceptives
+T9	DRUG 530 547	Aminoglutethimide
+T10	GROUP 580 590	progestins
+T11	GROUP 661 694	nonhormonal contraceptive product
+T12	GROUP 711 722	Antibiotics
+T13	DRUG 724 734	ampicillin
+T14	DRUG 736 748	tetracycline
+T15	GROUP 884 895	antibiotics
+T16	GROUP 924 942	synthetic steroids
+T17	GROUP 953 986	nonhormonal contraceptive product
+T18	GROUP 1003 1017	Anticoagulants
+T19	GROUP 1031 1054	hormonal contraceptives
+T20	GROUP 1095 1115	coumarin derivatives
+T21	GROUP 1129 1152	hormonal contraceptives
+T22	GROUP 1205 1220	Anticonvulsants
+T23	DRUG 1222 1235	carbamazepine
+T24	DRUG 1237 1246	felbamate
+T25	DRUG 1248 1261	phenobarbital
+T26	DRUG 1263 1272	phenytoin
+T27	DRUG 1274 1284	topiramate
+T28	DRUG 1314 1331	ethinyl estradiol
+T29	GROUP 1344 1354	progestins
+T30	GROUP 1426 1459	nonhormonal contraceptive product
+T31	DRUG 1476 1489	Ascorbic acid
+T32	DRUG 1500 1513	ascorbic acid
+T33	DRUG 1515 1524	vitamin C
+T34	GROUP 1589 1608	synthetic estrogens
+T35	DRUG 1689 1701	Atorvastatin
+T36	DRUG 1703 1715	Atorvastatin
+T37	DRUG 1738 1751	norethindrone
+T38	DRUG 1756 1773	ethinyl estradiol
+T39	GROUP 1775 1790	Benzodiazepines
+T40	GROUP 1804 1827	hormonal contraceptives
+T41	GROUP 1863 1878	benzodiazepines
+T42	DRUG 1880 1890	alprazolam
+T43	DRUG 1892 1908	chlordiazepoxide
+T44	DRUG 1910 1918	diazepam
+T45	DRUG 1958 1967	lorazepam
+T46	DRUG 1969 1977	oxazepam
+T47	DRUG 1979 1988	temazepam
+T48	DRUG_N 1991 2005	Clofibric acid
+T49	GROUP 2019 2042	hormonal contraceptives
+T50	DRUG_N 2073 2087	clofibric acid
+T51	DRUG 2089 2101	Cyclosporine
+T52	GROUP 2115 2138	hormonal contraceptives
+T53	DRUG 2169 2181	cyclosporine
+T54	DRUG 2235 2247	cyclosporine
+T55	DRUG 2324 2341	ethinyl estradiol
+T56	DRUG 2368 2385	aminoglutethimide
+T57	DRUG 2387 2400	carbamazepine
+T58	DRUG 2402 2411	nafcillin
+T59	DRUG 2413 2423	nevirapine
+T60	DRUG 2425 2438	phenobarbital
+T61	DRUG 2440 2449	phenytoin
+T62	GROUP 2455 2465	rifamycins
+T63	DRUG 2467 2479	Griseofulvin
+T64	DRUG 2481 2493	Griseofulvin
+T65	GROUP 2523 2558	combination hormonal contraceptives
+T66	DRUG 2677 2689	griseofulvin
+T67	DRUG 2699 2707	Morphine
+T68	GROUP 2721 2744	hormonal contraceptives
+T69	DRUG 2775 2783	morphine
+T70	GROUP 2785 2832	Non-nucleoside reverse transcriptase inhibitors
+T71	GROUP 2834 2840	NNRTIs
+T72	DRUG 2843 2853	Nevirapine
+T73	GROUP 2884 2919	combination hormonal contraceptives
+T74	GROUP 2930 2963	nonhormonal contraceptive product
+T75	DRUG 2992 3003	delavirdine
+T76	DRUG 3025 3034	efavirenz
+T77	DRUG 3036 3048	Prednisolone
+T78	DRUG 3050 3067	Ethinyl estradiol
+T79	DRUG 3098 3110	prednisolone
+T80	GROUP 3156 3175	Protease inhibitors
+T81	DRUG 3177 3187	Amprenavir
+T82	DRUG 3189 3198	lopinavir
+T83	DRUG 3200 3210	nelfinavir
+T84	DRUG 3216 3225	ritonavir
+T85	GROUP 3271 3306	combination hormonal contraceptives
+T86	GROUP 3317 3350	nonhormonal contraceptive product
+T87	DRUG 3367 3376	Indinavir
+T88	GROUP 3421 3456	combination hormonal contraceptives
+T89	DRUG 3470 3480	saquinavir
+T90	DRUG 3482 3490	Rifampin
+T91	DRUG 3492 3500	Rifampin
+T92	DRUG 3529 3546	ethinyl estradiol
+T93	GROUP 3556 3566	progestins
+T94	DRUG 3568 3581	norethindrone
+T95	GROUP 3683 3716	nonhormonal contraceptive product
+T96	DRUG 3733 3747	Salicylic acid
+T97	GROUP 3761 3784	hormonal contraceptives
+T98	DRUG 3815 3829	salicylic acid
+T99	DRUG 3831 3841	Selegiline
+T100	GROUP 3843 3878	Combination hormonal contraceptives
+T101	DRUG 3919 3929	selegiline
+T102	DRUG 3931 3943	Theophylline
+T103	DRUG 3945 3962	Ethinyl estradiol
+T104	DRUG 3993 4005	theophylline
+T105	GROUP 4051 4076	Tricyclic antidepressants
+T106	DRUG 4078 4091	amitriptyline
+T107	DRUG 4093 4103	imipramine
+T108	DRUG 4105 4118	nortriptyline
+T109	GROUP 4152 4187	combination hormonal contraceptives
+T110	GROUP 4217 4231	antidepressant
+T111	DRUG 4246 4253	ETHANOL
+T112	DRUG 4308 4316	caffeine
+T113	GROUP 4336 4371	combination hormonal contraceptives
+T114	DRUG 4399 4407	caffeine
+T115	DRUG 4436 4453	ethinyl estradiol
+T116	DRUG 4503 4515	progesterone
+T117	GROUP 4641 4676	combination hormonal contraceptives
+R1	MECHANISM Arg1:T2 Arg2:T3
+R2	MECHANISM Arg1:T4 Arg2:T5
+R3	EFFECT Arg1:T6 Arg2:T7
+R4	MECHANISM Arg1:T9 Arg2:T10
+R5	EFFECT Arg1:T19 Arg2:T20
+R6	MECHANISM Arg1:T22 Arg2:T28
+R7	MECHANISM Arg1:T22 Arg2:T29
+R8	MECHANISM Arg1:T23 Arg2:T28
+R9	MECHANISM Arg1:T23 Arg2:T29
+R10	MECHANISM Arg1:T24 Arg2:T28
+R11	MECHANISM Arg1:T24 Arg2:T29
+R12	MECHANISM Arg1:T25 Arg2:T28
+R13	MECHANISM Arg1:T25 Arg2:T29
+R14	MECHANISM Arg1:T26 Arg2:T28
+R15	MECHANISM Arg1:T26 Arg2:T29
+R16	MECHANISM Arg1:T27 Arg2:T28
+R17	MECHANISM Arg1:T27 Arg2:T29
+R18	MECHANISM Arg1:T32 Arg2:T34
+R19	MECHANISM Arg1:T33 Arg2:T34
+R20	MECHANISM Arg1:T36 Arg2:T37
+R21	MECHANISM Arg1:T36 Arg2:T38
+R22	MECHANISM Arg1:T40 Arg2:T41
+R23	MECHANISM Arg1:T40 Arg2:T42
+R24	MECHANISM Arg1:T40 Arg2:T43
+R25	MECHANISM Arg1:T40 Arg2:T44
+R26	MECHANISM Arg1:T40 Arg2:T45
+R27	MECHANISM Arg1:T40 Arg2:T46
+R28	MECHANISM Arg1:T40 Arg2:T47
+R29	MECHANISM Arg1:T49 Arg2:T50
+R30	MECHANISM Arg1:T52 Arg2:T53
+R31	MECHANISM Arg1:T64 Arg2:T65
+R32	MECHANISM Arg1:T68 Arg2:T69
+R33	MECHANISM Arg1:T72 Arg2:T73
+R34	MECHANISM Arg1:T78 Arg2:T79
+R35	MECHANISM Arg1:T81 Arg2:T85
+R36	MECHANISM Arg1:T82 Arg2:T85
+R37	MECHANISM Arg1:T83 Arg2:T85
+R38	MECHANISM Arg1:T84 Arg2:T85
+R39	MECHANISM Arg1:T87 Arg2:T88
+R40	MECHANISM Arg1:T91 Arg2:T92
+R41	MECHANISM Arg1:T91 Arg2:T93
+R42	MECHANISM Arg1:T91 Arg2:T94
+R43	MECHANISM Arg1:T97 Arg2:T98
+R44	MECHANISM Arg1:T100 Arg2:T101
+R45	MECHANISM Arg1:T103 Arg2:T104
+R46	MECHANISM Arg1:T105 Arg2:T109
+R47	MECHANISM Arg1:T106 Arg2:T109
+R48	MECHANISM Arg1:T107 Arg2:T109
+R49	MECHANISM Arg1:T108 Arg2:T109
+R50	EFFECT Arg1:T113 Arg2:T114

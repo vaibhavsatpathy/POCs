@@ -1,0 +1,5 @@
+T1	DRUG 94 105	dorzolamide
+T2	GROUP 155 184	carbonic anhydrase inhibitors
+T3	GROUP 286 296	salicylate
+T4	DRUG 402 413	dorzolamide
+R1	EFFECT Arg1:T1 Arg2:T2

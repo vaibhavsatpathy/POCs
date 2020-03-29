@@ -1,0 +1,35 @@
+T1	DRUG 39 52	labetalol HCl
+T2	GROUP 73 98	tricyclic antidepressants
+T3	DRUG 162 175	labetalol HCl
+T4	GROUP 405 432	beta-receptor agonist drugs
+T5	GROUP 527 560	beta-agonist bronchodilator drugs
+T6	DRUG 578 588	Cimetidine
+T7	DRUG 639 652	labetalol HCl
+T8	DRUG 759 772	labetalol HCl
+T9	DRUG 914 923	halothane
+T10	DRUG 966 979	labetalol HCl
+T11	DRUG 1028 1041	labetalol HCl
+T12	DRUG 1062 1071	halothane
+T13	DRUG 1110 1119	halothane
+T14	DRUG 1373 1386	labetalol HCl
+T15	DRUG 1388 1401	Labetalol HCl
+T16	DRUG 1444 1457	nitroglycerin
+T17	DRUG 1504 1517	labetalol HCl
+T18	DRUG 1531 1544	nitroglycerin
+T19	DRUG 1650 1659	labetalol
+T20	GROUP 1687 1705	calcium antagonist
+T21	DRUG 1714 1723	verapamil
+T22	GROUP 1773 1786	beta-blockers
+T23	DRUG 2017 2028	epinephrine
+T24	DRUG 2406 2419	labetalol HCl
+T25	DRUG 2618 2631	Labetalol HCl
+T26	DRUG 2692 2703	amphetamine
+T27	DRUG 2919 2928	labetalol
+T28	DRUG 2960 2971	amphetamine
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	MECHANISM Arg1:T6 Arg2:T7
+R3	EFFECT Arg1:T9 Arg2:T10
+R4	EFFECT Arg1:T11 Arg2:T12
+R5	EFFECT Arg1:T15 Arg2:T16
+R6	EFFECT Arg1:T17 Arg2:T18
+R7	ADVISE Arg1:T19 Arg2:T20

@@ -1,0 +1,28 @@
+T1	DRUG 98 117	hydrochlorothiazide
+T2	DRUG 119 126	digoxin
+T3	DRUG 128 136	warfarin
+T4	DRUG 138 148	cimetidine
+T5	DRUG 153 166	phenobarbital
+T6	DRUG 168 176	Rifampin
+T7	DRUG 241 249	losartan
+T8	DRUG 334 346	Ketoconazole
+T9	DRUG 380 388	losartan
+T10	DRUG 450 458	losartan
+T11	DRUG 464 476	erythromycin
+T12	DRUG 541 552	Fluconazole
+T13	DRUG 636 644	losartan
+T14	DRUG 715 723	losartan
+T15	DRUG 806 814	losartan
+T16	DRUG 950 958	losartan
+T17	GROUP 1117 1144	potassium-sparing diuretics
+T18	DRUG 1152 1166	spironolactone
+T19	DRUG 1168 1179	triamterene
+T20	DRUG 1181 1190	amiloride
+T21	DRUG 1193 1202	potassium
+T22	GROUP 1313 1336	antihypertensive agents
+T23	DRUG 1369 1377	losartan
+T24	GROUP 1400 1436	non-steroidal anti-inflammatory drug
+T25	DRUG 1437 1449	indomethacin
+R1	MECHANISM Arg1:T6 Arg2:T7
+R2	MECHANISM Arg1:T12 Arg2:T13
+R3	EFFECT Arg1:T23 Arg2:T25

@@ -1,0 +1,7 @@
+T1	DRUG 28 50	isosorbide mononitrate
+T2	GROUP 87 99	vasodilators
+T3	DRUG 101 108	Alcohol
+T4	GROUP 251 275	calcium channel blockers
+T5	GROUP 280 296	organic nitrates
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T4 Arg2:T5

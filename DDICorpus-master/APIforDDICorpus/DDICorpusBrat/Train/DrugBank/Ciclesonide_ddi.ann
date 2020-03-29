@@ -1,0 +1,17 @@
+T1	DRUG 53 68	des-ciclesonide
+T2	DRUG 215 226	ciclesonide
+T3	DRUG 335 350	des-ciclesonide
+T4	DRUG 371 379	warfarin
+T5	DRUG 383 397	salicylic acid
+T6	DRUG 533 544	ciclesonide
+T7	DRUG 554 566	erythromycin
+T8	DRUG 653 668	des-ciclesonide
+T9	DRUG 672 684	erythromycin
+T10	DRUG 757 768	ciclesonide
+T11	DRUG 778 790	ketoconazole
+T12	DRUG 867 882	des-ciclesonide
+T13	DRUG 942 953	ciclesonide
+T14	DRUG 985 997	ketoconazole
+T15	DRUG 1050 1061	ciclesonide
+R1	MECHANISM Arg1:T10 Arg2:T11
+R2	ADVISE Arg1:T14 Arg2:T15

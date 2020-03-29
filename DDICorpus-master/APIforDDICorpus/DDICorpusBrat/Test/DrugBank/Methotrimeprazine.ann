@@ -1,0 +1,30 @@
+T1	GROUP 38 45	opioids
+T2	DRUG 95 110	levomepromazine
+T3	GROUP 165 172	opioids
+T4	DRUG 191 199	tramadol
+T5	BRAND 201 207	Ultram
+T6	DRUG 319 334	levomepromazine
+T7	GROUP 349 364	benzodiazepines
+T8	GROUP 368 380	barbiturates
+T9	DRUG 507 522	levomepromazine
+T10	GROUP 534 555	anticholinergic drugs
+T11	GROUP 557 582	tricyclic antidepressants
+T12	GROUP 587 610	antiparkinsonian-agents
+T13	DRUG 741 756	levomepromazine
+T14	DRUG 827 835	Caffeine
+T15	DRUG 862 871	ephedrine
+T16	DRUG 872 883	amphetamine
+T17	DRUG 928 943	levomepromazine
+T18	DRUG 1079 1094	levomepromazine
+T19	GROUP 1130 1138	antacids
+T20	DRUG 1214 1230	leveomepromazine
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T2 Arg2:T3
+R3	EFFECT Arg1:T6 Arg2:T7
+R4	EFFECT Arg1:T6 Arg2:T8
+R5	ADVISE Arg1:T9 Arg2:T10
+R6	ADVISE Arg1:T9 Arg2:T11
+R7	ADVISE Arg1:T9 Arg2:T12
+R8	EFFECT Arg1:T14 Arg2:T17
+R9	EFFECT Arg1:T15 Arg2:T17
+R10	EFFECT Arg1:T16 Arg2:T17

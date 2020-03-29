@@ -1,0 +1,110 @@
+T1	DRUG 0 10	Nevirapine
+T2	DRUG 100 110	Nevirapine
+T3	DRUG 287 297	nevirapine
+T4	DRUG 373 383	nevirapine
+T5	DRUG 816 826	nevirapine
+T6	DRUG 1217 1227	nevirapine
+T7	GROUP 1236 1256	antithrombotic agent
+T8	DRUG 1257 1265	warfarin
+T9	DRUG 1337 1345	warfarin
+T10	DRUG 1423 1431	warfarin
+T11	DRUG 1456 1466	nevirapine
+T12	DRUG 1682 1692	Nevirapine
+T13	DRUG 1730 1744	Clarithromycin
+T14	DRUG 1745 1759	Clarithromycin
+T15	DRUG 1782 1796	Clarithromycin
+T16	DRUG 1837 1847	nevirapine
+T17	DRUG 1913 1927	clarithromycin
+T18	DRUG 2087 2101	clarithromycin
+T19	DRUG 2110 2122	azithromycin
+T20	DRUG 2146 2155	Efavirenz
+T21	DRUG 2156 2165	Efavirenz
+T22	DRUG 2226 2243	Ethinyl estradiol
+T23	DRUG 2248 2261	Norethindrone
+T24	DRUG 2262 2279	Ethinyl estradiol
+T25	DRUG 2280 2293	Norethindrone
+T26	GROUP 2299 2313	contraceptives
+T27	DRUG 2426 2436	nevirapine
+T28	DRUG 2572 2583	Fluconazole
+T29	DRUG 2584 2594	Nevirapine
+T30	DRUG 2639 2649	nevirapine
+T31	DRUG 2787 2796	Indinavir
+T32	DRUG 2797 2806	Indinavir
+T33	DRUG 2898 2907	indinavir
+T34	DRUG 2925 2937	Ketoconazole
+T35	DRUG 2938 2950	Ketoconazole
+T36	DRUG 2951 2961	Nevirapine
+T37	DRUG 2966 2978	ketoconazole
+T38	DRUG 3039 3051	ketoconazole
+T39	DRUG 3110 3119	Lopinavir
+T40	DRUG 3120 3129	Ritonavir
+T41	DRUG 3130 3139	Lopinavir
+T42	DRUG 3159 3168	lopinavir
+T43	DRUG 3169 3178	ritonavir
+T44	DRUG 3249 3259	nevirapine
+T45	DRUG 3261 3270	Methadone
+T46	DRUG 3282 3291	Methadone
+T47	GROUP 3374 3380	opiate
+T48	DRUG 3393 3402	Methadone
+T49	DRUG 3433 3443	nevirapine
+T50	DRUG 3502 3511	methadone
+T51	DRUG 3549 3559	Nelfinavir
+T52	DRUG 3560 3570	Nelfinavir
+T53	DRUG 3599 3609	nelfinavir
+T54	DRUG 3629 3639	nevirapine
+T55	DRUG 3703 3712	Rifabutin
+T56	DRUG 3713 3722	Rifabutin
+T57	DRUG 3723 3732	Rifabutin
+T58	DRUG 3885 3894	rifabutin
+T59	DRUG 4018 4026	Rifampin
+T60	DRUG 4027 4037	Nevirapine
+T61	DRUG 4038 4048	Nevirapine
+T62	DRUG 4053 4061	rifampin
+T63	DRUG 4122 4132	nevirapine
+T64	DRUG 4267 4277	nevirapine
+T65	DRUG 4304 4313	rifabutin
+T66	DRUG 4323 4333	Saquinavir
+T67	DRUG 4334 4344	Saquinavir
+T68	DRUG 4436 4446	saquinavir
+T69	DRUG 4539 4549	nevirapine
+T70	DRUG 4554 4563	methadone
+T71	DRUG 4629 4638	methadone
+T72	DRUG 4891 4901	Nevirapine
+T73	GROUP 4931 4946	Antiarrhythmics
+T74	DRUG 4947 4957	Amiodarone
+T75	DRUG 4959 4971	disopyramide
+T76	DRUG 4973 4982	lidocaine
+T77	GROUP 4983 4998	Anticonvulsants
+T78	DRUG 4999 5012	Carbamazepine
+T79	DRUG 5014 5024	clonazepam
+T80	DRUG 5026 5038	ethosuximide
+T81	GROUP 5039 5050	Antifungals
+T82	DRUG 5051 5063	Itraconazole
+T83	GROUP 5064 5088	Calcium channel blockers
+T84	DRUG 5089 5098	Diltiazem
+T85	DRUG 5100 5110	nifedipine
+T86	DRUG 5112 5121	verapamil
+T87	DRUG 5142 5158	Cyclophosphamide
+T88	GROUP 5159 5174	Ergot alkaloids
+T89	DRUG 5175 5185	Ergotamine
+T90	GROUP 5186 5204	Immunosuppressants
+T91	DRUG 5205 5216	Cyclosporin
+T92	DRUG 5218 5228	tacrolimus
+T93	DRUG 5230 5239	sirolimus
+T94	DRUG 5256 5265	Cisapride
+T95	GROUP 5266 5281	Opiate agonists
+T96	DRUG 5282 5290	Fentanyl
+T97	DRUG 5383 5393	Nevirapine
+T98	GROUP 5394 5409	Antithrombotics
+T99	DRUG 5410 5418	Warfarin
+T100	GROUP 5765 5779	antiretroviral
+R1	INT Arg1:T6 Arg2:T8
+R2	ADVISE Arg1:T10 Arg2:T11
+R3	MECHANISM Arg1:T15 Arg2:T16
+R4	ADVISE Arg1:T26 Arg2:T27
+R5	ADVISE Arg1:T36 Arg2:T37
+R6	ADVISE Arg1:T42 Arg2:T44
+R7	ADVISE Arg1:T43 Arg2:T44
+R8	ADVISE Arg1:T48 Arg2:T49
+R9	ADVISE Arg1:T61 Arg2:T62
+R10	EFFECT Arg1:T69 Arg2:T70

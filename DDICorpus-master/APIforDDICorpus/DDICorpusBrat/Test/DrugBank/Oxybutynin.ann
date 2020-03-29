@@ -1,0 +1,28 @@
+T1	DRUG 23 33	oxybutynin
+T2	GROUP 45 66	anticholinergic drugs
+T3	GROUP 254 276	Anticholinergic agents
+T4	DRUG 487 506	oxybutynin chloride
+T5	BRAND 567 578	DITROPAN XL
+T6	DRUG 601 613	ketoconazole
+T7	GROUP 709 727	antimycotic agents
+T8	DRUG 735 747	itraconazole
+T9	DRUG 752 762	miconazole
+T10	GROUP 767 788	macrolide antibiotics
+T11	DRUG 796 808	erythromycin
+T12	DRUG 813 827	clarithromycin
+T13	DRUG 840 850	oxybutynin
+T14	GROUP 1057 1064	antacid
+T15	GROUP 1075 1082	antacid
+T16	DRUG 1094 1112	aluminum hydroxide
+T17	DRUG 1114 1133	magnesium hydroxide
+T18	DRUG 1139 1150	simethicone
+T19	DRUG 1197 1207	oxybutynin
+T20	DRUG_N 1211 1229	desethyloxybutynin
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	MECHANISM Arg1:T5 Arg2:T6
+R3	MECHANISM Arg1:T7 Arg2:T13
+R4	MECHANISM Arg1:T8 Arg2:T13
+R5	MECHANISM Arg1:T9 Arg2:T13
+R6	MECHANISM Arg1:T10 Arg2:T13
+R7	MECHANISM Arg1:T11 Arg2:T13
+R8	MECHANISM Arg1:T12 Arg2:T13

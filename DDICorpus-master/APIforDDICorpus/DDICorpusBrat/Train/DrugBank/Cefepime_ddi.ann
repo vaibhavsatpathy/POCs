@@ -1,0 +1,10 @@
+T1	GROUP 62 77	aminoglycosides
+T2	BRAND 106 114	MAXIPIME
+T3	GROUP 187 213	aminoglycoside antibiotics
+T4	GROUP 294 308	cephalosporins
+T5	GROUP 321 330	diuretics
+T6	DRUG 339 349	furosemide
+T7	DRUG 407 415	cefepime
+R1	ADVISE Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T4 Arg2:T5
+R3	EFFECT Arg1:T4 Arg2:T6

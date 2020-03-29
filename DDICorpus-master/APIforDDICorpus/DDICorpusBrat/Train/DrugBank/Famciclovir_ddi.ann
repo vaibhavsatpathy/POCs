@@ -1,0 +1,5 @@
+T1	DRUG 20 30	probenecid
+T2	DRUG 154 165	penciclovir
+T3	DRUG_N 185 204	6-deoxy penciclovir
+T4	DRUG 208 219	penciclovir
+R1	MECHANISM Arg1:T1 Arg2:T2

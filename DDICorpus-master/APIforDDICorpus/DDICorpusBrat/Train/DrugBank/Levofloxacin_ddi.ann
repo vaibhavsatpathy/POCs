@@ -1,0 +1,11 @@
+T1	DRUG 63 75	Levofloxacin
+T2	GROUP 122 132	quinolones
+T3	DRUG 184 196	theophylline
+T4	DRUG 231 239	caffeine
+T5	GROUP 277 290	anticoagulant
+T6	DRUG 291 299	warfarin
+T7	DRUG 422 434	cyclosporine
+R1	MECHANISM Arg1:T2 Arg2:T3
+R2	MECHANISM Arg1:T2 Arg2:T4
+R3	EFFECT Arg1:T2 Arg2:T6
+R4	EFFECT Arg1:T2 Arg2:T7

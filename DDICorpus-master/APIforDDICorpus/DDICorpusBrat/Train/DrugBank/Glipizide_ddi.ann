@@ -1,0 +1,52 @@
+T1	GROUP 66 79	sulfonylureas
+T2	GROUP 126 163	nonsteroidal anti-inflammatory agents
+T3	GROUP 170 176	azoles
+T4	GROUP 224 235	salicylates
+T5	GROUP 237 249	sulfonamides
+T6	DRUG 251 266	chloramphenicol
+T7	DRUG 268 278	probenecid
+T8	GROUP 280 289	coumarins
+T9	GROUP 291 319	monoamine oxidase inhibitors
+T10	GROUP 325 356	beta adrenergic blocking agents
+T11	DRUG 414 423	glipizide
+T12	DRUG 537 546	glipizide
+T13	DRUG 673 682	glipizide
+T14	DRUG 706 717	tolbutamide
+T15	GROUP 745 755	salicylate
+T16	DRUG 759 768	dicumarol
+T17	DRUG 881 890	glipizide
+T18	GROUP 1010 1019	thiazides
+T19	GROUP 1030 1039	diuretics
+T20	GROUP 1041 1056	corticosteroids
+T21	GROUP 1058 1072	phenothiazines
+T22	GROUP 1074 1090	thyroid products
+T23	GROUP 1092 1101	estrogens
+T24	GROUP 1108 1122	contraceptives
+T25	DRUG 1124 1133	phenytoin
+T26	DRUG 1135 1149	nicotinic acid
+T27	GROUP 1151 1167	sympathomimetics
+T28	GROUP 1169 1199	calcium channel blocking drugs
+T29	DRUG 1205 1214	isoniazid
+T30	DRUG 1272 1281	glipizide
+T31	DRUG 1398 1407	glipizide
+T32	DRUG 1503 1513	miconazole
+T33	GROUP 1523 1542	hypoglycemic agents
+T34	DRUG 1688 1698	miconazole
+T35	DRUG 1757 1768	fluconazole
+T36	DRUG 1773 1782	glipizide
+T37	DRUG 1889 1898	glipizide
+T38	DRUG 1944 1955	fluconazole
+T39	DRUG 2036 2045	glipizide
+T40	DRUG 2056 2067	fluconazole
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T1 Arg2:T3
+R3	EFFECT Arg1:T1 Arg2:T4
+R4	EFFECT Arg1:T1 Arg2:T5
+R5	EFFECT Arg1:T1 Arg2:T6
+R6	EFFECT Arg1:T1 Arg2:T7
+R7	EFFECT Arg1:T1 Arg2:T8
+R8	EFFECT Arg1:T1 Arg2:T9
+R9	EFFECT Arg1:T1 Arg2:T10
+R10	INT Arg1:T32 Arg2:T33
+R11	INT Arg1:T35 Arg2:T36
+R12	MECHANISM Arg1:T39 Arg2:T40

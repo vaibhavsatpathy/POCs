@@ -1,0 +1,56 @@
+T1	DRUG 0 12	Ketoconazole
+T2	DRUG 82 94	ketoconazole
+T3	DRUG 121 132	terfenadine
+T4	DRUG 324 336	ketoconazole
+T5	DRUG 373 384	terfenadine
+T6	DRUG 415 426	terfenadine
+T7	DRUG 457 468	terfenadine
+T8	DRUG 586 598	ketoconazole
+T9	DRUG 603 614	terfenadine
+T10	DRUG 635 647	Itraconazole
+T11	DRUG 689 700	terfenadine
+T12	DRUG 753 764	terfenadine
+T13	DRUG 769 781	itraconazole
+T14	DRUG 804 816	itraconazole
+T15	DRUG 959 971	itraconazole
+T16	DRUG 976 987	terfenadine
+T17	GROUP 1048 1076	azole-type antifungal agents
+T18	DRUG 1088 1099	fluconazole
+T19	DRUG 1101 1114	metronidazole
+T20	DRUG 1120 1130	miconazole
+T21	DRUG 1135 1147	ketoconazole
+T22	DRUG 1153 1165	itraconazole
+T23	DRUG 1206 1217	terfenadine
+T24	GROUP 1289 1299	Macrolides
+T25	DRUG 1349 1361	erythromycin
+T26	DRUG 1366 1380	clarithromycin
+T27	DRUG 1404 1415	terfenadine
+T28	DRUG 1474 1486	ketoconazole
+T29	DRUG 1576 1587	terfenadine
+T30	DRUG 1833 1845	erythromycin
+T31	DRUG 1849 1863	troleandomycin
+T32	DRUG 1895 1906	terfenadine
+T33	DRUG 1912 1926	clarithromycin
+T34	DRUG 1928 1940	erythromycin
+T35	DRUG 1945 1959	troleandomycin
+T36	DRUG 2067 2078	terfenadine
+T37	GROUP 2090 2111	macrolide antibiotics
+T38	DRUG 2123 2135	azithromycin
+T39	DRUG 2203 2214	terfenadine
+T40	DRUG 2220 2232	azithromycin
+R1	EFFECT Arg1:T2 Arg2:T3
+R2	MECHANISM Arg1:T4 Arg2:T5
+R3	ADVISE Arg1:T8 Arg2:T9
+R4	MECHANISM Arg1:T12 Arg2:T13
+R5	ADVISE Arg1:T15 Arg2:T16
+R6	ADVISE Arg1:T17 Arg2:T23
+R7	ADVISE Arg1:T18 Arg2:T23
+R8	ADVISE Arg1:T19 Arg2:T23
+R9	ADVISE Arg1:T20 Arg2:T23
+R10	MECHANISM Arg1:T25 Arg2:T27
+R11	MECHANISM Arg1:T26 Arg2:T27
+R12	ADVISE Arg1:T32 Arg2:T33
+R13	ADVISE Arg1:T32 Arg2:T34
+R14	ADVISE Arg1:T32 Arg2:T35
+R15	ADVISE Arg1:T36 Arg2:T37
+R16	ADVISE Arg1:T36 Arg2:T38

@@ -1,0 +1,14 @@
+T1	DRUG 0 10	Amantadine
+T2	GROUP 12 37	tricyclic antidepressants
+T3	GROUP 43 48	MAOIs
+T4	DRUG 88 97	clidinium
+T5	DRUG 99 108	Clidinium
+T6	GROUP 136 150	phenothiazines
+T7	DRUG 152 160	levodopa
+T8	DRUG 166 178	ketoconazole
+R1	EFFECT Arg1:T1 Arg2:T4
+R2	EFFECT Arg1:T2 Arg2:T4
+R3	EFFECT Arg1:T3 Arg2:T4
+R4	EFFECT Arg1:T5 Arg2:T6
+R5	EFFECT Arg1:T5 Arg2:T7
+R6	EFFECT Arg1:T5 Arg2:T8

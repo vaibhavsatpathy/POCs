@@ -1,0 +1,12 @@
+T1	GROUP 0 34	Monoamine oxidase (MAO) inhibitors
+T2	DRUG 43 56	isocarboxazid
+T3	BRAND 64 71	Marplan
+T4	DRUG 74 84	phenelzine
+T5	BRAND 92 98	Nardil
+T6	DRUG 101 113	procarbazine
+T7	BRAND 121 129	Matulane
+T8	DRUG 132 142	selegiline
+T9	BRAND 150 158	Eldepryl
+T10	DRUG 165 180	tranylcypromine
+T11	BRAND 188 195	Parnate
+T12	DRUG 225 237	L-tryptophan

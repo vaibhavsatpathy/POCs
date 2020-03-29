@@ -1,0 +1,5 @@
+T1	DRUG 0 8	Oxytocin
+T2	GROUP 18 27	oxytocics
+T3	DRUG 49 58	dinoprost
+R1	EFFECT Arg1:T1 Arg2:T3
+R2	EFFECT Arg1:T2 Arg2:T3

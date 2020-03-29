@@ -1,0 +1,8 @@
+T1	DRUG 17 29	lenalidomide
+T2	DRUG 34 41	CCI-779
+T3	DRUG 99 111	lenalidomide
+T4	DRUG 112 119	CCI-779
+T5	DRUG 279 292	dexamethasone
+T6	DRUG 325 337	lenalidomide
+T7	DRUG 362 369	CCI-779
+R1	EFFECT Arg1:T6 Arg2:T7

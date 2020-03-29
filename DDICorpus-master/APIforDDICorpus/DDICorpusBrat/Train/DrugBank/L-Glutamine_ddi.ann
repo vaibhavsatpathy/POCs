@@ -1,0 +1,24 @@
+T1	DRUG 0 20	Human growth hormone
+T2	DRUG 42 53	L-glutamine
+T3	DRUG 58 78	human growth hormone
+T4	DRUG 154 165	L-glutamine
+T5	DRUG 210 222	Indomethacin
+T6	DRUG 244 255	L-glutamine
+T7	DRUG 260 272	indomethacin
+T8	DRUG 332 344	indomethacin
+T9	DRUG 373 384	L-glutamine
+T10	DRUG 455 466	misoprostol
+T11	DRUG 571 583	Methotrexate
+T12	DRUG 611 623	methotrexate
+T13	DRUG 680 691	L-glutamine
+T14	DRUG 824 836	methotrexate
+T15	DRUG 878 889	L-glutamine
+T16	DRUG 926 936	Paclitaxel
+T17	DRUG 954 965	L-glutamine
+T18	DRUG 1038 1048	paclitaxel
+T19	DRUG 1134 1144	paclitaxel
+R1	MECHANISM Arg1:T2 Arg2:T3
+R2	EFFECT Arg1:T6 Arg2:T7
+R3	EFFECT Arg1:T12 Arg2:T13
+R4	EFFECT Arg1:T14 Arg2:T15
+R5	EFFECT Arg1:T17 Arg2:T18

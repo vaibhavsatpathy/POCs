@@ -1,0 +1,33 @@
+T1	GROUP 0 13	Beta-Blockers
+T2	GROUP 47 80	adrenergic beta-receptor blockers
+T3	DRUG 134 149	nicardipine HCl
+T4	DRUG 186 196	Cimetidine
+T5	DRUG 198 208	Cimetidine
+T6	DRUG 219 234	nicardipine HCl
+T7	DRUG 328 335	Digoxin
+T8	GROUP 342 358	calcium blockers
+T9	GROUP 393 415	digitalis preparations
+T10	DRUG 430 445	Nicardipine HCl
+T11	DRUG 490 497	digoxin
+T12	DRUG 514 521	digoxin
+T13	DRUG 580 595	nicardipine HCl
+T14	BRAND 610 616	Maalox
+T15	BRAND 639 648	Maalox TC
+T16	DRUG 666 681	nicardipine HCl
+T17	DRUG 767 782	nicardipine HCl
+T18	DRUG 882 894	Cyclosporine
+T19	DRUG 926 937	nicardipine
+T20	DRUG 942 954	cyclosporine
+T21	DRUG 988 1000	cyclosporine
+T22	DRUG 1101 1112	nicardipine
+T23	DRUG 1149 1159	furosemide
+T24	DRUG 1161 1172	propranolol
+T25	DRUG 1174 1186	dipyridamole
+T26	DRUG 1188 1196	warfarin
+T27	DRUG 1198 1207	quinidine
+T28	DRUG 1212 1220	naproxen
+T29	DRUG 1290 1305	nicardipine HCl
+R1	MECHANISM Arg1:T5 Arg2:T6
+R2	MECHANISM Arg1:T8 Arg2:T9
+R3	ADVISE Arg1:T12 Arg2:T13
+R4	ADVISE Arg1:T21 Arg2:T22

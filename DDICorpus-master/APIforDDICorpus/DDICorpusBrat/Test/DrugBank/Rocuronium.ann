@@ -1,0 +1,14 @@
+T1	BRAND 30 37	ZEMURON
+T2	DRUG 42 60	rocuronium bromide
+T3	DRUG 79 94	succinylcholine
+T4	DRUG 155 170	succinylcholine
+T5	BRAND 197 204	ZEMURON
+T6	DRUG 252 267	succinylcholine
+T7	DRUG 312 327	succinylcholine
+T8	BRAND 380 387	ZEMURON
+T9	DRUG 438 453	succinylcholine
+T10	DRUG 562 577	succinylcholine
+T11	BRAND 634 641	ZEMURON
+T12	GROUP 667 699	nondepolarizing muscle relaxants
+T13	GROUP 744 776	nondepolarizing muscle relaxants
+R1	ADVISE Arg1:T5 Arg2:T6

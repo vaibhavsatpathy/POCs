@@ -1,0 +1,14 @@
+T1	DRUG 0 14	Chlorthalidone
+T2	GROUP 60 82	antihypertensive drugs
+T3	GROUP 109 156	ganglionic peripheral adrenergic blocking drugs
+T4	GROUP 177 186	digitalis
+T5	DRUG 482 489	Insulin
+T6	GROUP 589 608	hypoglycemic agents
+T7	DRUG 678 692	chlorthalidone
+T8	DRUG 709 723	Chlorthalidone
+T9	DRUG 777 789	tubocurarine
+T10	DRUG 791 805	Chlorthalidone
+T11	DRUG 864 878	norepinephrine
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T8 Arg2:T9
+R3	EFFECT Arg1:T10 Arg2:T11

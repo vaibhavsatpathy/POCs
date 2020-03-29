@@ -1,0 +1,5 @@
+T1	DRUG 21 39	acetyl-l-carnitine
+T2	DRUG_N 45 62	alpha lipoic acid
+T3	DRUG 1197 1215	acetyl-l-carnitine
+T4	DRUG 1307 1324	alpha-lipoic acid
+R1	EFFECT Arg1:T3 Arg2:T4

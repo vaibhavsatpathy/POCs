@@ -1,0 +1,69 @@
+T1	GROUP 457 482	tricyclic antidepressants
+T2	GROUP 484 488	TCAs
+T3	GROUP 677 680	TCA
+T4	GROUP 851 854	TCA
+T5	DRUG 1042 1051	quinidine
+T6	DRUG 1053 1063	cimetidine
+T7	GROUP 1119 1134	antidepressants
+T8	GROUP 1136 1150	phenothiazines
+T9	GROUP 1160 1183	Type 1C antiarrhythmics
+T10	DRUG 1184 1195	propafenone
+T11	DRUG 1200 1210	flecainide
+T12	GROUP 1237 1266	serotonin reuptake inhibitors
+T13	GROUP 1268 1273	SSRIs
+T14	DRUG 1282 1292	fluoxetine
+T15	DRUG 1294 1304	sertraline
+T16	DRUG 1310 1320	paroxetine
+T17	GROUP 1403 1407	SSRI
+T18	GROUP 1408 1411	TCA
+T19	GROUP 1524 1528	SSRI
+T20	GROUP 1601 1605	TCAs
+T21	GROUP 1622 1627	SSRIs
+T22	DRUG 1799 1809	fluoxetine
+T23	GROUP 1928 1953	tricyclic antidepressants
+T24	GROUP 2065 2089	tricyclic antidepressant
+T25	DRUG 2207 2231	tricyclic antidepressant
+T26	GROUP 2276 2279	TCA
+T27	GROUP 2305 2308	TCA
+T28	DRUG 2395 2423	Monoamine Oxidase Inhibitors
+T29	DRUG 2425 2437	Guanethidine
+T30	DRUG 2469 2476	thyroid
+T31	DRUG 2489 2496	alcohol
+T32	DRUG 2498 2510	barbiturates
+T33	DRUG 2521 2536	CNS depressants
+T34	DRUG 2542 2552	disulfiram
+T35	DRUG 2558 2575	amitriptyline HCl
+T36	DRUG 2590 2605	anticholinergic
+T37	DRUG 2616 2631	sympathomimetic
+T38	DRUG 2649 2660	epinephrine
+T39	DRUG 2681 2692	anesthetics
+T40	DRUG 2796 2813	amitriptyline HCl
+T41	DRUG 2835 2850	anticholinergic
+T42	DRUG 2866 2877	neuroleptic
+T43	DRUG 2963 2988	tricyclic antidepressants
+T44	DRUG 3009 3024	anticholinergic
+T45	DRUG 3037 3047	Cimetidine
+T46	DRUG 3100 3125	tricyclic antidepressants
+T47	DRUG 3208 3213	drugs
+T48	DRUG 3274 3299	tricyclic antidepressants
+T49	DRUG 3329 3339	cimetidine
+T50	DRUG 3371 3396	tricyclic antidepressants
+T51	DRUG 3462 3477	anticholinergic
+T52	DRUG 3503 3513	cimetidine
+T53	DRUG 3531 3535	drug
+T54	DRUG 3564 3574	cimetidine
+T55	DRUG 3613 3638	tricyclic antidepressants
+T56	DRUG 3643 3653	cimetidine
+T57	DRUG 3705 3720	antidepressants
+T58	DRUG 3776 3789	ethchlorvynol
+T59	DRUG 3887 3900	ethchlorvynol
+T60	DRUG 3920 3937	amitriptyline HCl
+R1	EFFECT Arg1:T17 Arg2:T18
+R2	ADVISE Arg1:T20 Arg2:T21
+R3	EFFECT Arg1:T40 Arg2:T41
+R4	EFFECT Arg1:T43 Arg2:T44
+R5	MECHANISM Arg1:T45 Arg2:T46
+R6	EFFECT Arg1:T48 Arg2:T49
+R7	MECHANISM Arg1:T50 Arg2:T52
+R8	MECHANISM Arg1:T55 Arg2:T56
+R9	EFFECT Arg1:T59 Arg2:T60

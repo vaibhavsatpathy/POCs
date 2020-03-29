@@ -1,0 +1,13 @@
+T1	GROUP 0 14	Anticoagulants
+T2	GROUP 44 58	anticoagulants
+T3	DRUG 119 130	methimazole
+T4	GROUP 133 159	adrenergic blocking agents
+T5	GROUP 245 269	beta-adrenergic blockers
+T6	GROUP 331 351	Digitalis glycosides
+T7	GROUP 432 451	digitalis glycoside
+T8	GROUP 496 516	digitalis glycosides
+T9	DRUG 534 546	Theophylline
+T10	DRUG 548 560	Theophylline
+T11	DRUG 623 635	theophylline
+T12	DRUG 680 692	theophylline
+R1	EFFECT Arg1:T2 Arg2:T3

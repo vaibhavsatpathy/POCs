@@ -1,0 +1,5 @@
+T1	DRUG 86 95	methadone
+T2	BRAND 112 122	PEG-Intron
+T3	DRUG 193 202	methadone
+T4	DRUG 233 242	methadone
+R1	MECHANISM Arg1:T1 Arg2:T2

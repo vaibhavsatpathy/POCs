@@ -1,0 +1,25 @@
+T1	BRAND 34 40	Exjade
+T2	DRUG 45 53	aluminum
+T3	GROUP 65 85	antacid preparations
+T4	DRUG 126 137	deferasirox
+T5	DRUG 163 171	aluminum
+T6	DRUG 181 185	iron
+T7	BRAND 187 193	Exjade
+T8	DRUG 219 227	aluminum
+T9	GROUP 239 259	antacid preparations
+T10	BRAND 284 290	Exjade
+T11	DRUG 332 339	digoxin
+T12	DRUG 355 362	digoxin
+T13	BRAND 366 372	Exjade
+T14	BRAND 446 452	Exjade
+T15	DRUG 457 466	vitamin C
+T16	DRUG 507 516	vitamin C
+T17	BRAND 613 619	Exjade
+T18	DRUG 625 636	hydroxyurea
+T19	DRUG 685 696	deferasirox
+T20	DRUG 711 722	hydroxyurea
+T21	BRAND 778 784	Exjade
+T22	DRUG 953 964	deferasirox
+T23	DRUG 1012 1023	Deferasirox
+T24	BRAND 1086 1092	Exjade
+R1	ADVISE Arg1:T7 Arg2:T8

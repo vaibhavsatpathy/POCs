@@ -1,0 +1,12 @@
+T1	DRUG 32 42	doxylamine
+T2	DRUG 74 84	doxylamine
+T3	GROUP 108 128	CNS depressant drugs
+T4	GROUP 130 144	Antihistamines
+T5	DRUG 201 208	heparin
+T6	DRUG 212 220	warfarin
+T7	DRUG 222 232	Doxylamine
+T8	DRUG 260 271	epinephrine
+R1	EFFECT Arg1:T2 Arg2:T3
+R2	EFFECT Arg1:T4 Arg2:T5
+R3	EFFECT Arg1:T4 Arg2:T6
+R4	EFFECT Arg1:T7 Arg2:T8

@@ -1,0 +1,6 @@
+T1	GROUP 33 64	beta-adrenergic blocking agents
+T2	GROUP 128 154	adrenergic bronchodilators
+T3	DRUG 182 194	disopyramide
+T4	DRUG 196 205	quinidine
+T5	GROUP 207 221	phenothiazines
+T6	DRUG 227 239	procainamide

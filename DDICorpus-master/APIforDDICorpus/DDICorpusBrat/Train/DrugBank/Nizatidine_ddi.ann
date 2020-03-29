@@ -1,0 +1,12 @@
+T1	DRUG 43 53	nizatidine
+T2	DRUG 58 70	theophylline
+T3	DRUG 72 88	chlordiazepoxide
+T4	DRUG 90 99	lorazepam
+T5	DRUG 101 110	lidocaine
+T6	DRUG 112 121	phenytoin
+T7	DRUG 127 135	warfarin
+T8	DRUG 137 147	Nizatidine
+T9	BRAND 374 381	aspirin
+T10	GROUP 408 418	salicylate
+T11	DRUG 441 451	nizatidine
+R1	MECHANISM Arg1:T9 Arg2:T11

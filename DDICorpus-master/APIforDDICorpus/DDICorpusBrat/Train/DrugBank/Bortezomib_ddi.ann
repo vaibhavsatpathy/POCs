@@ -1,0 +1,8 @@
+T1	BRAND 60 67	VELCADE
+T2	DRUG 128 138	bortezomib
+T3	BRAND 245 252	VELCADE
+T4	GROUP 495 508	hypoglycemics
+T5	GROUP 527 546	antidiabetic agents
+T6	BRAND 557 564	VELCADE
+T7	GROUP 670 693	antidiabetic medication
+R1	ADVISE Arg1:T5 Arg2:T6

@@ -1,0 +1,12 @@
+T1	BRAND 22 29	Robinul
+T2	GROUP 51 67	anticholinergics
+T3	GROUP 122 136	phenothiazines
+T4	GROUP 138 157	antiparkinson drugs
+T5	GROUP 162 187	tricyclic antidepressants
+T6	BRAND 323 330	Robinul
+T7	DRUG 345 363	potassium chloride
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T1 Arg2:T3
+R3	EFFECT Arg1:T1 Arg2:T4
+R4	EFFECT Arg1:T1 Arg2:T5
+R5	MECHANISM Arg1:T6 Arg2:T7

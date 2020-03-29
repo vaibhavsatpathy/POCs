@@ -1,0 +1,23 @@
+T1	DRUG 49 61	mifepristone
+T2	DRUG 158 170	ketoconazole
+T3	DRUG 172 184	itraconazole
+T4	DRUG 186 198	erythromycin
+T5	DRUG 276 288	mifepristone
+T6	DRUG 304 312	rifampin
+T7	DRUG 314 327	dexamethasone
+T8	GROUP 360 375	anticonvulsants
+T9	DRUG 377 386	phenytoin
+T10	DRUG 388 401	phenobarbital
+T11	DRUG 403 416	carbamazepine
+T12	DRUG 429 441	mifepristone
+T13	DRUG 479 491	mifepristone
+T14	DRUG 556 568	mifepristone
+T15	DRUG 678 690	mifepristone
+T16	DRUG 832 844	mifepristone
+R1	MECHANISM Arg1:T2 Arg2:T5
+R2	MECHANISM Arg1:T3 Arg2:T5
+R3	MECHANISM Arg1:T4 Arg2:T5
+R4	MECHANISM Arg1:T8 Arg2:T12
+R5	MECHANISM Arg1:T9 Arg2:T12
+R6	MECHANISM Arg1:T10 Arg2:T12
+R7	MECHANISM Arg1:T11 Arg2:T12

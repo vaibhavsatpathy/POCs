@@ -1,0 +1,22 @@
+T1	DRUG 35 47	Fondaparinux
+T2	GROUP 77 91	anticoagulants
+T3	DRUG 93 101	warfarin
+T4	GROUP 104 123	platelet inhibitors
+T5	DRUG 125 145	acetylsalicylic acid
+T6	GROUP 148 154	NSAIDs
+T7	DRUG 156 165	piroxicam
+T8	DRUG 172 179	digoxin
+T9	DRUG 250 269	fondaparinux sodium
+T10	DRUG 284 296	Fondaparinux
+T11	DRUG 340 348	warfarin
+T12	DRUG 350 370	acetylsalicylic acid
+T13	DRUG 372 381	piroxicam
+T14	DRUG 387 394	digoxin
+T15	DRUG 424 431	digoxin
+T16	DRUG 542 554	Fondaparinux
+T17	GROUP 722 730	coumarin
+T18	DRUG 734 746	fondaparinux
+T19	DRUG 887 899	fondaparinux
+T20	DRUG 1005 1024	fondaparinux sodium
+T21	DRUG 1154 1173	fondaparinux sodium
+R1	MECHANISM Arg1:T17 Arg2:T18

@@ -1,0 +1,9 @@
+T1	BRAND 47 56	ETOPOPHOS
+T2	DRUG 124 148	levamisole hydrochloride
+T3	DRUG 161 174	cyclosporin A
+T4	DRUG 243 252	etoposide
+T5	DRUG 283 292	etoposide
+T6	DRUG 349 358	etoposide
+T7	DRUG 371 380	etoposide
+R1	ADVISE Arg1:T1 Arg2:T2
+R2	MECHANISM Arg1:T3 Arg2:T4

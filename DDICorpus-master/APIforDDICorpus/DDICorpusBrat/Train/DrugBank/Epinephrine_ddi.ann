@@ -1,0 +1,29 @@
+T1	DRUG 0 11	Epinephrine
+T2	GROUP 114 126	vasopressors
+T3	GROUP 172 206	monoamine oxidase (MAO) inhibitors
+T4	DRUG 208 219	Epinephrine
+T5	GROUP 272 293	sympathomimetic drugs
+T6	DRUG 303 316	isoproterenol
+T7	DRUG 550 561	epinephrine
+T8	DRUG 584 596	cyclopropane
+T9	GROUP 600 643	halogenated hydrocarbon general anesthetics
+T10	DRUG 652 661	halothane
+T11	GROUP 796 825	beta-adrenergic blocking drug
+T12	DRUG 827 838	Epinephrine
+T13	GROUP 894 903	digitalis
+T14	GROUP 905 915	glycosides
+T15	GROUP 965 986	sympathomimetic drugs
+T16	GROUP 988 1003	Diuretic agents
+T17	DRUG 1060 1071	epinephrine
+T18	DRUG 1073 1084	Epinephrine
+T19	DRUG 1132 1144	guanethidine
+R1	ADVISE Arg1:T2 Arg2:T3
+R2	ADVISE Arg1:T4 Arg2:T5
+R3	ADVISE Arg1:T4 Arg2:T6
+R4	EFFECT Arg1:T7 Arg2:T8
+R5	EFFECT Arg1:T7 Arg2:T9
+R6	EFFECT Arg1:T7 Arg2:T10
+R7	ADVISE Arg1:T12 Arg2:T13
+R8	ADVISE Arg1:T12 Arg2:T14
+R9	EFFECT Arg1:T16 Arg2:T17
+R10	EFFECT Arg1:T18 Arg2:T19

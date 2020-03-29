@@ -1,0 +1,7 @@
+T1	DRUG 35 50	Cromolyn sodium
+T2	DRUG 55 68	isoproterenol
+T3	DRUG 134 149	Cromolyn sodium
+T4	DRUG 359 372	Isoproterenol
+T5	DRUG 582 597	cromolyn sodium
+T6	DRUG 717 730	isoproterenol
+R1	EFFECT Arg1:T5 Arg2:T6

@@ -1,0 +1,4 @@
+T1	DRUG 0 14	Dimenhydrinate
+T2	GROUP 28 34	emetic
+T3	DRUG 47 58	apomorphine
+R1	EFFECT Arg1:T1 Arg2:T3

@@ -1,0 +1,17 @@
+T1	GROUP 0 8	Antacids
+T2	DRUG 20 41	magnesium trisilicate
+T3	DRUG 80 94	nitrofurantoin
+T4	DRUG 204 218	nitrofurantoin
+T5	DRUG 239 260	magnesium trisilicate
+T6	GROUP 262 278	Uricosuric drugs
+T7	DRUG 288 298	probenecid
+T8	DRUG 303 317	sulfinpyrazone
+T9	DRUG 358 372	nitrofurantoin
+T10	DRUG 400 414	nitrofurantoin
+T11	GROUP 529 542	antibacterial
+T12	DRUG 609 623	nitrofurantoin
+R1	MECHANISM Arg1:T2 Arg2:T3
+R2	MECHANISM Arg1:T4 Arg2:T5
+R3	MECHANISM Arg1:T6 Arg2:T9
+R4	MECHANISM Arg1:T7 Arg2:T9
+R5	MECHANISM Arg1:T8 Arg2:T9

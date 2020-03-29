@@ -1,0 +1,31 @@
+T1	GROUP 22 69	non-nucleoside reverse transcriptase inhibitors
+T2	GROUP 73 87	antiretroviral
+T3	GROUP 124 170	non-nucleoside reverse transcriptase inhibitor
+T4	GROUP 172 177	NNRTI
+T5	GROUP 198 212	antiretroviral
+T6	GROUP 244 262	protease inhibitor
+T7	GROUP 264 266	PI
+T8	GROUP 371 376	NNRTI
+T9	GROUP 425 427	PI
+T10	DRUG 703 712	efavirenz
+T11	DRUG 714 724	nevirapine
+T12	DRUG 728 739	delavirdine
+T13	DRUG 747 756	efavirenz
+T14	DRUG 761 771	nevirapine
+T15	GROUP 818 820	PI
+T16	DRUG 821 830	indinavir
+T17	DRUG 908 918	nevirapine
+T18	DRUG 958 967	efavirenz
+T19	DRUG 1007 1017	nevirapine
+T20	GROUP 1041 1043	PI
+T21	DRUG 1044 1054	nelfinavir
+T22	DRUG 1128 1138	nevirapine
+T23	DRUG 1143 1154	delavirdine
+T24	GROUP 1286 1288	PI
+T25	DRUG 1342 1351	efavirenz
+T26	DRUG 1357 1366	indinavir
+T27	GROUP 1585 1590	NNRTI
+T28	DRUG 1631 1640	Efavirenz
+T29	DRUG 1675 1685	nelfinavir
+T30	GROUP 1832 1838	NNRTIs
+T31	GROUP 1989 1995	NNRTIs

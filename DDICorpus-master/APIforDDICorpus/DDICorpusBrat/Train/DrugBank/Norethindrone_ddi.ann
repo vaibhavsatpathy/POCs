@@ -1,0 +1,12 @@
+T1	GROUP 21 30	progestin
+T2	GROUP 98 113	anticonvulsants
+T3	DRUG 114 123	phenytoin
+T4	DRUG 125 138	carbamazepine
+T5	GROUP 144 156	barbiturates
+T6	GROUP 166 187	antituberculosis drug
+T7	DRUG 188 196	rifampin
+T8	GROUP 260 271	antibiotics
+R1	EFFECT Arg1:T1 Arg2:T3
+R2	EFFECT Arg1:T1 Arg2:T4
+R3	EFFECT Arg1:T1 Arg2:T5
+R4	EFFECT Arg1:T1 Arg2:T7

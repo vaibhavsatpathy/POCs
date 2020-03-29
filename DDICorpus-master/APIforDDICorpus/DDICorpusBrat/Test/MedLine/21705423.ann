@@ -1,0 +1,27 @@
+T1	DRUG_N 114 118	MPTP
+T2	DRUG_N 529 577	3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine
+T3	DRUG_N 704 748	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+T4	DRUG_N 771 815	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+T5	DRUG_N 900 948	3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine
+T6	DRUG_N 1071 1115	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+T7	DRUG_N 1116 1164	3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine
+T8	DRUG_N 1172 1216	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+T9	DRUG_N 1245 1289	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+T10	DRUG_N 1305 1349	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+T11	DRUG_N 1427 1471	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+T12	DRUG_N 1472 1520	3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine
+T13	DRUG_N 1915 1959	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+T14	DRUG_N 1960 2008	3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine
+T15	DRUG_N 2033 2077	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+T16	DRUG_N 2107 2155	3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine
+T17	DRUG_N 2203 2247	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+T18	DRUG_N 2364 2408	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+T19	DRUG_N 2644 2688	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+T20	DRUG_N 2689 2737	3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine
+T21	DRUG_N 2854 2902	3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine
+T22	DRUG_N 2926 2970	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+R1	EFFECT Arg1:T11 Arg2:T12
+R2	EFFECT Arg1:T13 Arg2:T14
+R3	EFFECT Arg1:T16 Arg2:T17
+R4	EFFECT Arg1:T19 Arg2:T20
+R5	EFFECT Arg1:T21 Arg2:T22

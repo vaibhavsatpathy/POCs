@@ -1,0 +1,42 @@
+T1	GROUP 27 39	sulfonylurea
+T2	GROUP 86 123	nonsteroidal anti-inflammatory agents
+T3	GROUP 171 182	salicylates
+T4	GROUP 184 196	sulfonamides
+T5	DRUG 198 213	chloramphenicol
+T6	DRUG 215 225	probenecid
+T7	GROUP 227 236	coumarins
+T8	GROUP 238 266	monoamine oxidase inhibitors
+T9	GROUP 272 303	beta adrenergic blocking agents
+T10	BRAND 361 370	DIABINESE
+T11	BRAND 484 493	DIABINESE
+T12	GROUP 656 665	thiazides
+T13	GROUP 676 685	diuretics
+T14	GROUP 687 702	corticosteroids
+T15	GROUP 704 718	phenothiazines
+T16	GROUP 738 747	estrogens
+T17	GROUP 754 768	contraceptives
+T18	DRUG 770 779	phenytoin
+T19	DRUG 781 795	nicotinic acid
+T20	GROUP 797 813	sympathomimetics
+T21	GROUP 815 845	calcium channel blocking drugs
+T22	DRUG 851 860	isoniazid
+T23	BRAND 918 927	DIABINESE
+T24	BRAND 1044 1053	DIABINESE
+T25	GROUP 1160 1172	barbiturates
+T26	DRUG 1206 1220	chlorpropamide
+T27	GROUP 1222 1234	barbiturates
+T28	DRUG 1288 1298	disulfiram
+T29	DRUG 1349 1356	alcohol
+T30	DRUG 1395 1405	miconazole
+T31	GROUP 1415 1434	hypoglycemic agents
+T32	DRUG 1580 1590	miconazole
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T1 Arg2:T3
+R3	EFFECT Arg1:T1 Arg2:T4
+R4	EFFECT Arg1:T1 Arg2:T5
+R5	EFFECT Arg1:T1 Arg2:T6
+R6	EFFECT Arg1:T1 Arg2:T7
+R7	EFFECT Arg1:T1 Arg2:T8
+R8	EFFECT Arg1:T1 Arg2:T9
+R9	EFFECT Arg1:T25 Arg2:T26
+R10	EFFECT Arg1:T30 Arg2:T31

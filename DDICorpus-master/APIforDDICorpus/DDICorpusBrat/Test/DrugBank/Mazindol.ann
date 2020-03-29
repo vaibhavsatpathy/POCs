@@ -1,0 +1,44 @@
+T1	DRUG 16 24	mazindol
+T2	GROUP 45 72	monoamine oxidase inhibitor
+T3	GROUP 74 78	MAOI
+T4	DRUG 88 101	isocarboxazid
+T5	BRAND 103 110	Marplan
+T6	DRUG 113 128	tranylcypromine
+T7	BRAND 130 137	Parnate
+T8	DRUG 143 153	phenelzine
+T9	BRAND 155 161	Nardil
+T10	DRUG 195 202	insulin
+T11	DRUG 276 284	mazindol
+T12	DRUG 286 294	Mazindol
+T13	DRUG 321 333	guanethidine
+T14	BRAND 335 342	Ismelin
+T15	DRUG 430 442	guanethidine
+T16	GROUP 512 536	tricyclic antidepressant
+T17	DRUG 545 558	amitriptyline
+T18	BRAND 560 566	Elavil
+T19	DRUG 569 578	amoxapine
+T20	BRAND 580 587	Asendin
+T21	DRUG 590 597	doxepin
+T22	BRAND 599 607	Sinequan
+T23	DRUG 610 623	nortriptyline
+T24	BRAND 625 632	Pamelor
+T25	DRUG 635 645	imipramine
+T26	BRAND 647 655	Tofranil
+T27	DRUG 658 670	clomipramine
+T28	BRAND 672 681	Anafranil
+T29	DRUG 684 697	protriptyline
+T30	BRAND 699 707	Vivactil
+T31	DRUG 713 724	desipramine
+T32	BRAND 726 735	Norpramin
+T33	DRUG 778 786	mazindol
+R1	ADVISE Arg1:T1 Arg2:T2
+R2	ADVISE Arg1:T1 Arg2:T3
+R3	ADVISE Arg1:T1 Arg2:T4
+R4	ADVISE Arg1:T1 Arg2:T5
+R5	ADVISE Arg1:T1 Arg2:T6
+R6	ADVISE Arg1:T1 Arg2:T7
+R7	ADVISE Arg1:T1 Arg2:T8
+R8	ADVISE Arg1:T1 Arg2:T9
+R9	ADVISE Arg1:T10 Arg2:T11
+R10	EFFECT Arg1:T12 Arg2:T13
+R11	EFFECT Arg1:T12 Arg2:T14

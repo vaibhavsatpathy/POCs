@@ -1,0 +1,43 @@
+T1	DRUG 21 30	doxazosin
+T2	DRUG 93 111	doxazosin mesylate
+T3	DRUG 148 155	digoxin
+T4	DRUG 157 165	warfarin
+T5	DRUG 167 176	phenytoin
+T6	DRUG 180 192	indomethacin
+T7	DRUG 278 287	doxazosin
+T8	DRUG 297 315	Doxazosin mesylate
+T9	GROUP 412 430	thiazide diuretics
+T10	GROUP 432 451	beta-blocking agent
+T11	GROUP 458 494	nonsteroidal anti-inflammatory drugs
+T12	DRUG 592 601	doxazosin
+T13	DRUG 641 651	cimetidine
+T14	DRUG 715 724	doxazosin
+T15	DRUG 827 836	doxazosin
+T16	DRUG 884 893	doxazosin
+T17	DRUG 930 948	doxazosin mesylate
+T18	DRUG 1121 1139	Doxazosin mesylate
+T19	GROUP 1208 1217	Analgesic
+T20	GROUP 1218 1235	anti-inflammatory
+T21	DRUG 1243 1256	acetaminophen
+T22	BRAND 1258 1265	aspirin
+T23	DRUG 1267 1274	codeine
+T24	DRUG 1279 1286	codeine
+T25	DRUG 1301 1310	ibuprofen
+T26	DRUG 1312 1324	indomethacin
+T27	GROUP 1330 1341	Antibiotics
+T28	DRUG 1349 1361	erythromycin
+T29	DRUG 1363 1375	trimethoprim
+T30	DRUG 1380 1396	sulfamethoxazole
+T31	DRUG 1398 1409	amoxicillin
+T32	GROUP 1415 1429	Antihistamines
+T33	GROUP 1437 1453	chlorpheniramine
+T34	DRUG 1488 1496	atenolol
+T35	DRUG 1498 1517	hydrochlorothiazide
+T36	DRUG 1519 1530	propranolol
+T37	GROUP 1536 1551	Corticosteroids
+T38	GROUP 1587 1595	antacids
+T39	GROUP 1601 1614	Hypoglycemics
+T40	GROUP 1639 1648	Sedatives
+T41	GROUP 1653 1666	tranquilizers
+T42	DRUG 1674 1682	diazepam
+R1	MECHANISM Arg1:T12 Arg2:T13

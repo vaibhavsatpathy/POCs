@@ -1,0 +1,10 @@
+T1	BRAND 81 89	REVLIMID
+T2	DRUG 92 104	lenalidomide
+T3	DRUG 200 212	lenalidomide
+T4	DRUG 348 360	lenalidomide
+T5	DRUG 414 416;424 432	R-warfarin
+T6	DRUG 421 432	S- warfarin
+T7	DRUG 473 481	warfarin
+T8	DRUG 529 541	lenalidomide
+T9	DRUG 620 628	warfarin
+T10	DRUG 696 708	lenalidomide

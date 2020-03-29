@@ -1,0 +1,37 @@
+T1	GROUP 0 26	Broad-Spectrum Antibiotics
+T2	GROUP 27 53	Broad-spectrum antibiotics
+T3	GROUP 95 104	vitamin K
+T4	GROUP 160 174	Cephalosporins
+T5	GROUP 175 189	Cephalosporins
+T6	DRUG 239 250	cefmenoxime
+T7	DRUG 252 264	cefoperazone
+T8	DRUG 266 275	cefotetan
+T9	DRUG 277 288	cefamandole
+T10	DRUG 290 299	latamoxef
+T11	DRUG 323 332	cefazolin
+T12	GROUP 396 410	cephalosporins
+T13	DRUG 466 480	Cholestyramine
+T14	DRUG 503 517	cholestyramine
+T15	GROUP 522 531	vitamin K
+T16	GROUP 561 570	vitamin K
+T17	DRUG 572 582	Colestipol
+T18	DRUG 605 615	colestipol
+T19	GROUP 620 629	vitamin K
+T20	GROUP 659 668	vitamin K
+T21	DRUG_N 670 681	Mineral Oil
+T22	DRUG_N 704 715	mineral oil
+T23	GROUP 720 729	vitamin K
+T24	GROUP 759 768	vitamin K
+T25	DRUG 770 778	Orlistat
+T26	DRUG 779 787	Orlistat
+T27	GROUP 819 828	vitamin K
+T28	GROUP 830 841	Salicylates
+T29	GROUP 842 853	Salicylates
+T30	DRUG 944 952	Warfarin
+T31	GROUP 953 962	Vitamin K
+T32	DRUG 992 1000	warfarin
+R1	MECHANISM Arg1:T14 Arg2:T15
+R2	MECHANISM Arg1:T18 Arg2:T19
+R3	MECHANISM Arg1:T22 Arg2:T23
+R4	MECHANISM Arg1:T26 Arg2:T27
+R5	EFFECT Arg1:T31 Arg2:T32

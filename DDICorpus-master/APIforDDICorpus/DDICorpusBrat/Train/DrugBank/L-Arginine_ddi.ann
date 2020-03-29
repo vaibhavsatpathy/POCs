@@ -1,0 +1,16 @@
+T1	DRUG 0 12	Cyclosporine
+T2	DRUG 15 25	L-arginine
+T3	DRUG 69 80	cyclosporin
+T4	DRUG 82 91	Ibuprofen
+T5	DRUG 94 104	L-arginine
+T6	DRUG 136 145	ibuprofen
+T7	GROUP 178 186	nitrates
+T8	DRUG 189 199	L-arginine
+T9	DRUG 264 272	nitrates
+T10	DRUG 297 315	Sildenafil citrate
+T11	DRUG 333 343	L-arginine
+T12	DRUG 381 399	sildenafil citrate
+R1	EFFECT Arg1:T2 Arg2:T3
+R2	MECHANISM Arg1:T5 Arg2:T6
+R3	EFFECT Arg1:T8 Arg2:T9
+R4	EFFECT Arg1:T11 Arg2:T12

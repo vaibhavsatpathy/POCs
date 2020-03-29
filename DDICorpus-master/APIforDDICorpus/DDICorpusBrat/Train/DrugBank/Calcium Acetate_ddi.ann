@@ -1,0 +1,7 @@
+T1	DRUG 27 34	calcium
+T2	GROUP 67 75	antacids
+T3	DRUG 96 103	calcium
+T4	DRUG 180 195	calcium acetate
+T5	GROUP 201 221	digitalis glycosides
+T6	DRUG 273 280	calcium
+R1	EFFECT Arg1:T4 Arg2:T5

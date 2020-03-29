@@ -1,0 +1,22 @@
+T1	GROUP 25 44	narcotic analgesics
+T2	GROUP 46 60	antipsychotics
+T3	GROUP 62 80	antianxiety agents
+T4	GROUP 91 106	CNS depressants
+T5	DRUG 118 125	alcohol
+T6	DRUG 146 157	hydrocodone
+T7	DRUG 162 175	acetaminophen
+T8	GROUP 324 338	MAO inhibitors
+T9	GROUP 342 367	tricyclic antidepressants
+T10	DRUG 373 384	hydrocodone
+T11	GROUP 436 450	antidepressant
+T12	DRUG 454 465	hydrocodone
+T13	GROUP 489 505	anticholinergics
+T14	DRUG 511 522	hydrocodone
+R1	EFFECT Arg1:T1 Arg2:T6
+R2	EFFECT Arg1:T2 Arg2:T6
+R3	EFFECT Arg1:T3 Arg2:T6
+R4	EFFECT Arg1:T4 Arg2:T6
+R5	EFFECT Arg1:T5 Arg2:T6
+R6	EFFECT Arg1:T8 Arg2:T10
+R7	EFFECT Arg1:T9 Arg2:T10
+R8	EFFECT Arg1:T13 Arg2:T14

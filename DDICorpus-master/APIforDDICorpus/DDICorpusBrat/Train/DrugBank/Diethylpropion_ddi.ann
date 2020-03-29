@@ -1,0 +1,14 @@
+T1	GROUP 0 17	Antidiabetic drug
+T2	DRUG 38 45	insulin
+T3	GROUP 91 102	anesthetics
+T4	DRUG 153 167	diethylpropion
+T5	DRUG 260 274	diethylpropion
+T6	GROUP 294 316	antihypertensive drugs
+T7	DRUG 324 336	guanethidine
+T8	DRUG 338 350	a-methyldopa
+T9	GROUP 371 385	phenothiazines
+T10	DRUG 425 439	diethylpropion
+R1	INT Arg1:T5 Arg2:T6
+R2	INT Arg1:T5 Arg2:T7
+R3	INT Arg1:T5 Arg2:T8
+R4	EFFECT Arg1:T9 Arg2:T10

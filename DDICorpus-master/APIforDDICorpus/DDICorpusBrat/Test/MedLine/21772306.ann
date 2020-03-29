@@ -1,0 +1,12 @@
+T1	DRUG 21 32	minocycline
+T2	DRUG 47 57	fosfomycin
+T3	DRUG 87 98	methicillin
+T4	DRUG 186 197	minocycline
+T5	DRUG 212 222	fosfomycin
+T6	DRUG 243 254	methicillin
+T7	GROUP 509 519	antibiotic
+T8	DRUG 608 619	minocycline
+T9	DRUG 624 634	fosfomycin
+T10	DRUG 961 972	minocycline
+T11	DRUG 977 987	fosfomycin
+R1	EFFECT Arg1:T10 Arg2:T11

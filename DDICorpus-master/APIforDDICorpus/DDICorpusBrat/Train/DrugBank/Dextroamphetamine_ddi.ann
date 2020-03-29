@@ -1,0 +1,115 @@
+T1	GROUP 0 17	Acidifying agents
+T2	GROUP 19 53	Gastrointestinal acidifying agents
+T3	DRUG 55 67	guanethidine
+T4	DRUG 69 78	reserpine
+T5	DRUG 80 97	glutamic acid HCl
+T6	DRUG 99 112	ascorbic acid
+T7	GROUP 154 166	amphetamines
+T8	GROUP 168 193	Urinary acidifying agents
+T9	DRUG 195 212	ammonium chloride
+T10	DRUG 214 235	sodium acid phosphate
+T11	DRUG 300 311	amphetamine
+T12	GROUP 417 429	amphetamines
+T13	GROUP 431 450	Adrenergic blockers
+T14	GROUP 452 471	Adrenergic blockers
+T15	GROUP 489 501	amphetamines
+T16	DRUG 562 580	sodium bicarbonate
+T17	DRUG 611 623	amphetamines
+T18	DRUG 654 667	acetazolamide
+T19	GROUP 674 683	thiazides
+T20	DRUG 746 757	amphetamine
+T21	GROUP 890 902	amphetamines
+T22	GROUP 904 919	Antidepressants
+T23	GROUP 921 930	tricyclic
+T24	GROUP 932 944	Amphetamines
+T25	GROUP 973 982	tricyclic
+T26	GROUP 986 1008	sympathomimetic agents
+T27	DRUG 1010 1023	d-amphetamine
+T28	DRUG 1029 1040	desipramine
+T29	DRUG 1044 1057	protriptyline
+T30	GROUP 1077 1087	tricyclics
+T31	DRUG 1151 1164	d-amphetamine
+T32	GROUP 1222 1236	MAO inhibitors
+T33	GROUP 1238 1258	MAOI antidepressants
+T34	DRUG 1287 1299	furazolidone
+T35	GROUP 1306 1317	amphetamine
+T36	GROUP 1355 1367	amphetamines
+T37	GROUP 1651 1665	Antihistamines
+T38	GROUP 1667 1679	Amphetamines
+T39	GROUP 1718 1732	antihistamines
+T40	GROUP 1734 1751	Antihypertensives
+T41	GROUP 1753 1765	Amphetamines
+T42	GROUP 1808 1825	antihypertensives
+T43	DRUG 1827 1841	Chlorpromazine
+T44	DRUG 1843 1857	Chlorpromazine
+T45	GROUP 1952 1964	amphetamines
+T46	GROUP 1991 2002	amphetamine
+T47	DRUG 2014 2026	Ethosuximide
+T48	GROUP 2028 2040	Amphetamines
+T49	DRUG 2076 2088	ethosuximide
+T50	DRUG 2090 2101	Haloperidol
+T51	DRUG 2103 2114	Haloperidol
+T52	GROUP 2209 2221	amphetamines
+T53	DRUG 2223 2240	Lithium carbonate
+T54	GROUP 2269 2281	amphetamines
+T55	DRUG 2302 2319	lithium carbonate
+T56	DRUG 2321 2331	Meperidine
+T57	GROUP 2333 2345	Amphetamines
+T58	DRUG 2381 2391	meperidine
+T59	DRUG 2393 2404	Methenamine
+T60	GROUP 2435 2447	amphetamines
+T61	GROUP 2490 2507	acidifying agents
+T62	DRUG 2516 2527	methenamine
+T63	DRUG 2537 2551	Norepinephrine
+T64	GROUP 2553 2565	Amphetamines
+T65	DRUG 2599 2613	norepinephrine
+T66	DRUG 2615 2628	Phenobarbital
+T67	GROUP 2630 2642	Amphetamines
+T68	DRUG 2678 2691	phenobarbital
+T69	DRUG 2714 2727	phenobarbital
+T70	DRUG 2777 2786	Phenytoin
+T71	GROUP 2788 2800	Amphetamines
+T72	DRUG 2836 2845	phenytoin
+T73	DRUG 2868 2877	phenytoin
+T74	DRUG 2927 2939	Propoxyphene
+T75	DRUG 2953 2965	propoxyphene
+T76	GROUP 2978 2989	amphetamine
+T77	GROUP 3054 3072	Veratrum alkaloids
+T78	GROUP 3074 3086	Amphetamines
+T79	GROUP 3121 3139	veratrum alkaloids
+T80	GROUP 3176 3188	Amphetamines
+T81	GROUP 3233 3247	corticosteroid
+T82	GROUP 3298 3310	Amphetamines
+R1	MECHANISM Arg1:T2 Arg2:T7
+R2	MECHANISM Arg1:T3 Arg2:T7
+R3	MECHANISM Arg1:T4 Arg2:T7
+R4	MECHANISM Arg1:T5 Arg2:T7
+R5	MECHANISM Arg1:T6 Arg2:T7
+R6	MECHANISM Arg1:T8 Arg2:T11
+R7	MECHANISM Arg1:T9 Arg2:T11
+R8	MECHANISM Arg1:T10 Arg2:T11
+R9	EFFECT Arg1:T14 Arg2:T15
+R10	MECHANISM Arg1:T16 Arg2:T17
+R11	MECHANISM Arg1:T18 Arg2:T20
+R12	MECHANISM Arg1:T19 Arg2:T20
+R13	EFFECT Arg1:T24 Arg2:T25
+R14	EFFECT Arg1:T24 Arg2:T26
+R15	MECHANISM Arg1:T27 Arg2:T28
+R16	MECHANISM Arg1:T27 Arg2:T29
+R17	MECHANISM Arg1:T27 Arg2:T30
+R18	MECHANISM Arg1:T33 Arg2:T35
+R19	MECHANISM Arg1:T34 Arg2:T35
+R20	EFFECT Arg1:T38 Arg2:T39
+R21	EFFECT Arg1:T41 Arg2:T42
+R22	EFFECT Arg1:T44 Arg2:T45
+R23	MECHANISM Arg1:T48 Arg2:T49
+R24	EFFECT Arg1:T51 Arg2:T52
+R25	EFFECT Arg1:T54 Arg2:T55
+R26	EFFECT Arg1:T57 Arg2:T58
+R27	MECHANISM Arg1:T60 Arg2:T61
+R28	EFFECT Arg1:T64 Arg2:T65
+R29	MECHANISM Arg1:T67 Arg2:T68
+R30	MECHANISM Arg1:T71 Arg2:T72
+R31	EFFECT Arg1:T75 Arg2:T76
+R32	EFFECT Arg1:T78 Arg2:T79
+R33	INT Arg1:T80 Arg2:T81

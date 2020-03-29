@@ -1,0 +1,17 @@
+T1	DRUG 0 12	Benzthiazide
+T2	DRUG 31 38	alcohol
+T3	GROUP 40 53	blood thinner
+T4	GROUP 56 74	decongestant drugs
+T5	DRUG 129 136	lithium
+T6	DRUG 138 152	norepinephrine
+T7	GROUP 154 160	NSAIDs
+T8	BRAND 166 171	Aleve
+T9	DRUG 175 184	Ibuprofen
+R1	INT Arg1:T1 Arg2:T2
+R2	INT Arg1:T1 Arg2:T3
+R3	INT Arg1:T1 Arg2:T4
+R4	INT Arg1:T1 Arg2:T5
+R5	INT Arg1:T1 Arg2:T6
+R6	INT Arg1:T1 Arg2:T7
+R7	INT Arg1:T1 Arg2:T8
+R8	INT Arg1:T1 Arg2:T9

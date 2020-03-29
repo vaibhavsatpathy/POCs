@@ -1,0 +1,42 @@
+T1	BRAND 33 39	Exelon
+T2	DRUG 44 65	rivastigmine tartrate
+T3	DRUG 101 113	Rivastigmine
+T4	DRUG 490 502	rivastigmine
+T5	DRUG 507 514	digoxin
+T6	DRUG 516 524	warfarin
+T7	DRUG 526 534	diazepam
+T8	DRUG 539 549	fluoxetine
+T9	DRUG 629 637	warfarin
+T10	BRAND 675 681	Exelon
+T11	BRAND 726 732	Exelon
+T12	DRUG 825 837	rivastigmine
+T13	DRUG 911 923	rivastigmine
+T14	DRUG 986 993	digoxin
+T15	DRUG 995 1003	warfarin
+T16	DRUG 1005 1013	diazepam
+T17	DRUG 1018 1028	fluoxetine
+T18	DRUG 1121 1133	rivastigmine
+T19	GROUP 1197 1205	antacids
+T20	GROUP 1214 1231	antihypertensives
+T21	GROUP 1240 1264	calcium channel blockers
+T22	GROUP 1273 1286	antidiabetics
+T23	GROUP 1295 1331	nonsteroidal anti-inflammatory drugs
+T24	GROUP 1340 1349	estrogens
+T25	GROUP 1358 1379	salicylate analgesics
+T26	GROUP 1389 1401	antianginals
+T27	GROUP 1414 1428	antihistamines
+T28	GROUP 1446 1462	Anticholinergics
+T29	GROUP 1502 1527	cholinesterase inhibitors
+T30	GROUP 1581 1608	anticholinergic medications
+T31	GROUP 1619 1634	Cholinomimetics
+T32	GROUP 1645 1670	Cholinesterase Inhibitors
+T33	GROUP 1714 1739	cholinesterase inhibitors
+T34	DRUG 1768 1783	succinylcholine
+T35	GROUP 1793 1822	neuromuscular blocking agents
+T36	GROUP 1826 1846	cholinergic agonists
+T37	DRUG 1855 1866	bethanechol
+R1	INT Arg1:T29 Arg2:T30
+R2	EFFECT Arg1:T33 Arg2:T34
+R3	EFFECT Arg1:T33 Arg2:T35
+R4	EFFECT Arg1:T33 Arg2:T36
+R5	EFFECT Arg1:T33 Arg2:T37

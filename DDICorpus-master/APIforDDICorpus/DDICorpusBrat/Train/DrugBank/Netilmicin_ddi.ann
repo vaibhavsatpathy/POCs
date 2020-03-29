@@ -1,0 +1,7 @@
+T1	DRUG 0 10	Netilmicin
+T2	GROUP 64 78	loop diuretics
+T3	DRUG 87 97	furosemide
+T4	DRUG 102 117	ethacrynic acid
+R1	ADVISE Arg1:T1 Arg2:T2
+R2	ADVISE Arg1:T1 Arg2:T3
+R3	ADVISE Arg1:T1 Arg2:T4

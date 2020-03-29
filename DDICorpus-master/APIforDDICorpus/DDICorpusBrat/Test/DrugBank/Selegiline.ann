@@ -1,0 +1,17 @@
+T1	DRUG 152 162	selegiline
+T2	DRUG 167 177	meperidine
+T3	DRUG 290 300	meperidine
+T4	GROUP 305 310	MAOIs
+T5	GROUP 531 556	tricyclic antidepressants
+T6	BRAND 561 569	ELDEPRYL
+T7	GROUP 574 613	selective serotonin reuptake inhibitors
+T8	BRAND 618 626	ELDEPRYL
+T9	DRUG 723 733	selegiline
+T10	GROUP 740 766	sympathomimetic medication
+T11	DRUG 768 777	ephedrine
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	INT Arg1:T3 Arg2:T4
+R3	EFFECT Arg1:T5 Arg2:T6
+R4	EFFECT Arg1:T7 Arg2:T8
+R5	EFFECT Arg1:T9 Arg2:T10
+R6	EFFECT Arg1:T9 Arg2:T11

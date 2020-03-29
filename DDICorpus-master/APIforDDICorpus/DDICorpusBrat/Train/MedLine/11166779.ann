@@ -1,0 +1,9 @@
+T1	DRUG 11 21	etofibrate
+T2	DRUG 308 318	etofibrate
+T3	DRUG 679 689	etofibrate
+T4	DRUG 947 957	etofibrate
+T5	DRUG 1116 1126	Etofibrate
+T6	DRUG 1160 1167	heparin
+T7	DRUG 1354 1364	etofibrate
+T8	DRUG 1415 1425	etofibrate
+R1	EFFECT Arg1:T5 Arg2:T6

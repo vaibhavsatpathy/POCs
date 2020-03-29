@@ -1,0 +1,9 @@
+T1	DRUG 54 70	cyclophosphamide
+T2	DRUG 139 152	phenobarbital
+T3	DRUG 256 272	cyclophosphamide
+T4	DRUG 285 301	cyclophosphamide
+T5	DRUG 393 409	Cyclophosphamide
+T6	DRUG 523 547	succinylcholine chloride
+T7	DRUG 584 600	cyclophosphamide
+R1	MECHANISM Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T5 Arg2:T6

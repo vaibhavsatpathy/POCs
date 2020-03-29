@@ -1,0 +1,52 @@
+T1	GROUP 115 124	thiazides
+T2	GROUP 135 144	diuretics
+T3	GROUP 146 161	corticosteroids
+T4	GROUP 163 177	phenothiazines
+T5	GROUP 179 195	thyroid products
+T6	GROUP 197 206	estrogens
+T7	GROUP 213 227	contraceptives
+T8	DRUG 229 238	phenytoin
+T9	DRUG 240 254	nicotinic acid
+T10	GROUP 256 272	sympathomimetics
+T11	GROUP 274 304	calcium channel-blocking drugs
+T12	DRUG 310 319	isoniazid
+T13	DRUG 377 385	Acarbose
+T14	DRUG 515 523	Acarbose
+T15	GROUP 544 557	sulfonylureas
+T16	DRUG 561 568	insulin
+T17	GROUP 640 661	Intestinal adsorbents
+T18	DRUG 670 678	charcoal
+T19	GROUP 684 713	digestive enzyme preparations
+T20	DRUG 764 771	amylase
+T21	DRUG 773 783	pancreatin
+T22	DRUG 810 818	Acarbose
+T23	DRUG 858 866	Acarbose
+T24	DRUG 912 919	digoxin
+T25	DRUG 969 976	digoxin
+T26	DRUG 1040 1048	Acarbose
+T27	DRUG 1117 1124	digoxin
+T28	DRUG 1126 1136	nifedipine
+T29	DRUG 1138 1149	propranolol
+T30	DRUG 1154 1164	ranitidine
+T31	DRUG 1166 1174	Acarbose
+T32	DRUG 1235 1247	sulfonylurea
+T33	DRUG 1248 1257	glyburide
+T34	DRUG 1280 1288	Acarbose
+T35	DRUG 1300 1307	digoxin
+T36	DRUG 1359 1366	digoxin
+T37	DRUG 1428 1435	digoxin
+T38	DRUG 1520 1527	digoxin
+T39	DRUG 1601 1610	metformin
+T40	DRUG 1633 1641	Acarbose
+T41	DRUG 1777 1786	metformin
+T42	DRUG 1832 1840	Acarbose
+T43	DRUG 1884 1893	metformin
+T44	DRUG 1961 1969	Acarbose
+T45	DRUG 1974 1983	metformin
+R1	MECHANISM Arg1:T17 Arg2:T22
+R2	MECHANISM Arg1:T18 Arg2:T22
+R3	MECHANISM Arg1:T20 Arg2:T22
+R4	MECHANISM Arg1:T21 Arg2:T22
+R5	MECHANISM Arg1:T23 Arg2:T24
+R6	MECHANISM Arg1:T41 Arg2:T42
+R7	MECHANISM Arg1:T42 Arg2:T43

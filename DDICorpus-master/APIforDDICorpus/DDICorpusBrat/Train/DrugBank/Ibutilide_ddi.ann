@@ -1,0 +1,11 @@
+T1	DRUG 85 92	Digoxin
+T2	DRUG 177 184	digoxin
+T3	DRUG 273 280	digoxin
+T4	DRUG 372 379	digoxin
+T5	DRUG 437 446	ibutilide
+T6	GROUP 471 502	Calcium channel blocking agents
+T7	GROUP 524 548	calcium channel blockers
+T8	DRUG 609 618	ibutilide
+T9	GROUP 643 674	Beta-adrenergic blocking agents
+T10	GROUP 696 727	beta-adrenergic blocking agents
+T11	DRUG 788 797	ibutilide

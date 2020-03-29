@@ -1,0 +1,18 @@
+T1	DRUG 20 27	alcohol
+T2	DRUG 346 353	alcohol
+T3	DRUG 423 430	alcohol
+T4	DRUG 542 549	ethanol
+T5	DRUG 562 575	physostigmine
+T6	DRUG 591 599	atropine
+T7	DRUG 631 638	Ethanol
+T8	DRUG 791 804	Physostigmine
+T9	DRUG 882 890	atropine
+T10	DRUG 1014 1027	Physostigmine
+T11	DRUG 1076 1083	alcohol
+T12	DRUG 1137 1144	alcohol
+T13	DRUG 1200 1208	atropine
+T14	DRUG 1321 1329	Atropine
+T15	DRUG 1367 1374	alcohol
+T16	DRUG 1649 1656	ethanol
+R1	EFFECT Arg1:T10 Arg2:T11
+R2	EFFECT Arg1:T10 Arg2:T12

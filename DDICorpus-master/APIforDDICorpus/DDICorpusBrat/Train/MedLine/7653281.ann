@@ -1,0 +1,11 @@
+T1	DRUG 187 194	ethanol
+T2	DRUG_N 218 230	acetaldehyde
+T3	DRUG 454 461	ethanol
+T4	DRUG_N 463 471	methanol
+T5	DRUG_N 480 488	alcohols
+T6	DRUG_N 493 505	acetaldehyde
+T7	DRUG 675 682	ethanol
+T8	DRUG 782 790	dextrose
+T9	DRUG 1230 1237	ethanol
+T10	DRUG_N 1311 1323	acetaldehyde
+R1	EFFECT Arg1:T9 Arg2:T10

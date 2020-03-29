@@ -1,0 +1,54 @@
+T1	GROUP 0 23	Immunosuppressive Drugs
+T2	GROUP 25 48	Fibric Acid Derivatives
+T3	DRUG 50 56	Niacin
+T4	DRUG 58 72	Nicotinic Acid
+T5	DRUG 74 86	Erythromycin
+T6	GROUP 88 105	Azole Antifungals
+T7	GROUP 124 131	ANTACID
+T8	DRUG 133 161	Magnesium-Aluminum Hydroxide
+T9	DRUG 164 176	Cerivastatin
+T10	GROUP 241 248	antacid
+T11	DRUG 250 260	CIMETlDINE
+T12	DRUG 262 274	Cerivastatin
+T13	DRUG 339 349	cimetidine
+T14	DRUG 351 365	CHOLESTYRAMINE
+T15	DRUG 416 430	cholestyramine
+T16	DRUG 458 477	cerivastatin sodium
+T17	DRUG 613 632	cerivastatin sodium
+T18	DRUG 642 656	cholestyramine
+T19	DRUG 745 764	cerivastatin sodium
+T20	DRUG 825 839	cholestyramine
+T21	DRUG 882 901	cerivastatin sodium
+T22	DRUG 982 994	cerivastatin
+T23	DRUG 1076 1095	cerivastatin sodium
+T24	DRUG 1161 1180	cerivastatin sodium
+T25	DRUG 1202 1216	cholestyramine
+T26	DRUG 1316 1335	cerivastatin sodium
+T27	DRUG 1337 1344	DIGOXIN
+T28	DRUG 1353 1360	digoxin
+T29	DRUG 1372 1379	digoxin
+T30	DRUG 1455 1474	cerivastatin sodium
+T31	DRUG 1476 1488	Cerivastatin
+T32	DRUG 1558 1565	digoxin
+T33	DRUG 1567 1575	WARFARIN
+T34	DRUG 1599 1607	warfarin
+T35	DRUG 1612 1624	cerivastatin
+T36	DRUG 1758 1766	warfarin
+T37	DRUG 1832 1840	warfarin
+T38	DRUG 1888 1907	cerivastatin sodium
+T39	DRUG 1930 1938	warfarin
+T40	DRUG 1943 1955	cerivastatin
+T41	DRUG 1994 2013	cerivastatin sodium
+T42	DRUG 2015 2027	ERYTHROMYCIN
+T43	DRUG 2076 2088	cerivastatin
+T44	DRUG 2191 2203	erythromycin
+T45	DRUG 2353 2372	cerivastatin sodium
+T46	GROUP 2401 2448	angiotensin- converting enzyme (ACE) inhibitors
+T47	GROUP 2450 2462	betablockers
+T48	GROUP 2464 2488	calcium-channel blockers
+T49	GROUP 2490 2499	diuretics
+T50	GROUP 2505 2541	nonsteroidal anti-inflammatory drugs
+T51	GROUP 2543 2549	NSAIDs
+R1	MECHANISM Arg1:T17 Arg2:T18
+R2	MECHANISM Arg1:T20 Arg2:T21
+R3	MECHANISM Arg1:T43 Arg2:T44

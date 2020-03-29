@@ -1,0 +1,33 @@
+T1	DRUG 3 12	phenytoin
+T2	BRAND 74 81	Norpace
+T3	BRAND 85 95	Norpace CR
+T4	DRUG 120 132	disopyramide
+T5	DRUG 158 170	disopyramide
+T6	GROUP 259 279	antiarrhythmic drugs
+T7	DRUG 285 294	quinidine
+T8	DRUG 296 308	procainamide
+T9	DRUG 310 319	lidocaine
+T10	DRUG 321 332	propranolol
+T11	BRAND 380 387	Norpace
+T12	BRAND 574 581	Norpace
+T13	DRUG 613 624	propranolol
+T14	DRUG 628 636	diazepam
+T15	BRAND 668 675	Norpace
+T16	DRUG 680 689	quinidine
+T17	DRUG 729 741	disopyramide
+T18	DRUG 780 789	quinidine
+T19	BRAND 798 805	Norpace
+T20	DRUG 830 837	digoxin
+T21	DRUG 862 884	disopyramide phosphate
+T22	DRUG 889 901	erythromycin
+T23	DRUG 962 974	disopyramide
+T24	DRUG 1083 1105	disopyramide phosphate
+T25	DRUG 1223 1232	verapamil
+T26	DRUG 1237 1259	disopyramide phosphate
+T27	DRUG 1274 1286	disopyramide
+T28	DRUG 1355 1364	verapamil
+R1	MECHANISM Arg1:T1 Arg2:T2
+R2	MECHANISM Arg1:T1 Arg2:T3
+R3	MECHANISM Arg1:T15 Arg2:T16
+R4	MECHANISM Arg1:T21 Arg2:T22
+R5	ADVISE Arg1:T27 Arg2:T28

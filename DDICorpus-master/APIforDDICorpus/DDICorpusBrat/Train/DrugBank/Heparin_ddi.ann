@@ -1,0 +1,48 @@
+T1	DRUG 38 45	Heparin
+T2	GROUP 59 73	anticoagulants
+T3	DRUG 75 89	Heparin sodium
+T4	DRUG 150 164	heparin sodium
+T5	DRUG 179 188	dicumarol
+T6	DRUG 192 207	warfarin sodium
+T7	GROUP 398 417	Platelet inhibitors
+T8	DRUG 433 453	acetylsalicylic acid
+T9	DRUG 455 462	dextran
+T10	DRUG 464 478	phenylbutazone
+T11	DRUG 480 489	ibuprofen
+T12	DRUG 491 503	indomethacin
+T13	DRUG 505 517	dipyridamole
+T14	DRUG 519 537	hydroxychloroquine
+T15	DRUG 728 742	heparin sodium
+T16	DRUG 772 779	heparin
+T17	DRUG 821 837	antithrombin III
+T18	DRUG 954 961	heparin
+T19	DRUG 999 1015	antithrombin III
+T20	DRUG 1045 1052	Heparin
+T21	GROUP 1061 1070	Digitalis
+T22	GROUP 1072 1085	tetracyclines
+T23	DRUG 1087 1095	nicotine
+T24	GROUP 1100 1114	antihistamines
+T25	DRUG 1168 1182	heparin sodium
+T26	DRUG 1184 1198	Heparin Sodium
+T27	DRUG 1234 1245	doxorubicin
+T28	DRUG 1247 1257	droperidol
+T29	DRUG 1259 1272	ciprofloxacin
+T30	DRUG 1277 1289	mitoxantrone
+T31	DRUG 1357 1364	heparin
+T32	DRUG 1625 1639	heparin sodium
+T33	DRUG 1822 1836	heparin sodium
+R1	ADVISE Arg1:T4 Arg2:T5
+R2	ADVISE Arg1:T4 Arg2:T6
+R3	EFFECT Arg1:T8 Arg2:T15
+R4	EFFECT Arg1:T9 Arg2:T15
+R5	EFFECT Arg1:T10 Arg2:T15
+R6	EFFECT Arg1:T11 Arg2:T15
+R7	EFFECT Arg1:T12 Arg2:T15
+R8	EFFECT Arg1:T13 Arg2:T15
+R9	EFFECT Arg1:T14 Arg2:T15
+R10	EFFECT Arg1:T16 Arg2:T17
+R11	ADVISE Arg1:T18 Arg2:T19
+R12	EFFECT Arg1:T21 Arg2:T25
+R13	EFFECT Arg1:T22 Arg2:T25
+R14	EFFECT Arg1:T23 Arg2:T25
+R15	EFFECT Arg1:T24 Arg2:T25

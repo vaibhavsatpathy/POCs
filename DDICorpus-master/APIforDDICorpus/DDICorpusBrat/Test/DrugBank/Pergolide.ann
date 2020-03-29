@@ -1,0 +1,17 @@
+T1	GROUP 0 20	Dopamine antagonists
+T2	GROUP 34 46	neuroleptics
+T3	GROUP 48 62	phenothiazines
+T4	GROUP 64 78	butyrophenones
+T5	GROUP 80 93	thioxanthines
+T6	DRUG 99 113	metoclopramide
+T7	BRAND 171 177	Permax
+T8	GROUP 181 197	dopamine agonist
+T9	BRAND 247 253	Permax
+T10	DRUG 263 281	pergolide mesylate
+T11	DRUG 360 378	pergolide mesylate
+R1	ADVISE Arg1:T1 Arg2:T7
+R2	ADVISE Arg1:T2 Arg2:T7
+R3	ADVISE Arg1:T3 Arg2:T7
+R4	ADVISE Arg1:T4 Arg2:T7
+R5	ADVISE Arg1:T5 Arg2:T7
+R6	ADVISE Arg1:T6 Arg2:T7

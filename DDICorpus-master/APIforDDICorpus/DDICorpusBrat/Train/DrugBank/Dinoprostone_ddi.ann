@@ -1,0 +1,4 @@
+T1	BRAND 0 10	PROSTIN E2
+T2	GROUP 45 59	oxytocic drugs
+T3	GROUP 88 103	oxytocic agents
+R1	EFFECT Arg1:T1 Arg2:T2

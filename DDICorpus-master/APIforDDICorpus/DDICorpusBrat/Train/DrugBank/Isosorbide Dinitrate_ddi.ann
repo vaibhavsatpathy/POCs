@@ -1,0 +1,4 @@
+T1	DRUG 28 48	isosorbide dinitrate
+T2	GROUP 85 97	vasodilators
+T3	DRUG 99 106	Alcohol
+R1	EFFECT Arg1:T1 Arg2:T2

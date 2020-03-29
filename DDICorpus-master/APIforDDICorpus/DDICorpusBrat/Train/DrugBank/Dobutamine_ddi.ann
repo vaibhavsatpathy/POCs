@@ -1,0 +1,20 @@
+T1	DRUG 29 39	dobutamine
+T2	GROUP 98 113	b-blocking drug
+T3	DRUG 237 247	dobutamine
+T4	DRUG 252 265	nitroprusside
+T5	DRUG 457 467	dobutamine
+T6	GROUP 526 548	digitalis preparations
+T7	DRUG 550 560	furosemide
+T8	DRUG 562 576	spironolactone
+T9	DRUG 578 587	lidocaine
+T10	DRUG 589 608	glyceryl trinitrate
+T11	DRUG 610 630	isosorbide dinitrate
+T12	DRUG 632 640	morphine
+T13	DRUG 642 650	atropine
+T14	DRUG 652 659	heparin
+T15	DRUG 661 670	protamine
+T16	DRUG 672 690	potassium chloride
+T17	DRUG 692 702	folic acid
+T18	DRUG 708 721	acetaminophen
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T3 Arg2:T4

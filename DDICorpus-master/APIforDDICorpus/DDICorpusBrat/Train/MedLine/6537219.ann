@@ -1,0 +1,14 @@
+T1	DRUG 31 41	disulfiram
+T2	DRUG 42 49	ethanol
+T3	DRUG 159 169	disulfiram
+T4	DRUG 170 177	ethanol
+T5	DRUG 265 272	ethanol
+T6	DRUG 311 321	disulfiram
+T7	DRUG 341 348	ethanol
+T8	DRUG 418 425	ethanol
+T9	DRUG 502 509	ethanol
+T10	DRUG 569 576	ethanol
+T11	DRUG 709 716	ethanol
+T12	DRUG 759 766	ethanol
+T13	DRUG 839 846	ethanol
+R1	EFFECT Arg1:T5 Arg2:T6

@@ -1,0 +1,20 @@
+T1	DRUG_N 32 41	coumaphos
+T2	DRUG_N 68 77	coumaphos
+T3	DRUG 83 101	bishydroxycoumarin
+T4	DRUG_N 103 114	trichlorfon
+T5	DRUG 120 140	phenobarbital sodium
+T6	DRUG_N 179 188	coumaphos
+T7	DRUG 190 208	bishydroxycoumarin
+T8	GROUP 213 226	anticoagulant
+T9	DRUG_N 229 240	trichlorfon
+T10	GROUP 245 271	organophosphorous compound
+T11	DRUG 278 298	phenobarbital sodium
+T12	DRUG_N 386 395	coumaphos
+T13	DRUG 496 515	bishydroxy-coumarin
+T14	DRUG_N 588 599	trichlorfon
+T15	DRUG_N 795 804	coumaphos
+T16	DRUG 836 856	phenobarbital sodium
+T17	DRUG_N 936 945	coumaphos
+T18	DRUG_N 1053 1062	coumaphos
+R1	EFFECT Arg1:T14 Arg2:T15
+R2	EFFECT Arg1:T16 Arg2:T17

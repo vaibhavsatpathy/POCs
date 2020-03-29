@@ -1,0 +1,23 @@
+T1	DRUG_N 29 40	precocene I
+T2	DRUG_N 276 287	precocene I
+T3	DRUG_N 630 650	1-aminobenzotriazole
+T4	DRUG_N 652 655	ABT
+T5	DRUG_N 716 727	precocene I
+T6	DRUG_N 1084 1095	precocene I
+T7	DRUG_N 1110 1121	Precocene I
+T8	DRUG_N 1192 1195	ABT
+T9	DRUG_N 1222 1233	precocene I
+T10	DRUG_N 1401 1412	precocene I
+T11	DRUG 1438 1453	tranylcypromine
+T12	DRUG_N 1602 1605	ABT
+T13	DRUG_N 1606 1628	diethyldithiocarbamate
+T14	DRUG 1629 1644	tranylcypromine
+T15	DRUG 1645 1657	ketoconazole
+T16	DRUG_N 1659 1670	Furafylline
+T17	DRUG_N 1675 1689	sulfaphenazole
+T18	DRUG 1711 1720	quinidine
+T19	DRUG_N 1741 1752	precocene I
+T20	DRUG_N 1866 1877	precocene I
+T21	DRUG_N 1928 1939	precocene I
+R1	EFFECT Arg1:T8 Arg2:T9
+R2	EFFECT Arg1:T18 Arg2:T19

@@ -1,0 +1,5 @@
+T1	DRUG 37 47	amantadine
+T2	GROUP 82 115	central nervous system stimulants
+T3	DRUG 137 149	thioridazine
+T4	GROUP 268 282	phenothiazines
+R1	ADVISE Arg1:T1 Arg2:T2

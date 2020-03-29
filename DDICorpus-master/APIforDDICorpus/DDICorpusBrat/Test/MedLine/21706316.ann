@@ -1,0 +1,20 @@
+T1	DRUG 10 22	ketoconazole
+T2	DRUG 82 94	panobinostat
+T3	DRUG 96 102	LBH589
+T4	GROUP 122 151	histone deacetylase inhibitor
+T5	DRUG 153 165	Panobinostat
+T6	DRUG 269 281	ketoconazole
+T7	DRUG 321 333	panobinostat
+T8	DRUG 362 374	panobinostat
+T9	DRUG 445 457	ketoconazole
+T10	DRUG 495 507	panobinostat
+T11	DRUG 538 550	ketoconazole
+T12	DRUG 552 564	Panobinostat
+T13	DRUG 658 670	ketoconazole
+T14	DRUG 731 743	panobinostat
+T15	DRUG 836 848	panobinostat
+T16	DRUG 1138 1150	panobinostat
+T17	DRUG 1213 1225	panobinostat
+T18	DRUG 1384 1396	panobinostat
+T19	DRUG 1456 1468	panobinostat
+R1	MECHANISM Arg1:T13 Arg2:T14

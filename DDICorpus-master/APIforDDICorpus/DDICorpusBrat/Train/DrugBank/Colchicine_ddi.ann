@@ -1,0 +1,12 @@
+T1	DRUG 0 10	Colchicine
+T2	GROUP 27 44	acidifying agents
+T3	DRUG 60 70	colchicine
+T4	GROUP 89 108	alkalinizing agents
+T5	DRUG 110 120	Colchicine
+T6	GROUP 153 168	CNS depressants
+T7	GROUP 182 204	sympathomimetic agents
+T8	DRUG 224 234	colchicine
+R1	MECHANISM Arg1:T1 Arg2:T2
+R2	MECHANISM Arg1:T3 Arg2:T4
+R3	EFFECT Arg1:T5 Arg2:T6
+R4	EFFECT Arg1:T7 Arg2:T8

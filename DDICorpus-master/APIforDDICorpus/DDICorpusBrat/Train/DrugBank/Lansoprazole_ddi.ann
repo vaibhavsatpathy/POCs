@@ -1,0 +1,43 @@
+T1	DRUG 0 12	Lansoprazole
+T2	DRUG 141 153	lansoprazole
+T3	DRUG 272 280	warfarin
+T4	DRUG 282 292	antipyrine
+T5	DRUG 294 306	indomethacin
+T6	DRUG 308 317	ibuprofen
+T7	DRUG 319 328	phenytoin
+T8	DRUG 330 341	propranolol
+T9	DRUG 343 353	prednisone
+T10	DRUG 355 363	diazepam
+T11	DRUG 365 379	clarithromycin
+T12	DRUG 384 395	terfenadine
+T13	DRUG 549 561	lansoprazole
+T14	DRUG 598 610	theophylline
+T15	DRUG 671 683	theophylline
+T16	DRUG 757 769	theophylline
+T17	DRUG 909 921	theophylline
+T18	DRUG 934 946	lansoprazole
+T19	DRUG 1014 1026	Lansoprazole
+T20	DRUG 1098 1109	amoxicillin
+T21	DRUG 1154 1166	lansoprazole
+T22	DRUG 1177 1187	omeprazole
+T23	DRUG 1241 1251	sucralfate
+T24	GROUP 1278 1300	proton pump inhibitors
+T25	DRUG 1418 1428	sucralfate
+T26	GROUP 1441 1463	proton pump inhibitors
+T27	DRUG 1509 1519	sucralfate
+T28	GROUP 1541 1549	antacids
+T29	DRUG 1587 1599	lansoprazole
+T30	DRUG 1666 1678	Lansoprazole
+T31	DRUG 1797 1809	lansoprazole
+T32	DRUG 1923 1935	ketoconazole
+T33	DRUG 1937 1947	ampicillin
+T34	DRUG 1956 1960	iron
+T35	DRUG 1968 1975	digoxin
+R1	MECHANISM Arg1:T13 Arg2:T14
+R2	ADVISE Arg1:T17 Arg2:T18
+R3	MECHANISM Arg1:T24 Arg2:T25
+R4	ADVISE Arg1:T26 Arg2:T27
+R5	MECHANISM Arg1:T31 Arg2:T32
+R6	MECHANISM Arg1:T31 Arg2:T33
+R7	MECHANISM Arg1:T31 Arg2:T34
+R8	MECHANISM Arg1:T31 Arg2:T35

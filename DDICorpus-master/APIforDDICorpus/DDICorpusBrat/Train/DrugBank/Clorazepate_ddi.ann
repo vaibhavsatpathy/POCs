@@ -1,0 +1,23 @@
+T1	BRAND 3 11	TRANXENE
+T2	DRUG 206 229	clorazepate dipotassium
+T3	DRUG 263 275	hexobarbital
+T4	DRUG 285 298	ethyl alcohol
+T5	DRUG 336 350	chlorpromazine
+T6	GROUP 466 486	hypnotic medications
+T7	GROUP 507 522	benzodiazepines
+T8	GROUP 545 557	barbiturates
+T9	GROUP 559 568	narcotics
+T10	GROUP 570 584	phenothiazines
+T11	GROUP 586 614	monoamine oxidase inhibitors
+T12	GROUP 624 639	antidepressants
+T13	BRAND 644 652	TRANXENE
+T14	GROUP 898 906	antacids
+T15	BRAND 984 992	TRANXENE
+R1	EFFECT Arg1:T2 Arg2:T3
+R2	EFFECT Arg1:T2 Arg2:T4
+R3	EFFECT Arg1:T2 Arg2:T5
+R4	EFFECT Arg1:T7 Arg2:T8
+R5	EFFECT Arg1:T7 Arg2:T9
+R6	EFFECT Arg1:T7 Arg2:T10
+R7	EFFECT Arg1:T7 Arg2:T11
+R8	EFFECT Arg1:T7 Arg2:T12

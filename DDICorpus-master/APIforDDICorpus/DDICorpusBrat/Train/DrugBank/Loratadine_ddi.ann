@@ -1,0 +1,24 @@
+T1	DRUG 0 10	Loratadine
+T2	DRUG 80 92	erythromycin
+T3	DRUG 94 104	cimetidine
+T4	DRUG 110 122	ketoconazole
+T5	DRUG 247 257	loratadine
+T6	DRUG 265 289	descarboethoxyloratadine
+T7	DRUG 334 344	loratadine
+T8	DRUG 482 492	loratadine
+T9	DRUG 732 742	cimetidine
+T10	DRUG 746 758	ketoconazole
+T11	DRUG 814 826	erythromycin
+T12	DRUG 866 876	loratadine
+T13	DRUG 908 920	erythromycin
+T14	DRUG 1089 1099	Loratadine
+T15	DRUG 1104 1128	Descarboethoxyloratadine
+T16	DRUG 1164 1174	Loratadine
+T17	DRUG 1203 1213	Loratadine
+T18	DRUG 1214 1238	Descarboethoxyloratadine
+T19	DRUG 1239 1251	Erythromycin
+T20	DRUG 1276 1286	Cimetidine
+T21	DRUG 1311 1323	Ketoconazole
+T22	GROUP 1437 1451	contraceptives
+T23	DRUG 1456 1466	loratadine
+R1	MECHANISM Arg1:T11 Arg2:T12

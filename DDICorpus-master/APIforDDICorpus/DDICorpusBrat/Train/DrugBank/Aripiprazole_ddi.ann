@@ -1,0 +1,86 @@
+T1	DRUG 56 68	aripiprazole
+T2	BRAND 98 105	ABILIFY
+T3	GROUP 141 163	centrally acting drugs
+T4	DRUG 168 175	alcohol
+T5	DRUG 223 235	aripiprazole
+T6	GROUP 287 310	antihypertensive agents
+T7	BRAND 348 355	ABILIFY
+T8	BRAND 356 368	Aripiprazole
+T9	DRUG 467 479	Aripiprazole
+T10	DRUG 563 575	aripiprazole
+T11	DRUG 710 722	aripiprazole
+T12	DRUG 766 779	carbamazepine
+T13	DRUG 808 820	aripiprazole
+T14	DRUG 881 893	ketoconazole
+T15	DRUG 910 919	quinidine
+T16	DRUG 921 931	fluoxetine
+T17	DRUG 936 946	paroxetine
+T18	DRUG 960 972	aripiprazole
+T19	DRUG 1019 1031	Ketoconazole
+T20	DRUG 1053 1065	ketoconazole
+T21	DRUG 1119 1131	aripiprazole
+T22	DRUG 1153 1165	aripiprazole
+T23	DRUG 1245 1257	ketoconazole
+T24	DRUG 1333 1345	ketoconazole
+T25	DRUG 1351 1363	aripiprazole
+T26	DRUG 1372 1384	aripiprazole
+T27	DRUG 1475 1487	itraconazole
+T28	DRUG 1584 1596	erythromycin
+T29	DRUG 1708 1720	aripiprazole
+T30	DRUG 1752 1761	Quinidine
+T31	DRUG 1806 1818	aripiprazole
+T32	DRUG 1824 1833	quinidine
+T33	DRUG 1911 1923	aripiprazole
+T34	DRUG_N 1980 1999	dehydroaripiprazole
+T35	DRUG 2009 2021	Aripiprazole
+T36	DRUG 2111 2120	quinidine
+T37	DRUG 2126 2138	aripiprazole
+T38	DRUG 2195 2205	fluoxetine
+T39	DRUG 2209 2219	paroxetine
+T40	DRUG 2398 2410	aripiprazole
+T41	DRUG 2442 2455	Carbamazepine
+T42	DRUG 2477 2490	carbamazepine
+T43	DRUG 2535 2547	aripiprazole
+T44	DRUG 2630 2642	aripiprazole
+T45	DRUG_N 2670 2690	dehydro-aripiprazole
+T46	DRUG 2697 2710	carbamazepine
+T47	DRUG 2723 2735	aripiprazole
+T48	DRUG 2745 2757	aripiprazole
+T49	DRUG 2853 2866	carbamazepine
+T50	DRUG 2910 2922	aripiprazole
+T51	DRUG 2988 2998	famotidine
+T52	DRUG 3000 3009	valproate
+T53	DRUG 3014 3021	lithium
+T54	DRUG 3058 3070	aripiprazole
+T55	BRAND 3139 3146	ABILIFY
+T56	DRUG 3169 3181	Aripiprazole
+T57	DRUG 3350 3362	aripiprazole
+T58	DRUG 3414 3430	dextromethorphan
+T59	DRUG 3441 3449	warfarin
+T60	DRUG 3461 3471	omeprazole
+T61	DRUG 3473 3481	warfarin
+T62	DRUG 3496 3512	dextromethorphan
+T63	DRUG 3540 3552	aripiprazole
+T64	DRUG_N 3557 3576	dehydroaripiprazole
+T65	DRUG 3650 3657	Alcohol
+T66	DRUG 3703 3715	aripiprazole
+T67	DRUG 3736 3743	ethanol
+T68	DRUG 3776 3783	ethanol
+T69	DRUG 3938 3945	alcohol
+T70	BRAND 3959 3966	ABILIFY
+R1	ADVISE Arg1:T2 Arg2:T3
+R2	ADVISE Arg1:T2 Arg2:T4
+R3	EFFECT Arg1:T5 Arg2:T6
+R4	MECHANISM Arg1:T12 Arg2:T13
+R5	MECHANISM Arg1:T14 Arg2:T18
+R6	MECHANISM Arg1:T15 Arg2:T18
+R7	MECHANISM Arg1:T16 Arg2:T18
+R8	MECHANISM Arg1:T17 Arg2:T18
+R9	MECHANISM Arg1:T20 Arg2:T21
+R10	ADVISE Arg1:T24 Arg2:T25
+R11	MECHANISM Arg1:T31 Arg2:T32
+R12	ADVISE Arg1:T36 Arg2:T37
+R13	MECHANISM Arg1:T42 Arg2:T43
+R14	ADVISE Arg1:T46 Arg2:T47
+R15	ADVISE Arg1:T49 Arg2:T50
+R16	ADVISE Arg1:T69 Arg2:T70

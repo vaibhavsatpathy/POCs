@@ -1,0 +1,40 @@
+T1	DRUG 65 72	insulin
+T2	GROUP 281 295	ACE inhibitors
+T3	DRUG 297 309	disopyramide
+T4	GROUP 311 319	fibrates
+T5	DRUG 321 331	fluoxetine
+T6	GROUP 333 347	MAO inhibitors
+T7	DRUG 349 361	propoxyphene
+T8	GROUP 363 374	salicylates
+T9	GROUP 376 395	somatostatin analog
+T10	DRUG 403 413	octreotide
+T11	GROUP 416 439	sulfonamide antibiotics
+T12	DRUG 535 542	insulin
+T13	GROUP 544 559	corticosteroids
+T14	DRUG 561 568	danazol
+T15	GROUP 570 579	diuretics
+T16	GROUP 581 603	sympathomimetic agents
+T17	DRUG 611 622	epinephrine
+T18	DRUG 624 633	albuterol
+T19	DRUG 635 646	terbutaline
+T20	DRUG 649 658	isoniazid
+T21	GROUP 660 685	phenothiazine derivatives
+T22	DRUG 687 697	somatropin
+T23	GROUP 699 715	thyroid hormones
+T24	GROUP 717 726	estrogens
+T25	GROUP 728 740	progestogens
+T26	GROUP 756 770	contraceptives
+T27	GROUP 773 786	Beta-blockers
+T28	DRUG 788 797	clonidine
+T29	DRUG 799 806	lithium
+T30	DRUG 818 825	alcohol
+T31	DRUG 895 902	insulin
+T32	DRUG 904 915	Pentamidine
+T33	GROUP 1067 1080	beta-blockers
+T34	DRUG 1082 1091	clonidine
+T35	DRUG 1093 1105	guanethidine
+T36	DRUG 1111 1120	reserpine
+R1	EFFECT Arg1:T27 Arg2:T31
+R2	EFFECT Arg1:T28 Arg2:T31
+R3	EFFECT Arg1:T29 Arg2:T31
+R4	EFFECT Arg1:T30 Arg2:T31

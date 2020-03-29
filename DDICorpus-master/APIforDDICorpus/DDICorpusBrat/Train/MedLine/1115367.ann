@@ -1,0 +1,18 @@
+T1	DRUG 15 23	ketamine
+T2	DRUG 28 37	halothane
+T3	DRUG 91 99	ketamine
+T4	DRUG 154 163	halothane
+T5	DRUG 216 224	ketamine
+T6	DRUG 329 338	halothane
+T7	DRUG 489 497	ketamine
+T8	DRUG 570 578	ketamine
+T9	DRUG 609 617	ketamine
+T10	DRUG 671 679	ketamine
+T11	DRUG 730 739	halothane
+T12	DRUG 750 758	ketamine
+T13	DRUG 797 805	ketamine
+T14	DRUG 863 872	halothane
+R1	INT Arg1:T1 Arg2:T2
+R2	MECHANISM Arg1:T6 Arg2:T7
+R3	MECHANISM Arg1:T10 Arg2:T11
+R4	EFFECT Arg1:T13 Arg2:T14

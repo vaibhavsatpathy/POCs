@@ -1,0 +1,15 @@
+T1	DRUG 0 7	Codeine
+T2	GROUP 34 53	narcotic analgesics
+T3	GROUP 63 74	anesthetics
+T4	GROUP 76 90	phenothiazines
+T5	GROUP 92 105	tranquilizers
+T6	GROUP 107 125	sedative-hypnotics
+T7	GROUP 136 151	CNS depressants
+T8	DRUG 163 170	alcohol
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T1 Arg2:T3
+R3	EFFECT Arg1:T1 Arg2:T4
+R4	EFFECT Arg1:T1 Arg2:T5
+R5	EFFECT Arg1:T1 Arg2:T6
+R6	EFFECT Arg1:T1 Arg2:T7
+R7	EFFECT Arg1:T1 Arg2:T8

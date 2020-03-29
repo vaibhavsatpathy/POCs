@@ -1,0 +1,44 @@
+T1	DRUG 70 84	amphotericin B
+T2	GROUP 86 107	Antineoplastic agents
+T3	GROUP 185 206	Antineoplastic agents
+T4	DRUG 215 231	nitrogen mustard
+T5	GROUP 294 309	Corticosteroids
+T6	DRUG 314 327	Corticotropin
+T7	GROUP 329 333	ACTH
+T8	DRUG 351 365	amphotericin B
+T9	DRUG 510 524	amphotericin B
+T10	GROUP 606 626	Digitalis glycosides
+T11	DRUG 628 642	amphotericin B
+T12	GROUP 678 687	digitalis
+T13	DRUG 806 817	Flucytosine
+T14	DRUG 857 871	amphotericin B
+T15	DRUG 936 947	flucytosine
+T16	GROUP 1029 1039	Imidazoles
+T17	DRUG 1048 1060	ketoconazole
+T18	DRUG 1062 1072	miconazole
+T19	DRUG 1074 1086	clotrimazole
+T20	DRUG 1088 1099	fluconazole
+T21	DRUG 1160 1174	amphotericin B
+T22	GROUP 1179 1189	imidazoles
+T23	GROUP 1203 1213	imidazoles
+T24	DRUG 1246 1260	amphotericin B
+T25	GROUP 1407 1422	aminoglycosides
+T26	DRUG 1424 1436	cyclosporine
+T27	DRUG 1442 1453	pentamidine
+T28	GROUP 1692 1717	Skeletal muscle relaxants
+T29	DRUG 1719 1733	amphotericin B
+T30	GROUP 1791 1816	skeletal muscle relaxants
+T31	DRUG 1824 1836	tubocurarine
+T32	DRUG_N 1910 1932	Leukocyte transfusions
+T33	DRUG 2011 2025	amphotericin B
+T34	DRUG_N 2030 2052	leukocyte transfusions
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T5 Arg2:T8
+R3	EFFECT Arg1:T6 Arg2:T8
+R4	EFFECT Arg1:T7 Arg2:T8
+R5	EFFECT Arg1:T11 Arg2:T12
+R6	EFFECT Arg1:T14 Arg2:T15
+R7	EFFECT Arg1:T23 Arg2:T24
+R8	EFFECT Arg1:T29 Arg2:T30
+R9	EFFECT Arg1:T29 Arg2:T31
+R10	EFFECT Arg1:T33 Arg2:T34

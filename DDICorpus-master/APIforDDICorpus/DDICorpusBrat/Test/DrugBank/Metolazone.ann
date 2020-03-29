@@ -1,0 +1,47 @@
+T1	GROUP 0 9	Diuretics
+T2	DRUG 11 21	Furosemide
+T3	GROUP 41 55	loop diuretics
+T4	DRUG 81 91	metolazone
+T5	GROUP 171 188	Antihypertensives
+T6	BRAND 195 201	MYKROX
+T7	GROUP 230 252	antihypertensive drugs
+T8	GROUP 337 354	antihypertensives
+T9	DRUG 373 380	Alcohol
+T10	GROUP 382 394	Barbiturates
+T11	GROUP 400 409	Narcotics
+T12	DRUG 523 533	metolazone
+T13	GROUP 543 563	Digitalis Glycosides
+T14	GROUP 565 573	Diuretic
+T15	GROUP 644 653	digitalis
+T16	GROUP 687 702	Corticosteroids
+T17	DRUG 706 710	ACTH
+T18	DRUG 788 795	Lithium
+T19	DRUG 803 810	lithium
+T20	GROUP 832 848	Curariform Drugs
+T21	GROUP 850 858	Diuretic
+T22	GROUP 925 941	curariform drugs
+T23	DRUG 951 963	tubocurarine
+T24	BRAND 1099 1105	MYKROX
+T25	GROUP 1150 1161	Salicylates
+T26	GROUP 1172 1209	Non-Steroidal Anti-Inflammatory Drugs
+T27	BRAND 1256 1262	MYKROX
+T28	GROUP 1272 1288	Sympathomimetics
+T29	DRUG 1290 1300	Metolazone
+T30	DRUG 1341 1355	norepinephrine
+T31	DRUG 1463 1474	Methenamine
+T32	DRUG 1538 1548	metolazone
+T33	GROUP 1550 1564	Anticoagulants
+T34	DRUG 1566 1576	Metolazone
+T35	GROUP 1595 1618	thiazide-like diuretics
+T36	GROUP 1667 1681	anticoagulants
+R1	EFFECT Arg1:T2 Arg2:T4
+R2	EFFECT Arg1:T3 Arg2:T4
+R3	ADVISE Arg1:T6 Arg2:T7
+R4	EFFECT Arg1:T14 Arg2:T15
+R5	EFFECT Arg1:T21 Arg2:T22
+R6	EFFECT Arg1:T21 Arg2:T23
+R7	EFFECT Arg1:T25 Arg2:T27
+R8	EFFECT Arg1:T26 Arg2:T27
+R9	EFFECT Arg1:T29 Arg2:T30
+R10	EFFECT Arg1:T31 Arg2:T32
+R11	EFFECT Arg1:T34 Arg2:T36

@@ -1,0 +1,6 @@
+T1	DRUG 0 20	Cytosine arabinoside
+T2	GROUP 24 40	cytostatic agent
+T3	DRUG 101 112	flucytosine
+T4	DRUG 221 232	flucytosine
+T5	BRAND 358 365	Ancobon
+R1	EFFECT Arg1:T1 Arg2:T3

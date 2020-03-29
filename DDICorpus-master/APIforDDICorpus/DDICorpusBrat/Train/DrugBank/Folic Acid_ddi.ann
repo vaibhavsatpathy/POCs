@@ -1,0 +1,19 @@
+T1	GROUP 101 108	vitamin
+T2	GROUP 172 198	anticonvulsant medications
+T3	DRUG 208 217	phenytoin
+T4	DRUG 223 232	primidone
+T5	DRUG 234 243	metformin
+T6	DRUG 309 322	sulfasalazine
+T7	DRUG 408 419	triamterene
+T8	GROUP 423 431	diuretic
+T9	DRUG 433 445	Methotrexate
+T10	DRUG 499 510	vitamin B12
+T11	DRUG 515 525	folic acid
+T12	DRUG 527 537	Folic acid
+T13	DRUG 628 638	folic acid
+T14	DRUG 852 862	folic acid
+T15	DRUG 936 946	folic acid
+T16	DRUG 1069 1079	folic acid
+T17	DRUG 1084 1095	vitamin B12
+T18	DRUG 1289 1299	folic acid
+R1	INT Arg1:T10 Arg2:T11

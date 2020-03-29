@@ -1,0 +1,14 @@
+T1	BRAND 0 8	Angiomax
+T2	BRAND 168 176	Angiomax
+T3	DRUG 182 189	heparin
+T4	DRUG 191 199	warfarin
+T5	GROUP 201 214	thrombolytics
+T6	BRAND 427 435	Angiomax
+T7	DRUG 465 472	dextran
+T8	BRAND 474 482	Angiomax
+T9	BRAND 639 647	Angiomax
+T10	BRAND 779 787	Angiomax
+T11	DRUG 882 893	bivalirudin
+R1	EFFECT Arg1:T2 Arg2:T3
+R2	EFFECT Arg1:T2 Arg2:T4
+R3	EFFECT Arg1:T2 Arg2:T5

@@ -1,0 +1,8 @@
+T1	DRUG 37 47	vigabatrin
+T2	DRUG 115 128	carbamazepine
+T3	DRUG 217 227	vigabatrin
+T4	DRUG 233 242	phenytoin
+T5	DRUG 261 270	phenytoin
+T6	DRUG 353 362	phenytoin
+R1	MECHANISM Arg1:T1 Arg2:T2
+R2	MECHANISM Arg1:T3 Arg2:T4

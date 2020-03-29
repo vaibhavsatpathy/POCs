@@ -1,0 +1,12 @@
+T1	DRUG 0 10	Zidovudine
+T2	DRUG 71 80	stavudine
+T3	DRUG 100 110	zidovudine
+T4	BRAND 131 136	ZERIT
+T5	DRUG 207 216	stavudine
+T6	DRUG 265 276	doxorubicin
+T7	DRUG 281 290	ribavirin
+T8	DRUG 391 400	stavudine
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	ADVISE Arg1:T3 Arg2:T4
+R3	EFFECT Arg1:T5 Arg2:T6
+R4	EFFECT Arg1:T5 Arg2:T7

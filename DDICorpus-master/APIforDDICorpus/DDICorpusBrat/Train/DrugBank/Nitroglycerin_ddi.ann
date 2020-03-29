@@ -1,0 +1,7 @@
+T1	DRUG 28 41	nitroglycerin
+T2	GROUP 78 90	vasodilators
+T3	DRUG 92 99	Alcohol
+T4	GROUP 242 266	calcium channel blockers
+T5	GROUP 279 287	nitrates
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T4 Arg2:T5

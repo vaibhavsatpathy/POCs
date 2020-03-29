@@ -1,0 +1,51 @@
+T1	GROUP 0 9	Diuretics
+T2	GROUP 23 32	diuretics
+T3	BRAND 203 211	Lotensin
+T4	BRAND 257 265	Lotensin
+T5	GROUP 311 319	diuretic
+T6	BRAND 388 396	Lotensin
+T7	DRUG 460 469	Potassium
+T8	GROUP 486 513	Potassium-Sparing Diuretics
+T9	GROUP 562 580	thiazide diuretics
+T10	GROUP 582 609	Potassium-sparing diuretics
+T11	DRUG 611 625	spironolactone
+T12	DRUG 627 636	amiloride
+T13	DRUG 638 649	triamterene
+T14	DRUG 666 675	potassium
+T15	GROUP 892 906	Anticoagulants
+T16	DRUG 932 940	warfarin
+T17	DRUG 945 958	acenocoumarol
+T18	GROUP 1068 1082	anticoagulants
+T19	DRUG 1084 1091	Lithium
+T20	DRUG 1109 1116	lithium
+T21	DRUG 1140 1147	lithium
+T22	GROUP 1198 1212	ACE inhibitors
+T23	DRUG 1233 1240	lithium
+T24	DRUG 1326 1333	lithium
+T25	GROUP 1362 1370	diuretic
+T26	DRUG 1397 1404	lithium
+T27	BRAND 1505 1513	Lotensin
+T28	DRUG 1550 1569	hydrochlorothiazide
+T29	DRUG 1571 1585	chlorthalidone
+T30	DRUG 1587 1597	furosemide
+T31	DRUG 1599 1606	digoxin
+T32	DRUG 1608 1619	propranolol
+T33	DRUG 1621 1629	atenolol
+T34	DRUG 1631 1639	naproxen
+T35	DRUG 1644 1654	cimetidine
+T36	BRAND 1656 1664	Lotensin
+T37	GROUP 1698 1729	beta-adrenergic-blocking agents
+T38	GROUP 1731 1762	calcium-channel-blocking agents
+T39	GROUP 1764 1773	diuretics
+T40	DRUG 1775 1782	digoxin
+T41	DRUG 1788 1799	hydralazine
+T42	DRUG 1864 1874	Benazepril
+T43	GROUP 1887 1901	ACE inhibitors
+T44	GROUP 1943 1967	beta-adrenergic blockers
+R1	EFFECT Arg1:T2 Arg2:T3
+R2	ADVISE Arg1:T5 Arg2:T6
+R3	EFFECT Arg1:T8 Arg2:T9
+R4	MECHANISM Arg1:T22 Arg2:T23
+R5	EFFECT Arg1:T25 Arg2:T26
+R6	EFFECT Arg1:T42 Arg2:T44
+R7	EFFECT Arg1:T43 Arg2:T44

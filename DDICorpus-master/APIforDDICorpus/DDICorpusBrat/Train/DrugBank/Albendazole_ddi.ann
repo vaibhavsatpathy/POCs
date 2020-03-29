@@ -1,0 +1,23 @@
+T1	DRUG 0 13	Dexamethasone
+T2	DRUG 53 74	albendazole sulfoxide
+T3	DRUG 107 120	dexamethasone
+T4	DRUG 158 169	albendazole
+T5	DRUG 223 235	Praziquantel
+T6	DRUG 255 267	praziquantel
+T7	DRUG 351 372	albendazole sulfoxide
+T8	DRUG 468 479	albendazole
+T9	DRUG 539 560	albendazole sulfoxide
+T10	DRUG 601 613	praziquantel
+T11	DRUG 661 672	albendazole
+T12	DRUG 683 693	Cimetidine
+T13	DRUG 695 716	Albendazole sulfoxide
+T14	DRUG 825 835	cimetidine
+T15	DRUG 871 882	albendazole
+T16	DRUG 912 933	Albendazole sulfoxide
+T17	DRUG 993 1005	Theophylline
+T18	DRUG 1031 1043	theophylline
+T19	DRUG 1045 1058	aminophylline
+T20	DRUG 1141 1152	albendazole
+R1	MECHANISM Arg1:T3 Arg2:T4
+R2	MECHANISM Arg1:T6 Arg2:T7
+R3	MECHANISM Arg1:T13 Arg2:T14

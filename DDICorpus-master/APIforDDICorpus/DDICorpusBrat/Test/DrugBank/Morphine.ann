@@ -1,0 +1,27 @@
+T1	GROUP 15 49	Central Nervous System Depressants
+T2	DRUG 77 85	morphine
+T3	GROUP 127 142	CNS depressants
+T4	DRUG 151 158	alcohol
+T5	GROUP 160 169	sedatives
+T6	GROUP 171 186	antihistaminics
+T7	GROUP 191 209	psychotropic drugs
+T8	GROUP 218 230	neuroleptics
+T9	DRUG 256 264	morphine
+T10	GROUP 374 416	Mixed Agonist/Antagonist Opioid Analgesics
+T11	GROUP 418 447	Agonist/antagonist analgesics
+T12	DRUG 455 466	pentazocine
+T13	DRUG 468 478	nalbuphine
+T14	DRUG 480 491	butorphanol
+T15	DRUG 496 509	buprenorphine
+T16	GROUP 618 642	opioid agonist analgesic
+R1	EFFECT Arg1:T2 Arg2:T3
+R2	EFFECT Arg1:T2 Arg2:T4
+R3	EFFECT Arg1:T2 Arg2:T5
+R4	EFFECT Arg1:T2 Arg2:T6
+R5	EFFECT Arg1:T2 Arg2:T7
+R6	EFFECT Arg1:T8 Arg2:T9
+R7	ADVISE Arg1:T11 Arg2:T16
+R8	ADVISE Arg1:T12 Arg2:T16
+R9	ADVISE Arg1:T13 Arg2:T16
+R10	ADVISE Arg1:T14 Arg2:T16
+R11	ADVISE Arg1:T15 Arg2:T16

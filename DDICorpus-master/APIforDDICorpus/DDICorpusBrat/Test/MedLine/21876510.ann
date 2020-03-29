@@ -1,0 +1,22 @@
+T1	DRUG 0 9	Ephedrine
+T2	DRUG 49 64	dexmedetomidine
+T3	DRUG 74 89	Dexmedetomidine
+T4	DRUG 305 314	ephedrine
+T5	DRUG 333 348	dexmedetomidine
+T6	DRUG 649 658	ephedrine
+T7	DRUG 691 706	dexmedetomidine
+T8	DRUG 725 734	ephedrine
+T9	DRUG 750 765	dexmedetomidine
+T10	DRUG 915 930	dexmedetomidine
+T11	DRUG 947 956	ephedrine
+T12	DRUG 1056 1071	dexmedetomidine
+T13	DRUG 1126 1141	dexmedetomidine
+T14	DRUG 1162 1171	ephedrine
+T15	DRUG 1222 1237	dexmedetomidine
+T16	DRUG 1243 1252	ephedrine
+T17	DRUG 1356 1371	dexmedetomidine
+T18	GROUP 1378 1387	analgesic
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T10 Arg2:T11
+R3	EFFECT Arg1:T13 Arg2:T14
+R4	EFFECT Arg1:T15 Arg2:T16

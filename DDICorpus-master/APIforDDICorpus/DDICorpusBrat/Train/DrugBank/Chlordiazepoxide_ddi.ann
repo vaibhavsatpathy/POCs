@@ -1,0 +1,5 @@
+T1	GROUP 208 222	anticoagulants
+T2	DRUG 227 243	chlordiazepoxide
+T3	DRUG 268 275	alcohol
+T4	GROUP 285 319	central nervous system depressants
+R1	EFFECT Arg1:T1 Arg2:T2

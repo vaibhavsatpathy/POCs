@@ -1,0 +1,104 @@
+T1	GROUP 5 19	Anticoagulants
+T2	DRUG 82 92	diflunisal
+T3	DRUG 97 105	warfarin
+T4	DRUG 107 120	acenocoumarol
+T5	DRUG 125 138	phenprocoumon
+T6	DRUG 208 218	diflunisal
+T7	GROUP 243 252	coumarins
+T8	DRUG 299 309	diflunisal
+T9	GROUP 336 350	anticoagulants
+T10	GROUP 497 511	anticoagulants
+T11	DRUG 529 540	Tolbutamide
+T12	DRUG 573 583	diflunisal
+T13	DRUG 588 599	tolbutamide
+T14	DRUG 637 648	tolbutamide
+T15	DRUG 689 708	Hydrochlorothiazide
+T16	DRUG 762 772	diflunisal
+T17	DRUG 777 796	hydrochlorothiazide
+T18	DRUG 850 869	hydrochlorothiazide
+T19	DRUG 871 881	Diflunisal
+T20	DRUG 920 939	hydrochlorothiazide
+T21	DRUG 941 951	Furosemide
+T22	DRUG 1009 1019	diflunisal
+T23	DRUG 1024 1034	furosemide
+T24	DRUG 1077 1087	furosemide
+T25	DRUG 1089 1099	Diflunisal
+T26	DRUG 1138 1148	furosemide
+T27	GROUP 1150 1158	Antacids
+T28	GROUP 1190 1198	antacids
+T29	DRUG 1227 1237	diflunisal
+T30	GROUP 1285 1293	antacids
+T31	GROUP 1334 1342	antacids
+T32	DRUG 1378 1391	Acetaminophen
+T33	DRUG 1445 1455	diflunisal
+T34	DRUG 1460 1473	acetaminophen
+T35	DRUG 1534 1547	acetaminophen
+T36	DRUG 1549 1562	Acetaminophen
+T37	DRUG 1597 1607	diflunisal
+T38	DRUG 1615 1628	acetaminophen
+T39	DRUG 1714 1724	diflunisal
+T40	DRUG 1729 1742	acetaminophen
+T41	DRUG 1837 1847	diflunisal
+T42	DRUG 1852 1865	acetaminophen
+T43	DRUG 1995 2005	diflunisal
+T44	DRUG 2006 2019	acetaminophen
+T45	DRUG 2183 2195	Methotrexate
+T46	DRUG 2223 2233	diflunisal
+T47	DRUG 2269 2281	methotrexate
+T48	GROUP 2283 2319	Nonsteroidal anti-inflammatory drugs
+T49	DRUG 2376 2388	methotrexate
+T50	DRUG 2421 2433	Cyclosporine
+T51	GROUP 2453 2488	nonsteroial anti-inflammatory drugs
+T52	DRUG 2508 2520	cyclosporine
+T53	DRUG 2561 2573	cyclosporine
+T54	GROUP 2651 2657	NSAIDs
+T55	DRUG 2705 2717	cyclosporine
+T56	GROUP 2769 2805	Nonsteroidal Anti-Inflammatory Drugs
+T57	DRUG 2829 2839	diflunisal
+T58	DRUG 2871 2883	indomethacin
+T59	DRUG 2963 2975	indomethacin
+T60	DRUG 3014 3026	indomethacin
+T61	DRUG 3031 3041	diflunisal
+T62	DRUG 3113 3125	indomethacin
+T63	DRUG 3130 3140	diflunisal
+T64	DRUG 3198 3208	diflunisal
+T65	GROUP 3227 3233	NSAIDs
+T66	BRAND 3430 3437	Aspirin
+T67	DRUG 3481 3491	diflunisal
+T68	DRUG 3535 3545	diflunisal
+T69	BRAND 3550 3557	aspirin
+T70	DRUG 3591 3599	Sulindac
+T71	DRUG 3635 3645	diflunisal
+T72	DRUG 3650 3658	sulindac
+T73	DRUG 3792 3800	Naproxen
+T74	DRUG 3836 3846	diflunisal
+T75	DRUG 3851 3859	naproxen
+T76	DRUG 3919 3927	naproxen
+T77	DRUG 3982 3990	naproxen
+T78	DRUG 4023 4031	Naproxen
+T79	DRUG 4066 4076	diflunisal
+T80	DRUG 4220 4230	diflunisal
+T81	GROUP 4243 4253	Salicylate
+R1	EFFECT Arg1:T2 Arg2:T3
+R2	EFFECT Arg1:T2 Arg2:T4
+R3	EFFECT Arg1:T2 Arg2:T5
+R4	MECHANISM Arg1:T6 Arg2:T7
+R5	ADVISE Arg1:T8 Arg2:T9
+R6	MECHANISM Arg1:T16 Arg2:T17
+R7	EFFECT Arg1:T19 Arg2:T20
+R8	EFFECT Arg1:T25 Arg2:T26
+R9	MECHANISM Arg1:T28 Arg2:T29
+R10	MECHANISM Arg1:T33 Arg2:T34
+R11	ADVISE Arg1:T39 Arg2:T40
+R12	EFFECT Arg1:T41 Arg2:T42
+R13	ADVISE Arg1:T46 Arg2:T47
+R14	MECHANISM Arg1:T48 Arg2:T49
+R15	MECHANISM Arg1:T51 Arg2:T52
+R16	ADVISE Arg1:T54 Arg2:T55
+R17	MECHANISM Arg1:T57 Arg2:T58
+R18	EFFECT Arg1:T60 Arg2:T61
+R19	ADVISE Arg1:T62 Arg2:T63
+R20	EFFECT Arg1:T64 Arg2:T65
+R21	MECHANISM Arg1:T68 Arg2:T69
+R22	MECHANISM Arg1:T71 Arg2:T72
+R23	MECHANISM Arg1:T74 Arg2:T75

@@ -1,0 +1,59 @@
+T1	GROUP 462 487	tricyclic antidepressants
+T2	GROUP 489 493	TCAs
+T3	GROUP 682 685	TCA
+T4	GROUP 856 859	TCA
+T5	DRUG 1047 1056	quinidine
+T6	DRUG 1058 1068	cimetidine
+T7	GROUP 1124 1139	antidepressants
+T8	GROUP 1141 1155	phenothiazines
+T9	DRUG 1206 1216	flecainide
+T10	GROUP 1233 1272	selective serotonin reuptake inhibitors
+T11	GROUP 1274 1279	SSRIs
+T12	DRUG 1288 1298	fluoxetine
+T13	DRUG 1316 1326	paroxetine
+T14	GROUP 1409 1413	SSRI
+T15	GROUP 1414 1417	TCA
+T16	GROUP 1530 1534	SSRI
+T17	GROUP 1608 1612	T.A.
+T18	GROUP 1629 1634	SSRIs
+T19	DRUG 1806 1816	fluoxetine
+T20	GROUP 1935 1960	tricyclic antidepressants
+T21	GROUP 2072 2096	tricyclic antidepressant
+T22	GROUP 2214 2238	tricyclic antidepressant
+T23	GROUP 2283 2286	TCA
+T24	GROUP 2312 2315	TCA
+T25	GROUP 2513 2528	anticholinergic
+T26	GROUP 2532 2553	sympathomimetic drugs
+T27	GROUP 2622 2642	antidepressant drugs
+T28	DRUG 2776 2801	desipramine hydrochloride
+T29	GROUP 2831 2850	psychotropic agents
+T30	GROUP 2859 2872	tranquilizers
+T31	GROUP 2876 2884	sedative
+T32	GROUP 2885 2894	hypnotics
+T33	DRUG 3007 3018	desipramine
+T34	GROUP 3023 3038	benzodiazepines
+T35	DRUG 3046 3062	chlordiazepoxide
+T36	DRUG 3066 3074	diazepam
+T37	GROUP 3143 3162	major tranquilizers
+T38	DRUG 3193 3204	desipramine
+T39	DRUG 3238 3248	cimetidine
+T40	GROUP 3253 3278	tricyclic antidepressants
+T41	GROUP 3352 3377	tricyclic antidepressants
+T42	GROUP 3425 3450	tricyclic antidepressants
+T43	DRUG 3494 3504	cimetidine
+T44	GROUP 3569 3593	tricyclic antidepressant
+T45	GROUP 3683 3708	tricyclic antidepressants
+T46	DRUG 3714 3724	fluoxetine
+R1	INT Arg1:T14 Arg2:T15
+R2	ADVISE Arg1:T17 Arg2:T18
+R3	EFFECT Arg1:T28 Arg2:T29
+R4	EFFECT Arg1:T28 Arg2:T30
+R5	EFFECT Arg1:T28 Arg2:T31
+R6	EFFECT Arg1:T28 Arg2:T32
+R7	EFFECT Arg1:T33 Arg2:T34
+R8	EFFECT Arg1:T33 Arg2:T35
+R9	EFFECT Arg1:T33 Arg2:T36
+R10	EFFECT Arg1:T37 Arg2:T38
+R11	MECHANISM Arg1:T39 Arg2:T40
+R12	MECHANISM Arg1:T42 Arg2:T43
+R13	MECHANISM Arg1:T45 Arg2:T46

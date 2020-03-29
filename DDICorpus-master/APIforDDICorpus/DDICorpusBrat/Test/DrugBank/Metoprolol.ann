@@ -1,0 +1,4 @@
+T1	DRUG 37 46	reserpine
+T2	GROUP 92 112	beta-blocking agents
+T3	DRUG 153 173	metoprolol succinate
+R1	EFFECT Arg1:T1 Arg2:T2

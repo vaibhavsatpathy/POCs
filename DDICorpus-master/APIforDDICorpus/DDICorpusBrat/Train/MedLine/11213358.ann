@@ -1,0 +1,19 @@
+T1	DRUG 13 22	estradiol
+T2	DRUG 27 39	progesterone
+T3	DRUG 84 97	noradrenaline
+T4	DRUG 177 186	estradiol
+T5	DRUG 195 207	progesterone
+T6	DRUG 227 240	noradrenaline
+T7	DRUG 376 385	estradiol
+T8	DRUG 427 439	progesterone
+T9	DRUG 617 630	noradrenaline
+T10	DRUG 702 711	estradiol
+T11	DRUG 741 754	noradrenaline
+T12	DRUG 940 949	estradiol
+T13	DRUG 978 991	noradrenaline
+T14	DRUG 1019 1031	progesterone
+T15	DRUG 1037 1049	progesterone
+T16	DRUG 1057 1066	estradiol
+T17	DRUG 1227 1240	noradrenaline
+R1	EFFECT Arg1:T10 Arg2:T11
+R2	EFFECT Arg1:T12 Arg2:T13

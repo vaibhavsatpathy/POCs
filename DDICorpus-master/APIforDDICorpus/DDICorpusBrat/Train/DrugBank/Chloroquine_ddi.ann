@@ -1,0 +1,24 @@
+T1	GROUP 0 8	Antacids
+T2	DRUG 13 19	kaolin
+T3	GROUP 21 29	Antacids
+T4	DRUG 34 40	kaolin
+T5	DRUG 66 77	chloroquine
+T6	DRUG 146 157	chloroquine
+T7	DRUG 178 188	Cimetidine
+T8	DRUG 190 200	Cimetidine
+T9	DRUG 231 242	chloroquine
+T10	DRUG 292 302	cimetidine
+T11	DRUG 322 332	Ampicillin
+T12	DRUG 368 379	chloroquine
+T13	DRUG 425 435	ampicillin
+T14	DRUG 504 515	chloroquine
+T15	DRUG 536 547	Cyclosporin
+T16	DRUG 571 582	chloroquine
+T17	DRUG 623 634	cyclosporin
+T18	DRUG 697 708	cyclosporin
+T19	DRUG 749 760	chloroquine
+R1	MECHANISM Arg1:T3 Arg2:T5
+R2	MECHANISM Arg1:T4 Arg2:T5
+R3	MECHANISM Arg1:T8 Arg2:T9
+R4	MECHANISM Arg1:T12 Arg2:T13
+R5	MECHANISM Arg1:T16 Arg2:T17

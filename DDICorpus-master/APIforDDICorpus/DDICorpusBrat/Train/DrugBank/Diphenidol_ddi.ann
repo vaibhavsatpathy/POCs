@@ -1,0 +1,8 @@
+T1	DRUG 112 122	diphenidol
+T2	GROUP 124 140	anticholinergics
+T3	DRUG 287 297	diphenidol
+T4	DRUG 299 310	apomorphine
+T5	DRUG 332 342	diphenidol
+T6	GROUP 360 366	emetic
+T7	DRUG 379 390	apomorphine
+R1	EFFECT Arg1:T5 Arg2:T7

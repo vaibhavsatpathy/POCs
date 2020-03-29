@@ -1,0 +1,20 @@
+T1	DRUG 0 11	Pilocarpine
+T2	GROUP 67 94	beta adrenergic antagonists
+T3	DRUG 220 231	pilocarpine
+T4	DRUG 295 306	Pilocarpine
+T5	DRUG 527 535	atropine
+T6	DRUG 545 556	ipratropium
+T7	DRUG 738 758	acetylsalicylic acid
+T8	DRUG 778 785	calcium
+T9	DRUG 787 807	conjugated estrogens
+T10	DRUG 809 835	hydroxychloroquine sulfate
+T11	DRUG 837 846	ibuprofen
+T12	DRUG 848 868	levothyroxine sodium
+T13	DRUG 870 897	medroxyprogesterone acetate
+T14	DRUG 899 911	methotrexate
+T15	GROUP 913 926	multivitamins
+T16	DRUG 928 936	naproxen
+T17	DRUG 938 948	omeprazole
+T18	DRUG 950 961	paracetamol
+T19	DRUG 967 977	prednisone
+R1	ADVISE Arg1:T1 Arg2:T2

@@ -1,0 +1,9 @@
+T1	DRUG 0 27	Isoproterenol hydrochloride
+T2	DRUG 42 53	epinephrine
+T3	BRAND 310 317	ISUPREL
+T4	GROUP 383 394	anesthetics
+T5	DRUG 403 412	halothane
+T6	GROUP 489 511	sympathomimetic amines
+R1	ADVISE Arg1:T1 Arg2:T2
+R2	ADVISE Arg1:T3 Arg2:T4
+R3	ADVISE Arg1:T3 Arg2:T5

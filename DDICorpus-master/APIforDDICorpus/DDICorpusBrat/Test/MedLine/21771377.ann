@@ -1,0 +1,22 @@
+T1	DRUG 21 32	clopidogrel
+T2	GROUP 37 59	proton pump inhibitors
+T3	GROUP 91 113	proton pump inhibitors
+T4	DRUG 118 129	clopidogrel
+T5	GROUP 228 250	proton pump inhibitors
+T6	DRUG 301 312	clopidogrel
+T7	DRUG 383 393	omeprazole
+T8	DRUG 398 409	clopidogrel
+T9	DRUG 567 577	omeprazole
+T10	DRUG 622 634	Pantoprazole
+T11	DRUG 663 674	clopidogrel
+T12	GROUP 772 794	proton pump inhibitors
+T13	DRUG 825 836	clopidogrel
+T14	DRUG 951 962	clopidogrel
+T15	DRUG 990 1000	omeprazole
+T16	DRUG 1005 1017	esomeprazole
+T17	GROUP 1134 1156	proton pump inhibitors
+T18	DRUG 1161 1172	clopidogrel
+R1	MECHANISM Arg1:T7 Arg2:T8
+R2	MECHANISM Arg1:T10 Arg2:T11
+R3	ADVISE Arg1:T14 Arg2:T15
+R4	ADVISE Arg1:T14 Arg2:T16

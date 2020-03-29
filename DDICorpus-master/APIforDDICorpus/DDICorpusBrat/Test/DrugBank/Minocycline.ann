@@ -1,0 +1,25 @@
+T1	GROUP 8 21	tetracyclines
+T2	GROUP 98 111	anticoagulant
+T3	GROUP 161 174	anticoagulant
+T4	DRUG 256 266	penicillin
+T5	GROUP 300 324	tetracycline class drugs
+T6	DRUG 345 355	penicillin
+T7	GROUP 371 384	tetracyclines
+T8	GROUP 400 408	antacids
+T9	DRUG 420 428	aluminum
+T10	DRUG 430 437	calcium
+T11	DRUG 441 450	magnesium
+T12	DRUG 456 460	iron
+T13	GROUP 508 520	tetracycline
+T14	DRUG 525 539	methoxyflurane
+T15	GROUP 611 624	tetracyclines
+T16	GROUP 635 649	contraceptives
+T17	GROUP 666 680	contraceptives
+R1	ADVISE Arg1:T1 Arg2:T2
+R2	ADVISE Arg1:T5 Arg2:T6
+R3	MECHANISM Arg1:T7 Arg2:T9
+R4	MECHANISM Arg1:T7 Arg2:T10
+R5	MECHANISM Arg1:T7 Arg2:T11
+R6	MECHANISM Arg1:T7 Arg2:T12
+R7	EFFECT Arg1:T13 Arg2:T14
+R8	EFFECT Arg1:T15 Arg2:T16

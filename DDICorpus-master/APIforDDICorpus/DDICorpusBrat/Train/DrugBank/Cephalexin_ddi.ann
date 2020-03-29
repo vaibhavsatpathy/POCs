@@ -1,0 +1,21 @@
+T1	DRUG 0 9	Metformin
+T2	DRUG 60 70	cephalexin
+T3	DRUG 75 84	metformin
+T4	DRUG 93 102	metformin
+T5	DRUG 179 188	metformin
+T6	DRUG 281 291	cephalexin
+T7	DRUG 296 305	metformin
+T8	DRUG 450 460	cephalexin
+T9	DRUG 465 474	metformin
+T10	DRUG 615 624	metformin
+T11	DRUG 673 683	cephalexin
+T12	DRUG 688 697	metformin
+T13	DRUG 699 709	Probenecid
+T14	GROUP 725 734	b-lactams
+T15	DRUG 759 769	cephalexin
+T16	DRUG 786 796	probenecid
+T17	BRAND 867 873	Keflex
+R1	MECHANISM Arg1:T2 Arg2:T3
+R2	MECHANISM Arg1:T8 Arg2:T9
+R3	ADVISE Arg1:T11 Arg2:T12
+R4	MECHANISM Arg1:T15 Arg2:T16

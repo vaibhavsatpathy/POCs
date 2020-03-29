@@ -1,0 +1,20 @@
+T1	DRUG 91 99	caffeine
+T2	DRUG 112 120	caffeine
+T3	DRUG 269 277	caffeine
+T4	DRUG 335 343	caffeine
+T5	DRUG 425 433	caffeine
+T6	DRUG 453 463	cimetidine
+T7	DRUG 468 480	ketoconazole
+T8	DRUG 493 501	caffeine
+T9	DRUG 572 580	caffeine
+T10	DRUG 600 613	phenobarbital
+T11	DRUG 618 627	phenytoin
+T12	DRUG 630 638	Caffeine
+T13	DRUG 670 680	ketoprofen
+T14	DRUG 835 843	caffeine
+T15	DRUG 848 860	theophylline
+R1	ADVISE Arg1:T4 Arg2:T6
+R2	ADVISE Arg1:T4 Arg2:T7
+R3	ADVISE Arg1:T8 Arg2:T10
+R4	ADVISE Arg1:T8 Arg2:T11
+R5	EFFECT Arg1:T12 Arg2:T13

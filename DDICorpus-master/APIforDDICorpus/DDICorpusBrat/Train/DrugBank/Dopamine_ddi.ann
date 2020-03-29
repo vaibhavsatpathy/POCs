@@ -1,0 +1,59 @@
+T1	DRUG 8 16	dopamine
+T2	DRUG 125 133	dopamine
+T3	GROUP 171 185	MAO inhibitors
+T4	DRUG 243 255	dopamine HCl
+T5	DRUG 288 300	dopamine HCl
+T6	DRUG 391 403	dopamine HCl
+T7	GROUP 408 423	diuretic agents
+T8	GROUP 486 511	Tricyclic antidepressants
+T9	DRUG 594 602	dopamine
+T10	GROUP 622 653	beta-adrenergic blocking agents
+T11	DRUG 663 674	propranolol
+T12	DRUG 679 689	metoprolol
+T13	DRUG 747 759	dopamine HCl
+T14	GROUP 778 810	alpha-adrenergic blocking agents
+T15	DRUG 812 820	Dopamine
+T16	GROUP 892 898;907 933	alpha-adrenergic blocking agents
+T17	DRUG 902 933	beta-adrenergic blocking agents
+T18	GROUP 935 949	Butyrophenones
+T19	DRUG 959 970	haloperidol
+T20	GROUP 976 990	phenothiazines
+T21	DRUG 1008 1016	dopamine
+T22	DRUG 1096 1108	Cyclopropane
+T23	GROUP 1112 1147	halogenated hydrocarbon anesthetics
+T24	GROUP 1273 1287	catecholamines
+T25	DRUG 1297 1305	dopamine
+T26	GROUP 1426 1440	catecholamines
+T27	DRUG 1565 1577	dopamine HCl
+T28	DRUG 1600 1612	cyclopropane
+T29	GROUP 1616 1651	halogenated hydrocarbon anesthetics
+T30	DRUG 1723 1731	dopamine
+T31	DRUG 1801 1812	propranolol
+T32	GROUP 1837 1848	vasopressor
+T33	DRUG 1884 1894	ergonovine
+T34	GROUP 1905 1919	oxytocic drugs
+T35	DRUG 1973 1982	phenytoin
+T36	DRUG 2005 2017	dopamine HCl
+T37	DRUG 2119 2131	dopamine HCl
+T38	DRUG 2149 2158	phenytoin
+T39	GROUP 2177 2191	anticonvulsant
+R1	ADVISE Arg1:T3 Arg2:T4
+R2	EFFECT Arg1:T6 Arg2:T7
+R3	EFFECT Arg1:T9 Arg2:T10
+R4	EFFECT Arg1:T9 Arg2:T11
+R5	EFFECT Arg1:T9 Arg2:T12
+R6	EFFECT Arg1:T13 Arg2:T14
+R7	EFFECT Arg1:T18 Arg2:T21
+R8	EFFECT Arg1:T19 Arg2:T21
+R9	EFFECT Arg1:T20 Arg2:T21
+R10	EFFECT Arg1:T22 Arg2:T24
+R11	EFFECT Arg1:T22 Arg2:T25
+R12	EFFECT Arg1:T23 Arg2:T24
+R13	EFFECT Arg1:T23 Arg2:T25
+R14	ADVISE Arg1:T27 Arg2:T28
+R15	ADVISE Arg1:T27 Arg2:T29
+R16	EFFECT Arg1:T30 Arg2:T31
+R17	EFFECT Arg1:T32 Arg2:T34
+R18	EFFECT Arg1:T33 Arg2:T34
+R19	EFFECT Arg1:T35 Arg2:T36
+R20	ADVISE Arg1:T37 Arg2:T38

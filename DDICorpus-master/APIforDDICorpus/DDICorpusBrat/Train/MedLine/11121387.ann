@@ -1,0 +1,11 @@
+T1	DRUG 77 86	carbachol
+T2	DRUG 181 192	aminopyrine
+T3	DRUG 225 234	carbachol
+T4	DRUG 331 340	carbachol
+T5	DRUG_N 477 491	Cytochalasin D
+T6	DRUG 552 561	carbachol
+T7	DRUG_N 679 693	Cytochalasin D
+T8	DRUG 708 717	carbachol
+T9	DRUG_N 854 868	cytochalasin D
+R1	EFFECT Arg1:T5 Arg2:T6
+R2	EFFECT Arg1:T7 Arg2:T8

@@ -1,0 +1,60 @@
+T1	DRUG 0 7	Ethanol
+T2	DRUG 41 51	etretinate
+T3	DRUG 95 104	acitretin
+T4	DRUG 109 116	ethanol
+T5	DRUG 118 131	Glibenclamide
+T6	DRUG 174 183	acitretin
+T7	DRUG 243 256	glibenclamide
+T8	GROUP 260 272	sulfonylurea
+T9	DRUG 284 298	chlorpropamide
+T10	DRUG 393 406	glibenclamide
+T11	DRUG 435 444	acitretin
+T12	BRAND 529 538	Soriatane
+T13	GROUP 555 578	Hormonal Contraceptives
+T14	DRUG 658 667	acitretin
+T15	GROUP 672 700	combined oral contraceptives
+T16	DRUG 740 749	acitretin
+T17	DRUG 805 814	progestin
+T18	DRUG 858 867	progestin
+T19	DRUG 914 923	Soriatane
+T20	GROUP 955 984	progestational contraceptives
+T21	DRUG 1065 1074	acitretin
+T22	DRUG 1084 1096	Methotrexate
+T23	DRUG 1178 1190	methotrexate
+T24	DRUG 1195 1205	etretinate
+T25	DRUG 1240 1252	methotrexate
+T26	DRUG 1258 1267	acitretin
+T27	DRUG 1293 1302	Phenytoin
+T28	DRUG 1307 1316	acitretin
+T29	DRUG 1344 1353	phenytoin
+T30	DRUG 1378 1387	phenytoin
+T31	GROUP 1404 1417	Tetracyclines
+T32	DRUG 1430 1439	acitretin
+T33	GROUP 1444 1457	tetracyclines
+T34	GROUP 1540 1549	Vitamin A
+T35	GROUP 1559 1568	retinoids
+T36	GROUP 1600 1609	vitamin A
+T37	GROUP 1628 1637	retinoids
+T38	DRUG 1643 1652	acitretin
+T39	DRUG 1778 1787	acitretin
+T40	DRUG 1792 1802	cimetidine
+T41	DRUG 1804 1811	digoxin
+T42	DRUG 1816 1825	glyburide
+T43	DRUG 1861 1870	acitretin
+T44	GROUP 1897 1932	anticoagulants of the coumarin type
+T45	DRUG 1934 1942	warfarin
+T46	GROUP 2206 2215	retinoids
+T47	GROUP 2330 2338	retinoid
+T48	BRAND 2778 2787	Soriatane
+T49	BRAND 2933 2942	Soriatane
+T50	BRAND 3015 3024	Soriatane
+R1	MECHANISM Arg1:T3 Arg2:T4
+R2	EFFECT Arg1:T6 Arg2:T7
+R3	EFFECT Arg1:T16 Arg2:T17
+R4	ADVISE Arg1:T18 Arg2:T19
+R5	EFFECT Arg1:T23 Arg2:T24
+R6	ADVISE Arg1:T25 Arg2:T26
+R7	MECHANISM Arg1:T28 Arg2:T29
+R8	EFFECT Arg1:T32 Arg2:T33
+R9	ADVISE Arg1:T36 Arg2:T38
+R10	ADVISE Arg1:T37 Arg2:T38

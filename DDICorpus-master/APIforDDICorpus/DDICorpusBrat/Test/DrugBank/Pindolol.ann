@@ -1,0 +1,15 @@
+T1	DRUG 37 46	reserpine
+T2	GROUP 92 112	beta-blocking agents
+T3	DRUG 133 141	pindolol
+T4	DRUG 333 341	Pindolol
+T5	GROUP 374 397	antihypertensive agents
+T6	DRUG 409 428	hydrochlorothiazide
+T7	DRUG 430 441	hydralazine
+T8	DRUG 447 459	guanethidine
+T9	DRUG 501 509	Pindolol
+T10	DRUG 543 555	thioridazine
+T11	DRUG 600 608	Pindolol
+T12	GROUP 705 718	beta blockers
+T13	DRUG 949 960	epinephrine
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	MECHANISM Arg1:T9 Arg2:T10

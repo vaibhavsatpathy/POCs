@@ -1,0 +1,49 @@
+T1	GROUP 62 80	thiazide diuretics
+T2	DRUG 82 89	Alcohol
+T3	GROUP 91 103	barbiturates
+T4	GROUP 108 117	narcotics
+T5	GROUP 170 188	Antidiabetic drugs
+T6	DRUG 207 214	insulin
+T7	GROUP 243 260	antidiabetic drug
+T8	GROUP 284 306	antihypertensive drugs
+T9	DRUG 341 355	Cholestyramine
+T10	DRUG 360 370	colestipol
+T11	GROUP 371 377	resins
+T12	DRUG 393 412	hydrochlorothiazide
+T13	GROUP 444 467	anionic exchange resins
+T14	DRUG 492 506	cholestyramine
+T15	DRUG 510 520	colestipol
+T16	GROUP 521 527	resins
+T17	DRUG 537 556	hydrochlorothiazide
+T18	GROUP 657 672	Corticosteroids
+T19	DRUG 674 678	ACTH
+T20	DRUG 763 777	norepinephrine
+T21	GROUP 868 893	Skeletal muscle relaxants
+T22	DRUG 918 930	tubocurarine
+T23	GROUP 974 989	muscle relaxant
+T24	DRUG 991 998	Lithium
+T25	GROUP 1035 1044	diuretics
+T26	GROUP 1046 1061	Diuretic agents
+T27	DRUG 1092 1099	lithium
+T28	DRUG 1123 1130	lithium
+T29	DRUG 1173 1180	lithium
+T30	DRUG 1231 1250	Hydrochlorothiazide
+T31	GROUP 1252 1289	Non-steroidal Anti-inflammatory Drugs
+T32	GROUP 1333 1370	non-steroidal anti-inflammatory agent
+T33	GROUP 1441 1445;1478 1487	loop diuretics
+T34	GROUP 1447 1464;1478 1487	potassium-sparing diuretics
+T35	GROUP 1469 1487	thiazide diuretics
+T36	DRUG 1505 1524	Hydrochlorothiazide
+T37	GROUP 1529 1567	non-steroidal anti-inflammatory agents
+T38	GROUP 1673 1681	diuretic
+R1	MECHANISM Arg1:T12 Arg2:T13
+R2	MECHANISM Arg1:T14 Arg2:T17
+R3	MECHANISM Arg1:T15 Arg2:T17
+R4	ADVISE Arg1:T24 Arg2:T25
+R5	MECHANISM Arg1:T26 Arg2:T27
+R6	EFFECT Arg1:T26 Arg2:T28
+R7	ADVISE Arg1:T29 Arg2:T30
+R8	EFFECT Arg1:T32 Arg2:T33
+R9	EFFECT Arg1:T32 Arg2:T34
+R10	EFFECT Arg1:T32 Arg2:T35
+R11	ADVISE Arg1:T36 Arg2:T37

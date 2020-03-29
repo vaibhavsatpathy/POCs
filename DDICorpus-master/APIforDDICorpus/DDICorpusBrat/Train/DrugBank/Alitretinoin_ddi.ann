@@ -1,0 +1,13 @@
+T1	BRAND 26 34	Panretin
+T2	DRUG 89 93	DEET
+T3	DRUG 98 119	N-diethyl-m-toluamide
+T4	DRUG 214 218	DEET
+T5	DRUG 233 237	DEET
+T6	GROUP 389 410	antiretroviral agents
+T7	GROUP 422 441	protease inhibitors
+T8	GROUP 443 464	macrolide antibiotics
+T9	GROUP 470 487	azole antifungals
+T10	BRAND 503 511	Panretin
+T11	BRAND 652 660	Panretin
+R1	ADVISE Arg1:T1 Arg2:T2
+R2	ADVISE Arg1:T1 Arg2:T3

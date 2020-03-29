@@ -1,0 +1,9 @@
+T1	GROUP 20 42	calcium-entry blockers
+T2	GROUP 384 413	calcium-entry blocking agents
+T3	DRUG 450 459	verapamil
+T4	DRUG 461 471	nifedipine
+T5	DRUG 476 485	diltiazem
+T6	DRUG 761 770	verapamil
+T7	DRUG 775 784	diltiazem
+T8	DRUG 803 813	nifedipine
+T9	GROUP 1126 1151	calcium-entry antagonists

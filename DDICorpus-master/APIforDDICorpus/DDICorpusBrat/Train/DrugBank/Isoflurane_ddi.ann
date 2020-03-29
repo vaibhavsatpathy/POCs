@@ -1,0 +1,5 @@
+T1	DRUG 0 10	Isoflurane
+T2	GROUP 57 73	muscle relaxants
+T3	GROUP 88 120	nondepolarizing muscle relaxants
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T1 Arg2:T3

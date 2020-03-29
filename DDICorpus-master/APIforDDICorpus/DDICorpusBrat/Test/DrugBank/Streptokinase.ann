@@ -1,0 +1,19 @@
+T1	BRAND 19 28	Streptase
+T2	DRUG 30 43	Streptokinase
+T3	GROUP 96 110	Anticoagulants
+T4	GROUP 115 134	Antiplatelet Agents
+T5	BRAND 138 147	Streptase
+T6	DRUG 149 162	Streptokinase
+T7	GROUP 193 212	antiplatelet agents
+T8	GROUP 217 231	anticoagulants
+T9	BRAND 339 346	aspirin
+T10	DRUG 412 425	Streptokinase
+T11	GROUP 461 474	Antiplatelets
+T12	BRAND 580 587	aspirin
+T13	BRAND 671 678	aspirin
+T14	DRUG 682 695	Streptokinase
+R1	EFFECT Arg1:T5 Arg2:T7
+R2	EFFECT Arg1:T5 Arg2:T8
+R3	EFFECT Arg1:T6 Arg2:T7
+R4	EFFECT Arg1:T6 Arg2:T8
+R5	EFFECT Arg1:T13 Arg2:T14

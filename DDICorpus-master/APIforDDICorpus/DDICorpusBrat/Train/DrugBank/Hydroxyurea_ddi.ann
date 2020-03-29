@@ -1,0 +1,5 @@
+T1	DRUG 41 52	hydroxyurea
+T2	DRUG 125 136	hydroxyurea
+T3	DRUG 277 288	hydroxyurea
+T4	GROUP 347 368	uricosuric medication
+R1	EFFECT Arg1:T3 Arg2:T4

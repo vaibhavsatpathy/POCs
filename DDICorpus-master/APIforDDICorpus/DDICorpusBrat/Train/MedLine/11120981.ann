@@ -1,0 +1,20 @@
+T1	DRUG 23 32	indinavir
+T2	DRUG 34 37	IDV
+T3	DRUG 40 50	didanosine
+T4	DRUG 67 70	IDV
+T5	DRUG 148 157	indinavir
+T6	DRUG 162 172	didanosine
+T7	DRUG 220 229	indinavir
+T8	DRUG 264 274	didanosine
+T9	DRUG 290 299	indinavir
+T10	DRUG 333 342	indinavir
+T11	DRUG 448 457	indinavir
+T12	DRUG 481 490	indinavir
+T13	DRUG 514 524	didanosine
+T14	DRUG 589 598	indinavir
+T15	DRUG 615 625	didanosine
+T16	DRUG 799 808	Indinavir
+T17	DRUG 886 896	didanosine
+R1	MECHANISM Arg1:T5 Arg2:T6
+R2	MECHANISM Arg1:T14 Arg2:T15
+R3	ADVISE Arg1:T16 Arg2:T17

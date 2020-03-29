@@ -1,0 +1,33 @@
+T1	DRUG 50 60	entacapone
+T2	DRUG 364 374	Entacapone
+T3	DRUG 466 476	entacapone
+T4	DRUG 515 523	warfarin
+T5	DRUG 525 539	salicylic acid
+T6	DRUG 541 555	phenylbutazone
+T7	DRUG 561 569	diazepam
+T8	DRUG 645 653	Levodopa
+T9	DRUG 745 755	entacapone
+T10	DRUG 776 784	levodopa
+T11	GROUP 785 813	dopa decarboxylase inhibitor
+T12	GROUP 879 894	MAO-B inhibitor
+T13	DRUG 895 905	selegiline
+T14	DRUG 952 962	entacapone
+T15	DRUG 989 997	levodopa
+T16	GROUP 998 1026	dopa decarboxylase inhibitor
+T17	DRUG 1106 1116	selegiline
+T18	DRUG 1137 1147	entacapone
+T19	DRUG 1152 1160	levodopa
+T20	GROUP 1161 1189	dopa decarboxylase inhibitor
+T21	DRUG 1199 1209	entacapone
+T22	DRUG 1398 1408	entacapone
+T23	DRUG 1424 1434	probenecid
+T24	DRUG 1436 1450	cholestyramine
+T25	GROUP 1461 1472	antibiotics
+T26	DRUG 1479 1491	erythromycin
+T27	DRUG 1506 1516	ampicillin
+T28	DRUG 1521 1536	chloramphenicol
+T29	GROUP 1563 1587	tricyclic antidepressant
+T30	DRUG 1588 1598	imipramine
+T31	DRUG 1637 1647	entacapone
+T32	DRUG 1671 1679	levodopa
+T33	GROUP 1680 1708	dopa-decarboxylase inhibitor

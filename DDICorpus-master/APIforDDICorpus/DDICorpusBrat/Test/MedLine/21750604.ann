@@ -1,0 +1,19 @@
+T1	DRUG_N 83 87	AAV2
+T2	DRUG_N 234 258	adeno-associated virus-2
+T3	DRUG_N 260 264	AAV2
+T4	DRUG_N 267 271	AAV2
+T5	DRUG_N 481 492	collagenase
+T6	DRUG_N 494 510	hyaluronan lyase
+T7	DRUG_N 512 526	heparinase III
+T8	DRUG_N 531 552	chondroitin ABC lyase
+T9	DRUG_N 780 794	heparinase III
+T10	DRUG_N 798 819	chondroitin ABC lyase
+T11	DRUG_N 948 964	Hyaluronan lyase
+T12	DRUG_N 990 1001	collagenase
+T13	DRUG_N 1077 1091	heparinase III
+T14	DRUG_N 1096 1117	chondroitin ABC lyase
+T15	DRUG_N 1171 1175	AAV2
+T16	DRUG_N 1237 1251	heparinase III
+T17	DRUG_N 1255 1276	chondroitin ABC lyase
+R1	EFFECT Arg1:T15 Arg2:T16
+R2	EFFECT Arg1:T15 Arg2:T17

@@ -1,0 +1,9 @@
+T1	GROUP 0 9	Androgens
+T2	GROUP 73 86	anticoagulant
+T3	DRUG 205 220	oxyphenbutazone
+T4	GROUP 225 234	androgens
+T5	DRUG 274 289	oxyphenbutazone
+T6	GROUP 338 347	androgens
+T7	DRUG 390 397	insulin
+R1	MECHANISM Arg1:T3 Arg2:T4
+R2	EFFECT Arg1:T6 Arg2:T7

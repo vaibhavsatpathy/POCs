@@ -1,0 +1,12 @@
+T1	DRUG 46 56	ethambutol
+T2	DRUG 76 94	aluminum hydroxide
+T3	GROUP 106 113	antacid
+T4	DRUG 220 230	ethambutol
+T5	DRUG 314 324	ethambutol
+T6	GROUP 349 365	antacid products
+T7	DRUG 423 433	ethambutol
+T8	DRUG 439 457	aluminum hydroxide
+T9	GROUP 469 477	antacids
+T10	DRUG 509 519	ethambutol
+R1	MECHANISM Arg1:T1 Arg2:T2
+R2	ADVISE Arg1:T7 Arg2:T8

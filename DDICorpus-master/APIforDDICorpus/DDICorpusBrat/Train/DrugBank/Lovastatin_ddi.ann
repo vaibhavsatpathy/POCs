@@ -1,0 +1,52 @@
+T1	DRUG 20 30	Lovastatin
+T2	DRUG 295 305	lovastatin
+T3	DRUG 325 337	Itraconazole
+T4	DRUG 338 350	Ketoconazole
+T5	DRUG 351 363	Erythromycin
+T6	DRUG 364 378	Clarithromycin
+T7	DRUG 379 392	Telithromycin
+T8	GROUP 393 416	HIV protease inhibitors
+T9	DRUG 417 427	Nefazodone
+T10	DRUG 428 440	Cyclosporine
+T11	DRUG 778 789	Gemfibrozil
+T12	GROUP 796 804	fibrates
+T13	DRUG 805 811	Niacin
+T14	DRUG 813 827	nicotinic acid
+T15	DRUG 864 871	Danazol
+T16	DRUG 955 962	danazol
+T17	DRUG 997 1007	lovastatin
+T18	DRUG 1049 1059	Amiodarone
+T19	DRUG 1063 1072	Verapamil
+T20	DRUG 1135 1145	amiodarone
+T21	DRUG 1149 1158	verapamil
+T22	GROUP 1218 1251	HMG-CoA reductase inhibitor class
+T23	GROUP 1293 1315	Coumarin Anticoagulant
+T24	DRUG 1353 1363	lovastatin
+T25	DRUG 1384 1392	warfarin
+T26	GROUP 1472 1499	HMG-CoA reductase inhibitor
+T27	DRUG 1623 1631	warfarin
+T28	GROUP 1726 1748	coumarin anticoagulant
+T29	DRUG 1769 1779	lovastatin
+T30	GROUP 1823 1837	anticoagulants
+T31	DRUG 1886 1896	lovastatin
+T32	GROUP 2149 2172	coumarin anticoagulants
+T33	DRUG 2189 2199	lovastatin
+T34	DRUG 2251 2261	Lovastatin
+T35	GROUP 2367 2381	anticoagulants
+T36	DRUG 2383 2394	Propranolol
+T37	DRUG 2552 2562	lovastatin
+T38	DRUG 2567 2578	propranolol
+T39	DRUG 2580 2587	Digoxin
+T40	DRUG 2658 2668	lovastatin
+T41	DRUG 2673 2680	digoxin
+T42	DRUG 2706 2713	digoxin
+T43	GROUP 2742 2761	Hypoglycemic Agents
+T44	BRAND 2793 2800	MEVACOR
+T45	DRUG 2900 2909	glipizide
+T46	DRUG 2918 2932	chlorpropamide
+R1	EFFECT Arg1:T16 Arg2:T17
+R2	EFFECT Arg1:T20 Arg2:T22
+R3	EFFECT Arg1:T21 Arg2:T22
+R4	EFFECT Arg1:T26 Arg2:T27
+R5	EFFECT Arg1:T28 Arg2:T29
+R6	ADVISE Arg1:T30 Arg2:T31

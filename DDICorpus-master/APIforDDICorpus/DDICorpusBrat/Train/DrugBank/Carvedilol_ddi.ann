@@ -1,0 +1,72 @@
+T1	DRUG 43 54	debrisoquin
+T2	DRUG 72 82	carvedilol
+T3	DRUG 125 134	quinidine
+T4	DRUG 136 146	fluoxetine
+T5	DRUG 148 158	paroxetine
+T6	DRUG 164 175	propafenone
+T7	DRUG 285 295	carvedilol
+T8	GROUP 606 639	agents with b-blocking properties
+T9	DRUG 690 699	reserpine
+T10	GROUP 704 732	monoamine oxidase inhibitors
+T11	DRUG 813 822	Clonidine
+T12	DRUG 854 863	clonidine
+T13	GROUP 869 902	agents with b-blocking properties
+T14	GROUP 999 1032	agents with b-blocking properties
+T15	DRUG 1037 1046	clonidine
+T16	GROUP 1072 1088	b-blocking agent
+T17	DRUG 1119 1128	Clonidine
+T18	DRUG 1217 1229	Cyclosporine
+T19	DRUG 1263 1275	cyclosporine
+T20	DRUG 1329 1339	carvedilol
+T21	DRUG 1463 1475	cyclosporine
+T22	DRUG 1515 1527	cyclosporine
+T23	DRUG 1664 1676	cyclosporine
+T24	DRUG 1814 1826	cyclosporine
+T25	DRUG 1883 1893	carvedilol
+T26	DRUG 1923 1935	cyclosporine
+T27	DRUG 1964 1971	Digoxin
+T28	DRUG 1973 1980	Digoxin
+T29	DRUG 2028 2035	digoxin
+T30	DRUG 2040 2050	carvedilol
+T31	DRUG 2088 2095	digoxin
+T32	BRAND 2100 2105	COREG
+T33	DRUG 2161 2168	digoxin
+T34	BRAND 2229 2234	COREG
+T35	DRUG 2283 2291	Rifampin
+T36	DRUG 2325 2335	carvedilol
+T37	DRUG 2350 2360	Cimetidine
+T38	GROUP 2418 2442	Calcium Channel Blockers
+T39	BRAND 2546 2551	COREG
+T40	DRUG 2576 2585	diltiazem
+T41	GROUP 2601 2634	agents with b-blocking properties
+T42	BRAND 2639 2644	COREG
+T43	GROUP 2679 2703	calcium channel blockers
+T44	DRUG 2711 2720	verapamil
+T45	DRUG 2724 2733	diltiazem
+T46	DRUG 2800 2807	Insulin
+T47	GROUP 2816 2829	Hypoglycemics
+T48	GROUP 2831 2864	Agents with b-blocking properties
+T49	DRUG 2912 2919	insulin
+T50	GROUP 2929 2942	hypoglycemics
+T51	DRUG 2974 2981	insulin
+T52	GROUP 2990 3003	hypoglycemics
+R1	EFFECT Arg1:T3 Arg2:T7
+R2	EFFECT Arg1:T4 Arg2:T7
+R3	EFFECT Arg1:T5 Arg2:T7
+R4	EFFECT Arg1:T6 Arg2:T7
+R5	EFFECT Arg1:T8 Arg2:T9
+R6	EFFECT Arg1:T8 Arg2:T10
+R7	EFFECT Arg1:T12 Arg2:T13
+R8	ADVISE Arg1:T14 Arg2:T15
+R9	MECHANISM Arg1:T19 Arg2:T20
+R10	ADVISE Arg1:T24 Arg2:T25
+R11	ADVISE Arg1:T25 Arg2:T26
+R12	MECHANISM Arg1:T29 Arg2:T30
+R13	EFFECT Arg1:T31 Arg2:T32
+R14	ADVISE Arg1:T33 Arg2:T34
+R15	MECHANISM Arg1:T35 Arg2:T36
+R16	EFFECT Arg1:T39 Arg2:T40
+R17	ADVISE Arg1:T42 Arg2:T44
+R18	ADVISE Arg1:T42 Arg2:T45
+R19	EFFECT Arg1:T48 Arg2:T49
+R20	EFFECT Arg1:T48 Arg2:T50

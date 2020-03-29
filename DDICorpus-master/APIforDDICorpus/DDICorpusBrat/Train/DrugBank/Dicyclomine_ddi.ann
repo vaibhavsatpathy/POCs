@@ -1,0 +1,29 @@
+T1	GROUP 69 90	anticholinergic drugs
+T2	DRUG 92 102	amantadine
+T3	GROUP 103 124	antiarrhythmic agents
+T4	DRUG 140 149	quinidine
+T5	GROUP 152 166	antihistamines
+T6	GROUP 167 187	antipsychotic agents
+T7	GROUP 194 208	phenothiazines
+T8	GROUP 211 226	benzodiazepines
+T9	GROUP 228 242	MAO inhibitors
+T10	GROUP 244 263	narcotic analgesics
+T11	DRUG 271 281	meperidine
+T12	GROUP 284 292	nitrates
+T13	GROUP 297 305	nitrites
+T14	GROUP 307 329	sympathomimetic agents
+T15	GROUP 331 356	tricyclic antidepressants
+T16	GROUP 407 423	Anticholinergics
+T17	GROUP 450 469	antiglaucoma agents
+T18	GROUP 471 492	Anticholinergic drugs
+T19	GROUP 623 645	Anticholinergic agents
+T20	DRUG 745 752	digoxin
+T21	DRUG 770 777	digoxin
+T22	GROUP 805 826	Anticholinergic drugs
+T23	DRUG 913 927	metoclopramide
+T24	GROUP 937 945	antacids
+T25	GROUP 983 1005	anticholinergic agents
+T26	GROUP 1084 1105	anticholinergic drugs
+R1	MECHANISM Arg1:T19 Arg2:T20
+R2	MECHANISM Arg1:T22 Arg2:T23
+R3	MECHANISM Arg1:T24 Arg2:T25

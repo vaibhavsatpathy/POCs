@@ -1,0 +1,12 @@
+T1	DRUG 0 13	Ethopropazine
+T2	DRUG 32 39	alcohol
+T3	GROUP 49 64	CNS depressants
+T4	DRUG 128 138	amantadine
+T5	GROUP 148 169	anticholinergic drugs
+T6	GROUP 173 178	MAOIs
+T7	DRUG 228 241	Ethopropazine
+T8	DRUG 260 274	chlorpromazine
+T9	DRUG 305 319	chlorpromazine
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T1 Arg2:T3
+R3	MECHANISM Arg1:T7 Arg2:T8

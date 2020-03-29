@@ -1,0 +1,6 @@
+T1	DRUG 0 11	Methyprylon
+T2	DRUG 140 147	alcohol
+T3	GROUP 158 188	CNS depression-producing drugs
+T4	DRUG 232 243	methyprylon
+R1	EFFECT Arg1:T2 Arg2:T4
+R2	EFFECT Arg1:T3 Arg2:T4

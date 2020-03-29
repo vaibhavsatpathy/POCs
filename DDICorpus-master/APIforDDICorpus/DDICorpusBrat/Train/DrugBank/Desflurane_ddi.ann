@@ -1,0 +1,6 @@
+T1	GROUP 120 136	muscle relaxants
+T2	GROUP 168 185	anesthetic agents
+T3	DRUG 235 245	desflurane
+T4	DRUG 310 320	isoflurane
+T5	DRUG 322 332	desflurane
+T6	DRUG 429 440	epinephrine

@@ -1,0 +1,7 @@
+T1	DRUG 0 12	Methysergide
+T2	GROUP 51 70	narcotic analgesics
+T3	GROUP 92 114	vasoconstrictor agents
+T4	GROUP 125 140	ergot alkaloids
+T5	DRUG 142 153	sumatriptan
+T6	DRUG 159 167	nicotine
+R1	EFFECT Arg1:T1 Arg2:T2

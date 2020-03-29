@@ -1,0 +1,27 @@
+T1	DRUG 0 11	Thalidomide
+T2	GROUP 66 78	barbiturates
+T3	DRUG 80 87	alcohol
+T4	DRUG 89 103	chlorpromazine
+T5	DRUG 109 118	reserpine
+T6	DRUG 255 266	thalidomide
+T7	GROUP 273 287	Contraceptives
+T8	DRUG 342 355	norethindrone
+T9	DRUG 360 377	ethinyl estradiol
+T10	DRUG 441 462	norethindrone acetate
+T11	DRUG 478 495	ethinyl estradiol
+T12	DRUG 572 583	thalidomide
+T13	DRUG 633 644	Thalidomide
+T14	GROUP 689 712	Hormonal Contraceptives
+T15	GROUP 733 756	HIV-protease inhibitors
+T16	DRUG 758 770	griseofulvin
+T17	DRUG 772 781	modafinil
+T18	GROUP 783 794	penicillins
+T19	DRUG 796 804	rifampin
+T20	DRUG 806 815	rifabutin
+T21	DRUG 817 826	phenytoin
+T22	DRUG 828 841	carbamazepine
+T23	DRUG_N 885 896	John's Wort
+T24	GROUP 902 931	hormonal contraceptive agents
+T25	DRUG 1256 1267	thalidomide
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T23 Arg2:T24

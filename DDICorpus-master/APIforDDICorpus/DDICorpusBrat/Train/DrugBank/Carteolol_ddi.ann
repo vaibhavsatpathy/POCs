@@ -1,0 +1,6 @@
+T1	BRAND 0 8	Ocupress
+T2	GROUP 69 99	beta-adrenergic blocking agent
+T3	GROUP 235 247	beta-blocker
+T4	DRUG 324 333	reserpine
+R1	ADVISE Arg1:T1 Arg2:T2
+R2	ADVISE Arg1:T3 Arg2:T4

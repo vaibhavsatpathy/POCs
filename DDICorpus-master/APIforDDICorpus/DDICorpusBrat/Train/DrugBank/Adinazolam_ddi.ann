@@ -1,0 +1,15 @@
+T1	GROUP 23 40	antifungal agents
+T2	DRUG 49 61	ketoconazole
+T3	DRUG 65 77	itraconazole
+T4	DRUG 98 108	Nafazodone
+T5	DRUG 110 121	fluvoxamine
+T6	DRUG 123 133	cimetidine
+T7	BRAND 144 149	Xanax
+T8	DRUG 167 177	Fluoxetine
+T9	GROUP 179 182	OCs
+T10	DRUG 184 194	sertraline
+T11	DRUG 196 205	diltiazem
+T12	GROUP 207 228	macrolide antibiotics
+R1	ADVISE Arg1:T4 Arg2:T7
+R2	ADVISE Arg1:T5 Arg2:T7
+R3	ADVISE Arg1:T6 Arg2:T7

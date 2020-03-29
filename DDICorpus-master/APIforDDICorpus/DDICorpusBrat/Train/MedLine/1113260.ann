@@ -1,0 +1,17 @@
+T1	DRUG 24 45	prostaglandin F2alpha
+T2	DRUG 50 58	oxytocin
+T3	DRUG 100 121	prostaglandin F2alpha
+T4	DRUG 136 144	oxytocin
+T5	DRUG 305 319	norepinephrine
+T6	DRUG 324 332	oxytocin
+T7	DRUG 338 347	PGF2alpha
+T8	DRUG 349 358	PGF2alpha
+T9	DRUG 442 450	oxytocin
+T10	DRUG 504 512	oxytocin
+T11	DRUG 557 566	PGF2alpha
+T12	DRUG 587 601	norepinephrine
+T13	DRUG 726 735	PGF2alpha
+T14	DRUG 778 786	oxytocin
+R1	INT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T8 Arg2:T9
+R3	EFFECT Arg1:T13 Arg2:T14

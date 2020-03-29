@@ -1,0 +1,16 @@
+T1	GROUP 28 48	anesthetic solutions
+T2	DRUG 60 71	epinephrine
+T3	DRUG 75 89	norepinephrine
+T4	GROUP 112 140	monoamine oxidase inhibitors
+T5	GROUP 144 169	tricyclic antidepressants
+T6	GROUP 400 417	vasopressor drugs
+T7	GROUP 425 450	ergot-type oxytocic drugs
+T8	GROUP 523 537	Phenothiazines
+T9	GROUP 542 556	butyrophenones
+T10	DRUG 601 612	epinephrine
+R1	EFFECT Arg1:T2 Arg2:T4
+R2	EFFECT Arg1:T2 Arg2:T5
+R3	EFFECT Arg1:T3 Arg2:T4
+R4	EFFECT Arg1:T3 Arg2:T5
+R5	EFFECT Arg1:T8 Arg2:T10
+R6	EFFECT Arg1:T9 Arg2:T10

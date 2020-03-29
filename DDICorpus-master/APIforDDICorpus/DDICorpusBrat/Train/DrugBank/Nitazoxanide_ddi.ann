@@ -1,0 +1,6 @@
+T1	DRUG 0 10	Tizoxanide
+T2	DRUG 108 120	nitazoxanide
+T3	DRUG 262 270	warfarin
+T4	DRUG 324 334	tizoxanide
+T5	DRUG 535 547	nitazoxanide
+R1	MECHANISM Arg1:T2 Arg2:T3

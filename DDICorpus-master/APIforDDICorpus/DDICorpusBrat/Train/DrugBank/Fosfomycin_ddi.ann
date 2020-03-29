@@ -1,0 +1,9 @@
+T1	DRUG 0 14	Metoclopramide
+T2	BRAND 41 48	MONUROL
+T3	DRUG 50 64	metoclopramide
+T4	DRUG 172 182	fosfomycin
+T5	DRUG 265 275	Cimetidine
+T6	DRUG 277 287	Cimetidine
+T7	DRUG 328 338	fosfomycin
+T8	BRAND 364 371	MONUROL
+R1	MECHANISM Arg1:T2 Arg2:T3

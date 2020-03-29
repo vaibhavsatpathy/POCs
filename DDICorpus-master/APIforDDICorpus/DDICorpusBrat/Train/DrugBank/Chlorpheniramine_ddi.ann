@@ -1,0 +1,19 @@
+T1	GROUP 103 118	CNS depressants
+T2	GROUP 120 134	MAO inhibitors
+T3	GROUP 136 161	tricyclic antidepressants
+T4	GROUP 163 177	phenothiazines
+T5	DRUG 233 249	chlorpheniramine
+T6	GROUP 278 295	azole antifungals
+T7	DRUG 297 310	ciprofloxacin
+T8	DRUG 312 326	clarithromycin
+T9	DRUG 328 338	diclofenac
+T10	DRUG 340 351	doxycycline
+T11	DRUG 353 365	erythromycin
+T12	DRUG 367 375	imatinib
+T13	DRUG 377 386	isoniazid
+T14	DRUG 388 398	nefazodone
+T15	DRUG 400 411	nicardipine
+T16	DRUG 413 421	propofol
+T17	GROUP 423 442	protease inhibitors
+T18	DRUG 444 453	quinidine
+T19	DRUG 459 468	verapamil

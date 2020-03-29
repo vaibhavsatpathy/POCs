@@ -1,0 +1,26 @@
+T1	DRUG 21 33	azithromycin
+T2	DRUG 56 66	zidovudine
+T3	DRUG 71 85	dideoxyinosine
+T4	DRUG 192 204	azithromycin
+T5	DRUG 222 232	zidovudine
+T6	DRUG 237 251	dideoxyinosine
+T7	DRUG 288 298	zidovudine
+T8	DRUG 340 352	azithromycin
+T9	DRUG 464 474	zidovudine
+T10	DRUG 508 522	dideoxyinosine
+T11	DRUG 567 579	azithromycin
+T12	GROUP 637 651	Antiretroviral
+T13	DRUG 718 728	zidovudine
+T14	DRUG 754 768	dideoxyinosine
+T15	DRUG 854 864	zidovudine
+T16	DRUG 866 878	Azithromycin
+T17	DRUG 928 938	zidovudine
+T18	DRUG 980 990	zidovudine
+T19	DRUG 1062 1072	zidovudine
+T20	DRUG 1082 1094	Azithromycin
+T21	DRUG 1124 1138	dideoxyinosine
+T22	DRUG 1217 1229	azithromycin
+T23	DRUG 1269 1279	zidovudine
+T24	DRUG 1284 1298	dideoxyinosine
+R1	MECHANISM Arg1:T16 Arg2:T18
+R2	MECHANISM Arg1:T16 Arg2:T19

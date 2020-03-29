@@ -1,0 +1,9 @@
+T1	DRUG 0 12	Trimethoprim
+T2	DRUG 51 60	phenytoin
+T3	DRUG 62 74	Trimethoprim
+T4	DRUG 125 134	phenytoin
+T5	DRUG 170 179	phenytoin
+T6	DRUG 301 310	phenytoin
+R1	MECHANISM Arg1:T1 Arg2:T2
+R2	MECHANISM Arg1:T3 Arg2:T4
+R3	MECHANISM Arg1:T3 Arg2:T5

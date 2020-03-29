@@ -1,0 +1,7 @@
+T1	GROUP 37 49	barbiturates
+T2	GROUP 57 66	narcotics
+T3	DRUG 94 102	ketamine
+T4	DRUG 104 112	Ketamine
+T5	GROUP 179 196	anesthetic agents
+R1	EFFECT Arg1:T1 Arg2:T3
+R2	EFFECT Arg1:T2 Arg2:T3

@@ -1,0 +1,18 @@
+T1	DRUG 0 6	Iodine
+T2	DRUG 10 16	iodine
+T3	DRUG 51 62	Carbimazole
+T4	DRUG 71 77	iodine
+T5	DRUG 116 127	Carbimazole
+T6	DRUG 152 159	digoxin
+T7	DRUG 164 173	digitoxin
+T8	GROUP 206 224	antithyroid agents
+T9	GROUP 300 318	Antithyroid agents
+T10	DRUG 352 370	sodium iodide I131
+T11	DRUG 442 453	Carbimazole
+T12	GROUP 481 495	anticoagulants
+T13	GROUP 608 621	anticoagulant
+R1	EFFECT Arg1:T1 Arg2:T3
+R2	EFFECT Arg1:T4 Arg2:T5
+R3	MECHANISM Arg1:T6 Arg2:T8
+R4	MECHANISM Arg1:T7 Arg2:T8
+R5	EFFECT Arg1:T9 Arg2:T10

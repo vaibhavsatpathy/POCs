@@ -1,0 +1,21 @@
+T1	DRUG 30 38	abacavir
+T2	DRUG 82 92	lamivudine
+T3	DRUG 96 106	zidovudine
+T4	DRUG 129 139	lamivudine
+T5	DRUG 144 154	zidovudine
+T6	DRUG 193 203	lamivudine
+T7	DRUG 207 217	zidovudine
+T8	DRUG 289 297	abacavir
+T9	DRUG 299 307	Abacavir
+T10	DRUG 359 366	ethanol
+T11	DRUG 368 375	Ethanol
+T12	DRUG 405 413	abacavir
+T13	DRUG 472 481	methadone
+T14	DRUG 556 564	abacavir
+T15	DRUG 615 624	methadone
+T16	BRAND 684 690	ZIAGEN
+T17	DRUG 748 757	methadone
+T18	DRUG 839 848	methadone
+T19	DRUG 918 927	methadone
+R1	MECHANISM Arg1:T11 Arg2:T12
+R2	MECHANISM Arg1:T15 Arg2:T16

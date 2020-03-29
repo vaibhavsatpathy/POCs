@@ -1,0 +1,16 @@
+T1	GROUP 39 61	sympathomimetic amines
+T2	GROUP 122 150	monoamine oxidase inhibitors
+T3	BRAND 152 158	DIDREX
+T4	GROUP 203 217	CNS stimulants
+T5	GROUP 219 231	Amphetamines
+T6	GROUP 271 288	antihypertensives
+T7	GROUP 290 302	Amphetamines
+T8	GROUP 330 355	tricyclic antidepressants
+T9	GROUP 433 445	amphetamines
+T10	DRUG 447 465	Urinary acidifying
+T11	GROUP 521 533	amphetamines
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	ADVISE Arg1:T3 Arg2:T4
+R3	EFFECT Arg1:T5 Arg2:T6
+R4	EFFECT Arg1:T7 Arg2:T8
+R5	MECHANISM Arg1:T10 Arg2:T11

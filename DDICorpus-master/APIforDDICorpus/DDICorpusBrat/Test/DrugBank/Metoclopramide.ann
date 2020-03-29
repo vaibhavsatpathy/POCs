@@ -1,0 +1,32 @@
+T1	DRUG 15 29	metoclopramide
+T2	GROUP 78 99	anticholinergic drugs
+T3	GROUP 104 123	narcotic analgesics
+T4	DRUG 166 180	metoclopramide
+T5	DRUG 195 202	alcohol
+T6	GROUP 204 213	sedatives
+T7	GROUP 215 224	hypnotics
+T8	GROUP 226 235	narcotics
+T9	GROUP 240 253	tranquilizers
+T10	DRUG 272 286	metoclopramide
+T11	GROUP 428 457	monoamine oxi-dase inhibitors
+T12	DRUG 521 528	digoxin
+T13	DRUG 533 547	metoclopramide
+T14	DRUG 648 661	acetaminophen
+T15	DRUG 663 675	tetracycline
+T16	DRUG 677 685	levodopa
+T17	DRUG 687 694	ethanol
+T18	DRUG 696 708	cyclosporine
+T19	DRUG 830 837	insulin
+T20	DRUG 936 950	metoclopramide
+T21	DRUG 1038 1045	insulin
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T1 Arg2:T3
+R3	EFFECT Arg1:T4 Arg2:T5
+R4	EFFECT Arg1:T4 Arg2:T6
+R5	EFFECT Arg1:T4 Arg2:T7
+R6	EFFECT Arg1:T4 Arg2:T8
+R7	EFFECT Arg1:T4 Arg2:T9
+R8	ADVISE Arg1:T10 Arg2:T11
+R9	MECHANISM Arg1:T12 Arg2:T13
+R10	MECHANISM Arg1:T13 Arg2:T14
+R11	ADVISE Arg1:T20 Arg2:T21

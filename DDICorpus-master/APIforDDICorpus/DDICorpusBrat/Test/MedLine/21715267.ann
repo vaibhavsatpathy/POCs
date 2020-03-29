@@ -1,0 +1,30 @@
+T1	DRUG 21 33	moxifloxacin
+T2	DRUG 38 50	lomefloxacin
+T3	DRUG 79 91	Moxifloxacin
+T4	DRUG 96 108	lomefloxacin
+T5	GROUP 113 140	fluoroquinolone antibiotics
+T6	GROUP 200 216	Fluoroquinolones
+T7	DRUG 309 321	moxifloxacin
+T8	GROUP 339 355	fluoroquinolones
+T9	DRUG 402 412	sucralfate
+T10	BRAND 414 421	gelusil
+T11	DRUG 423 435	erythromycin
+T12	GROUP 440 454	multi minerals
+T13	DRUG 724 736	moxifloxacin
+T14	DRUG 741 753	lomefloxacin
+T15	GROUP 936 952	fluoroquinolones
+T16	DRUG 997 1009	Moxifloxacin
+T17	DRUG 1014 1026	Lomefloxacin
+T18	DRUG 1046 1056	sucralfate
+T19	BRAND 1061 1068	gelusil
+T20	DRUG 1098 1110	erythromycin
+T21	GROUP 1130 1144	multi-minerals
+T22	GROUP 1200 1216	fluoroquinolones
+R1	MECHANISM Arg1:T16 Arg2:T18
+R2	MECHANISM Arg1:T16 Arg2:T19
+R3	MECHANISM Arg1:T16 Arg2:T20
+R4	MECHANISM Arg1:T16 Arg2:T21
+R5	MECHANISM Arg1:T17 Arg2:T18
+R6	MECHANISM Arg1:T17 Arg2:T19
+R7	MECHANISM Arg1:T17 Arg2:T20
+R8	MECHANISM Arg1:T17 Arg2:T21

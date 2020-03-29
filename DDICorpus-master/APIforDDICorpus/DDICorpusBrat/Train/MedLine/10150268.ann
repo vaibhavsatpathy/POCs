@@ -1,0 +1,11 @@
+T1	GROUP 4 20	fluoroquinolones
+T2	GROUP 65 81	fluoroquinolones
+T3	GROUP 113 124	antibiotics
+T4	DRUG 246 257	norfloxacin
+T5	DRUG 259 272	ciprofloxacin
+T6	DRUG 274 283	ofloxacin
+T7	DRUG 285 293	enoxacin
+T8	DRUG 299 311	lomefloxacin
+T9	GROUP 570 581	antibiotics
+T10	DRUG 714 725	antibiotics
+T11	GROUP 750 766	fluoroquinolones

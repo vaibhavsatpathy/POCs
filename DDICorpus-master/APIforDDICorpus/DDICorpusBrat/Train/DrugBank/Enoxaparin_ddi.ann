@@ -1,0 +1,8 @@
+T1	BRAND 116 123	Lovenox
+T2	GROUP 185 199	anticoagulants
+T3	GROUP 201 220	platelet inhibitors
+T4	DRUG 231 251	acetylsalicylic acid
+T5	GROUP 267 273	NSAIDs
+T6	DRUG 285 307	ketorolac tromethamine
+T7	DRUG 310 322	dipyridamole
+T8	DRUG 327 341	sulfinpyrazone

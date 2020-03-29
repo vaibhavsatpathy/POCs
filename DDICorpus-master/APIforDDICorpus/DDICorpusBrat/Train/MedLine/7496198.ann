@@ -1,0 +1,7 @@
+T1	DRUG 402 413	melarsoprol
+T2	DRUG 728 739	melarsoprol
+T3	DRUG 1055 1068	thiabendazole
+T4	DRUG 1106 1117	melarsoprol
+T5	GROUP 1332 1347	anti-helminthic
+T6	DRUG 1444 1455	melarsoprol
+R1	EFFECT Arg1:T3 Arg2:T4

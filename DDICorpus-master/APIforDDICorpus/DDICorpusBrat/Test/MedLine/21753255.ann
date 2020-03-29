@@ -1,0 +1,21 @@
+T1	DRUG 0 11	Amphetamine
+T2	DRUG_N 128 138	quinpirole
+T3	DRUG_N 149 159	quinpirole
+T4	DRUG_N 351 361	quinpirole
+T5	DRUG 386 397	amphetamine
+T6	DRUG_N 530 540	quinpirole
+T7	DRUG 669 680	amphetamine
+T8	DRUG_N 799 809	quinpirole
+T9	DRUG 829 840	amphetamine
+T10	DRUG_N 879 889	quinpirole
+T11	DRUG 918 929	amphetamine
+T12	DRUG 971 982	amphetamine
+T13	DRUG_N 1067 1077	quinpirole
+T14	DRUG 1176 1187	amphetamine
+T15	DRUG_N 1289 1299	quinpirole
+T16	DRUG 1327 1338	amphetamine
+T17	DRUG_N 1368 1378	quinpirole
+T18	DRUG 1410 1421	amphetamine
+T19	DRUG 1465 1476	amphetamine
+T20	DRUG 1651 1662	amphetamine
+R1	EFFECT Arg1:T8 Arg2:T9

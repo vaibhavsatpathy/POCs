@@ -1,0 +1,20 @@
+T1	DRUG 0 13	Ethoxzolamide
+T2	GROUP 41 51	tricyclics
+T3	GROUP 53 65	amphetamines
+T4	DRUG 67 79	procainamide
+T5	DRUG 85 94	quinidine
+T6	GROUP 125 137	barbiturates
+T7	DRUG 139 146	lithium
+T8	DRUG 152 155	ASA
+T9	GROUP 194 205	salicylates
+T10	DRUG 227 240	ethoxzolamide
+T11	GROUP 252 261	diuretics
+T12	DRUG 263 277	amphotericin B
+T13	GROUP 283 298	corticosteroids
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T1 Arg2:T3
+R3	EFFECT Arg1:T1 Arg2:T4
+R4	EFFECT Arg1:T1 Arg2:T5
+R5	EFFECT Arg1:T10 Arg2:T11
+R6	EFFECT Arg1:T10 Arg2:T12
+R7	EFFECT Arg1:T10 Arg2:T13

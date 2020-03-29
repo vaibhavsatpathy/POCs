@@ -1,0 +1,32 @@
+T1	DRUG 57 66	diltiazem
+T2	DRUG 71 80	sirolimus
+T3	DRUG 164 173	sirolimus
+T4	GROUP 177 204	macrolide immunosuppressant
+T5	GROUP 236 259	calcium channel blocker
+T6	DRUG 260 269	diltiazem
+T7	GROUP 388 411	immunosuppressive drugs
+T8	GROUP 460 479	calcium antagonists
+T9	DRUG 657 666	sirolimus
+T10	DRUG 697 706	diltiazem
+T11	DRUG 874 883	sirolimus
+T12	DRUG 1061 1070	diltiazem
+T13	DRUG 1131 1140	sirolimus
+T14	DRUG 1236 1245	sirolimus
+T15	DRUG 1293 1302	sirolimus
+T16	DRUG 1318 1327	diltiazem
+T17	DRUG 1416 1425	diltiazem
+T18	DRUG_N 1427 1445	desacetyldiltiazem
+T19	DRUG_N 1451 1469	desmethyldiltiazem
+T20	DRUG 1511 1520	sirolimus
+T21	DRUG 1560 1569	diltiazem
+T22	DRUG 1687 1696	diltiazem
+T23	DRUG 1730 1739	sirolimus
+T24	DRUG 1807 1816	sirolimus
+T25	DRUG 1890 1899	sirolimus
+T26	DRUG 1900 1909	diltiazem
+T27	DRUG 1935 1944	sirolimus
+R1	MECHANISM Arg1:T1 Arg2:T2
+R2	MECHANISM Arg1:T11 Arg2:T12
+R3	MECHANISM Arg1:T15 Arg2:T16
+R4	MECHANISM Arg1:T22 Arg2:T23
+R5	ADVISE Arg1:T25 Arg2:T26

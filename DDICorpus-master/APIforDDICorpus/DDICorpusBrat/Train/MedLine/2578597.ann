@@ -1,0 +1,16 @@
+T1	GROUP 21 36	antihistaminics
+T2	GROUP 121 136	antihistaminics
+T3	GROUP 149 165	analgesic agents
+T4	GROUP 179 198	analgesic adjuvants
+T5	DRUG 259 274	diphenhydramine
+T6	DRUG 276 287	hydroxyzine
+T7	DRUG 289 301	orphenadrine
+T8	DRUG 303 313	pyrilamine
+T9	DRUG_N 315 331	phenyltoloxamine
+T10	DRUG 333 345	promethazine
+T11	DRUG 347 359	methdilazine
+T12	DRUG 365 379	tripelennamine
+T13	GROUP 428 443	antihistaminics
+T14	GROUP 686 700	antihistaminic
+T15	GROUP 816 831	antihistaminics
+T16	GROUP 987 1002	antihistaminics

@@ -1,0 +1,8 @@
+T1	DRUG 5 18	metronidazole
+T2	GROUP 79 87	coumarin
+T3	DRUG 92 100	warfarin
+T4	BRAND 197 205	METROGEL
+T5	DRUG 207 220	metronidazole
+T6	DRUG 352 365	metronidazole
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T1 Arg2:T3

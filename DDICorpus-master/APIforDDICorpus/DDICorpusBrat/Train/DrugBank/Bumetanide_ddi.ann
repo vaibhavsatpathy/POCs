@@ -1,0 +1,38 @@
+T1	DRUG 125 135	bumetanide
+T2	GROUP 156 182	aminoglycoside antibiotics
+T3	DRUG 352 362	bumetanide
+T4	DRUG 492 499	Lithium
+T5	DRUG 501 508	Lithium
+T6	GROUP 544 553	diuretics
+T7	DRUG 563 573	bumetanide
+T8	DRUG 638 645	lithium
+T9	DRUG 658 668	Probenecid
+T10	DRUG 688 698	probenecid
+T11	DRUG 759 769	bumetanide
+T12	DRUG 799 809	probenecid
+T13	DRUG 813 823	bumetanide
+T14	DRUG 967 977	bumetanide
+T15	DRUG 985 995	probenecid
+T16	DRUG 1041 1051	bumetanide
+T17	DRUG 1055 1067	Indomethacin
+T18	DRUG 1069 1081	Indomethacin
+T19	DRUG 1152 1162	bumetanide
+T20	DRUG 1190 1200	bumetanide
+T21	DRUG 1268 1278	bumetanide
+T22	GROUP 1306 1323	Antihypertensives
+T23	DRUG 1325 1335	Bumetanide
+T24	GROUP 1373 1395	antihypertensive drugs
+T25	DRUG 1455 1462	Digoxin
+T26	DRUG 1518 1525	digoxin
+T27	GROUP 1542 1556	Anticoagulants
+T28	DRUG 1599 1609	bumetanide
+T29	DRUG 1631 1639	warfarin
+R1	ADVISE Arg1:T1 Arg2:T2
+R2	ADVISE Arg1:T5 Arg2:T6
+R3	ADVISE Arg1:T5 Arg2:T7
+R4	EFFECT Arg1:T10 Arg2:T11
+R5	MECHANISM Arg1:T12 Arg2:T13
+R6	ADVISE Arg1:T15 Arg2:T16
+R7	MECHANISM Arg1:T18 Arg2:T19
+R8	EFFECT Arg1:T18 Arg2:T20
+R9	EFFECT Arg1:T23 Arg2:T24

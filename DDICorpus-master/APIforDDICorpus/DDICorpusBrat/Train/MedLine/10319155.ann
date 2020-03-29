@@ -1,0 +1,16 @@
+T1	DRUG_N 26 51	Ganoderma lucidum extract
+T2	GROUP 87 98	antibiotics
+T3	DRUG_N 126 128	GL
+T4	DRUG_N 465 467	GL
+T5	DRUG_N 594 596	GL
+T6	GROUP 616 627	antibiotics
+T7	DRUG 629 639	ampicillin
+T8	DRUG 641 650	cefazolin
+T9	DRUG 652 667	oxytetracycline
+T10	DRUG 672 687	chloramphenicol
+T11	DRUG_N 831 833	GL
+T12	GROUP 844 855	antibiotics
+T13	DRUG_N 992 994	GL
+T14	DRUG 1013 1022	cefazolin
+R1	EFFECT Arg1:T11 Arg2:T12
+R2	EFFECT Arg1:T13 Arg2:T14

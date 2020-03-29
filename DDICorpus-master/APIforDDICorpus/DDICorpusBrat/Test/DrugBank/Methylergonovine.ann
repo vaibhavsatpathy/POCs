@@ -1,0 +1,35 @@
+T1	GROUP 25 46	Macrolide Antibiotics
+T2	GROUP 51 70	Protease Inhibitors
+T3	GROUP 178 198	ergot alkaloid drugs
+T4	DRUG 205 222	dihydroergotamine
+T5	DRUG 227 237	ergotamine
+T6	DRUG 420 436	methylergonovine
+T7	GROUP 585 606	macrolide antibiotics
+T8	DRUG 614 626	erythromycin
+T9	DRUG 628 642	troleandomycin
+T10	DRUG 644 658	clarithromycin
+T11	GROUP 661 673;699 709	HIV protease inhibitors
+T12	GROUP 677 709	reverse transcriptase inhibitors
+T13	DRUG 717 726	ritonavir
+T14	DRUG 728 737	indinavir
+T15	DRUG 739 749	nelfinavir
+T16	DRUG 751 762	delavirdine
+T17	GROUP 767 784	azole antifungals
+T18	DRUG 792 804	ketoconazole
+T19	DRUG 806 818	itraconazole
+T20	DRUG 820 832	voriconazole
+T21	DRUG 934 944	saquinavir
+T22	DRUG 946 956	nefazodone
+T23	DRUG 958 969	fluconazole
+T24	DRUG 989 999	fluoxetine
+T25	DRUG 1001 1012	fluvoxamine
+T26	DRUG 1014 1022	zileuton
+T27	DRUG 1028 1040	clotrimazole
+T28	DRUG 1190 1206	methylergonovine
+T29	BRAND 1327 1337	Methergine
+T30	DRUG 1342 1366	methylergonovine maleate
+T31	GROUP 1400 1416	vasoconstrictors
+T32	GROUP 1420 1435	ergot alkaloids
+R1	ADVISE Arg1:T29 Arg2:T31
+R2	ADVISE Arg1:T29 Arg2:T32
+R3	ADVISE Arg1:T30 Arg2:T31

@@ -1,0 +1,26 @@
+T1	GROUP 26 41	antidepressants
+T2	GROUP 188 208	antidepressant drugs
+T3	GROUP 279 298	hypoglycemic agents
+T4	GROUP 455 476	antidepressant agents
+T5	GROUP 545 560	antidepressants
+T6	DRUG 690 700	Imipramine
+T7	DRUG 712 723	moclobemide
+T8	DRUG 736 746	clonazepam
+T9	DRUG 761 771	fluoxetine
+T10	DRUG 783 793	sertraline
+T11	DRUG 887 894	glucose
+T12	DRUG 921 928	glucose
+T13	DRUG 1014 1024	Imipramine
+T14	DRUG 1029 1039	clonazepam
+T15	DRUG 1085 1095	Fluoxetine
+T16	DRUG 1100 1111	moclobemide
+T17	DRUG 1128 1135	glucose
+T18	DRUG 1183 1193	Sertraline
+T19	DRUG 1247 1254	glucose
+T20	DRUG 1414 1421	glucose
+T21	DRUG 1445 1452	glucose
+T22	DRUG 1470 1480	sertraline
+T23	DRUG 1524 1531	glucose
+T24	DRUG 1622 1632	sertraline
+T25	DRUG 1738 1748	Clonazepam
+R1	INT Arg1:T2 Arg2:T3

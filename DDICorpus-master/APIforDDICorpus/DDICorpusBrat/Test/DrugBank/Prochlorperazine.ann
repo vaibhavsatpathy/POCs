@@ -1,0 +1,9 @@
+T1	GROUP 0 18	Thiazide diuretics
+T2	GROUP 82 96	phenothiazines
+T3	DRUG 126 138	guanethidine
+T4	GROUP 186 200	phenothiazines
+T5	DRUG 255 266	propranolol
+T6	GROUP 272 286	phenothiazines
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T3 Arg2:T4
+R3	MECHANISM Arg1:T5 Arg2:T6

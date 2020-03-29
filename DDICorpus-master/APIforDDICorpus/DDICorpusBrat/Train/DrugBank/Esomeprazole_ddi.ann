@@ -1,0 +1,37 @@
+T1	DRUG 0 12	Esomeprazole
+T2	DRUG 121 133	esomeprazole
+T3	DRUG 337 349	esomeprazole
+T4	DRUG 409 418	phenytoin
+T5	DRUG 420 428	warfarin
+T6	DRUG 430 439	quinidine
+T7	DRUG 441 455	clarithromycin
+T8	DRUG 459 470	amoxicillin
+T9	DRUG 579 587	warfarin
+T10	DRUG 592 604	esomeprazole
+T11	GROUP 720 742	proton pump inhibitors
+T12	DRUG 747 755	warfarin
+T13	DRUG 838 850	Esomeprazole
+T14	DRUG 901 913	esomeprazole
+T15	DRUG 955 967	esomeprazole
+T16	DRUG 978 986	diazepam
+T17	DRUG 1052 1060	diazepam
+T18	DRUG 1089 1097	diazepam
+T19	DRUG 1191 1199	diazepam
+T20	DRUG 1304 1316	Esomeprazole
+T21	DRUG 1361 1373	esomeprazole
+T22	DRUG 1486 1498	ketoconazole
+T23	DRUG 1500 1504	iron
+T24	DRUG 1515 1522	digoxin
+T25	GROUP 1550 1564	contraceptives
+T26	DRUG 1566 1574	diazepam
+T27	DRUG 1576 1585	phenytoin
+T28	DRUG 1590 1599	quinidine
+T29	DRUG 1654 1666	esomeprazole
+T30	DRUG 1698 1712	clarithromycin
+T31	DRUG 1718 1726	pimozide
+R1	EFFECT Arg1:T11 Arg2:T12
+R2	MECHANISM Arg1:T15 Arg2:T16
+R3	MECHANISM Arg1:T21 Arg2:T22
+R4	MECHANISM Arg1:T21 Arg2:T23
+R5	MECHANISM Arg1:T21 Arg2:T24
+R6	ADVISE Arg1:T30 Arg2:T31

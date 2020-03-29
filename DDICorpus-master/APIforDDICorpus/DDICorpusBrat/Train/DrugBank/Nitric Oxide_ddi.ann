@@ -1,0 +1,14 @@
+T1	BRAND 221 227	INOmax
+T2	DRUG 255 265	tolazoline
+T3	DRUG 267 275	dopamine
+T4	DRUG 277 287	dobutamine
+T5	GROUP 289 297	steroids
+T6	DRUG 299 309	surfactant
+T7	GROUP 405 433	nitric oxide donor compounds
+T8	DRUG 445 465	sodium nitroprusside
+T9	DRUG 470 483	nitroglycerin
+T10	BRAND 518 524	INOmax
+T11	DRUG 593 603	prilocaine
+R1	EFFECT Arg1:T7 Arg2:T10
+R2	EFFECT Arg1:T8 Arg2:T10
+R3	EFFECT Arg1:T9 Arg2:T10

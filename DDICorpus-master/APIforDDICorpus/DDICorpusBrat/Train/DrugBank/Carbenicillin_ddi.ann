@@ -1,0 +1,5 @@
+T1	BRAND 0 9	Geocillin
+T2	DRUG 11 39	carbenicillin indanyl sodium
+T3	DRUG 117 127	probenecid
+R1	MECHANISM Arg1:T1 Arg2:T3
+R2	MECHANISM Arg1:T2 Arg2:T3

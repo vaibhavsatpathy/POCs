@@ -1,0 +1,34 @@
+T1	GROUP 0 8	Nitrates
+T2	DRUG 33 41	Bepridil
+T3	GROUP 70 78	nitrates
+T4	DRUG 157 170	nitroglycerin
+T5	DRUG 244 252	Bepridil
+T6	GROUP 262 282	Beta-blocking Agents
+T7	DRUG 307 315	Bepridil
+T8	GROUP 320 340	beta-blocking agents
+T9	DRUG 574 581	Digoxin
+T10	DRUG 628 650	bepridil hydrochloride
+T11	DRUG 771 778	digoxin
+T12	DRUG 858 880	bepridil hydrochloride
+T13	DRUG 885 892	digoxin
+T14	DRUG 1036 1043	digoxin
+T15	GROUP 1236 1249	Hypoglycemics
+T16	DRUG 1251 1259	Bepridil
+T17	DRUG 1387 1394	insulin
+T18	GROUP 1403 1422	hypoglycemic agents
+T19	DRUG 1534 1556	bepridil hydrochloride
+T20	DRUG 1644 1666	bepridil hydrochloride
+T21	GROUP 1678 1700	anti-arrhythmic agents
+T22	DRUG 1709 1718	quinidine
+T23	DRUG 1723 1735	procainamide
+T24	GROUP 1737 1755	cardiac glycosides
+T25	GROUP 1760 1786	tricyclic anti-depressants
+T26	GROUP 1788 1804	Anti-arrhythmics
+T27	GROUP 1809 1835	tricyclic anti-depressants
+T28	DRUG 1903 1925	bepridil hydrochloride
+T29	GROUP 1927 1945	Cardiac glycosides
+T30	DRUG 2015 2037	bepridil hydrochloride
+R1	MECHANISM Arg1:T10 Arg2:T11
+R2	EFFECT Arg1:T26 Arg2:T28
+R3	EFFECT Arg1:T27 Arg2:T28
+R4	EFFECT Arg1:T29 Arg2:T30

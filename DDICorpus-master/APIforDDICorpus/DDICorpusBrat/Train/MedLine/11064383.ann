@@ -1,0 +1,17 @@
+T1	DRUG 42 52	budesonide
+T2	BRAND 56 64	Survanta
+T3	GROUP 74 89	lung surfactant
+T4	GROUP 107 127	pulmonary surfactant
+T5	BRAND 154 162	Survanta
+T6	DRUG 212 222	budesonide
+T7	DRUG 260 270	budesonide
+T8	DRUG 294 301	ethanol
+T9	GROUP 718 725	solvent
+T10	BRAND 805 813	Survanta
+T11	DRUG 853 863	budesonide
+T12	BRAND 969 977	Survanta
+T13	DRUG_N 1037 1059	sodium dodecyl sulfate
+T14	DRUG 1094 1104	budesonide
+T15	DRUG 1182 1192	budesonide
+T16	BRAND 1205 1213	Survanta
+T17	GROUP 1257 1272	lung surfactant

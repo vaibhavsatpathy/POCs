@@ -1,0 +1,29 @@
+T1	DRUG 53 63	bexarotene
+T2	DRUG 85 95	Bexarotene
+T3	DRUG 196 206	bexarotene
+T4	DRUG 231 243	ketoconazole
+T5	DRUG 245 257	itraconazole
+T6	DRUG 259 271	erythromycin
+T7	DRUG 273 284	gemfibrozil
+T8	DRUG 399 409	bexarotene
+T9	DRUG 439 447	rifampin
+T10	DRUG 449 458	phenytoin
+T11	DRUG 460 473	phenobarbital
+T12	DRUG 549 559	bexarotene
+T13	BRAND 606 615	Targretin
+T14	DRUG 629 640	gemfibrozil
+T15	DRUG 703 713	bexarotene
+T16	DRUG 788 799	gemfibrozil
+T17	DRUG 827 837	bexarotene
+T18	DRUG 886 898	atorvastatin
+T19	DRUG 945 956	gemfibrozil
+T20	BRAND 962 971	Targretin
+R1	MECHANISM Arg1:T4 Arg2:T8
+R2	MECHANISM Arg1:T5 Arg2:T8
+R3	MECHANISM Arg1:T6 Arg2:T8
+R4	MECHANISM Arg1:T7 Arg2:T8
+R5	MECHANISM Arg1:T9 Arg2:T12
+R6	MECHANISM Arg1:T10 Arg2:T12
+R7	MECHANISM Arg1:T11 Arg2:T12
+R8	MECHANISM Arg1:T13 Arg2:T14
+R9	ADVISE Arg1:T19 Arg2:T20

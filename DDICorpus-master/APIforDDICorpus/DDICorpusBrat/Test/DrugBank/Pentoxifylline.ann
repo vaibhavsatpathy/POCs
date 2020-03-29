@@ -1,0 +1,21 @@
+T1	BRAND 152 159	TRENTAL
+T2	GROUP 177 191	anticoagulants
+T3	GROUP 195 226	platelet aggregation inhibitors
+T4	DRUG 240 248	Warfarin
+T5	BRAND 532 539	TRENTAL
+T6	DRUG 544 556	theophylline
+T7	DRUG 593 605	theophylline
+T8	DRUG 617 629	theophylline
+T9	DRUG 739 751	theophylline
+T10	BRAND 782 789	TRENTAL
+T11	GROUP 822 844	antihypertensive drugs
+T12	GROUP 846 859	beta blockers
+T13	GROUP 861 870	digitalis
+T14	GROUP 872 881	diuretics
+T15	GROUP 883 902	antidiabetic agents
+T16	GROUP 908 923	antiarrhythmics
+T17	BRAND 1035 1042	TRENTAL
+T18	GROUP 1192 1215	antihypertensive agents
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T1 Arg2:T3
+R3	MECHANISM Arg1:T5 Arg2:T6

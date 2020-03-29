@@ -1,0 +1,31 @@
+T1	DRUG 32 43	fluvastatin
+T2	DRUG 45 56	Fluvastatin
+T3	GROUP 70 146	synthetic 3-hydroxy-3-methylglutaryl coenzyme A (HMGCoA) reductase inhibitor
+T4	GROUP 298 325	HMGCoA reductase inhibitors
+T5	DRUG 327 337	lovastatin
+T6	DRUG 339 350	simvastatin
+T7	DRUG 356 367	pravastatin
+T8	DRUG 475 486	fluvastatin
+T9	DRUG 622 633	fluvastatin
+T10	DRUG 768 779	fluvastatin
+T11	DRUG 1033 1044	fluvastatin
+T12	DRUG 1155 1166	fluvastatin
+T13	DRUG 1549 1560	fluvastatin
+T14	DRUG 1677 1688	fluvastatin
+T15	DRUG 1958 1969	fluvastatin
+T16	DRUG 2192 2203	fluvastatin
+T17	DRUG 2261 2275	Cholestyramine
+T18	DRUG 2364 2375	fluvastatin
+T19	DRUG 2434 2448	cholestyramine
+T20	DRUG 2476 2487	fluvastatin
+T21	DRUG 2571 2579	warfarin
+T22	DRUG 2673 2681	warfarin
+T23	DRUG 2686 2697	fluvastatin
+T24	DRUG 2745 2751	niacin
+T25	DRUG 2756 2767	propranolol
+T26	DRUG 2804 2815	fluvastatin
+T27	DRUG 2896 2903	digoxin
+T28	DRUG 2966 2973	digoxin
+T29	DRUG 3071 3082	fluvastatin
+R1	MECHANISM Arg1:T17 Arg2:T18
+R2	EFFECT Arg1:T19 Arg2:T20

@@ -1,0 +1,34 @@
+T1	DRUG 40 51	nisoldipine
+T2	DRUG 100 117	cimetidine 400 mg
+T3	DRUG 131 141	Ranitidine
+T4	DRUG 197 208	nisoldipine
+T5	GROUP 278 310	histamine H2 receptor antagonist
+T6	DRUG 346 355	phenytoin
+T7	BRAND 367 372	SULAR
+T8	DRUG 415 426	nisoldipine
+T9	BRAND 493 498	SULAR
+T10	DRUG 504 513	phenytoin
+T11	GROUP 576 592	antihypertensive
+T12	DRUG 660 671	nisoldipine
+T13	GROUP 676 689	beta-blockers
+T14	DRUG 691 699	atenolol
+T15	DRUG 701 712	propranolol
+T16	DRUG 749 760	Propranolol
+T17	DRUG 842 853	nisoldipine
+T18	BRAND 884 889	SULAR
+T19	DRUG 926 934	atenolol
+T20	GROUP 964 980	antihypertensive
+T21	DRUG 990 999	Quinidine
+T22	DRUG 1053 1064	nisoldipine
+T23	DRUG 1165 1176	nisoldipine
+T24	DRUG 1194 1203	quinidine
+T25	DRUG 1376 1387	nisoldipine
+T26	DRUG 1392 1400	warfarin
+T27	DRUG 1404 1411	digoxin
+R1	MECHANISM Arg1:T1 Arg2:T2
+R2	MECHANISM Arg1:T6 Arg2:T7
+R3	ADVISE Arg1:T9 Arg2:T10
+R4	EFFECT Arg1:T16 Arg2:T17
+R5	EFFECT Arg1:T18 Arg2:T19
+R6	MECHANISM Arg1:T21 Arg2:T22
+R7	MECHANISM Arg1:T23 Arg2:T24

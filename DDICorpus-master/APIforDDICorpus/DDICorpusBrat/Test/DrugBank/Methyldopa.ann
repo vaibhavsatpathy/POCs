@@ -1,0 +1,34 @@
+T1	DRUG 5 15	methyldopa
+T2	GROUP 35 57	antihypertensive drugs
+T3	GROUP 259 270	anesthetics
+T4	DRUG 279 289	methyldopa
+T5	GROUP 368 380	vasopressors
+T6	DRUG 446 456	methyldopa
+T7	DRUG 463 473	methyldopa
+T8	DRUG 478 485	lithium
+T9	DRUG 568 575	lithium
+T10	DRUG 608 615	lithium
+T11	DRUG 695 705	methyldopa
+T12	DRUG 731 746	ferrous sulfate
+T13	DRUG 750 767	ferrous gluconate
+T14	DRUG 843 853	methyldopa
+T15	DRUG 875 885	methyldopa
+T16	DRUG 891 906	ferrous sulfate
+T17	DRUG 910 927	ferrous gluconate
+T18	GROUP 948 982	Monoamine oxidase (MAO) inhibitors
+T19	DRUG 1041 1051	Methyldopa
+T20	DRUG 1312 1322	methyldopa
+T21	DRUG 1647 1657	Methyldopa
+T22	DRUG_N 1697 1700	VMA
+T23	DRUG_N 1702 1723	vanillylmandelic acid
+T24	DRUG_N 1786 1789	VMA
+T25	DRUG_N 1793 1801	vanillin
+T26	DRUG 1803 1813	Methyldopa
+T27	DRUG 1976 1986	methyldopa
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	ADVISE Arg1:T3 Arg2:T4
+R3	ADVISE Arg1:T7 Arg2:T8
+R4	MECHANISM Arg1:T11 Arg2:T12
+R5	MECHANISM Arg1:T11 Arg2:T13
+R6	ADVISE Arg1:T15 Arg2:T16
+R7	ADVISE Arg1:T15 Arg2:T17

@@ -1,0 +1,13 @@
+T1	DRUG_N 14 23	hemantane
+T2	DRUG 28 39	doxycycline
+T3	GROUP 108 130	anti-parkinsonian drug
+T4	DRUG_N 131 140	hemantane
+T5	DRUG_N 142 172	(2-adamantyl)hexamethylenimine
+T6	GROUP 199 214	antibiotic drug
+T7	DRUG 215 226	doxycycline
+T8	DRUG_N 277 321	1-methyl-4-phenyl-1,2,3,4-tetrahydropyridine
+T9	DRUG_N 323 327	MPTP
+T10	DRUG_N 439 443	MPTP
+T11	DRUG_N 527 536	hemantane
+T12	DRUG 540 551	doxycycline
+R1	EFFECT Arg1:T11 Arg2:T12

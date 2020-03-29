@@ -1,0 +1,16 @@
+T1	GROUP 0 48	Non-selective monoamine oxidase (MAO) inhibitors
+T2	DRUG 61 79	phenelzine sulfate
+T3	DRUG 81 104	tranylcypromine sulfate
+T4	DRUG 109 118	pargyline
+T5	DRUG 143 158	L-phenylalanine
+T6	GROUP 163 191	non-selective MAO inhibitors
+T7	DRUG 216 226	Selegiline
+T8	DRUG 229 244	L-phenylalanine
+T9	GROUP 253 276	selective MAO inhibitor
+T10	DRUG 277 287	selegiline
+T11	GROUP 356 373	Neuroleptic Drugs
+T12	DRUG 376 391	L-phenylalanine
+T13	GROUP 448 465	neuroleptic drugs
+R1	EFFECT Arg1:T5 Arg2:T6
+R2	EFFECT Arg1:T8 Arg2:T10
+R3	EFFECT Arg1:T11 Arg2:T12

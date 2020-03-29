@@ -1,0 +1,7 @@
+T1	DRUG 79 90	tigecycline
+T2	DRUG 112 120	warfarin
+T3	GROUP 140 159	antibacterial drugs
+T4	GROUP 170 184	contraceptives
+T5	GROUP 201 215	contraceptives
+R1	ADVISE Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T3 Arg2:T4

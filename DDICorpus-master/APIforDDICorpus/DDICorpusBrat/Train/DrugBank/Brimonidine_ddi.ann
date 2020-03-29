@@ -1,0 +1,23 @@
+T1	BRAND 72 82	ALPHAGAN P
+T2	GROUP 143 158	CNS depressants
+T3	DRUG 160 167	alcohol
+T4	GROUP 169 181	barbiturates
+T5	GROUP 183 190	opiates
+T6	GROUP 192 201	sedatives
+T7	GROUP 206 217	anesthetics
+T8	GROUP 241 255	Alpha-agonists
+T9	GROUP 349 362	beta-blockers
+T10	GROUP 390 408	anti-hypertensives
+T11	GROUP 416 434	cardiac glycosides
+T12	GROUP 447 472	Tricyclic antidepressants
+T13	DRUG 536 545	clonidine
+T14	BRAND 610 620	ALPHAGAN P
+T15	BRAND 753 763	ALPHAGAN P
+T16	GROUP 842 867	tricyclic antidepressants
+R1	ADVISE Arg1:T1 Arg2:T2
+R2	ADVISE Arg1:T1 Arg2:T3
+R3	ADVISE Arg1:T1 Arg2:T4
+R4	ADVISE Arg1:T1 Arg2:T5
+R5	ADVISE Arg1:T1 Arg2:T6
+R6	ADVISE Arg1:T1 Arg2:T7
+R7	EFFECT Arg1:T12 Arg2:T13

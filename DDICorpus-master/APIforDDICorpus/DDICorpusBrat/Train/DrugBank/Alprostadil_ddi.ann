@@ -1,0 +1,12 @@
+T1	BRAND 48 68	Prostin VR Pediatric
+T2	GROUP 182 193	antibiotics
+T3	DRUG 203 213	penicillin
+T4	DRUG 218 228	gentamicin
+T5	GROUP 230 242	vasopressors
+T6	DRUG 252 260	dopamine
+T7	DRUG 265 278	isoproterenol
+T8	GROUP 280 298	cardiac glycosides
+T9	GROUP 304 313	diuretics
+T10	DRUG 323 333	furosemide
+T11	BRAND 335 344	Caverject
+T12	DRUG 411 422	alprostadil

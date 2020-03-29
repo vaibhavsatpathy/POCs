@@ -1,0 +1,86 @@
+T1	DRUG 94 105	allopurinol
+T2	DRUG 144 155	allopurinol
+T3	DRUG 266 280	Mercaptopurine
+T4	DRUG 281 293	Azathioprine
+T5	DRUG 295 306	Allopurinol
+T6	DRUG 343 357	mercaptopurine
+T7	DRUG 362 374	azathioprine
+T8	DRUG 378 393	6-thiouric acid
+T9	DRUG 463 477	mercaptopurine
+T10	DRUG 501 515	mercaptopurine
+T11	BRAND 517 527	Purinethol
+T12	DRUG 532 544	azathioprine
+T13	BRAND 546 552	Imuran
+T14	DRUG 603 614	allopurinol
+T15	DRUG 718 732	mercaptopurine
+T16	DRUG 736 748	azathioprine
+T17	DRUG 784 798	mercaptopurine
+T18	DRUG 802 814	azathioprine
+T19	DRUG 904 913	Dicumarol
+T20	DRUG 941 952	allopurinol
+T21	GROUP 983 996	anticoagulant
+T22	DRUG 998 1007	dicumarol
+T23	DRUG 1103 1114	allopurinol
+T24	DRUG 1147 1156	dicumarol
+T25	GROUP 1265 1282	Uricosuric Agents
+T26	DRUG 1307 1317	oxipurinol
+T27	GROUP 1347 1364	uricosuric agents
+T28	DRUG 1450 1460	oxipurinol
+T29	GROUP 1556 1573	uricosuric agents
+T30	DRUG 1578 1589	allopurinol
+T31	DRUG 1765 1776	allopurinol
+T32	DRUG 1896 1907	allopurinol
+T33	GROUP 1937 1954	uricosuric agents
+T34	GROUP 1996 2014	Thiazide Diuretics
+T35	DRUG 2056 2067	allopurinol
+T36	GROUP 2072 2090	thiazide diuretics
+T37	DRUG 2128 2139	allopurinol
+T38	GROUP 2353 2371	thiazide diuretics
+T39	DRUG 2616 2627	allopurinol
+T40	GROUP 2818 2836	thiazide diuretics
+T41	DRUG 2841 2852	allopurinol
+T42	DRUG 3039 3049	Ampicillin
+T43	DRUG 3050 3061	Amoxicillin
+T44	DRUG 3148 3158	ampicillin
+T45	DRUG 3162 3173	amoxicillin
+T46	DRUG 3192 3203	allopurinol
+T47	GROUP 3323 3339	Cytotoxic Agents
+T48	DRUG 3377 3393	cyclophosphamide
+T49	GROUP 3404 3420	cytotoxic agents
+T50	DRUG 3515 3526	allopurinol
+T51	DRUG 3614 3625	allopurinol
+T52	DRUG 3688 3704	cyclophosphamide
+T53	DRUG 3706 3717	doxorubicin
+T54	DRUG 3719 3728	bleomycin
+T55	DRUG 3730 3742	procarbazine
+T56	DRUG 3750 3765	mechlorethamine
+T57	DRUG 3767 3781	Chlorpropamide
+T58	DRUG 3783 3797	Chlorpropamide
+T59	DRUG 3836 3847	allopurinol
+T60	DRUG 3855 3866	allopurinol
+T61	DRUG 3871 3885	chlorpropamide
+T62	DRUG 4006 4017	allopurinol
+T63	DRUG 4022 4036	chlorpropamide
+T64	DRUG 4101 4112	Cyclosporin
+T65	DRUG 4136 4148	cyclosporine
+T66	DRUG 4207 4225	allopurinol sodium
+T67	DRUG 4255 4267	cyclosporine
+T68	DRUG 4302 4314	cyclosporine
+T69	DRUG 4381 4392	Tolbutamide
+R1	MECHANISM Arg1:T5 Arg2:T6
+R2	MECHANISM Arg1:T5 Arg2:T7
+R3	ADVISE Arg1:T14 Arg2:T15
+R4	ADVISE Arg1:T14 Arg2:T16
+R5	MECHANISM Arg1:T20 Arg2:T22
+R6	MECHANISM Arg1:T27 Arg2:T28
+R7	MECHANISM Arg1:T29 Arg2:T30
+R8	EFFECT Arg1:T35 Arg2:T36
+R9	ADVISE Arg1:T40 Arg2:T41
+R10	EFFECT Arg1:T44 Arg2:T46
+R11	EFFECT Arg1:T45 Arg2:T46
+R12	EFFECT Arg1:T48 Arg2:T50
+R13	EFFECT Arg1:T49 Arg2:T50
+R14	MECHANISM Arg1:T58 Arg2:T59
+R15	MECHANISM Arg1:T60 Arg2:T61
+R16	EFFECT Arg1:T62 Arg2:T63
+R17	MECHANISM Arg1:T65 Arg2:T66

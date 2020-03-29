@@ -1,0 +1,46 @@
+T1	GROUP 0 27	Short-Acting beta2-agonists
+T2	GROUP 37 52	bronchodilators
+T3	DRUG 159 169	formoterol
+T4	GROUP 362 384	sympathomimetic agents
+T5	BRAND 427 434	FORADIL
+T6	GROUP 436 464	Monoamine Oxidase Inhibitors
+T7	GROUP 469 494	Tricyclic Antidepressants
+T8	BRAND 496 503	FORADIL
+T9	GROUP 579 607	monoamine oxidase inhibitors
+T10	GROUP 611 636	tricyclic antidepressants
+T11	DRUG 659 669	formoterol
+T12	GROUP 735 750	Corticosteroids
+T13	GROUP 752 767	Methylxanthines
+T14	GROUP 772 781	Diuretics
+T15	GROUP 810 830	xanthine derivatives
+T16	GROUP 832 840	steroids
+T17	GROUP 845 854	diuretics
+T18	GROUP 904 919	beta2-agonists.
+T19	GROUP 1008 1017	digitalis
+T20	BRAND 1102 1109	FORADIL
+T21	BRAND 1121 1128	FORADIL
+T22	DRUG 1284 1293	quinidine
+T23	DRUG 1295 1307	disopyramide
+T24	DRUG 1309 1321	procainamide
+T25	GROUP 1323 1337	phenothiazines
+T26	GROUP 1339 1353	antihistamines
+T27	GROUP 1359 1384	tricyclic antidepressants
+T28	BRAND 1653 1660	FORADIL
+T29	DRUG 1663 1682	formoterol fumarate
+T30	BRAND 2003 2010	FORADIL
+T31	GROUP 2181 2194	beta2-agonist
+T32	DRUG 2203 2213	salbutamol
+T33	GROUP 2501 2537	short-acting, inhaled beta2-agonists
+T34	GROUP 2579 2615	short-acting, inhaled beta2-agonists
+T35	BRAND 2621 2628	FORADIL
+T36	GROUP 2684 2699	corticosteroids
+T37	BRAND 2885 2892	FORADIL
+T38	BRAND 3040 3047	FORADIL
+T39	BRAND 3177 3184	FORADIL
+T40	GROUP 3326 3354	short-acting  beta2-agonists
+R1	EFFECT Arg1:T4 Arg2:T5
+R2	ADVISE Arg1:T8 Arg2:T9
+R3	ADVISE Arg1:T8 Arg2:T10
+R4	EFFECT Arg1:T15 Arg2:T18
+R5	EFFECT Arg1:T16 Arg2:T18
+R6	EFFECT Arg1:T17 Arg2:T18

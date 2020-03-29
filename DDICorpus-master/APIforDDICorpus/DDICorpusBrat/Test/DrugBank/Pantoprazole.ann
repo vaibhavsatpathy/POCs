@@ -1,0 +1,49 @@
+T1	DRUG 0 12	Pantoprazole
+T2	DRUG 209 221	pantoprazole
+T3	DRUG 310 322	theophylline
+T4	DRUG 324 333	cisapride
+T5	DRUG 335 345	antipyrine
+T6	DRUG 347 355	caffeine
+T7	DRUG 357 370	carbamazepine
+T8	DRUG 372 380	diazepam
+T9	DRUG_N 409 426	desmethyldiazepam
+T10	DRUG 429 439	diclofenac
+T11	DRUG 441 449	naproxen
+T12	DRUG 451 460	piroxicam
+T13	DRUG 462 469	digoxin
+T14	DRUG 471 478	ethanol
+T15	DRUG 480 489	glyburide
+T16	GROUP 499 512	contraceptive
+T17	DRUG 514 528	levonorgestrel
+T18	DRUG 529 546	ethinyl estradiol
+T19	DRUG 549 559	metoprolol
+T20	DRUG 561 571	nifedipine
+T21	DRUG 573 582	phenytoin
+T22	DRUG 584 592	warfarin
+T23	DRUG 594 603	midazolam
+T24	DRUG 605 619	clarithromycin
+T25	DRUG 621 634	metronidazole
+T26	DRUG 639 650	amoxicillin
+T27	DRUG 688 700	pantoprazole
+T28	DRUG 805 817	pantoprazole
+T29	DRUG 847 859	pantoprazole
+T30	GROUP 961 969	antacids
+T31	GROUP 1069 1091	proton pump inhibitors
+T32	DRUG 1103 1115	pantoprazole
+T33	DRUG 1121 1129	warfarin
+T34	GROUP 1251 1273	proton pump inhibitors
+T35	DRUG 1278 1286	warfarin
+T36	DRUG 1439 1451	pantoprazole
+T37	DRUG 1566 1578	ketoconazole
+T38	DRUG 1580 1590	ampicillin
+T39	DRUG 1603 1607	iron
+T40	DRUG 1701 1721	tetrahydrocannabinol
+T41	DRUG 1723 1726	THC
+T42	GROUP 1755 1777	proton pump inhibitors
+T43	DRUG 1789 1801	pantoprazole
+R1	EFFECT Arg1:T31 Arg2:T33
+R2	EFFECT Arg1:T32 Arg2:T33
+R3	ADVISE Arg1:T34 Arg2:T35
+R4	MECHANISM Arg1:T36 Arg2:T37
+R5	MECHANISM Arg1:T36 Arg2:T38
+R6	MECHANISM Arg1:T36 Arg2:T39

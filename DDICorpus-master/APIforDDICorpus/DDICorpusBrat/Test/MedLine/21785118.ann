@@ -1,0 +1,12 @@
+T1	DRUG 20 33	levothyroxine
+T2	BRAND 59 66	Infacol
+T3	DRUG 234 244	simeticone
+T4	DRUG 272 282	simeticone
+T5	DRUG 434 447	levothyroxine
+T6	DRUG 497 507	simeticone
+T7	DRUG 526 539	levothyroxine
+T8	BRAND 661 668	Infacol
+T9	DRUG 697 710	levothyroxine
+T10	DRUG 878 887	thyroxine
+T11	DRUG 893 903	simeticone
+R1	INT Arg1:T5 Arg2:T6

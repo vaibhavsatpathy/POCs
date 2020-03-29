@@ -1,0 +1,14 @@
+T1	GROUP 0 14	MAO inhibitors
+T2	GROUP 19 43	beta adrenergic blockers
+T3	DRUG 68 83	pseudoephedrine
+T4	GROUP 85 101	Sympathomimetics
+T5	DRUG 145 155	methyldopa
+T6	DRUG 157 169	mecamylamine
+T7	DRUG 171 180	reserpine
+T8	GROUP 185 203	veratrum alkaloids
+R1	EFFECT Arg1:T1 Arg2:T3
+R2	EFFECT Arg1:T2 Arg2:T3
+R3	EFFECT Arg1:T4 Arg2:T5
+R4	EFFECT Arg1:T4 Arg2:T6
+R5	EFFECT Arg1:T4 Arg2:T7
+R6	EFFECT Arg1:T4 Arg2:T8

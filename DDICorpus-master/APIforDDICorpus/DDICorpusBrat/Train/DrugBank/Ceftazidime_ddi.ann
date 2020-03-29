@@ -1,0 +1,16 @@
+T1	GROUP 73 87	cephalosporins
+T2	GROUP 93 119	aminoglycoside antibiotics
+T3	GROUP 130 139	diuretics
+T4	DRUG 148 158	furosemide
+T5	GROUP 242 257	aminoglycosides
+T6	GROUP 368 395	aminoglycosidic antibiotics
+T7	DRUG 448 459	ceftazidime
+T8	DRUG 496 511	Chloramphenicol
+T9	GROUP 549 572	beta-lactam antibiotics
+T10	DRUG 584 595	ceftazidime
+T11	DRUG 875 886	ceftazidime
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T1 Arg2:T3
+R3	EFFECT Arg1:T1 Arg2:T4
+R4	EFFECT Arg1:T8 Arg2:T9
+R5	EFFECT Arg1:T8 Arg2:T10

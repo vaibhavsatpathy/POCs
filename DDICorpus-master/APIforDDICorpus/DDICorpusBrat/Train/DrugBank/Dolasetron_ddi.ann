@@ -1,0 +1,29 @@
+T1	DRUG 73 83	dolasetron
+T2	DRUG_N 88 103	hydrodolasetron
+T3	DRUG_N 182 197	hydrodolasetron
+T4	DRUG_N 248 263	hydrodolasetron
+T5	DRUG 283 293	dolasetron
+T6	DRUG 318 328	cimetidine
+T7	DRUG 429 437	rifampin
+T8	DRUG 487 497	Dolasetron
+T9	DRUG 743 753	furosemide
+T10	DRUG 755 765	nifedipine
+T11	DRUG 767 776	diltiazem
+T12	GROUP 778 792	ACE inhibitors
+T13	DRUG 794 803	verapamil
+T14	DRUG 805 814	glyburide
+T15	DRUG 816 827	propranolol
+T16	DRUG_N 902 917	hydrodolasetron
+T17	DRUG_N 932 947	hydrodolasetron
+T18	DRUG 976 995	dolasetron mesylate
+T19	DRUG 1046 1054	atenolol
+T20	DRUG 1056 1066	Dolasetron
+T21	DRUG 1124 1143	Dolasetron mesylate
+T22	GROUP 1191 1214	chemotherapeutic agents
+T23	DRUG 1216 1225	cisplatin
+T24	DRUG 1227 1241	5-fluorouracil
+T25	DRUG 1243 1254	doxorubicin
+T26	DRUG 1256 1272	cyclophosphamide
+R1	MECHANISM Arg1:T5 Arg2:T6
+R2	MECHANISM Arg1:T5 Arg2:T7
+R3	MECHANISM Arg1:T18 Arg2:T19

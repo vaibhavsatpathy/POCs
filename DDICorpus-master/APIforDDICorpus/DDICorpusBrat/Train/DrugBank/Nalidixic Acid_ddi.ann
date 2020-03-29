@@ -1,0 +1,42 @@
+T1	DRUG 26 38	theophylline
+T2	GROUP 75 84	quinolone
+T3	DRUG 117 129	theophylline
+T4	GROUP 191 201	quinolones
+T5	DRUG 206 218	theophylline
+T6	DRUG 245 257	theophylline
+T7	DRUG 307 319	theophylline
+T8	GROUP 343 353	Quinolones
+T9	DRUG 406 414	caffeine
+T10	DRUG 454 462	caffeine
+T11	GROUP 509 519	Quinolones
+T12	DRUG 531 545	nalidixic acid
+T13	GROUP 583 596	anticoagulant
+T14	DRUG 597 605	warfarin
+T15	DRUG 759 773	Nitrofurantoin
+T16	DRUG 816 830	nalidixic acid
+T17	GROUP 832 840	Antacids
+T18	DRUG 852 861	magnesium
+T19	DRUG 863 871	aluminum
+T20	DRUG 876 883	calcium
+T21	DRUG 885 895	sucralfate
+T22	DRUG 937 941	iron
+T23	GROUP 943 956	multivitamins
+T24	DRUG 968 972	zinc
+T25	BRAND 978 983	Videx
+T26	DRUG 987 997	Didanosine
+T27	GROUP 1119 1129	quinolones
+T28	DRUG 1296 1310	nalidixic acid
+T29	DRUG 1352 1364	cyclosporine
+T30	GROUP 1417 1427	quinolones
+T31	DRUG 1432 1444	cyclosporine
+T32	DRUG 1457 1469	cyclosporine
+T33	DRUG 1519 1531	cyclosporine
+R1	MECHANISM Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T4 Arg2:T5
+R3	MECHANISM Arg1:T8 Arg2:T9
+R4	EFFECT Arg1:T11 Arg2:T14
+R5	EFFECT Arg1:T12 Arg2:T14
+R6	EFFECT Arg1:T15 Arg2:T16
+R7	MECHANISM Arg1:T25 Arg2:T27
+R8	MECHANISM Arg1:T26 Arg2:T27
+R9	MECHANISM Arg1:T30 Arg2:T31

@@ -1,0 +1,8 @@
+T1	DRUG 17 29	Guanethidine
+T2	DRUG 40 49	minoxidil
+T3	DRUG 146 158	guanethidine
+T4	DRUG 222 234	guanethidine
+T5	DRUG 270 279	minoxidil
+T6	DRUG 318 327	minoxidil
+R1	EFFECT Arg1:T2 Arg2:T3
+R2	ADVISE Arg1:T4 Arg2:T5

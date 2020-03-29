@@ -1,0 +1,7 @@
+T1	DRUG 0 10	Probenecid
+T2	GROUP 26 46	b-lactam antibiotics
+T3	DRUG 67 77	loracarbef
+T4	DRUG 94 104	probenecid
+T5	DRUG 164 174	loracarbef
+R1	MECHANISM Arg1:T2 Arg2:T4
+R2	MECHANISM Arg1:T3 Arg2:T4

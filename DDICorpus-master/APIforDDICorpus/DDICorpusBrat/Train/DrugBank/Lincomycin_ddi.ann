@@ -1,0 +1,6 @@
+T1	DRUG 0 10	Lincomycin
+T2	GROUP 105 134	neuromuscular blocking agents
+T3	DRUG 230 240	lincomycin
+T4	DRUG 245 257	erythromycin
+R1	EFFECT Arg1:T1 Arg2:T2
+R2	EFFECT Arg1:T3 Arg2:T4

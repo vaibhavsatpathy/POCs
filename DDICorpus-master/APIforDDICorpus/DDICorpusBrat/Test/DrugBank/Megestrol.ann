@@ -1,0 +1,14 @@
+T1	DRUG 104 114	zidovudine
+T2	DRUG 118 127	rifabutin
+T3	DRUG 162 179	megestrol acetate
+T4	DRUG 276 293	megestrol acetate
+T5	DRUG 298 307	indinavir
+T6	DRUG 412 421	indinavir
+T7	DRUG 458 467	indinavir
+T8	DRUG 515 532	megestrol acetate
+T9	DRUG 549 558	indinavir
+T10	DRUG 560 570	zidovudine
+T11	DRUG 574 583	rifabutin
+T12	DRUG 611 628	megestrol acetate
+R1	MECHANISM Arg1:T4 Arg2:T5
+R2	ADVISE Arg1:T7 Arg2:T8

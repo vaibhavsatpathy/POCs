@@ -1,0 +1,34 @@
+T1	DRUG 0 7	Heparin
+T2	DRUG 15 22	heparin
+T3	DRUG 59 66	heparin
+T4	DRUG 118 128	Argatroban
+T5	DRUG 133 140	heparin
+T6	DRUG 186 196	Argatroban
+T7	DRUG 235 242	heparin
+T8	DRUG 341 351	Argatroban
+T9	BRAND 361 368	Aspirin
+T10	DRUG 369 382	Acetaminophen
+T11	DRUG 477 487	Argatroban
+T12	BRAND 519 526	aspirin
+T13	DRUG 588 598	Argatroban
+T14	DRUG 629 642	acetaminophen
+T15	DRUG 741 751	Argatroban
+T16	GROUP 788 808	anticoagulant agents
+T17	DRUG 857 867	Argatroban
+T18	DRUG 872 880	warfarin
+T19	DRUG 967 977	Argatroban
+T20	DRUG 982 990	warfarin
+T21	GROUP 1161 1180	Thrombolytic agents
+T22	DRUG 1214 1224	Argatroban
+T23	GROUP 1230 1249	thrombolytic agents
+T24	DRUG 1315 1325	Argatroban
+T25	GROUP 1331 1350	antiplatelet agents
+T26	GROUP 1352 1365	thrombolytics
+T27	GROUP 1377 1391	anticoagulants
+T28	DRUG 1481 1491	Argatroban
+T29	DRUG 1496 1503	digoxin
+T30	DRUG 1507 1519	erythromycin
+R1	EFFECT Arg1:T19 Arg2:T20
+R2	EFFECT Arg1:T24 Arg2:T25
+R3	EFFECT Arg1:T24 Arg2:T26
+R4	EFFECT Arg1:T24 Arg2:T27

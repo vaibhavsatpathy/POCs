@@ -1,0 +1,23 @@
+T1	DRUG 28 40	levofloxacin
+T2	DRUG 45 54	oxycodone
+T3	DRUG 185 198	trovafloxacin
+T4	DRUG 203 216	ciprofloxacin
+T5	GROUP 269 275	opiate
+T6	DRUG 284 292	morphine
+T7	DRUG 361 374	trovafloxacin
+T8	DRUG 379 392	ciprofloxacin
+T9	DRUG 519 528	oxycodone
+T10	DRUG 533 545	levofloxacin
+T11	DRUG 641 650	oxycodone
+T12	DRUG 671 683	levofloxacin
+T13	DRUG 723 732	oxycodone
+T14	DRUG 736 748	levofloxacin
+T15	DRUG 1061 1073	levofloxacin
+T16	DRUG 1081 1093	levofloxacin
+T17	DRUG 1094 1103	oxycodone
+T18	DRUG 1141 1150	oxycodone
+T19	DRUG 1155 1167	levofloxacin
+R1	MECHANISM Arg1:T3 Arg2:T5
+R2	MECHANISM Arg1:T3 Arg2:T6
+R3	MECHANISM Arg1:T4 Arg2:T5
+R4	MECHANISM Arg1:T4 Arg2:T6

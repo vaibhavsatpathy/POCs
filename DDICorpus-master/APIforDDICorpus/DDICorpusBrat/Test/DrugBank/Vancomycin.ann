@@ -1,0 +1,10 @@
+T1	DRUG 30 40	vancomycin
+T2	GROUP 45 62	anesthetic agents
+T3	DRUG 273 287	amphotericin B
+T4	GROUP 289 304	aminoglycosides
+T5	DRUG 306 316	bacitracin
+T6	DRUG 318 329	polymyxin B
+T7	DRUG 331 339	colistin
+T8	DRUG 341 349	viomycin
+T9	DRUG 354 363	cisplatin
+R1	EFFECT Arg1:T1 Arg2:T2
